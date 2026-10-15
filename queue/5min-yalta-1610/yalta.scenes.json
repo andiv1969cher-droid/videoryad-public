@@ -1,0 +1,729 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 12.12,
+   "visual_prompt": "красные розы крупным планом",
+   "source": "pexels_video",
+   "source_query": "bouquet of red roses closeup dark table"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 12.12,
+   "duration_sec": 13.28,
+   "visual_prompt": "руки печатают сообщение на телефоне",
+   "source": "pexels_video",
+   "source_query": "hands typing on smartphone screen closeup night"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 25.4,
+   "duration_sec": 13.2,
+   "visual_prompt": "Еврокомиссия",
+   "source": "press_photo",
+   "source_query": "здание Европейской комиссии Брюссель флаги Евросоюза реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 38.6,
+   "duration_sec": 5.92,
+   "visual_prompt": "счётная машинка с купюрами евро",
+   "source": "pexels_video",
+   "source_query": "euro banknotes counting machine closeup"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 44.52,
+   "duration_sec": 13.2,
+   "visual_prompt": "Минфин США",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов США Вашингтон реальное фото"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 57.72,
+   "duration_sec": 7.69,
+   "visual_prompt": "дверь банковского хранилища",
+   "source": "pexels_video",
+   "source_query": "bank vault heavy door closeup"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 65.41,
+   "duration_sec": 14.35,
+   "visual_prompt": "флаг Евросоюза",
+   "source": "pexels_video",
+   "source_query": "european union flag twelve stars waving closeup"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 79.76,
+   "duration_sec": 13.12,
+   "visual_prompt": "Сикорский",
+   "source": "press_photo",
+   "source_query": "Радослав Сикорский министр иностранных дел Польши официальный портрет"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 92.88,
+   "duration_sec": 14.16,
+   "visual_prompt": "ключ в замочной скважине сейфа крупный план реальное фото",
+   "source": "press_photo",
+   "source_query": "ключ в замочной скважине сейфа крупный план реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 107.04,
+   "duration_sec": 7.92,
+   "visual_prompt": "портовый краны и контейнеры",
+   "source": "pexels_video",
+   "source_query": "harbour crane containers port evening"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 114.96,
+   "duration_sec": 13.07,
+   "visual_prompt": "танкер в открытом море",
+   "source": "pexels_video",
+   "source_query": "oil tanker ship sailing open sea aerial"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 128.03,
+   "duration_sec": 12.05,
+   "visual_prompt": "fuel gauge needle on car dashboard closeup",
+   "source": "pexels_video",
+   "source_query": "fuel gauge needle on car dashboard closeup"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 140.08,
+   "duration_sec": 13.16,
+   "visual_prompt": "НПЗ, резервуары",
+   "source": "pexels_video",
+   "source_query": "oil refinery pipes storage tanks aerial"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 153.24,
+   "duration_sec": 10.93,
+   "visual_prompt": "cargo ship deck containers at sea",
+   "source": "pexels_video",
+   "source_query": "cargo ship deck containers at sea"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 164.16,
+   "duration_sec": 14.11,
+   "visual_prompt": "французский фрегат",
+   "source": "press_photo",
+   "source_query": "фрегат ВМС Франции в море реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 178.28,
+   "duration_sec": 12.24,
+   "visual_prompt": "открытый океан",
+   "source": "pexels_video",
+   "source_query": "ocean waves open sea horizon aerial"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 190.51,
+   "duration_sec": 14.08,
+   "visual_prompt": "швартовый конец на кнехте",
+   "source": "pexels_video",
+   "source_query": "mooring rope on bollard dock closeup"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 204.59,
+   "duration_sec": 12.24,
+   "visual_prompt": "helicopter rotor blades rotating on deck closeup",
+   "source": "pexels_video",
+   "source_query": "helicopter rotor blades rotating on deck closeup"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 216.84,
+   "duration_sec": 11.25,
+   "visual_prompt": "стрелка на рельсах",
+   "source": "pexels_video",
+   "source_query": "railway tracks switch diverging closeup"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 228.09,
+   "duration_sec": 12.48,
+   "visual_prompt": "ЛЭП на закате",
+   "source": "pexels_video",
+   "source_query": "electricity transmission pylon power lines sunset"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 240.56,
+   "duration_sec": 5.6,
+   "visual_prompt": "Европарламент",
+   "source": "press_photo",
+   "source_query": "здание Европейского парламента Брюссель реальное фото"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 246.16,
+   "duration_sec": 8.25,
+   "visual_prompt": "cardboard boxes stacked in storage room",
+   "source": "pexels_video",
+   "source_query": "cardboard boxes stacked in storage room"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 254.41,
+   "duration_sec": 14.39,
+   "visual_prompt": "Кремль",
+   "source": "press_photo",
+   "source_query": "Московский Кремль Спасская башня реальное фото"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 268.8,
+   "duration_sec": 12.87,
+   "visual_prompt": "Рэтклифф",
+   "source": "press_photo",
+   "source_query": "Джон Рэтклифф директор ЦРУ официальный портрет"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 281.67,
+   "duration_sec": 9.09,
+   "visual_prompt": "airplane wing above clouds in flight",
+   "source": "pexels_video",
+   "source_query": "airplane wing above clouds in flight"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 290.76,
+   "duration_sec": 14.7,
+   "visual_prompt": "Трамп в Овальном кабинете",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Овальном кабинете Белого дома 2026 реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 305.46,
+   "duration_sec": 12.42,
+   "visual_prompt": "штаб-квартира ЦРУ",
+   "source": "press_photo",
+   "source_query": "здание ЦРУ Лэнгли реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 317.88,
+   "duration_sec": 13.76,
+   "visual_prompt": "штаб НАТО",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО Брюссель здание реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 331.64,
+   "duration_sec": 14.88,
+   "visual_prompt": "Патель",
+   "source": "press_photo",
+   "source_query": "Кэш Патель директор ФБР официальный портрет"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 346.52,
+   "duration_sec": 10.43,
+   "visual_prompt": "здание ФБР",
+   "source": "press_photo",
+   "source_query": "штаб-квартира ФБР Вашингтон здание реальное фото"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 356.95,
+   "duration_sec": 12.24,
+   "visual_prompt": "Дмитриев",
+   "source": "press_photo",
+   "source_query": "Кирилл Дмитриев Российский фонд прямых инвестиций реальное фото"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 369.19,
+   "duration_sec": 13.2,
+   "visual_prompt": "smartphone in hand bright screen closeup daylight",
+   "source": "pexels_video",
+   "source_query": "smartphone in hand bright screen closeup daylight"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 382.39,
+   "duration_sec": 6.49,
+   "visual_prompt": "микрофоны на трибуне",
+   "source": "pexels_video",
+   "source_query": "microphones on podium closeup press conference no people"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 388.89,
+   "duration_sec": 14.23,
+   "visual_prompt": "wall clock hands moving closeup",
+   "source": "pexels_video",
+   "source_query": "wall clock hands moving closeup"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 403.11,
+   "duration_sec": 13.92,
+   "visual_prompt": "long hotel corridor doors bright interior",
+   "source": "pexels_video",
+   "source_query": "long hotel corridor doors bright interior"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 417.03,
+   "duration_sec": 9.2,
+   "visual_prompt": "самолёт садится",
+   "source": "pexels_video",
+   "source_query": "airplane landing at airport dusk"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 426.23,
+   "duration_sec": 9.07,
+   "visual_prompt": "banknotes fanned on table top view closeup",
+   "source": "pexels_video",
+   "source_query": "banknotes fanned on table top view closeup"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 435.3,
+   "duration_sec": 6.24,
+   "visual_prompt": "оптические кабели в серверной",
+   "source": "pexels_video",
+   "source_query": "fiber optic cables server room closeup"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 441.54,
+   "duration_sec": 7.37,
+   "visual_prompt": "подстанция после удара",
+   "source": "press_photo",
+   "source_query": "повреждённая электрическая подстанция Украина реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 448.91,
+   "duration_sec": 14.0,
+   "visual_prompt": "палуба танкера, трубы",
+   "source": "pexels_video",
+   "source_query": "oil tanker deck pipes manifold closeup"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 462.91,
+   "duration_sec": 7.92,
+   "visual_prompt": "pizza box on table closeup opening",
+   "source": "pexels_video",
+   "source_query": "pizza box on table closeup opening"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 470.83,
+   "duration_sec": 12.72,
+   "visual_prompt": "antique globe on wooden desk slow rotation no people",
+   "source": "pexels_video",
+   "source_query": "antique globe on wooden desk slow rotation no people"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 483.55,
+   "duration_sec": 6.8,
+   "visual_prompt": "television studio lighting rig ceiling",
+   "source": "pexels_video",
+   "source_query": "television studio lighting rig ceiling"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 490.35,
+   "duration_sec": 8.63,
+   "visual_prompt": "Ливадийский дворец",
+   "source": "press_photo",
+   "source_query": "Ливадийский дворец Ялта реальное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 498.98,
+   "duration_sec": 7.34,
+   "visual_prompt": "конвой союзников",
+   "source": "press_photo",
+   "source_query": "конвой союзников Атлантика Вторая мировая война архивное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 506.32,
+   "duration_sec": 13.36,
+   "visual_prompt": "три лидера в Ялте",
+   "source": "press_photo",
+   "source_query": "Ялтинская конференция 1945 Сталин Рузвельт Черчилль архивное фото"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 519.68,
+   "duration_sec": 12.24,
+   "visual_prompt": "Си и Путин",
+   "source": "press_photo",
+   "source_query": "Си Цзиньпин и Владимир Путин встреча 2026 реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 531.92,
+   "duration_sec": 12.32,
+   "visual_prompt": "порт Шанхая",
+   "source": "press_photo",
+   "source_query": "контейнерный терминал порта Шанхая реальное фото"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 544.24,
+   "duration_sec": 11.6,
+   "visual_prompt": "здание ОБСЕ Хофбург Вена реальное фото",
+   "source": "press_photo",
+   "source_query": "здание ОБСЕ Хофбург Вена реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 555.84,
+   "duration_sec": 13.52,
+   "visual_prompt": "stack of blank newspapers closeup",
+   "source": "pexels_video",
+   "source_query": "stack of blank newspapers closeup"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 569.36,
+   "duration_sec": 12.35,
+   "visual_prompt": "crystal chandelier in grand hall closeup",
+   "source": "pexels_video",
+   "source_query": "crystal chandelier in grand hall closeup"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 581.71,
+   "duration_sec": 10.64,
+   "visual_prompt": "burning match flame closeup dark",
+   "source": "pexels_video",
+   "source_query": "burning match flame closeup dark"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 592.35,
+   "duration_sec": 15.59,
+   "visual_prompt": "зал Совбеза ООН",
+   "source": "press_photo",
+   "source_query": "зал Совета Безопасности ООН Нью-Йорк реальное фото"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 607.94,
+   "duration_sec": 14.73,
+   "visual_prompt": "old wooden chest lid opening dusty",
+   "source": "pexels_video",
+   "source_query": "old wooden chest lid opening dusty"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 622.67,
+   "duration_sec": 12.72,
+   "visual_prompt": "steel plate rolling mill factory closeup",
+   "source": "pexels_video",
+   "source_query": "steel plate rolling mill factory closeup"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 635.39,
+   "duration_sec": 12.64,
+   "visual_prompt": "шестерни",
+   "source": "pexels_video",
+   "source_query": "mechanical gears turning metal closeup"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 648.03,
+   "duration_sec": 14.35,
+   "visual_prompt": "Минские соглашения",
+   "source": "press_photo",
+   "source_query": "подписание Минских соглашений 2015 архивное фото"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 662.38,
+   "duration_sec": 12.8,
+   "visual_prompt": "пограничный знак",
+   "source": "press_photo",
+   "source_query": "пограничный знак на границе Украины реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 675.18,
+   "duration_sec": 11.28,
+   "visual_prompt": "мешки с песком",
+   "source": "pexels_video",
+   "source_query": "sandbags stacked fortification closeup"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 686.46,
+   "duration_sec": 12.72,
+   "visual_prompt": "здание Министерства обороны России Фрунзенская набережная реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны России Фрунзенская набережная реальное фото"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 699.18,
+   "duration_sec": 11.98,
+   "visual_prompt": "concrete road barrier blocks closeup no people",
+   "source": "pexels_video",
+   "source_query": "concrete road barrier blocks closeup no people"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 711.15,
+   "duration_sec": 12.65,
+   "visual_prompt": "саммит ЕС",
+   "source": "press_photo",
+   "source_query": "саммит лидеров Евросоюза 2026 зал заседаний реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 723.81,
+   "duration_sec": 11.9,
+   "visual_prompt": "стройтехника на восстановлении",
+   "source": "press_photo",
+   "source_query": "строительная техника восстановление города Украина 2026 реальное фото"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 735.71,
+   "duration_sec": 12.39,
+   "visual_prompt": "metal scaffolding structure closeup no people",
+   "source": "pexels_video",
+   "source_query": "metal scaffolding structure closeup no people"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 748.09,
+   "duration_sec": 14.11,
+   "visual_prompt": "МИД России",
+   "source": "press_photo",
+   "source_query": "здание МИД России Смоленская площадь Москва реальное фото"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 762.2,
+   "duration_sec": 13.41,
+   "visual_prompt": "ЕЦБ",
+   "source": "press_photo",
+   "source_query": "здание Европейского центрального банка Франкфурт реальное фото"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 775.61,
+   "duration_sec": 12.33,
+   "visual_prompt": "кильватерный след",
+   "source": "pexels_video",
+   "source_query": "ship propeller wake sea surface closeup"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 787.94,
+   "duration_sec": 12.4,
+   "visual_prompt": "two empty wooden chairs bright room",
+   "source": "pexels_video",
+   "source_query": "two empty wooden chairs bright room"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 800.34,
+   "duration_sec": 14.91,
+   "visual_prompt": "серый волк в дикой природе реальное фото",
+   "source": "press_photo",
+   "source_query": "серый волк в дикой природе реальное фото"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 815.25,
+   "duration_sec": 8.04,
+   "visual_prompt": "терминал Starlink",
+   "source": "press_photo",
+   "source_query": "терминал Starlink спутниковая антенна реальное фото"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 823.29,
+   "duration_sec": 10.83,
+   "visual_prompt": "Трамп у микрофонов",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп на пресс-конференции 2026 реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 834.12,
+   "duration_sec": 14.25,
+   "visual_prompt": "Уиткофф",
+   "source": "press_photo",
+   "source_query": "Стив Уиткофф специальный посланник США официальное фото"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 848.37,
+   "duration_sec": 14.52,
+   "visual_prompt": "памятник в Варшаве",
+   "source": "press_photo",
+   "source_query": "памятник героям Варшавского гетто Варшава реальное фото"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 862.89,
+   "duration_sec": 13.92,
+   "visual_prompt": "Госдеп",
+   "source": "press_photo",
+   "source_query": "здание Государственного департамента США Вашингтон реальное фото"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 876.81,
+   "duration_sec": 12.16,
+   "visual_prompt": "американский флаг над зданием",
+   "source": "press_photo",
+   "source_query": "флаг США над зданием в Вашингтоне реальное фото"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 888.97,
+   "duration_sec": 5.2,
+   "visual_prompt": "dollar bills counting machine closeup",
+   "source": "pexels_video",
+   "source_query": "dollar bills counting machine closeup"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 894.17,
+   "duration_sec": 13.54,
+   "visual_prompt": "колёса бензовоза",
+   "source": "pexels_video",
+   "source_query": "fuel tanker truck wheels driving road closeup"
+  },
+  {
+   "id": 78,
+   "text": "",
+   "start_sec": 907.71,
+   "duration_sec": 11.26,
+   "visual_prompt": "empty chairs in bright conference hall",
+   "source": "pexels_video",
+   "source_query": "empty chairs in bright conference hall"
+  },
+  {
+   "id": 79,
+   "text": "",
+   "start_sec": 918.97,
+   "duration_sec": 9.35,
+   "visual_prompt": "годовые кольца на срезе",
+   "source": "pexels_video",
+   "source_query": "tree rings cut trunk closeup"
+  },
+  {
+   "id": 80,
+   "text": "",
+   "start_sec": 928.32,
+   "duration_sec": 11.98,
+   "visual_prompt": "old books stacked on shelf closeup",
+   "source": "pexels_video",
+   "source_query": "old books stacked on shelf closeup"
+  }
+ ],
+ "meta": {
+  "channel": "5 МИНУТ",
+  "library": "NO (search-only)",
+  "title": "Новая Ялта"
+ }
+}

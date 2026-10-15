@@ -1,0 +1,196 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "duration_sec": 12.12,
+   "source": "press_photo",
+   "source_query": "Белый дом Вашингтон фасад реальное фото",
+   "visual_prompt": "Белый дом Вашингтон фасад реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 13.2,
+   "source": "pexels_photo",
+   "source_query": "stack of us dollar bills closeup",
+   "visual_prompt": "stack of us dollar bills closeup"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 5.92,
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен председатель Еврокомиссии официальный портрет 2026",
+   "visual_prompt": "Урсула фон дер Ляйен председатель Еврокомиссии официальный портрет 2026"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 13.07,
+   "source": "press_photo",
+   "source_query": "нефтяной терминал Новороссийск реальное фото",
+   "visual_prompt": "нефтяной терминал Новороссийск реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "duration_sec": 14.08,
+   "source": "press_photo",
+   "source_query": "морской порт Роттердам реальное фото",
+   "visual_prompt": "морской порт Роттердам реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 12.48,
+   "source": "pexels_photo",
+   "source_query": "natural gas pipeline valve station closeup",
+   "visual_prompt": "natural gas pipeline valve station closeup"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 5.6,
+   "source": "press_photo",
+   "source_query": "Кая Каллас глава дипломатии Евросоюза официальный портрет 2026",
+   "visual_prompt": "Кая Каллас глава дипломатии Евросоюза официальный портрет 2026"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 14.39,
+   "source": "press_photo",
+   "source_query": "здание Капитолия Вашингтон реальное фото",
+   "visual_prompt": "здание Капитолия Вашингтон реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 12.42,
+   "source": "press_photo",
+   "source_query": "Сергей Нарышкин директор СВР реальное фото",
+   "visual_prompt": "Сергей Нарышкин директор СВР реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 13.76,
+   "source": "press_photo",
+   "source_query": "Тегеран панорама города реальное фото",
+   "visual_prompt": "Тегеран панорама города реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "duration_sec": 7.92,
+   "source": "pexels_photo",
+   "source_query": "house keys on wooden table closeup",
+   "visual_prompt": "house keys on wooden table closeup"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 8.63,
+   "source": "press_photo",
+   "source_query": "Франклин Рузвельт архивное фото",
+   "visual_prompt": "Франклин Рузвельт архивное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "duration_sec": 7.34,
+   "source": "press_photo",
+   "source_query": "Тегеранская конференция 1943 архивное фото",
+   "visual_prompt": "Тегеранская конференция 1943 архивное фото"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "duration_sec": 12.35,
+   "source": "press_photo",
+   "source_query": "рукопожатие лидеров на саммите 2026 реальное фото",
+   "visual_prompt": "рукопожатие лидеров на саммите 2026 реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "duration_sec": 10.64,
+   "source": "press_photo",
+   "source_query": "подписание Будапештского меморандума 1994 архивное фото",
+   "visual_prompt": "подписание Будапештского меморандума 1994 архивное фото"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "duration_sec": 15.59,
+   "source": "press_photo",
+   "source_query": "здание Дворца наций Женева реальное фото",
+   "visual_prompt": "здание Дворца наций Женева реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "duration_sec": 12.72,
+   "source": "press_photo",
+   "source_query": "колонна военных грузовиков на марше Россия реальное фото",
+   "visual_prompt": "колонна военных грузовиков на марше Россия реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 11.9,
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на совещании 2026 реальное фото",
+   "visual_prompt": "Владимир Зеленский на совещании 2026 реальное фото"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "duration_sec": 14.11,
+   "source": "press_photo",
+   "source_query": "Сергей Лавров пресс-конференция 2026 реальное фото",
+   "visual_prompt": "Сергей Лавров пресс-конференция 2026 реальное фото"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "duration_sec": 13.41,
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц канцлер Германии официальный портрет 2026",
+   "visual_prompt": "Фридрих Мерц канцлер Германии официальный портрет 2026"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "duration_sec": 14.91,
+   "source": "press_photo",
+   "source_query": "Лондон Вестминстер панорама реальное фото",
+   "visual_prompt": "Лондон Вестминстер панорама реальное фото"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "duration_sec": 8.04,
+   "source": "press_photo",
+   "source_query": "Илон Маск крупным планом 2025 реальное фото",
+   "visual_prompt": "Илон Маск крупным планом 2025 реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "duration_sec": 14.25,
+   "source": "press_photo",
+   "source_query": "Джаред Кушнер 2026 год реальное фото",
+   "visual_prompt": "Джаред Кушнер 2026 год реальное фото"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "duration_sec": 13.54,
+   "source": "press_photo",
+   "source_query": "трубы на нефтяной насосной станции современное реальное фото",
+   "visual_prompt": "трубы на нефтяной насосной станции современное реальное фото"
+  }
+ ]
+}
