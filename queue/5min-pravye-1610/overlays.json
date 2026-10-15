@@ -1,0 +1,829 @@
+{
+ "anchor": "top",
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "whoosh",
+  "at": 4.52,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЧТО СЧИТАТЬ ВМЕШАТЕЛЬСТВОМ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.11,
+   "scale": 1.0
+  }
+ },
+ "2": {
+  "photo": "overlays/scene_002.jpg",
+  "sound": "zatvor",
+  "at": 2.02,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "sound": "pop",
+  "at": 4.51,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЗАПРЕТ АдГ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.08,
+   "scale": 1.0
+  }
+ },
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "whoosh",
+  "at": 2.07,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "5": {
+  "photo": "overlays/scene_005.jpg",
+  "sound": "zatvor",
+  "at": 4.37,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "АдГ ОПЕРЕЖАЕТ КАНЦЛЕРА",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.86,
+   "scale": 1.0
+  }
+ },
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "pop",
+  "at": 4.4,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "САКСОНИЯ-АНХАЛЬТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.91,
+   "scale": 1.0
+  }
+ },
+ "8": {
+  "photo": "overlays/scene_008.jpg",
+  "sound": "whoosh",
+  "at": 3.35,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "zatvor",
+  "at": 4.29,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "РЕШАЕТ КОНСТИТУЦИОННЫЙ СУД",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.74,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "pop",
+  "at": 4.87,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "МЕРЦ ОСТОРОЖЕН",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.66,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "photo": "overlays/scene_015.jpg",
+  "sound": "whoosh",
+  "at": 4.21,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРЕМЬЕР БРИТАНИИ В БЕРЛИНЕ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.62,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "zatvor",
+  "at": 4.59,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "pop",
+  "at": 4.54,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "«ПОМОЧЬ ПРОТИВОСТОЯТЬ»",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.13,
+   "scale": 1.0
+  }
+ },
+ "18": {
+  "photo": "overlays/scene_018.jpg",
+  "sound": "whoosh",
+  "at": 4.98,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "22": {
+  "photo": "overlays/scene_022.jpg",
+  "sound": "zatvor",
+  "at": 3.72,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "24": {
+  "photo": "overlays/scene_024.jpg",
+  "sound": "pop",
+  "at": 3.22,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ГЕРМАНИЯ И ФРАНЦИЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.06,
+   "scale": 1.0
+  }
+ },
+ "25": {
+  "photo": "overlays/scene_025.jpg",
+  "sound": "whoosh",
+  "at": 3.93,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ВЫБОРЫ ЧЕРЕЗ НЕСКОЛЬКО МЕСЯЦЕВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.18,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "photo": "overlays/scene_026.jpg",
+  "sound": "zatvor",
+  "at": 3.98,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЛЕ ПЕН И МЕЛАНШОН",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.25,
+   "scale": 1.0
+  }
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "pop",
+  "at": 4.76,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "БАРДЕЛЛА — 33%",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.48,
+   "scale": 1.0
+  }
+ },
+ "29": {
+  "photo": "overlays/scene_029.jpg",
+  "sound": "whoosh",
+  "at": 3.81,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРИГОВОР",
+   "color": "red",
+   "pos": "mc",
+   "at": 5.98,
+   "scale": 1.0
+  }
+ },
+ "31": {
+  "photo": "overlays/scene_031.jpg",
+  "sound": "zatvor",
+  "at": 4.85,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "КАНДИДАТ ВЕРНУЛСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.63,
+   "scale": 1.0
+  }
+ },
+ "32": {
+  "photo": "overlays/scene_032.jpg",
+  "sound": "pop",
+  "at": 4.44,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ШКОЛЬНЫЕ ПРОТЕСТЫ",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.97,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "photo": "overlays/scene_033.jpg",
+  "sound": "whoosh",
+  "at": 4.27,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ТЫСЯЧИ ЗАДЕРЖАННЫХ",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.71,
+   "scale": 1.0
+  }
+ },
+ "34": {
+  "photo": "overlays/scene_034.jpg",
+  "sound": "zatvor",
+  "at": 4.37,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "pop",
+  "at": 4.82,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "УДАР С ДВУХ СТОРОН",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.57,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "photo": "overlays/scene_037.jpg",
+  "sound": "whoosh",
+  "at": 4.69,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "39": {
+  "photo": "overlays/scene_039.jpg",
+  "sound": "zatvor",
+  "at": 1.96,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "РУМЫНИЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 3.08,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "photo": "overlays/scene_040.jpg",
+  "sound": "pop",
+  "at": 4.45,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПОБЕДИЛ ПЕРВЫЙ ТУР",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.0,
+   "scale": 1.0
+  }
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "whoosh",
+  "at": 2.99,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ВЫБОРЫ ОТМЕНИЛИ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.7,
+   "scale": 1.0
+  }
+ },
+ "42": {
+  "photo": "overlays/scene_042.jpg",
+  "sound": "zatvor",
+  "at": 4.2,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "44": {
+  "photo": "overlays/scene_044.jpg",
+  "sound": "pop",
+  "at": 4.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРЕЗИДЕНТ — ЦЕНТРИСТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.61,
+   "scale": 1.0
+  }
+ },
+ "46": {
+  "photo": "overlays/scene_046.jpg",
+  "sound": "whoosh",
+  "at": 4.9,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ТРИ МЕХАНИЗМА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.7,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "photo": "overlays/scene_047.jpg",
+  "sound": "zatvor",
+  "at": 2.04,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "51": {
+  "photo": "overlays/scene_051.jpg",
+  "sound": "pop",
+  "at": 4.3,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "whoosh",
+  "at": 5.33,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ВСЁ ПЕРЕД ГЛАЗАМИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 8.37,
+   "scale": 1.0
+  }
+ },
+ "53": {
+  "photo": "overlays/scene_053.jpg",
+  "sound": "zatvor",
+  "at": 4.45,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "54": {
+  "photo": "overlays/scene_054.jpg",
+  "sound": "pop",
+  "at": 5.29,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПОМОЩЬ УКРАИНЕ — ПОД ВОПРОС",
+   "color": "red",
+   "pos": "mc",
+   "at": 8.32,
+   "scale": 1.0
+  }
+ },
+ "55": {
+  "photo": "overlays/scene_055.jpg",
+  "sound": "whoosh",
+  "at": 3.15,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЯДЕРНАЯ ДЕРЖАВА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.96,
+   "scale": 1.0
+  }
+ },
+ "56": {
+  "photo": "overlays/scene_056.jpg",
+  "sound": "zatvor",
+  "at": 4.73,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "АдГ: ВЕРНУТЬ ОТНОШЕНИЯ С МОСКВОЙ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.44,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "photo": "overlays/scene_057.jpg",
+  "sound": "pop",
+  "at": 5.07,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЦЕНТР ТЯЖЕСТИ ЕВРОПЫ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.96,
+   "scale": 1.0
+  }
+ },
+ "62": {
+  "photo": "overlays/scene_062.jpg",
+  "sound": "whoosh",
+  "at": 5.1,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРЕКРАТИТЬ ПОМОЩЬ УКРАИНЕ",
+   "color": "red",
+   "pos": "mc",
+   "at": 8.01,
+   "scale": 1.0
+  }
+ },
+ "65": {
+  "photo": "overlays/scene_065.jpg",
+  "sound": "zatvor",
+  "at": 4.35,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "СУД ОСТАНОВИЛ ВЕДОМСТВО",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.84,
+   "scale": 1.0
+  }
+ },
+ "68": {
+  "photo": "overlays/scene_068.jpg",
+  "sound": "pop",
+  "at": 3.37,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "69": {
+  "photo": "overlays/scene_069.jpg",
+  "sound": "whoosh",
+  "at": 3.02,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "71": {
+  "photo": "overlays/scene_071.jpg",
+  "sound": "zatvor",
+  "at": 5.09,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЧЕТВЁРТАЯ КАМПАНИЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 8.0,
+   "scale": 1.0
+  }
+ },
+ "72": {
+  "photo": "overlays/scene_072.jpg",
+  "sound": "pop",
+  "at": 4.54,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "75": {
+  "photo": "overlays/scene_075.jpg",
+  "sound": "whoosh",
+  "at": 4.4,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "76": {
+  "photo": "overlays/scene_076.jpg",
+  "sound": "zatvor",
+  "at": 4.4,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "77": {
+  "photo": "overlays/scene_077.jpg",
+  "sound": "pop",
+  "at": 4.54,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "78": {
+  "photo": "overlays/scene_078.jpg",
+  "sound": "whoosh",
+  "at": 4.65,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "82": {
+  "photo": "overlays/scene_082.jpg",
+  "sound": "zatvor",
+  "at": 4.82,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "83": {
+  "photo": "overlays/scene_083.jpg",
+  "sound": "pop",
+  "at": 4.28,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПУТЬ МЕЛОНИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.73,
+   "scale": 1.0
+  }
+ },
+ "84": {
+  "photo": "overlays/scene_084.jpg",
+  "sound": "whoosh",
+  "at": 3.86,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "86": {
+  "photo": "overlays/scene_086.jpg",
+  "sound": "zatvor",
+  "at": 3.22,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "90": {
+  "photo": "overlays/scene_090.jpg",
+  "sound": "pop",
+  "at": 4.51,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "7": {
+  "text": {
+   "words": "БРАНДМАУЭР ТРЕЩИТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.63,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.63
+ },
+ "10": {
+  "text": {
+   "words": "525 ЮРИСТОВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.3,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.3
+ },
+ "11": {
+  "text": {
+   "words": "2500 ЭПИЗОДОВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.61,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.61
+ },
+ "19": {
+  "text": {
+   "words": "МОСКВЕ — НЕЛЬЗЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.62,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.62
+ },
+ "20": {
+  "text": {
+   "words": "ЛОНДОНУ — МОЖНО",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.34,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 3.34
+ },
+ "21": {
+  "text": {
+   "words": "ГДЕ ГРАНИЦА?",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.47,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.47
+ },
+ "28": {
+  "text": {
+   "words": "ФИЛИПП — 20%",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.35,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.35
+ },
+ "30": {
+  "text": {
+   "words": "СРОК СМЯГЧИЛИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.13,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.13
+ },
+ "35": {
+  "text": {
+   "words": "ГОЛОСОВАТЬ С 16 ЛЕТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.04,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.04
+ },
+ "43": {
+  "text": {
+   "words": "ПОБЕДИТЕЛЯ НЕ ДОПУСТИЛИ",
+   "color": "red",
+   "pos": "mc",
+   "at": 6.13,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.13
+ },
+ "48": {
+  "text": {
+   "words": "ТРИ ГОСУДАРСТВА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.69,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.69
+ },
+ "50": {
+  "text": {
+   "words": "СТРЕЛКИ НЕ ТРОНУТЫ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.72,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.72
+ },
+ "58": {
+  "text": {
+   "words": "10, 15, 20 ПРОЦЕНТОВ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.26,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.26
+ },
+ "61": {
+  "text": {
+   "words": "АдГ И ВАГЕНКНЕХТ ВМЕСТЕ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.66,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.66
+ },
+ "63": {
+  "text": {
+   "words": "ЗАБОР ДАЛ ТРЕЩИНУ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.26,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.26
+ },
+ "67": {
+  "text": {
+   "words": "ЮРИДИЧЕСКИЙ ПРЕДЕЛ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.95,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 5.95
+ },
+ "73": {
+  "text": {
+   "words": "ВТОРОЙ УЖЕ ГОТОВ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.14,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.14
+ },
+ "80": {
+  "text": {
+   "words": "ЭЛЕКТОРАТ НЕ ИСПАРИЛСЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.68,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.68
+ },
+ "85": {
+  "text": {
+   "words": "МЕНЯТЬ ЕС ИЗНУТРИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.97,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 5.97
+ },
+ "89": {
+  "text": {
+   "words": "КОМУ ПРИНАДЛЕЖИТ КЛУБ?",
+   "color": "red",
+   "pos": "mc",
+   "at": 5.41,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 5.41
+ },
+ "91": {
+  "text": {
+   "words": "РУМЫНИЯ ПОКАЗАЛА ШПАРГАЛКУ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.34,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.34
+ }
+}
