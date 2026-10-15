@@ -1,0 +1,738 @@
+{
+ "anchor": "top",
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "whoosh",
+  "at": 4.24,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "sound": "zatvor",
+  "at": 4.62,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "РАЗМОРОЗКА АКТИВОВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.26,
+   "scale": 1.0
+  }
+ },
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "pop",
+  "at": 2.07,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "5": {
+  "photo": "overlays/scene_005.jpg",
+  "sound": "whoosh",
+  "at": 4.62,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "zatvor",
+  "at": 2.69,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "pop",
+  "at": 5.02,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "8": {
+  "photo": "overlays/scene_008.jpg",
+  "sound": "whoosh",
+  "at": 4.59,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ТОЛЬКО ЧЕРЕЗ НАШИ ТРУПЫ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.22,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "photo": "overlays/scene_011.jpg",
+  "sound": "zatvor",
+  "at": 4.57,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ТЕНЕВОЙ ФЛОТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.19,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "photo": "overlays/scene_015.jpg",
+  "sound": "pop",
+  "at": 4.94,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЗАДЕРЖАН ТАНКЕР",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.76,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "whoosh",
+  "at": 4.28,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "450 МОРСКИХ МИЛЬ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.73,
+   "scale": 1.0
+  }
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "zatvor",
+  "at": 4.93,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "20": {
+  "photo": "overlays/scene_020.jpg",
+  "sound": "pop",
+  "at": 4.37,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "21": {
+  "photo": "overlays/scene_021.jpg",
+  "sound": "whoosh",
+  "at": 1.96,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "23": {
+  "photo": "overlays/scene_023.jpg",
+  "sound": "zatvor",
+  "at": 5.04,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "24": {
+  "photo": "overlays/scene_024.jpg",
+  "sound": "pop",
+  "at": 4.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ДИРЕКТОР ЦРУ В МОСКВЕ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.08,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "photo": "overlays/scene_026.jpg",
+  "sound": "whoosh",
+  "at": 5.14,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "zatvor",
+  "at": 4.35,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "28": {
+  "photo": "overlays/scene_028.jpg",
+  "sound": "pop",
+  "at": 4.82,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "29": {
+  "photo": "overlays/scene_029.jpg",
+  "sound": "whoosh",
+  "at": 5.21,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ДИРЕКТОР ФБР",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 8.18,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "photo": "overlays/scene_033.jpg",
+  "sound": "zatvor",
+  "at": 2.27,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "pop",
+  "at": 3.22,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "НЕ КАЖДЫЙ ВТОРНИК",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.06,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "photo": "overlays/scene_037.jpg",
+  "sound": "whoosh",
+  "at": 3.17,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "АКТИВЫ НА СТОЛЕ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.99,
+   "scale": 1.0
+  }
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "zatvor",
+  "at": 2.77,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "КВАРТИРА ЗА ПИЦЦУ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.36,
+   "scale": 1.0
+  }
+ },
+ "42": {
+  "photo": "overlays/scene_042.jpg",
+  "sound": "pop",
+  "at": 4.45,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "НОВАЯ ЯЛТА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.0,
+   "scale": 1.0
+  }
+ },
+ "43": {
+  "photo": "overlays/scene_043.jpg",
+  "sound": "whoosh",
+  "at": 2.38,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "44": {
+  "photo": "overlays/scene_044.jpg",
+  "sound": "zatvor",
+  "at": 3.02,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЯЛТА, 1945",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.75,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "photo": "overlays/scene_045.jpg",
+  "sound": "pop",
+  "at": 2.57,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "46": {
+  "photo": "overlays/scene_046.jpg",
+  "sound": "whoosh",
+  "at": 4.68,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ОБЩИЙ ВРАГ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.35,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "photo": "overlays/scene_047.jpg",
+  "sound": "zatvor",
+  "at": 4.28,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ПРОТИВ КОГО ДРУЖИМ?",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.73,
+   "scale": 1.0
+  }
+ },
+ "51": {
+  "photo": "overlays/scene_051.jpg",
+  "sound": "pop",
+  "at": 4.32,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "whoosh",
+  "at": 3.72,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЦЕНА БУМАГИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.85,
+   "scale": 1.0
+  }
+ },
+ "53": {
+  "photo": "overlays/scene_053.jpg",
+  "sound": "zatvor",
+  "at": 5.46,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "НЕ НА ОДИН СРОК",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 8.57,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "photo": "overlays/scene_057.jpg",
+  "sound": "pop",
+  "at": 5.02,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "НОВЫЙ МИНСК?",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.89,
+   "scale": 1.0
+  }
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "sound": "whoosh",
+  "at": 4.48,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "МОДЕЛЬ АНТИРОССИИ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.04,
+   "scale": 1.0
+  }
+ },
+ "60": {
+  "photo": "overlays/scene_060.jpg",
+  "sound": "zatvor",
+  "at": 4.45,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ШИРЕ, ЧЕМ КАРТА",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.0,
+   "scale": 1.0
+  }
+ },
+ "62": {
+  "photo": "overlays/scene_062.jpg",
+  "sound": "pop",
+  "at": 4.43,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "СЕМЬ УЧАСТНИКОВ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.96,
+   "scale": 1.0
+  }
+ },
+ "63": {
+  "photo": "overlays/scene_063.jpg",
+  "sound": "whoosh",
+  "at": 4.17,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "65": {
+  "photo": "overlays/scene_065.jpg",
+  "sound": "zatvor",
+  "at": 4.94,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "66": {
+  "photo": "overlays/scene_066.jpg",
+  "sound": "pop",
+  "at": 4.69,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "СОПРОТИВЛЕНИЕ ЕВРОПЫ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.38,
+   "scale": 1.0
+  }
+ },
+ "69": {
+  "photo": "overlays/scene_069.jpg",
+  "sound": "whoosh",
+  "at": 5.22,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "НА РАСТЕРЗАНИЕ ВОЛКАМ",
+   "color": "red",
+   "pos": "mc",
+   "at": 8.2,
+   "scale": 1.0
+  }
+ },
+ "70": {
+  "photo": "overlays/scene_070.jpg",
+  "sound": "zatvor",
+  "at": 2.81,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ОГРАНИЧЕНИЯ СВЯЗИ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.42,
+   "scale": 1.0
+  }
+ },
+ "71": {
+  "photo": "overlays/scene_071.jpg",
+  "sound": "pop",
+  "at": 3.79,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "72": {
+  "photo": "overlays/scene_072.jpg",
+  "sound": "whoosh",
+  "at": 4.99,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "СРАВНЕНИЕ С 1939-М",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.84,
+   "scale": 1.0
+  }
+ },
+ "73": {
+  "photo": "overlays/scene_073.jpg",
+  "sound": "zatvor",
+  "at": 5.08,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ЭТО СТРАХ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.99,
+   "scale": 1.0
+  }
+ },
+ "74": {
+  "photo": "overlays/scene_074.jpg",
+  "sound": "pop",
+  "at": 4.87,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "77": {
+  "photo": "overlays/scene_077.jpg",
+  "sound": "whoosh",
+  "at": 4.74,
+  "shape": "rect",
+  "scale": 1.0,
+  "text": {
+   "words": "ОДНА КАРТИНА",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.45,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "text": {
+   "words": "НЕФТЬ БЕЗ САНКЦИЙ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.24,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.24
+ },
+ "14": {
+  "text": {
+   "words": "ВЧЕРА — ТОКСИЧНЫЙ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.01,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.01
+ },
+ "19": {
+  "text": {
+   "words": "ИНТЕРЕСЫ РАСХОДЯТСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.19,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.19
+ },
+ "22": {
+  "text": {
+   "words": "А МЫ ЧЕМ ЗАНИМАЛИСЬ?",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.54,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 4.54
+ },
+ "25": {
+  "text": {
+   "words": "ПРИЛЕТЕЛ И УЛЕТЕЛ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.0,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 5.0
+ },
+ "30": {
+  "text": {
+   "words": "ФБР ОПРОВЕРГАЕТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.74,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 5.74
+ },
+ "31": {
+  "text": {
+   "words": "ДИАЛОГ БЫЛ БЫ ПОЛЕЗЕН",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.73,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.73
+ },
+ "32": {
+  "text": {
+   "words": "ИЗ РОССИИ С ЛЮБОВЬЮ",
+   "color": "red",
+   "pos": "mc",
+   "at": 7.26,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.26
+ },
+ "34": {
+  "text": {
+   "words": "СВЕРИТЬ ЧАСЫ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.83,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.83
+ },
+ "38": {
+  "text": {
+   "words": "КАНАЛЫ СПЕЦСЛУЖБ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.43,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 3.43
+ },
+ "39": {
+  "text": {
+   "words": "ПЕРЕМИРИЕ?",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.05,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 4.05
+ },
+ "40": {
+  "text": {
+   "words": "МАСШТАБ НЕ ТОТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 7.7,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.7
+ },
+ "48": {
+  "text": {
+   "words": "КИТАЙ — КОНКУРЕНТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.78,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.78
+ },
+ "49": {
+  "text": {
+   "words": "БЕЗ ОБЩЕГО ВРАГА",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.38,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.38
+ },
+ "55": {
+  "text": {
+   "words": "БУМАГА — БРОНЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 7.0,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 7.0
+ },
+ "56": {
+  "text": {
+   "words": "НАРУШАТЬ ДОРОЖЕ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.95,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.95
+ },
+ "64": {
+  "text": {
+   "words": "АРХИТЕКТУРА БЕЗОПАСНОСТИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.81,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.81
+ },
+ "75": {
+  "text": {
+   "words": "ДРУГАЯ АМЕРИКА",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.69,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.69
+ },
+ "76": {
+  "text": {
+   "words": "СКОЛЬКО ЭТО СТОИТ?",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 2.86,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 2.86
+ },
+ "78": {
+  "text": {
+   "words": "СМОГУТ ЛИ?",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 6.19,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.19
+ },
+ "80": {
+  "text": {
+   "words": "ПЕРЕПИШУТ ЛИ УЧЕБНИК?",
+   "color": "white",
+   "pos": "mc",
+   "at": 6.59,
+   "scale": 1.0
+  },
+  "sound": "ding",
+  "at": 6.59
+ }
+}
