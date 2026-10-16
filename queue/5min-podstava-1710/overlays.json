@@ -1,0 +1,423 @@
+{
+  "anchor": "top",
+  "3": {
+    "sound": "whoosh",
+    "at": 4.09,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ТРЕБОВАЛ — ПОЛУЧАЛ ОБЕЩАНИЕ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "5": {
+    "sound": "zatvor",
+    "at": 2.89,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВОДИЛИ ЗА НОС",
+      "color": "yellow",
+      "pos": "tr",
+      "sound": "pop",
+      "at": 3.71,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "6": {
+    "sound": "pop",
+    "at": 4.78,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "15 ОКТЯБРЯ",
+      "color": "white",
+      "pos": "tr",
+      "sound": "pop",
+      "at": 6.15,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "7": {
+    "sound": "whoosh",
+    "at": 4.32,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "«С ПУТИНЫМ ЛЕГЧЕ»",
+      "color": "red",
+      "pos": "tl",
+      "sound": "pop",
+      "at": 5.56,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "10": {
+    "sound": "zatvor",
+    "at": 4.37,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВЫБОРОВ НЕТ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.62,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "14": {
+    "sound": "pop",
+    "at": 3.56,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВОЙНА КАК ПРЕДОХРАНИТЕЛЬ",
+      "color": "red",
+      "pos": "tr",
+      "sound": "pop",
+      "at": 4.57,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "16": {
+    "sound": "whoosh",
+    "at": 3.81,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_016.jpg",
+    "approved": true
+  },
+  "17": {
+    "sound": "zatvor",
+    "at": 5.1,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ПАУЗА ЗАКОНЧЕНА",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "19": {
+    "sound": "pop",
+    "at": 3.7,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_019.jpg",
+    "approved": true
+  },
+  "20": {
+    "sound": "whoosh",
+    "at": 4.41,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_020.jpg",
+    "approved": true
+  },
+  "31": {
+    "sound": "zatvor",
+    "at": 4.57,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_031.jpg",
+    "approved": true
+  },
+  "32": {
+    "sound": "pop",
+    "at": 4.06,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_032.jpg",
+    "approved": true
+  },
+  "36": {
+    "sound": "whoosh",
+    "at": 4.84,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ПРОДАВАЛИСЬ НА РЫНКЕ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.23,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "38": {
+    "sound": "zatvor",
+    "at": 5.21,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "БОЕПРИПАСЫ — СЕБЕ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 6.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "39": {
+    "sound": "pop",
+    "at": 4.56,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "photo": "overlays/scene_039.jpg",
+    "approved": true
+  },
+  "42": {
+    "sound": "whoosh",
+    "at": 4.26,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ЧЕТЫРЕ НОВОСТИ — ОДНА КАРТИНА",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.48,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "44": {
+    "sound": "zatvor",
+    "at": 5.1,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВОЕННОЕ ПОЛОЖЕНИЕ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.55,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "47": {
+    "sound": "pop",
+    "at": 5.06,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "КТО ПОДПИШЕТ ПОСЛЕ НЕГО",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.51,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "51": {
+    "sound": "whoosh",
+    "at": 4.96,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВХОД К ДЕНЬГАМ И ВЛИЯНИЮ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.37,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "53": {
+    "sound": "zatvor",
+    "at": 4.14,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ДЕКОРАЦИИ МЕНЯТЬ ЛЕНЬ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.33,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "57": {
+    "sound": "pop",
+    "at": 4.82,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "У ЕВРОПЫ СВОЙ ИНТЕРЕС",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "63": {
+    "sound": "whoosh",
+    "at": 5.12,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВЕТЕРАНЫ, ВОЕННЫЕ, НАЦИОНАЛИСТЫ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 6.59,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "64": {
+    "sound": "zatvor",
+    "at": 4.25,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ФАМИЛИЯ ДРУГАЯ — ОТВЕТ ТОТ ЖЕ",
+      "color": "red",
+      "pos": "tr",
+      "sound": "pop",
+      "at": 5.46,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "67": {
+    "sound": "pop",
+    "at": 3.54,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "СДЕЛКА ДОЛЖНА ПЕРЕЖИТЬ ВСЕХ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.55,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "69": {
+    "sound": "whoosh",
+    "at": 4.28,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "НОВЫЙ СПИСОК ГОРОДОВ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.51,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "73": {
+    "sound": "zatvor",
+    "at": 4.93,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ХУЖЕ — КОГДА СЧИТАЮТ",
+      "color": "yellow",
+      "pos": "tr",
+      "sound": "pop",
+      "at": 6.34,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  }
+}
