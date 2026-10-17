@@ -1,0 +1,622 @@
+{
+  "anchor": "top",
+  "2": {
+    "photo": "overlays/scene_002.jpg",
+    "sound": "whoosh",
+    "at": 5.0,
+    "shape": "circle",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "top",
+    "approved": true
+  },
+  "5": {
+    "photo": "overlays/scene_005.jpg",
+    "sound": "zatvor",
+    "at": 4.9,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "7": {
+    "photo": "overlays/scene_007.jpg",
+    "sound": "pop",
+    "at": 4.4,
+    "shape": "square",
+    "style": "up-left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "30": {
+    "photo": "overlays/scene_030.jpg",
+    "sound": "zatvor",
+    "at": 4.8,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "33": {
+    "photo": "overlays/scene_033.jpg",
+    "sound": "pop",
+    "at": 4.2,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "43": {
+    "sound": "whoosh",
+    "at": 4.9,
+    "shape": "rect",
+    "style": "up-left",
+    "size": "m",
+    "scale": 1.0,
+    "text": {
+      "words": "ВРЕМЕННОЕ УПРАВЛЕНИЕ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": ""
+  },
+  "67": {
+    "photo": "overlays/scene_067.jpg",
+    "sound": "zatvor",
+    "at": 4.5,
+    "shape": "circle",
+    "style": "up-right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "3": {
+    "text": {
+      "words": "ДЕСЯТКИ МИЛЛИАРДОВ ЕВРО",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "4": {
+    "text": {
+      "words": "ЗАКОН ГРЭМА ПРИОСТАНОВЛЕН",
+      "color": "red",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "6": {
+    "text": {
+      "words": "НАЦИОНАЛЬНЫЕ ИНТЕРЕСЫ США",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "9": {
+    "text": {
+      "words": "ДИЗЕЛЬ. ГАЗ. БАНКИ.",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 5.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "10": {
+    "text": {
+      "words": "ЗАМОРОЖЕННЫЕ АКТИВЫ РФ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 2.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "13": {
+    "text": {
+      "words": "4 МЛН УЖЕ В ЕВРОПЕ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "14": {
+    "text": {
+      "words": "В ПЯТЬ РАЗ БОЛЬШЕ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 2.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "15": {
+    "text": {
+      "words": "БОЛЬШЕ, ЧЕМ В НИДЕРЛАНДАХ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "17": {
+    "text": {
+      "words": "ПОЛИТИКА СТРАХА",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 1.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "20": {
+    "text": {
+      "words": "СЧИТАТЬ СТОИМОСТЬ ОТКАЗА",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "21": {
+    "text": {
+      "words": "ПОСЛЕ ДРОНОВ — ТЫСЯЧИ РАКЕТ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "23": {
+    "sound": "pop",
+    "photo": "overlays/scene_023.jpg",
+    "at": 5.0,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "24": {
+    "text": {
+      "words": "ВАШИНГТОН ОТХОДИТ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "25": {
+    "text": {
+      "words": "155 МЛРД ЕВРО НА ГОД",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "26": {
+    "text": {
+      "words": "70 МЛРД — ОТ ЕВРОПЫ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 5.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "27": {
+    "text": {
+      "words": "200 МИЛЛИОНОВ ЕВРО В ДЕНЬ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "28": {
+    "text": {
+      "words": "ПАКЕТ НЕ СОГЛАСОВАН",
+      "color": "red",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "29": {
+    "text": {
+      "words": "БАРТ ДЕ ВЕВЕР, БЕЛЬГИЯ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 3.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "31": {
+    "text": {
+      "words": "А ДЕНЬГИ ГДЕ?",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 2.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "34": {
+    "text": {
+      "words": "ДМИТРИЕВ, СПЕЦПРЕДСТАВИТЕЛЬ РФ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "36": {
+    "text": {
+      "words": "ДРУГОГО КОШЕЛЬКА НЕТ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "38": {
+    "text": {
+      "words": "НЕ ОТДАВАТЬ АКТИВЫ РОССИИ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "40": {
+    "text": {
+      "words": "ХОЗЯИН У ЧЕМОДАНА ЕСТЬ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 2.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "41": {
+    "text": {
+      "words": "КОНФИСКАЦИЯ КАПИТАЛА",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "42": {
+    "text": {
+      "words": "ОТВЕЧАТЬ ПРИДЁТСЯ АКТИВАМИ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "45": {
+    "text": {
+      "words": "БЮДЖЕТЫ ТРЕЩАТ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 5.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "46": {
+    "text": {
+      "words": "ФРИДРИХ МЕРЦ, ГЕРМАНИЯ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "47": {
+    "text": {
+      "words": "ПОСЛЕДНИЙ КРУПНЫЙ РЕЗЕРВ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "49": {
+    "text": {
+      "words": "ПРЕДМЕТ ТОРГА С МОСКВОЙ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "50": {
+    "text": {
+      "words": "ОТДАЙТЕ ИХ УКРАИНЕ",
+      "color": "white",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "55": {
+    "text": {
+      "words": "ПЛАТИТЬ БУДЕТЕ ВЫ",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "57": {
+    "text": {
+      "words": "ПОВЫШАЕТ СТАВКИ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "59": {
+    "text": {
+      "words": "ФОН ДЕР ЛЯЙЕН: НОВЫЕ САНКЦИИ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "60": {
+    "text": {
+      "words": "МЕТТЕ ФРЕДЕРИКСЕН, ДАНИЯ",
+      "color": "white",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "61": {
+    "text": {
+      "words": "МИКРОФОН ДЕНЕГ НЕ ПРОСИТ",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "63": {
+    "text": {
+      "words": "ЛОВУШКА С ТРЁХ СТОРОН",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "65": {
+    "text": {
+      "words": "ТЕМА ВЫБОРОВ НЕ ИСЧЕЗЛА",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "66": {
+    "text": {
+      "words": "ПОЛИТИЧЕСКАЯ ИСТЕРИКА",
+      "color": "red",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.9,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "68": {
+    "text": {
+      "words": "ЧТО БУДЕТ С НИМ ПОСЛЕ ВОЙНЫ?",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 4.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "whoosh",
+    "photo": ""
+  },
+  "70": {
+    "text": {
+      "words": "НЕ ПРЕКРАЩАЙТЕ ФИНАНСИРОВАНИЕ",
+      "color": "yellow",
+      "pos": "tc",
+      "sound": "pop",
+      "at": 5.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "pop",
+    "photo": ""
+  },
+  "72": {
+    "text": {
+      "words": "КОГДА ЭТО ЗАКОНЧИТСЯ?",
+      "color": "yellow",
+      "pos": "mc",
+      "sound": "pop",
+      "at": 4.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "sound": "zatvor",
+    "photo": ""
+  },
+  "58": {
+    "photo": "overlays/scene_058.jpg",
+    "sound": "whoosh",
+    "at": 4.8,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  }
+}
