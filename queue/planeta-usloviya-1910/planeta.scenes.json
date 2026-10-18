@@ -1,0 +1,795 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 13.08,
+   "visual_prompt": "разрушенный жилой квартал в Донецке 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "разрушенный жилой квартал в Донецке 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 13.08,
+   "duration_sec": 14.6,
+   "visual_prompt": "Lukashenko speech podium",
+   "source": "press_photo",
+   "source_query": "Александр Лукашенко выступает с трибуны 2026 реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 27.68,
+   "duration_sec": 12.44,
+   "visual_prompt": "Владимир Путин крупный план октябрь 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Путин крупный план октябрь 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 40.12,
+   "duration_sec": 13.19,
+   "visual_prompt": "Gerasimov portrait",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ГЕРАСИМОВ/gerasimov-mod-portrait.jpg",
+   "line": "L1"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 53.31,
+   "duration_sec": 12.49,
+   "visual_prompt": "freight rail logistics detail",
+   "source": "pexels_video",
+   "source_query": "freight train wheels rails closeup no people",
+   "line": "L2"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 65.8,
+   "duration_sec": 7.72,
+   "visual_prompt": "Bankova presidential office building",
+   "source": "press_photo",
+   "source_query": "здание Офиса президента Украины на Банковой улице в Киеве фотография здания 2026",
+   "line": "L3"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 73.52,
+   "duration_sec": 14.56,
+   "visual_prompt": "Putin security council meeting",
+   "source": "press_photo",
+   "source_query": "Путин на совещании Совета безопасности России октябрь 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 88.08,
+   "duration_sec": 13.36,
+   "visual_prompt": "UN Security Council chamber",
+   "source": "press_photo",
+   "source_query": "зал заседаний Совета Безопасности ООН 2026 реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 101.44,
+   "duration_sec": 5.59,
+   "visual_prompt": "Donetsk administration building flag",
+   "source": "press_photo",
+   "source_query": "административное здание в Донецке с российским флагом 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 107.03,
+   "duration_sec": 11.29,
+   "visual_prompt": "Luhansk city street",
+   "source": "press_photo",
+   "source_query": "улица в центре Луганска 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 118.32,
+   "duration_sec": 12.96,
+   "visual_prompt": "штабная палатка с картой на фронте 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "штабная палатка с картой на фронте 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 131.28,
+   "duration_sec": 9.6,
+   "visual_prompt": "Zaporizhzhia residential view",
+   "source": "press_photo",
+   "source_query": "город Запорожье вид на жилые кварталы 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 140.88,
+   "duration_sec": 12.37,
+   "visual_prompt": "Russian MFA Smolenskaya building",
+   "source": "press_photo",
+   "source_query": "здание МИД России на Смоленской площади фотография здания",
+   "line": "L1"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 153.25,
+   "duration_sec": 12.4,
+   "visual_prompt": "Peskov briefing Kremlin",
+   "source": "press_photo",
+   "source_query": "Дмитрий Песков брифинг в Кремле 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 165.65,
+   "duration_sec": 15.52,
+   "visual_prompt": "Sudzha Kursk region street",
+   "source": "press_photo",
+   "source_query": "город Суджа Курская область улица 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 181.17,
+   "duration_sec": 13.52,
+   "visual_prompt": "Russian troops on armour Z marking",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/SVO/1 (15).jpg",
+   "line": "L2"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 194.69,
+   "duration_sec": 12.71,
+   "visual_prompt": "разрушенный дом в приграничном селе Курской области 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "разрушенный дом в приграничном селе Курской области 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 207.4,
+   "duration_sec": 5.61,
+   "visual_prompt": "barbed wire detail",
+   "source": "pexels_video",
+   "source_query": "barbed wire coil fence closeup field no people",
+   "line": "L2"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 213.01,
+   "duration_sec": 8.6,
+   "visual_prompt": "field dugout detail",
+   "source": "pexels_video",
+   "source_query": "trench wooden dugout planks closeup no people",
+   "line": "L2"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 221.61,
+   "duration_sec": 9.51,
+   "visual_prompt": "Sumy city street",
+   "source": "press_photo",
+   "source_query": "город Сумы центральная улица 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 231.12,
+   "duration_sec": 12.49,
+   "visual_prompt": "Kharkiv central square",
+   "source": "press_photo",
+   "source_query": "город Харьков центральная площадь 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 243.61,
+   "duration_sec": 14.08,
+   "visual_prompt": "Gerasimov reporting to Putin",
+   "source": "press_photo",
+   "source_query": "Валерий Герасимов доклад Путину октябрь 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 257.69,
+   "duration_sec": 10.24,
+   "visual_prompt": "checkpoint Zaporizhzhia region road",
+   "source": "press_photo",
+   "source_query": "блокпост на дороге в Запорожской области 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 267.93,
+   "duration_sec": 12.25,
+   "visual_prompt": "concrete road barrier detail",
+   "source": "pexels_video",
+   "source_query": "concrete barrier blocks road closeup no people",
+   "line": "L2"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 280.17,
+   "duration_sec": 13.8,
+   "visual_prompt": "damaged house Belgorod",
+   "source": "press_photo",
+   "source_query": "повреждённый дом в Белгороде после обстрела 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 293.97,
+   "duration_sec": 13.35,
+   "visual_prompt": "infantry column advancing open field",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/SVO/2 (9).jpg",
+   "line": "L2"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 307.32,
+   "duration_sec": 13.52,
+   "visual_prompt": "Львов панорама города с высоты 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Львов панорама города с высоты 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 320.85,
+   "duration_sec": 14.72,
+   "visual_prompt": "Lukashenko meeting Minsk",
+   "source": "press_photo",
+   "source_query": "Лукашенко на совещании в Минске 2026 реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 335.56,
+   "duration_sec": 14.72,
+   "visual_prompt": "Minsk government house",
+   "source": "press_photo",
+   "source_query": "Дом правительства в Минске фотография здания",
+   "line": "L8"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 350.28,
+   "duration_sec": 8.64,
+   "visual_prompt": "Putin Lukashenko meeting",
+   "source": "press_photo",
+   "source_query": "Путин и Лукашенко встреча 2026 реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 358.92,
+   "duration_sec": 12.72,
+   "visual_prompt": "Путин выступает на трибуне Валдайского форума 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Путин выступает на трибуне Валдайского форума 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 371.64,
+   "duration_sec": 12.28,
+   "visual_prompt": "Verkhovna Rada building",
+   "source": "press_photo",
+   "source_query": "здание Верховной Рады Украины в Киеве фотография здания",
+   "line": "L3"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 383.92,
+   "duration_sec": 15.2,
+   "visual_prompt": "power line in snow",
+   "source": "pexels_video",
+   "source_query": "power transmission line pylon winter snow no people",
+   "line": "L7"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 399.12,
+   "duration_sec": 6.56,
+   "visual_prompt": "Владимир Зеленский на пресс-конференции в Киеве 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на пресс-конференции в Киеве 2026 реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 405.68,
+   "duration_sec": 5.89,
+   "visual_prompt": "Westminster palace London",
+   "source": "press_photo",
+   "source_query": "Вестминстерский дворец в Лондоне фотография здания 2026",
+   "line": "L4"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 411.57,
+   "duration_sec": 14.48,
+   "visual_prompt": "British Tornado with missiles",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/STORMSHADOW/ss_01.jpg",
+   "line": "L4"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 426.05,
+   "duration_sec": 11.6,
+   "visual_prompt": "Downing Street 10",
+   "source": "press_photo",
+   "source_query": "Даунинг стрит 10 в Лондоне фотография здания 2026",
+   "line": "L4"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 437.65,
+   "duration_sec": 16.48,
+   "visual_prompt": "UK MoD Whitehall building",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны Великобритании Уайтхолл фотография здания",
+   "line": "L4"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 454.13,
+   "duration_sec": 12.88,
+   "visual_prompt": "empty conference hall",
+   "source": "pexels_video",
+   "source_query": "empty conference hall rows of chairs no people",
+   "line": "L6"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 467.01,
+   "duration_sec": 14.8,
+   "visual_prompt": "refinery flare at night",
+   "source": "pexels_video",
+   "source_query": "oil refinery flare stack night no people",
+   "line": "L5"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 481.81,
+   "duration_sec": 10.66,
+   "visual_prompt": "long-range UAV before launch",
+   "source": "press_photo",
+   "source_query": "украинский дальнобойный беспилотник перед запуском 2026 реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 492.47,
+   "duration_sec": 12.3,
+   "visual_prompt": "Starlink terminal with troops",
+   "source": "press_photo",
+   "source_query": "терминал Starlink у украинских военных на позиции 2026 реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 504.77,
+   "duration_sec": 13.04,
+   "visual_prompt": "White House Washington",
+   "source": "press_photo",
+   "source_query": "Белый дом в Вашингтоне фотография здания 2026",
+   "line": "L5"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 517.81,
+   "duration_sec": 11.55,
+   "visual_prompt": "Patriot launcher on position",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПВО-укр/Screenshot_4.jpg",
+   "line": "L3"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 529.36,
+   "duration_sec": 15.16,
+   "visual_prompt": "smoke over city after strike",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/SVO/Screenshot_14.jpg",
+   "line": "L7"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 544.52,
+   "duration_sec": 13.72,
+   "visual_prompt": "transformer detail",
+   "source": "pexels_video",
+   "source_query": "electrical substation transformer insulators closeup no people",
+   "line": "L7"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 558.24,
+   "duration_sec": 13.84,
+   "visual_prompt": "Ukrainian cabinet meeting hall",
+   "source": "press_photo",
+   "source_query": "зал заседаний Кабинета министров Украины в Киеве 2026 фотография зала",
+   "line": "L6"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 572.08,
+   "duration_sec": 12.8,
+   "visual_prompt": "Berlaymont Brussels",
+   "source": "press_photo",
+   "source_query": "здание Еврокомиссии Берлемон в Брюсселе фотография здания 2026",
+   "line": "L6"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 584.88,
+   "duration_sec": 10.99,
+   "visual_prompt": "National Bank of Belgium",
+   "source": "press_photo",
+   "source_query": "здание Национального банка Бельгии в Брюсселе фотография здания",
+   "line": "L6"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 595.87,
+   "duration_sec": 13.44,
+   "visual_prompt": "Belgian PM De Wever",
+   "source": "press_photo",
+   "source_query": "премьер-министр Бельгии Барт де Вевер 2026 реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 609.31,
+   "duration_sec": 11.68,
+   "visual_prompt": "von der Leyen press conference",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен пресс-конференция 2026 реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 620.99,
+   "duration_sec": 8.19,
+   "visual_prompt": "Tarkett plant Russia shop floor",
+   "source": "press_photo",
+   "source_query": "завод Tarkett в России производственный цех 2026 реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 629.17,
+   "duration_sec": 13.33,
+   "visual_prompt": "Михаил Мишустин премьер-министр России 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Михаил Мишустин премьер-министр России 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 642.51,
+   "duration_sec": 13.92,
+   "visual_prompt": "Bank of Russia Neglinnaya",
+   "source": "press_photo",
+   "source_query": "здание Центрального банка России на Неглинной улице фотография здания",
+   "line": "L1"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 656.43,
+   "duration_sec": 8.77,
+   "visual_prompt": "US Capitol Washington",
+   "source": "press_photo",
+   "source_query": "Капитолий в Вашингтоне фотография здания 2026",
+   "line": "L5"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 665.2,
+   "duration_sec": 12.8,
+   "visual_prompt": "официальный портрет Дональда Трампа в Белом доме 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "официальный портрет Дональда Трампа в Белом доме 2026 реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 678.0,
+   "duration_sec": 12.16,
+   "visual_prompt": "oil pipeline valve wheel closeup rust no people",
+   "source": "pexels_video",
+   "source_query": "oil pipeline valve wheel closeup rust no people",
+   "line": "L5"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 690.16,
+   "duration_sec": 13.6,
+   "visual_prompt": "US Treasury building",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов США в Вашингтоне фотография здания",
+   "line": "L5"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 703.76,
+   "duration_sec": 14.96,
+   "visual_prompt": "Kirill Dmitriev speech",
+   "source": "press_photo",
+   "source_query": "Кирилл Дмитриев РФПИ выступление 2026 реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 718.72,
+   "duration_sec": 10.24,
+   "visual_prompt": "Schuman square EU flags",
+   "source": "press_photo",
+   "source_query": "площадь Шумана в Брюсселе флаги Евросоюза 2026 реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 728.96,
+   "duration_sec": 13.56,
+   "visual_prompt": "empty European Parliament hall",
+   "source": "press_photo",
+   "source_query": "пустой зал Европарламента в Страсбурге 2026 фотография зала",
+   "line": "L6"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 742.52,
+   "duration_sec": 9.63,
+   "visual_prompt": "National Bank of Ukraine building",
+   "source": "press_photo",
+   "source_query": "здание Национального банка Украины в Киеве фотография здания",
+   "line": "L3"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 752.15,
+   "duration_sec": 13.09,
+   "visual_prompt": "generator unit detail",
+   "source": "pexels_video",
+   "source_query": "portable power generator running outdoors closeup no people",
+   "line": "L7"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 765.24,
+   "duration_sec": 9.76,
+   "visual_prompt": "Putin at desk Kremlin",
+   "source": "press_photo",
+   "source_query": "Путин за рабочим столом в Кремле 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 775.0,
+   "duration_sec": 6.4,
+   "visual_prompt": "empty meeting room table chairs no people",
+   "source": "pexels_video",
+   "source_query": "empty meeting room table chairs no people",
+   "line": "L6"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 781.4,
+   "duration_sec": 14.8,
+   "visual_prompt": "Donbass slag heaps industrial",
+   "source": "press_photo",
+   "source_query": "терриконы и промышленный пейзаж Донбасса 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 796.2,
+   "duration_sec": 5.89,
+   "visual_prompt": "Russian MoD Frunzenskaya",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны России на Фрунзенской набережной фотография здания",
+   "line": "L1"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 802.09,
+   "duration_sec": 6.66,
+   "visual_prompt": "Lukashenko press conference",
+   "source": "press_photo",
+   "source_query": "Лукашенко на пресс-конференции 2026 реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 808.76,
+   "duration_sec": 8.45,
+   "visual_prompt": "Russian flag Melitopol building",
+   "source": "press_photo",
+   "source_query": "российский флаг на административном здании в Мелитополе 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 817.2,
+   "duration_sec": 15.12,
+   "visual_prompt": "NASAMS launcher in snow",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПВО-укр/nasams.jpg",
+   "line": "L3"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 832.32,
+   "duration_sec": 11.02,
+   "visual_prompt": "Ukrainian finance ministry",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов Украины в Киеве фотография здания",
+   "line": "L3"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 843.35,
+   "duration_sec": 12.4,
+   "visual_prompt": "signing hall with flags",
+   "source": "press_photo",
+   "source_query": "пустой зал для подписания межгосударственных соглашений с флагами 2026 фотография зала",
+   "line": "L6"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 855.74,
+   "duration_sec": 12.82,
+   "visual_prompt": "Ukrainian thermal plant struck",
+   "source": "press_photo",
+   "source_query": "украинская теплоэлектростанция после удара 2026 реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 868.56,
+   "duration_sec": 14.24,
+   "visual_prompt": "Putin Trump Alaska meeting",
+   "source": "press_photo",
+   "source_query": "Путин и Трамп встреча на Аляске август 2025 реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 882.8,
+   "duration_sec": 12.74,
+   "visual_prompt": "Zelensky staff meeting",
+   "source": "press_photo",
+   "source_query": "Зеленский на заседании Ставки с военными 2026 реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 895.54,
+   "duration_sec": 12.27,
+   "visual_prompt": "Kyiv blackout evening",
+   "source": "press_photo",
+   "source_query": "Киев вечером во время отключения света 2026 реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 907.81,
+   "duration_sec": 15.28,
+   "visual_prompt": "Lukashenko closeup",
+   "source": "press_photo",
+   "source_query": "Лукашенко крупный план выступление 2026 реальное фото",
+   "line": "L8"
+  }
+ ],
+ "channel": "ПЛАНЕТА",
+ "context": {
+  "о чём": "16.10.2026 Путин на командном пункте приказал не сворачивать удары, Герасимов доложил о росте темпов; цена промедления для Киева растёт",
+  "стороны": "Россия (Путин, Герасимов, Минобороны РФ) | Украина (Зеленский, ВСУ) | Британия (Лондон, Storm Shadow) | США (Трамп, закон Грэма, Маск/Starlink) | Европа (Брюссель, Бельгия, замороженные активы) | Лукашенко/Минск",
+  "где": "командный пункт группировки и Кремль; Донбасс, Запорожье, Сумская и Харьковская области, Курская область; Лондон; Вашингтон; Брюссель и Бельгия; украинские ТЭС и подстанции",
+  "узел": "четыре региона в Конституции РФ плюс непереговорная зона безопасности у Сум и Харькова — каждый месяц промедления делает условия для Киева хуже",
+  "время": "октябрь 2026, перед зимой",
+  "финал": "договор подписывают не с прошлым, а с нынешней реальностью — что вообще останется подписывать",
+  "чувство": "нарастающий счёт, цена промедления"
+ },
+ "lines": [
+  "L1 российское военное управление: Путин на командном пункте, Герасимов с картой, Минобороны РФ на Фрунзенской, Кремль, Совбез РФ",
+  "L2 фронт и территория под контролем ВС РФ: Донецк и Луганск, Запорожское направление, Сумское и Харьковское приграничье, Курская область, бронетехника ВС РФ",
+  "L3 украинская власть и ВСУ: Зеленский, Офис президента на Банковой, Верховная Рада, ПВО ВСУ, терминалы Starlink у ВСУ",
+  "L4 Британия: Вестминстер, Даунинг-стрит, Минобороны Британии на Уайтхолле, Storm Shadow на британском самолёте",
+  "L5 США: Трамп, Белый дом, Капитолий (закон Грэма), Минфин США, Маск и Starlink",
+  "L6 Европа и деньги: Берлемон в Брюсселе, Европарламент, Нацбанк Бельгии, евро, западные заводы в России под управлением",
+  "L7 украинская энергетика и зима: ТЭС, подстанция, трансформатор, ЛЭП в снегу, генераторы",
+  "L8 Лукашенко и Минск: Лукашенко на трибуне, Дом правительства в Минске"
+ ],
+ "library": "YES (ПЛАНЕТА), потолок 20%"
+}
