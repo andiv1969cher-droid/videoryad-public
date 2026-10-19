@@ -1,0 +1,165 @@
+{
+  "anchor": "top",
+  "33": {
+    "photo": "overlays/scene_033.jpg",
+    "sound": "whoosh",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "34": {
+    "photo": "overlays/scene_034.jpg",
+    "sound": "zatvor",
+    "at": 2.4,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "56": {
+    "photo": "overlays/scene_056.jpg",
+    "sound": "pop",
+    "at": 4.7,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "6": {
+    "text": {
+      "words": "ЗАМЕДЛИЛИ STARLINK",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 4.7,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "7": {
+    "text": {
+      "words": "РУБИО: ПРИКАЗА НЕ БЫЛО",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 5.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "9": {
+    "text": {
+      "words": "ВАШИНГТОН ОБВИНЕНИЕ ОТВЕРГ",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "whoosh",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "18": {
+    "text": {
+      "words": "ВОЕННОЕ ПОЛОЖЕНИЕ: ВЫБОРОВ НЕТ",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "zatvor",
+      "at": 5.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "20": {
+    "text": {
+      "words": "ЗАДЕРЖАЛИ ПЕРЕХВАТЧИКИ PATRIOT",
+      "color": "red",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "30": {
+    "text": {
+      "words": "БЕССЕНТ: ЛОЖНАЯ ДИЛЕММА",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 4.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "37": {
+    "text": {
+      "words": "ПВО: ПРОГРАММНЫЙ СБОЙ, НЕ ПАУЗА",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 5.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "40": {
+    "text": {
+      "words": "27 СТРАН ЕС",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pop",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "52": {
+    "text": {
+      "words": "ОФИЦИАЛЬНОГО РЕШЕНИЯ НЕТ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 4.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "57": {
+    "text": {
+      "words": "САММИТ АТЭС, 18-19 НОЯБРЯ",
+      "color": "white",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "pshik",
+      "at": 4.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "58": {
+    "text": {
+      "words": "ЗЕЛЕНСКИЙ: БЕЗ США НЕ ВЫСТОИМ",
+      "color": "red",
+      "pos": "mc",
+      "font": "oswald",
+      "sound": "mashinka",
+      "at": 4.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  }
+}
