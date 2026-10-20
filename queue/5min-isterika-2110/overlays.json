@@ -1,0 +1,379 @@
+{
+ "anchor": "top",
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "whoosh",
+  "at": 4.7,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "29": {
+  "photo": "overlays/scene_029.jpg",
+  "sound": "zatvor",
+  "at": 4.5,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "32": {
+  "photo": "overlays/scene_032.jpg",
+  "sound": "pop",
+  "at": 5.1,
+  "shape": "rect",
+  "style": "up-center",
+  "size": "m",
+  "scale": 1.0
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "whoosh",
+  "at": 5.2,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "52": {
+  "sound": "zatvor",
+  "at": 5.4,
+  "scale": 1.0,
+  "text": {
+   "words": "ПОЗИЦИИ СОВПАЛИ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 5.4,
+   "scale": 1.0
+  }
+ },
+ "67": {
+  "photo": "overlays/scene_067.jpg",
+  "sound": "pop",
+  "at": 4.4,
+  "shape": "rect",
+  "style": "up-center",
+  "size": "m",
+  "scale": 1.0
+ },
+ "73": {
+  "photo": "overlays/scene_073.jpg",
+  "sound": "whoosh",
+  "at": 5.1,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "1": {
+  "text": {
+   "words": "18 ОКТЯБРЯ: ВЫХОД НА АМЕРИКАНСКОЕ ТВ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.3,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "6": {
+  "text": {
+   "words": "ВЫБОРЫ В КОНГРЕСС — НОЯБРЬ 2026",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.9,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "9": {
+  "text": {
+   "words": "\"ИСТОРИЧЕСКАЯ ОШИБКА\"",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.2,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "10": {
+  "text": {
+   "words": "\"ОТНОШЕНИЕ К ПУТИНУ НУЖНО МЕНЯТЬ\"",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.3,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "13": {
+  "text": {
+   "words": "РЕСПУБЛИКАНЦЫ ТОЖЕ НЕДОВОЛЬНЫ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 2.8,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "14": {
+  "text": {
+   "words": "\"ПРИШЛО ВРЕМЯ КОМУ-ТО ДРУГОМУ\"",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.8,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "15": {
+  "text": {
+   "words": "ТРАМП: ПЕРЕГОВОРЫ ВЕДЁТ ДРУГОЙ",
+   "color": "red",
+   "pos": "tc",
+   "at": 3.8,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "17": {
+  "text": {
+   "words": "PATRIOT: ОСТАЛИСЬ ЕДИНИЦЫ ПЕРЕХВАТЧИКОВ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "28": {
+  "text": {
+   "words": "ВЭНС: \"УКРАИНА НЕ СОЮЗНИК\"",
+   "color": "red",
+   "pos": "tc",
+   "at": 3.5,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "33": {
+  "text": {
+   "words": "STARLINK ВСУ ОГРАНИЧЕН",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.9,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "34": {
+  "text": {
+   "words": "РЕЭКСПОРТ PATRIOT ЗАМОРОЖЕН",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.1,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "37": {
+  "text": {
+   "words": "\"30 ДНЕЙ БЕЗ УДАРОВ ПО НПЗ — ЗА PATRIOT\"",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.1,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "38": {
+  "text": {
+   "words": "AIM-9X: ЗАДЕРЖКИ ПОСТАВОК",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.7,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "39": {
+  "text": {
+   "words": "ПРЕДЛОЖЕНИЕ НЕ ПОДДЕРЖАЛИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.2,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "43": {
+  "text": {
+   "words": "ВНЕШНЯЯ ПОЛИТИКА НЕ ПЕРЕЕЗЖАЕТ В СЕНАТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "45": {
+  "text": {
+   "words": "$350 МЛРД ПЕНТАГОНУ — ПОД УГРОЗОЙ",
+   "color": "red",
+   "pos": "tc",
+   "at": 4.4,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "46": {
+  "text": {
+   "words": "РАЗРЕШЁН ИМПОРТ РОССИЙСКОГО ДИЗЕЛЯ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 5.1,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "47": {
+  "text": {
+   "words": "ДО ВЫБОРОВ — НЕСКОЛЬКО НЕДЕЛЬ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.9,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "51": {
+  "text": {
+   "words": "ПЕСКОВ: \"КТО-ТО ИЗ КИЕВА\"",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.7,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "53": {
+  "text": {
+   "words": "НУЖЕН ТОТ, КТО ПОДПИШЕТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.2,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "54": {
+  "text": {
+   "words": "КАК ПОЯВИТЬСЯ ЭТОМУ ЧЕЛОВЕКУ?",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.4,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "57": {
+  "text": {
+   "words": "ДВА КАЛЕНДАРЯ: НОЯБРЬ И СДЕЛКА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 3.3,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "58": {
+  "text": {
+   "words": "УИТКОФФ И КУШНЕР: МОСКВА, КИЕВ, ЕВРОПА",
+   "color": "white",
+   "pos": "tc",
+   "at": 5.0,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "59": {
+  "text": {
+   "words": "ЭКОНОМИКА ВМЕСТО ЛОЗУНГОВ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.1,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "60": {
+  "text": {
+   "words": "ГАЗ. ДИЗЕЛЬ. САНКЦИИ. ДЕНЬГИ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 5.1,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "63": {
+  "text": {
+   "words": "КТО ПЛАТИТ. КТО ЗАРАБАТЫВАЕТ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.2,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "64": {
+  "text": {
+   "words": "КОРИДОР ШИРЕ НЕ СТАНОВИТСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.2,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "69": {
+  "text": {
+   "words": "КОНТАКТЫ МОСКВЫ И ВАШИНГТОНА — БЕЗ КИЕВА",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 3.5,
+   "scale": 1.0
+  },
+  "sound": "whoosh"
+ },
+ "70": {
+  "text": {
+   "words": "\"МОЖНО НАЙТИ ДРУГОГО ЧЕЛОВЕКА\"",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.6,
+   "scale": 1.0
+  },
+  "sound": "zatvor"
+ },
+ "71": {
+  "text": {
+   "words": "СПОР УЖЕ НЕ ОБ УСЛОВИЯХ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.6,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ },
+ "74": {
+  "text": {
+   "words": "ВРЕМЯ ЗАКАНЧИВАЕТСЯ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  },
+  "sound": "pop"
+ }
+}
