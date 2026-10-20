@@ -1,0 +1,685 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 12.36,
+   "visual_prompt": "Zelensky press conference Oct 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский пресс-конференция октябрь 2026 реальное фото"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 12.36,
+   "duration_sec": 13.68,
+   "visual_prompt": "Дональд Трамп у Белого дома отвечает на вопросы журналистов октябрь 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп у Белого дома отвечает на вопросы журналистов октябрь 2026 реальное фото"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 26.04,
+   "duration_sec": 13.92,
+   "visual_prompt": "Presidential Office building Kyiv",
+   "source": "press_photo",
+   "source_query": "здание Офиса президента Украины на Банковой в Киеве реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 39.96,
+   "duration_sec": 12.4,
+   "visual_prompt": "White House facade 2026",
+   "source": "press_photo",
+   "source_query": "Белый дом в Вашингтоне фасад реальное фото 2026"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 52.36,
+   "duration_sec": 13.52,
+   "visual_prompt": "Trump and Zelensky meeting 2026",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп и Владимир Зеленский встреча 2026 реальное фото"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 65.88,
+   "duration_sec": 8.27,
+   "visual_prompt": "US Capitol dome 2026",
+   "source": "press_photo",
+   "source_query": "Капитолий в Вашингтоне купол реальное фото 2026"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 74.15,
+   "duration_sec": 12.48,
+   "visual_prompt": "здание Конгресса США Вашингтон фотография здания 2026",
+   "source": "press_photo",
+   "source_query": "здание Конгресса США Вашингтон фотография здания 2026"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 86.63,
+   "duration_sec": 13.68,
+   "visual_prompt": "Trump walking to Marine One",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп идёт к вертолёту Marine One 2026 реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 100.31,
+   "duration_sec": 14.72,
+   "visual_prompt": "Zelensky interview to US TV Oct 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский интервью американскому телеканалу октябрь 2026 реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 115.03,
+   "duration_sec": 12.24,
+   "visual_prompt": "Putin in Kremlin Oct 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Путин в Кремле октябрь 2026 реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 127.27,
+   "duration_sec": 12.08,
+   "visual_prompt": "White House briefing room 2026",
+   "source": "press_photo",
+   "source_query": "брифинг-зал Белого дома трибуна и журналисты 2026 реальное фото"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 139.35,
+   "duration_sec": 8.67,
+   "visual_prompt": "US Capitol corridor",
+   "source": "press_photo",
+   "source_query": "коридор Капитолия США реальное фото 2026"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 148.02,
+   "duration_sec": 8.0,
+   "visual_prompt": "US House chamber",
+   "source": "press_photo",
+   "source_query": "зал заседаний Палаты представителей Конгресса США реальное фото"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 156.03,
+   "duration_sec": 13.68,
+   "visual_prompt": "Trump at Oval Office desk 2026",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп за рабочим столом в Овальном кабинете 2026 реальное фото"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 169.7,
+   "duration_sec": 10.88,
+   "visual_prompt": "Трамп: переговоры должен вести другой человек, 19.10.2026 (вложение досье)",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/6dcc838271.mp4?token=d8ouqBeJ1akot3S2brh18odXq0hEyNTF5v2gi_IPf48cHCvfZcYqCY63m5T1aT5Efq_Zc_pJc7uCCTQzb5yOAgGN03aaGigCmNy4SsXBEy8OwOr4dA5mjiM2iQq1NC-d5vJ10EedxRl7p6pszG7pSab1ixIRV8luYAp2ed3MUI3YkBvW84zEqC3Bhl1rHFHDPLXFdWXCG0fhK49q8Q5WWirxh5vBbHZvAfHMgZVEN_1eN4rDYH7TAQIlg2aICLI4PkZfJ_ZKQsZ4J9jXTflo2fNt5-vZ7hqwSJ5uRWF37Znf3FUdzZrh1foLNlqY4HEO7DYRLULgWuPqiXS3LrsMsQ",
+   "dossier_src": "https://t.me/ZeRada1/32704"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 180.58,
+   "duration_sec": 13.53,
+   "visual_prompt": "US and Ukraine flags White House",
+   "source": "press_photo",
+   "source_query": "флаги США и Украины у входа в Белый дом реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 194.1,
+   "duration_sec": 13.28,
+   "visual_prompt": "US Army Patriot battery",
+   "source": "press_photo",
+   "source_query": "зенитный ракетный комплекс Patriot армии США реальное фото"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 207.38,
+   "duration_sec": 6.4,
+   "visual_prompt": "US State Department building",
+   "source": "press_photo",
+   "source_query": "здание Госдепартамента США в Вашингтоне реальное фото"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 213.78,
+   "duration_sec": 12.52,
+   "visual_prompt": "10 Downing Street entrance",
+   "source": "press_photo",
+   "source_query": "Даунинг-стрит 10 в Лондоне вход реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 226.3,
+   "duration_sec": 13.28,
+   "visual_prompt": "Verkhovna Rada building",
+   "source": "press_photo",
+   "source_query": "здание Верховной Рады Украины фасад реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 239.58,
+   "duration_sec": 14.32,
+   "visual_prompt": "флаг Украины над зданием Верховной Рады реальное фото",
+   "source": "press_photo",
+   "source_query": "флаг Украины над зданием Верховной Рады реальное фото"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 253.9,
+   "duration_sec": 10.8,
+   "visual_prompt": "Verkhovna Rada session hall",
+   "source": "press_photo",
+   "source_query": "зал заседаний Верховной Рады Украины реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 264.7,
+   "duration_sec": 13.12,
+   "visual_prompt": "memorial flags Maidan Kyiv",
+   "source": "press_photo",
+   "source_query": "поле украинских флагов памяти на Майдане Незалежности в Киеве реальное фото"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 277.82,
+   "duration_sec": 10.96,
+   "visual_prompt": "здание Кабинета министров Украины в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Кабинета министров Украины в Киеве реальное фото"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 288.78,
+   "duration_sec": 13.87,
+   "visual_prompt": "Zelensky in his office 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский в кабинете Офиса президента 2026 реальное фото"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 302.65,
+   "duration_sec": 13.36,
+   "visual_prompt": "сотрудники государственной охраны у автомобиля в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "сотрудники государственной охраны у автомобиля в Киеве реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 316.01,
+   "duration_sec": 10.16,
+   "visual_prompt": "clock second hand macro",
+   "source": "pexels_video",
+   "source_query": "clock second hand macro closeup"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 326.17,
+   "duration_sec": 10.0,
+   "visual_prompt": "Вэнс: Украина не союзник, 20.10.2026 (вложение досье)",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/539ab56a32.mp4?token=GS6NfQ14aN8pnMmBwOPqNE-97ilnRPwhL9c5ly9VM_yT3Htup-kOwSApDm5gdaBkSn4tTWNICYBtSNC_sxFfQY-OP2FDEbaEYWh7gTpBwE6iv0qvnA1r5Niu95jSnWqPUrrEMx7A2eVFWTrvawR8us4hJ_AIoeim102sTO_e1QV6KtdA-TSOwRQFXLTRqDooSnD1GZvjvOH26A2yOgg-f_OZVL8NWAOLgrFN9AZ1c_pJ9hhWoVQFo5lz2c0Zjs0POhkASWKv2PJ-f2sgsmjvZXaheEIL9mN15a6L1gM1xZWQb_1JSCoPZ71UbSH3j-p4VYUN19mIZpLT_zpscVTDL5GdP09Ii1zGAioHS_ipDxUOEXRp8vEOctev9njzU_2sfVL-CFNTcpk2cycOrFmngtpO9zm_kLy1hHBJ2toijIJISAPznOfr89a6UWvmb_DL1uafwul3JKYBcvdnkOnq5D6ojQ-wfNU7nsGsW5rytqpxI38hlujQZbpsPuX3oK66qkSPKaKQtp-3oKeC5VjbUHC2yYxZPxTMvkzK4I0hf_WolXYws-HCjuhd88f0ZzDPrP_j2y755yhM8ZWexVnMVHQIiwJyg71r4xa5HT1XbnGPH4LzI9ozYWT0tb9SEZH8CrR8k9tVAkrci8dCKjbDjkpN7CCi35-1aYZMACEqo6s",
+   "dossier_src": "https://t.me/ZeRada1/32705"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 336.17,
+   "duration_sec": 12.88,
+   "visual_prompt": "NATO HQ Brussels",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО в Брюсселе реальное фото"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 349.05,
+   "duration_sec": 5.76,
+   "visual_prompt": "Джей Ди Вэнс выступает в Белом доме октябрь 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Джей Ди Вэнс выступает в Белом доме октябрь 2026 реальное фото"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 354.81,
+   "duration_sec": 12.75,
+   "visual_prompt": "фасад Западного крыла Белого дома реальное фото 2026",
+   "source": "press_photo",
+   "source_query": "фасад Западного крыла Белого дома реальное фото 2026"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 367.56,
+   "duration_sec": 14.48,
+   "visual_prompt": "украинский военный устанавливает терминал Starlink на позиции реальное фото",
+   "source": "press_photo",
+   "source_query": "украинский военный устанавливает терминал Starlink на позиции реальное фото"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 382.04,
+   "duration_sec": 14.08,
+   "visual_prompt": "US military satellite antenna",
+   "source": "press_photo",
+   "source_query": "антенна спутниковой связи на военной базе США реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 396.12,
+   "duration_sec": 11.68,
+   "visual_prompt": "loading aid into USAF transport",
+   "source": "press_photo",
+   "source_query": "погрузка военной помощи в транспортный самолёт ВВС США реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 407.79,
+   "duration_sec": 12.96,
+   "visual_prompt": "White House South Lawn 2026",
+   "source": "press_photo",
+   "source_query": "Белый дом южный газон реальное фото 2026"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 420.76,
+   "duration_sec": 14.88,
+   "visual_prompt": "dripping tap macro",
+   "source": "pexels_video",
+   "source_query": "dripping tap water drops closeup macro"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 435.64,
+   "duration_sec": 6.07,
+   "visual_prompt": "Capitol closed briefing room",
+   "source": "press_photo",
+   "source_query": "зал для закрытых брифингов в Капитолии США реальное фото"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 441.71,
+   "duration_sec": 7.66,
+   "visual_prompt": "AIM-9X on USAF fighter",
+   "source": "press_photo",
+   "source_query": "ракета AIM-9X на подвеске истребителя ВВС США реальное фото"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 449.37,
+   "duration_sec": 6.32,
+   "visual_prompt": "Senate Foreign Relations hearing 2026",
+   "source": "press_photo",
+   "source_query": "слушания комитета Сената США по международным делам 2026 реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 455.69,
+   "duration_sec": 5.62,
+   "visual_prompt": "Владимир Зеленский на пресс-конференции в Киеве октябрь 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на пресс-конференции в Киеве октябрь 2026 реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 461.3,
+   "duration_sec": 14.31,
+   "visual_prompt": "офисный корпус Сената США Рассел-билдинг в Вашингтоне реальное фото",
+   "source": "press_photo",
+   "source_query": "офисный корпус Сената США Рассел-билдинг в Вашингтоне реальное фото"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 475.61,
+   "duration_sec": 14.96,
+   "visual_prompt": "US Congress chamber wide 2026",
+   "source": "press_photo",
+   "source_query": "общий вид зала заседаний Конгресса США 2026 реальное фото"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 490.57,
+   "duration_sec": 13.13,
+   "visual_prompt": "Oval Office desk 2026",
+   "source": "press_photo",
+   "source_query": "Овальный кабинет Белого дома стол президента 2026 реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 503.7,
+   "duration_sec": 12.15,
+   "visual_prompt": "заседание комитета Палаты представителей Конгресса США 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "заседание комитета Палаты представителей Конгресса США 2026 реальное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 515.85,
+   "duration_sec": 12.71,
+   "visual_prompt": "Pentagon facade",
+   "source": "press_photo",
+   "source_query": "здание Пентагона фасад реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 528.56,
+   "duration_sec": 14.44,
+   "visual_prompt": "Russian refinery unit",
+   "source": "press_photo",
+   "source_query": "нефтеперерабатывающий завод в России установка реальное фото"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 543.0,
+   "duration_sec": 13.92,
+   "visual_prompt": "empty US polling place 2026",
+   "source": "press_photo",
+   "source_query": "избирательный участок в США пустой зал для голосования 2026 реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 556.91,
+   "duration_sec": 13.6,
+   "visual_prompt": "Капитолий США на рассвете реальное фото 2026",
+   "source": "press_photo",
+   "source_query": "Капитолий США на рассвете реальное фото 2026"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 570.51,
+   "duration_sec": 8.56,
+   "visual_prompt": "Trump leaving White House 2026",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп выходит из Белого дома 2026 реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 579.07,
+   "duration_sec": 7.43,
+   "visual_prompt": "Moscow Kremlin Spasskaya tower",
+   "source": "press_photo",
+   "source_query": "Московский Кремль Спасская башня реальное фото"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 586.5,
+   "duration_sec": 13.45,
+   "visual_prompt": "Песков о представителе Киева 19.10.2026 (вложение досье)",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/lGCkpsNxcYXgUxRgvfXFVDb7eW4YAdMt1kmzMiUq4p_LArA41O_Hd5_ZhUAB8GR33VboWt73Hk3cWhHX5uOV7eJUn2tiggiXU_9YAESEMpShTUDvrHNQ1CF0NtqrpndxbKZ5m5AYy2hpnpTFnO36Ln19rMUy3EJJY6YkcV4WVAjqQqm-dAb6W191UihKcjsEUhMW8RNwbbHhdbjbHeKlrBvFHYHfP-nvWaFJ9Uvjg-9V2l8_UE9IojrM4lr7Z6UOpiacVnVLH2EjxHD-aX40JaW2fnXr11USfv9IGPqXZrc_N8_CA97Xaz46XPvs-qI95piiWzh7TeSTO-SbR5Q_3Q.jpg",
+   "dossier_src": "https://t.me/Media_Post_UA/34547"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 599.96,
+   "duration_sec": 15.32,
+   "visual_prompt": "здание Администрации президента России в Москве реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Администрации президента России в Москве реальное фото"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 615.28,
+   "duration_sec": 12.0,
+   "visual_prompt": "Russian MFA Smolenskaya",
+   "source": "press_photo",
+   "source_query": "здание МИД России на Смоленской площади реальное фото"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 627.28,
+   "duration_sec": 12.56,
+   "visual_prompt": "Zelensky at desk 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский за рабочим столом в Офисе президента 2026 реальное фото"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 639.84,
+   "duration_sec": 7.03,
+   "visual_prompt": "здание Верховного суда США в Вашингтоне реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Верховного суда США в Вашингтоне реальное фото"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 646.86,
+   "duration_sec": 5.97,
+   "visual_prompt": "улица Банковая в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "улица Банковая в Киеве реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 652.84,
+   "duration_sec": 9.36,
+   "visual_prompt": "wall clock macro",
+   "source": "pexels_video",
+   "source_query": "wall clock face macro closeup"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 662.19,
+   "duration_sec": 14.32,
+   "visual_prompt": "Witkoff and Kushner talks 2026",
+   "source": "press_photo",
+   "source_query": "Стив Уиткофф и Джаред Кушнер на переговорах 2026 реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 676.51,
+   "duration_sec": 6.03,
+   "visual_prompt": "oil refinery pipes closeup industrial no people",
+   "source": "pexels_video",
+   "source_query": "oil refinery pipes closeup industrial no people"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 682.54,
+   "duration_sec": 14.69,
+   "visual_prompt": "нефтебаза резервуары хранения в России реальное фото",
+   "source": "press_photo",
+   "source_query": "нефтебаза резервуары хранения в России реальное фото"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 697.23,
+   "duration_sec": 7.52,
+   "visual_prompt": "блиндаж и укрепления на линии фронта в Донбассе 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "блиндаж и укрепления на линии фронта в Донбассе 2026 реальное фото"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 704.75,
+   "duration_sec": 5.81,
+   "visual_prompt": "Дональд Трамп на встрече с делегацией в Белом доме 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп на встрече с делегацией в Белом доме 2026 реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 710.56,
+   "duration_sec": 12.03,
+   "visual_prompt": "Джаред Кушнер спецпосланник современное фото 2026",
+   "source": "press_photo",
+   "source_query": "Джаред Кушнер спецпосланник современное фото 2026"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 722.59,
+   "duration_sec": 14.75,
+   "visual_prompt": "empty concrete tunnel passage static shot no people",
+   "source": "pexels_video",
+   "source_query": "empty concrete tunnel passage static shot no people"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 737.35,
+   "duration_sec": 12.24,
+   "visual_prompt": "Europa building Brussels",
+   "source": "press_photo",
+   "source_query": "здание Европейского совета Europa в Брюсселе фотография здания"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 749.59,
+   "duration_sec": 15.04,
+   "visual_prompt": "самолёт ДРЛО E-3 Sentry ВВС США на аэродроме реальное фото",
+   "source": "press_photo",
+   "source_query": "самолёт ДРЛО E-3 Sentry ВВС США на аэродроме реальное фото"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 764.63,
+   "duration_sec": 12.64,
+   "visual_prompt": "container ship aerial",
+   "source": "pexels_video",
+   "source_query": "large container ship at sea aerial no people"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 777.27,
+   "duration_sec": 12.0,
+   "visual_prompt": "White House with US flag 2026",
+   "source": "press_photo",
+   "source_query": "Белый дом с американским флагом реальное фото 2026"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 789.27,
+   "duration_sec": 10.08,
+   "visual_prompt": "Марко Рубио госсекретарь США выступление 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "Марко Рубио госсекретарь США выступление 2026 реальное фото"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 799.35,
+   "duration_sec": 7.37,
+   "visual_prompt": "Trump answering press on lawn",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп отвечает журналистам на газоне Белого дома 2026 реальное фото"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 806.72,
+   "duration_sec": 13.16,
+   "visual_prompt": "negotiation hall empty chairs flags",
+   "source": "press_photo",
+   "source_query": "зал переговоров с пустыми креслами и флагами 2026 реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 819.87,
+   "duration_sec": 5.44,
+   "visual_prompt": "Zelensky briefing with press",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на брифинге с журналистами октябрь 2026 реальное фото"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 825.31,
+   "duration_sec": 14.48,
+   "visual_prompt": "EU flags Brussels",
+   "source": "press_photo",
+   "source_query": "флаги Евросоюза у здания в Брюсселе реальное фото"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 839.79,
+   "duration_sec": 13.03,
+   "visual_prompt": "Kyiv skyline dusk 2026",
+   "source": "press_photo",
+   "source_query": "панорама Киева в сумерках реальное фото 2026"
+  }
+ ],
+ "channel": "5 МИНУТ",
+ "library": "NO (search-only, кроме КАРТЫ во всплывашках)",
+ "context": "О чём: Зеленский тянет время до промежуточных выборов в США (ноябрь 2026), давя через американское ТВ, сенаторов и Конгресс; Трамп заявил, что переговоры от Украины должен вести ДРУГОЙ человек. | Стороны: Киев (Зеленский) против администрации Трампа (Вэнс, Уиткофф, Кушнер); Конгресс США как площадка давления; Москва (Песков) формулирует то же, что Трамп. | Где физически: Белый дом и Западное крыло, Капитолий и Сенат, Офис президента на Банковой, Кремль и МИД на Смоленской, студии американских телеканалов, Брюссель и Лондон. | Узел: время как политический ресурс — Зеленскому надо дожить до ноября, Трампу надо закрыть сделку сейчас; и вопрос сместился с «какие условия» на «нужен ли именно ты за столом». | Время: октябрь 2026, за несколько недель до выборов в США. | Чем заканчивается: часы Зеленского и Трампа считают время до разных событий. | Чувство: сжимающийся коридор, нарастающее давление, время кончается.",
+ "lines": [
+  "Л1 АМЕРИКАНСКАЯ ИСПОЛНИТЕЛЬНАЯ ВЛАСТЬ: Белый дом, Западное крыло, Овальный кабинет, брифинг-зал, Трамп, Вэнс, Уиткофф, Кушнер",
+  "Л2 АМЕРИКАНСКИЙ КОНГРЕСС И ВЫБОРЫ: Капитолий, зал Сената, Палата представителей, слушания комитетов, избирательные участки США",
+  "Л3 УКРАИНСКАЯ ВЛАСТЬ И КИЕВ: Офис президента на Банковой, Верховная Рада, Зеленский, панорама Киева",
+  "Л4 РОССИЙСКАЯ ВЛАСТЬ: Московский Кремль, Песков, МИД на Смоленской, Лавров",
+  "Л5 АМЕРИКАНСКОЕ ОБЕСПЕЧЕНИЕ УКРАИНЫ: Patriot армии США, Starlink/Starshield SpaceX, AIM-9X ВВС США, самолёты-разведчики США, транспортная авиация США",
+  "Л6 ЭКОНОМИКА СДЕЛКИ: российский НПЗ, дизельное топливо, цистерны и нефтебазы, газопроводная задвижка, санкционно-торговый слой",
+  "Л7 АМЕРИКАНСКОЕ ТЕЛЕВИДЕНИЕ КАК РЫЧАГ: студия телеканала, брифинг-зал Белого дома, пресс-центр Капитолия"
+ ]
+}
