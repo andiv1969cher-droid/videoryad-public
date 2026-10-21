@@ -1,0 +1,718 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 10.92,
+   "visual_prompt": "трубы у соседа — метафора названа текстом",
+   "source": "pexels_video",
+   "source_query": "water leaking from pipe joint under sink closeup no people"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 10.92,
+   "duration_sec": 6.08,
+   "visual_prompt": "water drops falling on wet floor indoor closeup no people",
+   "source": "pexels_video",
+   "source_query": "water drops falling on wet floor indoor closeup no people"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 17.0,
+   "duration_sec": 13.2,
+   "visual_prompt": "трансформаторная будка на улице украинского города 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "трансформаторная будка на улице украинского города 2026 реальное фото"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 30.2,
+   "duration_sec": 12.94,
+   "visual_prompt": "граница рядом",
+   "source": "press_photo",
+   "source_query": "пограничный переход Рава-Русская на границе Польши и Украины реальное фото"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 43.14,
+   "duration_sec": 14.18,
+   "visual_prompt": "назван текстом",
+   "source": "press_photo",
+   "source_query": "Сергей Корецкий премьер министр Украины 2026 реальное фото"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 57.32,
+   "duration_sec": 13.49,
+   "visual_prompt": "объект энергетики",
+   "source": "press_photo",
+   "source_query": "повреждённая трансформаторная подстанция в Украине 2026 реальное фото"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 70.81,
+   "duration_sec": 5.6,
+   "visual_prompt": "масштаб атак",
+   "source": "press_photo",
+   "source_query": "высоковольтная подстанция Украины после обстрела 2026 реальное фото"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 76.41,
+   "duration_sec": 12.96,
+   "visual_prompt": "теплотрасса с изоляцией на улице украинского города 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "теплотрасса с изоляцией на улице украинского города 2026 реальное фото"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 89.37,
+   "duration_sec": 12.48,
+   "visual_prompt": "городская котельная в Украине 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "городская котельная в Украине 2026 реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 101.85,
+   "duration_sec": 13.44,
+   "visual_prompt": "Ковель, Волынь",
+   "source": "press_photo",
+   "source_query": "последствия удара беспилотника в Ковеле Волынская область 2026 реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 115.29,
+   "duration_sec": 12.24,
+   "visual_prompt": "склад не работает",
+   "source": "pexels_video",
+   "source_query": "warehouse steel shelves interior empty no people"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 127.53,
+   "duration_sec": 13.44,
+   "visual_prompt": "открытый холодильник в домашней кухне реальное фото",
+   "source": "press_photo",
+   "source_query": "открытый холодильник в домашней кухне реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 140.97,
+   "duration_sec": 13.07,
+   "visual_prompt": "автовышка энергетиков у опоры линии электропередачи Украина 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "автовышка энергетиков у опоры линии электропередачи Украина 2026 реальное фото"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 154.04,
+   "duration_sec": 12.71,
+   "visual_prompt": "ратуша Тернополя фасад реальное фото",
+   "source": "press_photo",
+   "source_query": "ратуша Тернополя фасад реальное фото"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 166.75,
+   "duration_sec": 13.21,
+   "visual_prompt": "до Польши немного",
+   "source": "press_photo",
+   "source_query": "пограничный столб на границе Украины и Польши реальное фото"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 179.96,
+   "duration_sec": 12.8,
+   "visual_prompt": "а теперь Польша",
+   "source": "press_photo",
+   "source_query": "здание Министерства национальной обороны Польши в Варшаве реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 192.76,
+   "duration_sec": 12.32,
+   "visual_prompt": "польская авиация поднимается",
+   "source": "press_photo",
+   "source_query": "истребитель F-16 ВВС Польши на авиабазе 2026 реальное фото"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 205.08,
+   "duration_sec": 7.28,
+   "visual_prompt": "ситуация контролируется",
+   "source": "press_photo",
+   "source_query": "радиолокационная станция ПВО Польши на позиции 2026 реальное фото"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 212.36,
+   "duration_sec": 7.87,
+   "visual_prompt": "здание Министерства обороны Литвы в Вильнюсе реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны Литвы в Вильнюсе реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 220.22,
+   "duration_sec": 6.0,
+   "visual_prompt": "пресс-брифинг Министерства обороны Польши 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "пресс-брифинг Министерства обороны Польши 2026 реальное фото"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 226.23,
+   "duration_sec": 14.0,
+   "visual_prompt": "разбираются у литовской границы",
+   "source": "press_photo",
+   "source_query": "пограничный пункт на границе Литвы реальное фото"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 240.23,
+   "duration_sec": 12.4,
+   "visual_prompt": "сельская дорога в Подкарпатском воеводстве Польши реальное фото",
+   "source": "press_photo",
+   "source_query": "сельская дорога в Подкарпатском воеводстве Польши реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 252.63,
+   "duration_sec": 13.99,
+   "visual_prompt": "катапульта для запуска беспилотника в поле 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "катапульта для запуска беспилотника в поле 2026 реальное фото"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 266.62,
+   "duration_sec": 13.85,
+   "visual_prompt": "подпись, печать, Варшава",
+   "source": "press_photo",
+   "source_query": "панорама центра Варшавы 2026 реальное фото"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 280.47,
+   "duration_sec": 14.21,
+   "visual_prompt": "странная позиция Польши",
+   "source": "press_photo",
+   "source_query": "флаг НАТО и флаг Польши на флагштоках у военной базы 2026 реальное фото"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 294.68,
+   "duration_sec": 13.36,
+   "visual_prompt": "Варшава подчёркивает",
+   "source": "press_photo",
+   "source_query": "зал заседаний правительства Польши в Варшаве реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 308.04,
+   "duration_sec": 13.6,
+   "visual_prompt": "деньги, оружие, логистика",
+   "source": "press_photo",
+   "source_query": "погрузка военной помощи в транспортный самолёт в Польше 2026 реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 321.64,
+   "duration_sec": 11.52,
+   "visual_prompt": "территория страны НАТО",
+   "source": "press_photo",
+   "source_query": "флаги стран НАТО у штаб-квартиры в Брюсселе реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 333.15,
+   "duration_sec": 12.72,
+   "visual_prompt": "Starshield",
+   "source": "press_photo",
+   "source_query": "терминал спутниковой связи Starlink на позиции украинских военных 2026 реальное фото"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 345.88,
+   "duration_sec": 16.04,
+   "visual_prompt": "скоростной режим",
+   "source": "pexels_video",
+   "source_query": "drone propeller spinning closeup no people"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 361.92,
+   "duration_sec": 10.24,
+   "visual_prompt": "зенитная установка ведёт огонь ночью Украина 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "зенитная установка ведёт огонь ночью Украина 2026 реальное фото"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 372.16,
+   "duration_sec": 13.76,
+   "visual_prompt": "трасса Р-280",
+   "source": "press_photo",
+   "source_query": "автомобильная трасса в Запорожской области 2026 реальное фото"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 385.92,
+   "duration_sec": 14.0,
+   "visual_prompt": "атаки на автомобили",
+   "source": "press_photo",
+   "source_query": "сгоревший автомобиль на обочине трассы в Запорожской области 2026 реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 399.92,
+   "duration_sec": 15.04,
+   "visual_prompt": "назван текстом",
+   "source": "press_photo",
+   "source_query": "Илон Маск 2026 реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 414.96,
+   "duration_sec": 14.16,
+   "visual_prompt": "дрон, заряд, оператор",
+   "source": "pexels_video",
+   "source_query": "drone remote controller joysticks closeup no people"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 429.12,
+   "duration_sec": 10.92,
+   "visual_prompt": "тариф спутникового интернета",
+   "source": "press_photo",
+   "source_query": "антенна спутниковой связи Starlink установлена на крыше реальное фото"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 440.04,
+   "duration_sec": 12.46,
+   "visual_prompt": "возвращаемся к западу",
+   "source": "press_photo",
+   "source_query": "жилой квартал Львова вечером 2026 реальное фото"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 452.5,
+   "duration_sec": 7.48,
+   "visual_prompt": "региональные различия",
+   "source": "press_photo",
+   "source_query": "панорама исторического центра Львова с высоты реальное фото"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 459.98,
+   "duration_sec": 15.34,
+   "visual_prompt": "Одесский оперный театр фасад реальное фото",
+   "source": "press_photo",
+   "source_query": "Одесский оперный театр фасад реальное фото"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 475.32,
+   "duration_sec": 12.64,
+   "visual_prompt": "назван текстом",
+   "source": "press_photo",
+   "source_query": "памятник Степану Бандере во Львове реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 487.96,
+   "duration_sec": 13.12,
+   "visual_prompt": "запад 70 процентов",
+   "source": "press_photo",
+   "source_query": "центральная площадь Ивано-Франковска реальное фото"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 501.08,
+   "duration_sec": 8.69,
+   "visual_prompt": "одесская кухня",
+   "source": "press_photo",
+   "source_query": "Приморский бульвар в Одессе реальное фото"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 509.77,
+   "duration_sec": 14.8,
+   "visual_prompt": "книжный магазин с украинской литературой в Киеве 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "книжный магазин с украинской литературой в Киеве 2026 реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 524.57,
+   "duration_sec": 12.8,
+   "visual_prompt": "Потёмкинская лестница в Одессе реальное фото",
+   "source": "press_photo",
+   "source_query": "Потёмкинская лестница в Одессе реальное фото"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 537.37,
+   "duration_sec": 13.68,
+   "visual_prompt": "в Харькове тоже",
+   "source": "press_photo",
+   "source_query": "площадь Свободы в Харькове реальное фото"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 551.05,
+   "duration_sec": 14.08,
+   "visual_prompt": "переименовывать улицы",
+   "source": "press_photo",
+   "source_query": "здание городского совета Львова реальное фото"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 565.13,
+   "duration_sec": 16.19,
+   "visual_prompt": "внутренние споры",
+   "source": "press_photo",
+   "source_query": "здание Верховной Рады Украины в Киеве реальное фото"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 581.32,
+   "duration_sec": 6.16,
+   "visual_prompt": "Бандера, Майдан, Львов",
+   "source": "press_photo",
+   "source_query": "площадь Независимости в Киеве панорама 2026 реальное фото"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 587.48,
+   "duration_sec": 15.2,
+   "visual_prompt": "Россия приняла решение",
+   "source": "press_photo",
+   "source_query": "здание МИД России на Смоленской площади в Москве реальное фото"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 602.68,
+   "duration_sec": 12.96,
+   "visual_prompt": "чьё представление стало государственным",
+   "source": "press_photo",
+   "source_query": "флаг Украины на здании Офиса президента в Киеве реальное фото"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 615.63,
+   "duration_sec": 13.36,
+   "visual_prompt": "заколоченные окна жилого дома в Харькове 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "заколоченные окна жилого дома в Харькове 2026 реальное фото"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 629.0,
+   "duration_sec": 13.68,
+   "visual_prompt": "порты Одессы",
+   "source": "press_photo",
+   "source_query": "портовые краны в Одесском порту 2026 реальное фото"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 642.68,
+   "duration_sec": 14.19,
+   "visual_prompt": "бытовая цена",
+   "source": "press_photo",
+   "source_query": "двор многоэтажного дома в Тернополе 2026 реальное фото"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 656.86,
+   "duration_sec": 10.84,
+   "visual_prompt": "сидеть возле польской границы",
+   "source": "press_photo",
+   "source_query": "очередь грузовиков на границе Польши и Украины 2026 реальное фото"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 667.7,
+   "duration_sec": 8.92,
+   "visual_prompt": "война не смотрит на карту",
+   "source": "press_photo",
+   "source_query": "сельская дорога и поля в Львовской области реальное фото"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 676.62,
+   "duration_sec": 12.32,
+   "visual_prompt": "фасад здания Киевского городского совета реальное фото",
+   "source": "press_photo",
+   "source_query": "фасад здания Киевского городского совета реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 688.94,
+   "duration_sec": 6.16,
+   "visual_prompt": "свет отключают",
+   "source": "press_photo",
+   "source_query": "тёмный жилой квартал без электричества в Украине вечером 2026 реальное фото"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 695.1,
+   "duration_sec": 14.08,
+   "visual_prompt": "72 процента Киева",
+   "source": "press_photo",
+   "source_query": "панорама Киева и Днепра 2026 реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 709.18,
+   "duration_sec": 12.56,
+   "visual_prompt": "замок в Луцке Волынская область реальное фото",
+   "source": "press_photo",
+   "source_query": "замок в Луцке Волынская область реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 721.75,
+   "duration_sec": 12.21,
+   "visual_prompt": "в сентябре было 61",
+   "source": "press_photo",
+   "source_query": "улица в центре Ужгорода 2026 реальное фото"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 733.95,
+   "duration_sec": 12.48,
+   "visual_prompt": "удары по западным областям",
+   "source": "press_photo",
+   "source_query": "повреждённое энергетическое оборудование в Хмельницкой области 2026 реальное фото"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 746.43,
+   "duration_sec": 12.32,
+   "visual_prompt": "напишите в комментариях",
+   "source": "press_photo",
+   "source_query": "прохожие на улице Львова вечером 2026 реальное фото"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 758.75,
+   "duration_sec": 12.3,
+   "visual_prompt": "сроки окончания войны",
+   "source": "press_photo",
+   "source_query": "запас дров у частного дома в Украине 2026 реальное фото"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 771.06,
+   "duration_sec": 10.88,
+   "visual_prompt": "что значит терпеть",
+   "source": "press_photo",
+   "source_query": "генератор у подъезда жилого дома в Украине 2026 реальное фото"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 781.94,
+   "duration_sec": 13.74,
+   "visual_prompt": "сидеть без электричества",
+   "source": "pexels_video",
+   "source_query": "candle burning on table in dark room closeup no people"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 795.68,
+   "duration_sec": 14.4,
+   "visual_prompt": "платить больше за всё",
+   "source": "pexels_video",
+   "source_query": "electricity meter dial closeup no people"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 810.08,
+   "duration_sec": 11.04,
+   "visual_prompt": "тыла становится меньше",
+   "source": "press_photo",
+   "source_query": "промышленная зона на окраине Львова реальное фото"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 821.12,
+   "duration_sec": 10.0,
+   "visual_prompt": "западные маршруты перевозок",
+   "source": "pexels_video",
+   "source_query": "truck tyres rolling on highway closeup no people"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 831.12,
+   "duration_sec": 13.76,
+   "visual_prompt": "НАТО усиливает присутствие",
+   "source": "press_photo",
+   "source_query": "фрегат НАТО в Чёрном море 2026 реальное фото"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 844.88,
+   "duration_sec": 13.36,
+   "visual_prompt": "Румыния и Болгария",
+   "source": "press_photo",
+   "source_query": "порт Констанца в Румынии реальное фото"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 858.24,
+   "duration_sec": 6.2,
+   "visual_prompt": "один беспилотник оказался не там",
+   "source": "press_photo",
+   "source_query": "обломки беспилотника на поле 2026 реальное фото"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 864.44,
+   "duration_sec": 14.64,
+   "visual_prompt": "поднялись польские самолёты",
+   "source": "press_photo",
+   "source_query": "пара истребителей F-16 ВВС Польши в небе 2026 реальное фото"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 879.08,
+   "duration_sec": 7.66,
+   "visual_prompt": "преимущество расстояния",
+   "source": "press_photo",
+   "source_query": "автомобильная дорога в Карпатах Львовская область реальное фото"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 886.74,
+   "duration_sec": 13.14,
+   "visual_prompt": "логистика удобнее",
+   "source": "press_photo",
+   "source_query": "складской терминал у границы с Польшей 2026 реальное фото"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 899.88,
+   "duration_sec": 15.12,
+   "visual_prompt": "заявления политиков",
+   "source": "press_photo",
+   "source_query": "зал заседаний Верховной Рады Украины 2026 реальное фото"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 915.0,
+   "duration_sec": 16.51,
+   "visual_prompt": "счёт возле твоей тарелки",
+   "source": "pexels_video",
+   "source_query": "empty white plate on restaurant table closeup no people"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 931.52,
+   "duration_sec": 8.76,
+   "visual_prompt": "проспект Свободы во Львове 2026 реальное фото",
+   "source": "press_photo",
+   "source_query": "проспект Свободы во Львове 2026 реальное фото"
+  }
+ ],
+ "channel": "5 МИНУТ",
+ "library": "NO (search-only, кроме КАРТЫ во всплывашках)",
+ "production_id": "PROD_20261021_FRONT_WEST_UKRAINE_5MIN",
+ "context": [
+  "О чём: удары по энергетике ЗАПАДНОЙ Украины (Волынь, Львовская, Ровненская, Тернопольская, Хмельницкая) — тыл перестаёт быть тылом.",
+  "Стороны: Россия (удары) · Украина (энергетика, власть, дроны) · Польша (авиация, МО, Варшава) · Литва · НАТО · SpaceX/Starshield (Маск) · Румыния, Болгария.",
+  "Где физически: Ковель и Волынь, Львов, Тернополь, Хмельницкий; Люблинское и Подкарпатское воеводства Польши; Литва; трасса Р-280 Мариуполь—Мелитополь—Крым; Чёрное море.",
+  "Узел: нельзя требовать терпеть всей страной и платить бытовую цену силами других; запад подходит к этой проверке.",
+  "Время: октябрь 2026 (2147 атак с 16 июля; опросы КМИС сентябрь→октябрь).",
+  "Чем кончается: опросы показали ОБРАТНОЕ — на западе готовность терпеть выросла 61→69%; вопрос открыт.",
+  "Чувство: отрезвление. «Счёт кладут уже возле твоей тарелки»."
+ ],
+ "lines": [
+  "УКРАИНСКАЯ ЭНЕРГЕТИКА ЗАПАДА: подстанции и трансформаторы в Волынской/Львовской/Хмельницкой, ЛЭП, аварийные бригады Укрэнерго",
+  "ПОСЛЕДСТВИЯ РОССИЙСКИХ УДАРОВ НА ЗАПАДЕ: Ковель, склады, стоянка грузовиков, автосервис, торговый комплекс (только материальное, без жести)",
+  "ПОЛЬСКАЯ ВЛАСТЬ И АВИАЦИЯ: F-16 ВВС Польши, авиабазы, МО Польши в Варшаве, польско-украинская граница, воеводства",
+  "ЛИТВА И НАТО: место падения дрона в Литве, посты ПВО, флаги НАТО, фрегаты и самолёты НАТО в Чёрном море, Констанца",
+  "SPACEX/STARSHIELD И УКРАИНСКИЕ ДРОНЫ: терминалы спутниковой связи, Илон Маск, украинские дальнобойные БПЛА, трасса Р-280",
+  "УКРАИНСКАЯ ИДЕНТИЧНОСТЬ И РЕГИОНАЛЬНЫЙ РАСКОЛ: Львов и памятник Бандере, Ивано-Франковск, Одесса, Харьков, Киев, Рада",
+  "БЫТОВАЯ ЦЕНА (предметный сток, людей нет): генератор у магазина, свеча, счётчик, холодильник, склад, шины грузовика, спутниковая антенна"
+ ]
+}
