@@ -1,0 +1,108 @@
+{
+ "scenes": [
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 13.2,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/4ec441a915.mp4?token=GF-4q9TVV8xmKNR-QKd6xGyG6MOsZYVk7MambwjDZwykTJ4MOs4-HqyVSJ-J",
+   "visual_prompt": "ночное зарево от удара — отчего пропадает свет"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 12.96,
+   "source": "press_photo",
+   "source_query": "павербанки на зарядке в кафе Украина 2026 реальное фото",
+   "visual_prompt": "заряди павербанк — названо текстом"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 13.44,
+   "source": "press_photo",
+   "source_query": "полупустые полки в продуктовом магазине Украина 2026 реальное фото",
+   "visual_prompt": "магазин получил товар позже"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "duration_sec": 12.32,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/afzrofixuwbmOFuh0khG1mPszdmSwhcwfTNcKbtuiNzw-sts1_SiKFfutgXbaV4JMf6g_KrPI5ULzeawa",
+   "visual_prompt": "официальное предупреждение RCB жителям воеводства"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 13.99,
+   "source": "press_photo",
+   "source_query": "панорама Санкт-Петербурга 2026 реальное фото",
+   "visual_prompt": "полёты в сторону Петербурга — названо"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 13.6,
+   "source": "press_photo",
+   "source_query": "учебный центр подготовки украинских военных в Польше 2026 реальное фото",
+   "visual_prompt": "обучение — названо текстом"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "duration_sec": 13.76,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/kX3AvjG2LsdI9EaXjwaBpaAzve25vRaiMe6eMfd7iEjpUV2bl3hn196e4GVEjk9RWNOPzWBvqzoviqlfW",
+   "visual_prompt": "карта маршрута трассы Р-280 — названа текстом"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 15.34,
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Map of Ukraine Oblasts simple 4 colors.jpg",
+   "visual_prompt": "разные регионы одной страны"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "duration_sec": 13.68,
+   "source": "press_photo",
+   "source_query": "терриконы Донбасса реальное фото",
+   "visual_prompt": "в Донбассе тем более — названо"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "duration_sec": 10.88,
+   "source": "press_photo",
+   "source_query": "бочка с питьевой водой во дворе жилого дома Украина 2026 реальное фото",
+   "visual_prompt": "что значит терпеть"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "duration_sec": 10.0,
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "visual_prompt": "Польская граница и небо НАТО рядом"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "duration_sec": 13.76,
+   "source": "press_photo",
+   "source_query": "повреждённый сухогруз в Чёрном море 2026 реальное фото",
+   "visual_prompt": "атаки на торговые суда — причина"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "duration_sec": 13.36,
+   "source": "local_library",
+   "source_query": "КАРТЫ/РУМЫНИЯ/Romania blank counties map.jpg",
+   "visual_prompt": "Румыния сбивала над своими водами"
+  }
+ ]
+}
