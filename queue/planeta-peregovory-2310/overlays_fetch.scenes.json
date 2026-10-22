@@ -1,0 +1,172 @@
+{
+ "scenes": [
+  {
+   "id": 6,
+   "text": "",
+   "duration_sec": 8.5,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/coPPwal5W2afz1lFOSmq3y5EUSb0fO4qmSKt3zOq5Lv5myLmmJxpFku_dlFgJTS5wy5tn-lfRjhHo6RsU081Lm2x7A4g_96-FBKkGYMehwWRuQNjNH8ISQTNdSAPy43NNt9SmqgoBz42hFVcrmgUcx-Wz7EjfRwPrkSZhoxezU7syLevztq_REjuwvcbXtBOUna-SLXVYYvgbncS_40GIrPeZHILBJZAY2LhzogCbdxgdDoiFgE49TVWegfGLv1FyrFNbyQw6crcQDo9ERU1cQMQHaQ3-3YgWdWhcoX3fytx5mIETmqlqNLpv5fkE1YLHpdYjBiCm6XGH6ye0HhMEg.jpg",
+   "visual_prompt": "публикация Еврокомиссии о темах переговоров в Осло"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "duration_sec": 9.77,
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Map of Ukraine Oblasts simple 4 colors.jpg",
+   "visual_prompt": "карта областей Украины"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 12.56,
+   "source": "press_photo",
+   "source_query": "флаг США и флаг России на столе переговоров реальное фото",
+   "visual_prompt": "флаги США и России"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "duration_sec": 12.88,
+   "source": "press_photo",
+   "source_query": "зал Североатлантического совета НАТО Брюссель реальное фото",
+   "visual_prompt": "зал совета НАТО"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 10.81,
+   "source": "press_photo",
+   "source_query": "высотка МИД России на Смоленской площади реальное фото",
+   "visual_prompt": "высотка МИД России"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "duration_sec": 11.13,
+   "source": "press_photo",
+   "source_query": "украинские военнослужащие на учениях 2026 реальное фото",
+   "visual_prompt": "украинские военные"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 13.36,
+   "source": "press_photo",
+   "source_query": "склад боеприпасов военная помощь США Украине 2026 реальное фото",
+   "visual_prompt": "склад боеприпасов"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "duration_sec": 13.96,
+   "source": "press_photo",
+   "source_query": "антенна спутниковой связи военная США реальное фото",
+   "visual_prompt": "антенна спутниковой связи"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 12.25,
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский портрет октябрь 2026 реальное фото",
+   "visual_prompt": "портрет Зеленского"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 14.85,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ИРАН/Iran locator in region (red on cream).png",
+   "visual_prompt": "карта Ирана в регионе"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "duration_sec": 12.43,
+   "source": "press_photo",
+   "source_query": "автозаправочная станция в США заправочные колонки 2026 реальное фото",
+   "visual_prompt": "АЗС в США"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 9.84,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/EB-UDA6u0a-3eK9H2L1xYZi2yFDRZj0Yqkoq6qQj_b53PmF4p7uCnkuHWIkm7Th7uqh321MOo0if8SDeOVn1W0Q89bI7kLkuVB5QBj5XPECKm_XyDek9TTJckGjuYg-P4TnhoyHBD6cbvGS-av6t0cQpziKV9NZkOINRp49gqVF2LUc75joe2pH_76yy1Pf9CNX9oNTmXVhnKgRmDNSIYvr2N-Pq15R0KdEnzWyntl_EXAb4xQVgngIRI02oczJE0nfYQUXF931fIYmgq_-eMRFHG5lBjTTGNijaCMLXwLIO5QjnekZoNlbdjVuFLalFk2tu6SQ4FIb26Np4cmUK7g.jpg",
+   "visual_prompt": "Павел о дизельной сделке Трампа и Путина"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "duration_sec": 10.63,
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ/Blank Map of Russia With Borders of Subdivions Small Scale M.jpg",
+   "visual_prompt": "карта России"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 14.39,
+   "source": "press_photo",
+   "source_query": "истребитель F-35 ВВС США на аэродроме в Европе 2026 реальное фото",
+   "visual_prompt": "F-35 ВВС США"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 11.19,
+   "source": "press_photo",
+   "source_query": "порт Гамбурга контейнерный терминал 2026 реальное фото",
+   "visual_prompt": "порт Гамбурга"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "duration_sec": 12.57,
+   "source": "press_photo",
+   "source_query": "ремонтное судно подводный кабель связи 2026 реальное фото",
+   "visual_prompt": "ремонт подводного кабеля"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "duration_sec": 12.88,
+   "source": "press_photo",
+   "source_query": "уборка пшеницы комбайн в Словакии 2026 реальное фото",
+   "visual_prompt": "уборка пшеницы в Словакии"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "duration_sec": 12.96,
+   "source": "press_photo",
+   "source_query": "Лахта центр Газпром Санкт-Петербург реальное фото",
+   "visual_prompt": "Лахта-центр"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "duration_sec": 12.32,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/FCRrlo_oZGVbgv8q_eKMlfG_E8Iyx5QRVJkZt-D6tBt8D0Gtk07dE2PyT8Pt5MgrZVEGLoA3dsLriOJ2ghLoZ7BSKCMVGmW8zRvveb_B1mA4EpatLzfJoy0GqvmKEGlHgCpICZHa5rwFmjBnKiNuBnpY2cIfZkv03yt1E6pk32bXAhX_wEz1egxEBHKogorwoD6DZx3LpodFTMUqvGvp0NWM8zijW6RLq4obLG5ksmDRZSueZjC1sjrltIZPg8ArVvg-ZOcruMTqh6jdPiAWsQ5wfY8QMIoUEe71RK6E1UfjLNedYi0nQVoNKNwVEcnvNPaUDZl93ljhOXjND7iqVw.jpg",
+   "visual_prompt": "публикация о поиске переговорщика ЕС с Путиным"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "duration_sec": 7.11,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/JqPBcDeKPnET5EiyevXswUPMwtc1CIYAmH5RPAoFNFYghvxHQkdVs8bJKSSZ-UiGCJ-Qmocfb4dOXUsNxYv4m5zx3SgukxFW5LevE5vPQvcApF80B3fsH1zlxTzzuyU7jHTfY1yHQfCoo4fo0pg1t5dai0tqygy3DET6ISwHWkUR2HWDgUjS30S5FEsO3O1HQ5KxMzwWh_m-iJBSlpwlaL4BjQW6-ulwwzAN4jzo6cBrnBZJjyXXixVLvFFDmRk79UAWmsLV4iUpwAtsXQOofC-FeXVw5Z-CKB99FijmteA52ri92ZAfVNMbkT5guPZXqzjk9CRTaVhai_eUd0vANA.jpg",
+   "visual_prompt": "новый российский беспилотник"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "duration_sec": 13.41,
+   "source": "press_photo",
+   "source_query": "Южный мост в Киеве реальное фото",
+   "visual_prompt": "Южный мост в Киеве"
+  }
+ ]
+}
