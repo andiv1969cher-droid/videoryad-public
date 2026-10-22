@@ -81,9 +81,9 @@
    "text": "",
    "start_sec": 76.48,
    "duration_sec": 13.04,
-   "visual_prompt": "комбинат BASF",
+   "visual_prompt": "завод BASF, современный кадр",
    "source": "press_photo",
-   "source_query": "химический комбинат BASF в Людвигсхафене реальное фото"
+   "source_query": "химический завод BASF в Людвигсхафене 2026 реальное фото"
   },
   {
    "id": 9,
@@ -135,18 +135,18 @@
    "text": "",
    "start_sec": 155.08,
    "duration_sec": 12.72,
-   "visual_prompt": "газоприёмная станция в Любмине",
+   "visual_prompt": "приёмная станция газопровода в Любмине",
    "source": "press_photo",
-   "source_query": "компрессорная станция газопровода в Любмине Германия реальное фото"
+   "source_query": "газоизмерительная станция в Любмине Германия 2026 реальное фото"
   },
   {
    "id": 15,
    "text": "",
    "start_sec": 167.8,
    "duration_sec": 12.8,
-   "visual_prompt": "конвейер стекольного производства",
+   "visual_prompt": "стекольная печь крупным планом",
    "source": "pexels_video",
-   "source_query": "glass bottles production line conveyor factory"
+   "source_query": "molten glass furnace glowing industrial closeup"
   },
   {
    "id": 16,
@@ -198,9 +198,9 @@
    "text": "",
    "start_sec": 234.88,
    "duration_sec": 9.28,
-   "visual_prompt": "состав цистерн",
+   "visual_prompt": "состав цистерн на наливе",
    "source": "press_photo",
-   "source_query": "нефтяные цистерны на железнодорожной станции в России реальное фото"
+   "source_query": "нефтяные цистерны на наливной эстакаде в России 2026 реальное фото"
   },
   {
    "id": 22,
@@ -376,9 +376,9 @@
    "text": "",
    "start_sec": 440.07,
    "duration_sec": 13.25,
-   "visual_prompt": "счётная машинка с долларами",
-   "source": "pexels_video",
-   "source_query": "dollar banknotes counting machine closeup"
+   "visual_prompt": "Пентагон с высоты — расходы США",
+   "source": "press_photo",
+   "source_query": "Пентагон министерство обороны США аэрофотосъёмка реальное фото"
   },
   {
    "id": 40,
@@ -457,9 +457,9 @@
    "text": "",
    "start_sec": 543.04,
    "duration_sec": 13.84,
-   "visual_prompt": "сборочный цех Volkswagen",
+   "visual_prompt": "конвейер Volkswagen",
    "source": "press_photo",
-   "source_query": "цех завода Volkswagen в Вольфсбурге реальное фото"
+   "source_query": "сборочный конвейер завода Volkswagen в Вольфсбурге 2026 реальное фото"
   },
   {
    "id": 48,
@@ -511,10 +511,9 @@
    "text": "",
    "start_sec": 617.64,
    "duration_sec": 12.56,
-   "visual_prompt": "фото из поста про возобновление межправкомиссии Словакия-Россия",
-   "source": "direct_url",
-   "source_query": "https://cdn4.telesco.pe/file/b5NcY-H_1U8LfTlLrzZX9RNFxblG3b5tBw_0GDtP27BnXaicFUqfgf_1E5y-uPVFHsqmsw1qp6ltdsSg_lvv6Fd_DjwSHV7OAlmDo6Hpw_TSKwJ-x4zN-K1PrcJjhTFWCdKRRA6iWW0aR2rCQOw7xCxnc9Po0PU0Z3-gtL5GF-0mBG-F23Juc9lQkVR3PjBlXIwDUgf7HD1ggHVNDhscCws3SwE9ZD29FOEH6r5cLLJ43F1HFqN_ZqUjXL-mHIREZowU0ahPxUsjlp4_hQtVpfKFOgTDzdXqXkzT7wm5JVO949gTiWjf9Xb_wxUb2lFy9oNfVYainL-WczaZhae6kg.jpg",
-   "dossier_link": "https://t.me/nabludatels/67089"
+   "visual_prompt": "корпус правительства Словакии",
+   "source": "press_photo",
+   "source_query": "здание правительства Словакии в Братиславе реальное фото"
   },
   {
    "id": 54,
@@ -548,10 +547,9 @@
    "text": "",
    "start_sec": 659.24,
    "duration_sec": 13.32,
-   "visual_prompt": "фото Алисы Вайдель из поста источника",
-   "source": "direct_url",
-   "source_query": "https://cdn4.telesco.pe/file/A1quhe3OmZOeJp85YqE5b28_eSSQKVK6n6-l_4n6-5kjopA0YGZRGObx4ktr5Afp5V0uOBXSCMSKIPoqZvuP3qGNBzanwsDQPabD_-hEwAU-di67yPQ8foHRFVevrwn9rFN8RgLqjfu72wKRFQZFOHf1nFoP_ZJgJ1UeYmv8DnvfCFRPn6LuXZ5wjx6iKvYuAMaKSk3b0kyqO0wH2Afx4kh_W2xjQnBJFfZhhc1egga-rjp_tJMF3x570KnbZ4IBhywOug-ksSGHf0suMCZDjVXf7lZeKZ1khNYTOG7tjqDAD3TC8vXr0k61BZXNQlqi-rw-3sU7SPNX67CSEt_YZA",
-   "dossier_link": "https://t.me/nabludatels/67087"
+   "visual_prompt": "Вайдель за трибуной",
+   "source": "press_photo",
+   "source_query": "Алиса Вайдель АдГ выступление 2026 реальное фото"
   },
   {
    "id": 58,
@@ -713,9 +711,9 @@
    "text": "",
    "start_sec": 868.49,
    "duration_sec": 13.33,
-   "visual_prompt": "зал Североатлантического совета",
-   "source": "press_photo",
-   "source_query": "зал заседаний Североатлантического совета НАТО реальное фото"
+   "visual_prompt": "железобетон крупным планом — метафора «железобетонных гарантий», названная текстом",
+   "source": "pexels_video",
+   "source_query": "reinforced concrete bunker wall rebar closeup"
   },
   {
    "id": 75,
