@@ -1,0 +1,942 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 15.24,
+   "visual_prompt": "пустая комната без отделки — метафора «делить квартиру», названная текстом",
+   "source": "pexels_video",
+   "source_query": "empty unfinished room concrete walls daylight no people",
+   "line": "мета"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 15.24,
+   "duration_sec": 13.91,
+   "visual_prompt": "Белый дом — где решается",
+   "source": "press_photo",
+   "source_query": "Белый дом Вашингтон северный фасад реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 29.15,
+   "duration_sec": 13.61,
+   "visual_prompt": "штаб НАТО — внеблоковый статус как пункт пакета",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО в Брюсселе фасад реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 42.76,
+   "duration_sec": 13.12,
+   "visual_prompt": "Еврокомиссия — перспектива членства в ЕС",
+   "source": "press_photo",
+   "source_query": "Еврокомиссия Берлемон Брюссель фасад реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 55.88,
+   "duration_sec": 15.52,
+   "visual_prompt": "газоперекачивающий агрегат — российский газ и Северный поток",
+   "source": "press_photo",
+   "source_query": "газоперекачивающий агрегат магистрального газопровода в России реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 71.4,
+   "duration_sec": 9.31,
+   "visual_prompt": "Донецк — «новая формула существования»",
+   "source": "press_photo",
+   "source_query": "Донецк центр города улица реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 80.71,
+   "duration_sec": 13.6,
+   "visual_prompt": "американская нефтедобыча — «новые сделки американцам»",
+   "source": "press_photo",
+   "source_query": "нефтяная качалка в Техасе реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 94.31,
+   "duration_sec": 12.64,
+   "visual_prompt": "флаги НАТО без людей — соединить отказ от НАТО и зону на бумаге",
+   "source": "press_photo",
+   "source_query": "флаги стран НАТО у штаб-квартиры в Брюсселе реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 106.95,
+   "duration_sec": 12.88,
+   "visual_prompt": "КАРТОЧКА-ЦИТАТА: на бумаге пакет соединяется, в жизни каждый пункт требует согласия",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "quote",
+    "text": "На бумаге пункты складываются в пакет. В жизни каждый требует согласия тех, кто между собой не договорился.",
+    "accent": "требует согласия",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 119.83,
+   "duration_sec": 13.28,
+   "visual_prompt": "блокпост — «демилитаризованная зона» на земле",
+   "source": "press_photo",
+   "source_query": "блокпост с бетонными блоками на дороге в Донецкой области реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 133.11,
+   "duration_sec": 12.4,
+   "visual_prompt": "Зеленский — назван в тексте сцены",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на пресс-конференции октябрь 2026 реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 145.51,
+   "duration_sec": 12.99,
+   "visual_prompt": "Путин на трибуне — прямой автор позиции «взятое назад не отдаём» (цитата 23.10)",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН/Нарезки - Путин1.mp4",
+   "line": "L2"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 158.5,
+   "duration_sec": 8.71,
+   "visual_prompt": "укрепления — военные действия идут",
+   "source": "press_photo",
+   "source_query": "противотанковые ежи и бетонные блоки на окраине украинского города реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 167.21,
+   "duration_sec": 14.65,
+   "visual_prompt": "прифронтовая улица — каждый участок меняет цену разговора",
+   "source": "press_photo",
+   "source_query": "опустевшая улица прифронтового города в Донецкой области реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 181.86,
+   "duration_sec": 14.8,
+   "visual_prompt": "Госдеп — где идёт торг, время как участник",
+   "source": "press_photo",
+   "source_query": "Госдепартамент США в Вашингтоне фасад реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 196.66,
+   "duration_sec": 12.64,
+   "visual_prompt": "горящий НПЗ — удары не прекращаются",
+   "source": "press_photo",
+   "source_query": "горящий нефтеперерабатывающий завод в России после удара дрона реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 209.3,
+   "duration_sec": 14.08,
+   "visual_prompt": "C-17 ВВС США — Вашингтон распоряжается возможностями",
+   "source": "press_photo",
+   "source_query": "военно-транспортный самолёт C-17 ВВС США на аэродроме реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 223.38,
+   "duration_sec": 14.61,
+   "visual_prompt": "выбитые окна — ночь в Харькове, Киеве, Одессе",
+   "source": "press_photo",
+   "source_query": "выбитые окна в жилом доме в Харькове после удара реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 237.99,
+   "duration_sec": 9.99,
+   "visual_prompt": "Евросовет — членство в ЕС остаётся на столе",
+   "source": "press_photo",
+   "source_query": "Евросовет Брюссель здание Europa фасад реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 247.98,
+   "duration_sec": 7.77,
+   "visual_prompt": "нефтеналивной причал — смягчение санкций и сделки",
+   "source": "press_photo",
+   "source_query": "нефтеналивной причал порта Новороссийск вид с берега реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 255.75,
+   "duration_sec": 15.2,
+   "visual_prompt": "укладка морского газопровода с трубоукладочного судна реальное фото",
+   "source": "press_photo",
+   "source_query": "укладка морского газопровода с трубоукладочного судна реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 270.95,
+   "duration_sec": 13.08,
+   "visual_prompt": "welded steel pipe joint closeup no people",
+   "source": "pexels_video",
+   "source_query": "welded steel pipe joint closeup no people",
+   "line": "L6"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 284.03,
+   "duration_sec": 6.02,
+   "visual_prompt": "резервуарный парк — политика не из любви к человечеству",
+   "source": "pexels_video",
+   "source_query": "crude oil storage tank farm aerial no people",
+   "line": "L6"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 290.05,
+   "duration_sec": 13.62,
+   "visual_prompt": "КАРТОЧКА-ТЕЗИСЫ: вокруг чего строятся сделки — ресурсы, рынки, территория, логистика, энергия",
+   "source": "card:bullets",
+   "source_query": "карточка «bullets» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "bullets",
+    "kick": "ВОКРУГ ЧЕГО СТРОЯТСЯ СДЕЛКИ",
+    "lines": [
+     "Ресурсы",
+     "Рынки",
+     "Территория",
+     "Логистика",
+     "Энергия"
+    ],
+    "watermark": "ПЛАНЕТА",
+    "anim": 2.5
+   }
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 303.67,
+   "duration_sec": 12.24,
+   "visual_prompt": "Трамп — назван в тексте сцены",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Белом доме октябрь 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 315.91,
+   "duration_sec": 13.97,
+   "visual_prompt": "СПГ-терминал — результат в интересах Америки",
+   "source": "press_photo",
+   "source_query": "терминал сжиженного газа в порту Хьюстона реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 329.88,
+   "duration_sec": 12.72,
+   "visual_prompt": "ключ в замке — метафора «договориться с хозяином», названная текстом",
+   "source": "pexels_video",
+   "source_query": "metal door lock key closeup no people",
+   "line": "мета"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 342.6,
+   "duration_sec": 14.4,
+   "visual_prompt": "С-400 на дежурстве — «хозяин поставил дверь покрепче»",
+   "source": "press_photo",
+   "source_query": "пусковая установка С-400 на боевом дежурстве в России 2026 реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 357.0,
+   "duration_sec": 10.56,
+   "visual_prompt": "танкер под флагом РФ — силовое давление против договорённости",
+   "source": "press_photo",
+   "source_query": "нефтяной танкер под российским флагом в море реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 367.56,
+   "duration_sec": 13.44,
+   "visual_prompt": "Путин за столом с документами — прямой автор цитаты про архитектуру безопасности всей Европы (23.10)",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН/Нарезки - Путин4.mp4",
+   "line": "L2"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 381.0,
+   "duration_sec": 12.9,
+   "visual_prompt": "рубеж — торг «сколько километров кому»",
+   "source": "press_photo",
+   "source_query": "противотанковые рвы и укрепления на рубеже в Донбассе реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 393.9,
+   "duration_sec": 12.54,
+   "visual_prompt": "КАРТОЧКА-РАССТАНОВКА: у каждого свой глобус — Москва, Киев, Вашингтон",
+   "source": "card:forces",
+   "source_query": "карточка «forces» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "forces",
+    "kick": "У КАЖДОГО СВОЙ ГЛОБУС",
+    "lines": [
+     "вопрос шире Донбасса",
+     "почти экзистенциальный",
+     "ещё и экономический"
+    ],
+    "watermark": "ПЛАНЕТА",
+    "anim": 2.5
+   }
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 406.44,
+   "duration_sec": 14.76,
+   "visual_prompt": "Зеленский даёт интервью — назван в тексте",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский интервью на камеру октябрь 2026 реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 421.2,
+   "duration_sec": 14.34,
+   "visual_prompt": "Кабинет министров Украины здание в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "Кабинет министров Украины здание в Киеве реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 435.54,
+   "duration_sec": 15.34,
+   "visual_prompt": "Капитолий — разногласия внутри американской политики",
+   "source": "press_photo",
+   "source_query": "Капитолий США в Вашингтоне фасад реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 450.88,
+   "duration_sec": 12.92,
+   "visual_prompt": "mixing console faders closeup no people",
+   "source": "pexels_video",
+   "source_query": "mixing console faders closeup no people",
+   "line": "L3"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 463.79,
+   "duration_sec": 8.71,
+   "visual_prompt": "Вестминстер — британская площадка",
+   "source": "press_photo",
+   "source_query": "Вестминстерский дворец в Лондоне реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 472.5,
+   "duration_sec": 13.14,
+   "visual_prompt": "Европарламент — европейские силы против американской конструкции",
+   "source": "press_photo",
+   "source_query": "Европарламент в Страсбурге фасад реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 485.64,
+   "duration_sec": 6.39,
+   "visual_prompt": "Рада — смысл публичного выхода Зеленского",
+   "source": "press_photo",
+   "source_query": "Верховная Рада Украины фасад в Киеве реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 492.03,
+   "duration_sec": 13.45,
+   "visual_prompt": "Казначейство — публичное давление на Вашингтон",
+   "source": "press_photo",
+   "source_query": "здание Казначейства США в Вашингтоне реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 505.49,
+   "duration_sec": 13.04,
+   "visual_prompt": "Вэнс — назван в тексте сцены",
+   "source": "press_photo",
+   "source_query": "Джей Ди Вэнс вице-президент США 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 518.52,
+   "duration_sec": 12.03,
+   "visual_prompt": "Уиткофф — назван в тексте сцены",
+   "source": "press_photo",
+   "source_query": "Стив Уиткофф спецпосланник США 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 530.56,
+   "duration_sec": 13.44,
+   "visual_prompt": "флагштоки ЕС без людей — Европа и американский список",
+   "source": "press_photo",
+   "source_query": "флагштоки стран Евросоюза в Брюсселе реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 544.0,
+   "duration_sec": 9.1,
+   "visual_prompt": "КАРТОЧКА-ЦИТАТА: красивые формулировки остаются красивыми формулировками",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "quote",
+    "text": "Пока не ясно, какие обязательства выполнят и в каком порядке, красивые формулировки остаются формулировками.",
+    "accent": "красивые формулировки",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 553.1,
+   "duration_sec": 12.74,
+   "visual_prompt": "терминал Starlink — назван в тексте",
+   "source": "press_photo",
+   "source_query": "терминал Starlink на позиции украинских военных реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 565.84,
+   "duration_sec": 12.88,
+   "visual_prompt": "следы спутников на небе — связь стала работать лучше",
+   "source": "pexels_video",
+   "source_query": "night sky satellite trails long exposure no people",
+   "line": "L7"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 578.72,
+   "duration_sec": 12.48,
+   "visual_prompt": "Пентагон — военные рычаги поддержки",
+   "source": "press_photo",
+   "source_query": "Пентагон вид с воздуха Вашингтон реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 591.2,
+   "duration_sec": 13.4,
+   "visual_prompt": "ATACMS — инструмент, который не выключают",
+   "source": "press_photo",
+   "source_query": "ракета ATACMS на пусковой установке армии США реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 604.6,
+   "duration_sec": 13.68,
+   "visual_prompt": "комплекс спутниковой связи на военной базе США реальное фото",
+   "source": "press_photo",
+   "source_query": "комплекс спутниковой связи на военной базе США реальное фото",
+   "line": "L7"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 618.27,
+   "duration_sec": 7.36,
+   "visual_prompt": "перо на столе — «автограф на документе», предмет сюжета",
+   "source": "pexels_video",
+   "source_query": "fountain pen on polished desk closeup no people",
+   "line": "L1"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 625.63,
+   "duration_sec": 13.6,
+   "visual_prompt": "здание Администрации Президента России на Старой площади реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Администрации Президента России на Старой площади реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 639.23,
+   "duration_sec": 14.16,
+   "visual_prompt": "Флинн — назван в тексте сцены",
+   "source": "press_photo",
+   "source_query": "Майкл Флинн 2026 реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 653.39,
+   "duration_sec": 15.25,
+   "visual_prompt": "Верховный суд США фасад в Вашингтоне реальное фото",
+   "source": "press_photo",
+   "source_query": "Верховный суд США фасад в Вашингтоне реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 668.65,
+   "duration_sec": 12.96,
+   "visual_prompt": "терриконы — Донбасс как предмет согласования",
+   "source": "press_photo",
+   "source_query": "терриконы шахты в Донецкой области реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 681.61,
+   "duration_sec": 12.16,
+   "visual_prompt": "Конституционный суд — непризнание полномочий подписанта",
+   "source": "press_photo",
+   "source_query": "Конституционный суд Украины в Киеве фасад реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 693.77,
+   "duration_sec": 8.76,
+   "visual_prompt": "Дом правительства РФ — обязательность документа для сторон",
+   "source": "press_photo",
+   "source_query": "Дом правительства Российской Федерации в Москве реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 702.53,
+   "duration_sec": 7.96,
+   "visual_prompt": "флаг НАТО — необратимый шаг первым",
+   "source": "press_photo",
+   "source_query": "флаг НАТО у штаб-квартиры в Брюсселе реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 710.48,
+   "duration_sec": 14.56,
+   "visual_prompt": "нефтехранилище — санкционные послабления зависят от десятков решений",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ/221201082313-russia-oil-tanks-file-restricted.jpg",
+   "line": "L6"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 725.05,
+   "duration_sec": 7.43,
+   "visual_prompt": "вентиль — договорённости начинают постепенно",
+   "source": "pexels_video",
+   "source_query": "industrial gas valve handwheel closeup no people",
+   "line": "L6"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 732.48,
+   "duration_sec": 13.49,
+   "visual_prompt": "ЕЦБ — инвестиционный пакет это деньги",
+   "source": "press_photo",
+   "source_query": "Европейский центральный банк во Франкфурте реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 745.97,
+   "duration_sec": 12.72,
+   "visual_prompt": "КАРТОЧКА-ТЕЗИСЫ: часы у каждого пункта идут с разной скоростью",
+   "source": "card:bullets",
+   "source_query": "карточка «bullets» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "bullets",
+    "kick": "ЧАСЫ ИДУТ С РАЗНОЙ СКОРОСТЬЮ",
+    "lines": [
+     "Отказ от НАТО — зафиксировать сейчас",
+     "Инвестиции — обещание на годы вперёд",
+     "Санкции — смягчать частями",
+     "Газ — вернуть частично",
+     "Членство в ЕС — отдельный процесс"
+    ],
+    "watermark": "ПЛАНЕТА",
+    "anim": 2.5
+   }
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 758.68,
+   "duration_sec": 11.5,
+   "visual_prompt": "светлая комната с балконом — возврат сквозной метафоры квартиры",
+   "source": "pexels_video",
+   "source_query": "sunlit empty apartment balcony doorway no people",
+   "line": "мета"
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 770.18,
+   "duration_sec": 13.31,
+   "visual_prompt": "Кремлёвская набережная и стена Кремля в Москве реальное фото",
+   "source": "press_photo",
+   "source_query": "Кремлёвская набережная и стена Кремля в Москве реальное фото",
+   "line": "L2"
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 783.49,
+   "duration_sec": 13.28,
+   "visual_prompt": "правительственный квартал Киева — Украина не хочет менять условия",
+   "source": "press_photo",
+   "source_query": "Киев улица Грушевского правительственный квартал реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 796.77,
+   "duration_sec": 11.44,
+   "visual_prompt": "пустые кресла — Европа боится решений без неё",
+   "source": "press_photo",
+   "source_query": "пустые кресла в зале заседаний Евросовета в Брюсселе реальное фото",
+   "line": "L4"
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 808.21,
+   "duration_sec": 9.88,
+   "visual_prompt": "опустевшая деревня — месяцы разговоров о мире",
+   "source": "press_photo",
+   "source_query": "опустевшая деревня на линии фронта в Донбассе реальное фото",
+   "line": "L5"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 818.09,
+   "duration_sec": 13.28,
+   "visual_prompt": "причал налива — «кто первый кладёт козырь»",
+   "source": "press_photo",
+   "source_query": "нефтеналивной причал в порту Усть-Луга вид с берега реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 831.37,
+   "duration_sec": 13.28,
+   "visual_prompt": "магистральная труба — «после всех труб и подписей»",
+   "source": "press_photo",
+   "source_query": "магистральный газопровод труба большого диаметра в поле Россия реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 844.65,
+   "duration_sec": 7.12,
+   "visual_prompt": "двор жилого дома — обычный человек",
+   "source": "press_photo",
+   "source_query": "жилой многоэтажный дом в Киеве двор реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 851.77,
+   "duration_sec": 12.26,
+   "visual_prompt": "кофейник на плите — утро обычного человека",
+   "source": "pexels_video",
+   "source_query": "turkish coffee pot on stove closeup no people",
+   "line": "L8"
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 864.03,
+   "duration_sec": 13.74,
+   "visual_prompt": "empty wooden coat rack hooks on wall no people",
+   "source": "pexels_video",
+   "source_query": "empty wooden coat rack hooks on wall no people",
+   "line": "L8"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 877.77,
+   "duration_sec": 13.8,
+   "visual_prompt": "электросчётчик — «есть ли электричество»",
+   "source": "pexels_video",
+   "source_query": "electricity meter dial closeup wall no people",
+   "line": "L8"
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 891.58,
+   "duration_sec": 12.32,
+   "visual_prompt": "заклеенное окно — «чем закрыть до следующего дождя»",
+   "source": "press_photo",
+   "source_query": "выбитое окно жилого дома заклеено плёнкой реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 903.89,
+   "duration_sec": 14.72,
+   "visual_prompt": "pills blister pack on table closeup no people",
+   "source": "pexels_video",
+   "source_query": "pills blister pack on table closeup no people",
+   "line": "L8"
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 918.62,
+   "duration_sec": 7.74,
+   "visual_prompt": "утренняя остановка — «можно ли утром спокойно отправить ребёнка», без людей",
+   "source": "press_photo",
+   "source_query": "утренняя остановка общественного транспорта в украинском городе реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 926.36,
+   "duration_sec": 13.87,
+   "visual_prompt": "railway switch points mechanism closeup no people",
+   "source": "pexels_video",
+   "source_query": "railway switch points mechanism closeup no people",
+   "line": "L8"
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 940.22,
+   "duration_sec": 14.31,
+   "visual_prompt": "blue gas flame burner closeup no people",
+   "source": "pexels_video",
+   "source_query": "blue gas flame burner closeup no people",
+   "line": "L6"
+  },
+  {
+   "id": 78,
+   "text": "",
+   "start_sec": 954.53,
+   "duration_sec": 5.74,
+   "visual_prompt": "вечерняя улица Харькова с трамваем реальное фото",
+   "source": "press_photo",
+   "source_query": "вечерняя улица Харькова с трамваем реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 79,
+   "text": "",
+   "start_sec": 960.27,
+   "duration_sec": 8.78,
+   "visual_prompt": "NYSE — торговля рациональна для каждого",
+   "source": "press_photo",
+   "source_query": "Нью-Йоркская фондовая биржа Уолл-стрит фасад реальное фото",
+   "line": "L1"
+  },
+  {
+   "id": 80,
+   "text": "",
+   "start_sec": 969.05,
+   "duration_sec": 8.23,
+   "visual_prompt": "Москва-Сити — «бизнес считает будущую прибыль»",
+   "source": "press_photo",
+   "source_query": "офисные башни Москва-Сити вечером реальное фото",
+   "line": "L6"
+  },
+  {
+   "id": 81,
+   "text": "",
+   "start_sec": 977.29,
+   "duration_sec": 14.33,
+   "visual_prompt": "КАРТОЧКА-ЦИТАТА: обычный человек оплачивает время, которое им нужно на торг",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "line": "карточка",
+   "card": {
+    "kind": "quote",
+    "text": "Каждый объяснит, почему его требование важнее. Время на этот торг оплачивает обычный человек.",
+    "accent": "оплачивает обычный человек",
+    "watermark": "ПЛАНЕТА"
+   }
+  },
+  {
+   "id": 82,
+   "text": "",
+   "start_sec": 991.61,
+   "duration_sec": 12.88,
+   "visual_prompt": "контейнеры в порту — «для бизнеса месяц это условия»",
+   "source": "pexels_video",
+   "source_query": "stacked shipping containers in port no people",
+   "line": "L6"
+  },
+  {
+   "id": 83,
+   "text": "",
+   "start_sec": 1004.49,
+   "duration_sec": 12.56,
+   "visual_prompt": "противоосколочная сетка на окнах жилого дома в Харькове реальное фото",
+   "source": "press_photo",
+   "source_query": "противоосколочная сетка на окнах жилого дома в Харькове реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 84,
+   "text": "",
+   "start_sec": 1017.05,
+   "duration_sec": 14.33,
+   "visual_prompt": "здание Министерства обороны Украины в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны Украины в Киеве реальное фото",
+   "line": "L3"
+  },
+  {
+   "id": 85,
+   "text": "",
+   "start_sec": 1031.39,
+   "duration_sec": 13.47,
+   "visual_prompt": "подъезд — результат измеряется не подписями",
+   "source": "press_photo",
+   "source_query": "подъезд жилого дома в украинском городе вечером реальное фото",
+   "line": "L8"
+  },
+  {
+   "id": 86,
+   "text": "",
+   "start_sec": 1044.86,
+   "duration_sec": 8.41,
+   "visual_prompt": "окно ночью — «утром дом всё ещё будет стоять»",
+   "source": "pexels_video",
+   "source_query": "apartment window at night city lights no people",
+   "line": "L8"
+  },
+  {
+   "id": 87,
+   "text": "",
+   "start_sec": 1053.27,
+   "duration_sec": 6.43,
+   "visual_prompt": "рассвет над многоэтажными домами в Киеве реальное фото",
+   "source": "press_photo",
+   "source_query": "рассвет над многоэтажными домами в Киеве реальное фото",
+   "line": "L8"
+  }
+ ],
+ "channel": "ПЛАНЕТА",
+ "library": "YES (ПЛАНЕТА, потолок 20%)",
+ "context": "О чём: 23 октября 2026 The Economist описал новые контуры мирного урегулирования по Украине — пакет разменов (внеблоковый статус и вывод войск из Донбасса, инвестиции и перспектива ЕС для Киева; смягчение санкций, сделки с американскими компаниями и возврат российского газа в Европу для Москвы). Стороны: Москва (Кремль), Киев (Зеленский), Вашингтон (Трамп, Вэнс, Уиткофф), Европа (институты ЕС), бизнес (Маск/Starlink, нефтегаз). Где физически: Белый дом и Вашингтон, Кремль и МИД в Москве, Банковая в Киеве, Брюссель, Донбасс и линия соприкосновения, украинские города под ударами, российские НПЗ и газопроводы. Узел: кто делает необратимый шаг первым; у каждого пункта пакета своя скорость; вопрос полномочий подписанта. Время: война идёт одновременно с переговорами, октябрь 2026. Чем кончается: обычный человек оплачивает время торга; мир = утром дом всё ещё стоит. Чувство: отрезвление — красивые формулировки против реальной жизни.",
+ "lines": [
+  "L1 американская власть: Белый дом, Капитолий, Госдеп, Казначейство США, Пентагон, Трамп, Вэнс, Уиткофф",
+  "L2 российская власть: Кремль, МИД на Смоленской, Дом правительства РФ, ПВО России (С-400)",
+  "L3 украинская власть: Офис президента на Банковой, Верховная Рада, Генштаб ВСУ, Зеленский",
+  "L4 европейские институты: Еврокомиссия (Берлемон), Евросовет (Europa), Европарламент в Страсбурге, ЕЦБ, флаги ЕС",
+  "L5 Донбасс и фронт: Донецк, терриконы, блокпосты, прифронтовые улицы, бетонные укрепления",
+  "L6 газ-нефть-санкции: газопровод Северный поток, компрессорные станции, НПЗ, нефтетерминалы, танкеры под флагом РФ, качалки в Техасе, СПГ-порт Хьюстон",
+  "L7 военные рычаги США: терминалы Starlink, спутниковая связь, C-17 ВВС США, ATACMS, авиабаза Рамштайн",
+  "L8 обычная жизнь украинского города: подъезды, окна, кухни, школьный класс, перрон, электросчётчик, двор"
+ ]
+}

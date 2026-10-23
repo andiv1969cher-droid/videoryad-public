@@ -1,0 +1,84 @@
+{
+ "scenes": [
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 13.61,
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/BnZ_FqxiJntEcQ2pp7Njov7fsmiRrm6zSM9OHMTPJNMA9zQhzwkB0oEmIdu5Rd_Hw5sSYDNYEmJHPOxA-V7Rra0K-5orLy9BKJurhBONmqv2rxMg3w6nxHORt3jsFQAk5LT-C19uoSSjdBvaJN3RnDsVWfLbWX0CtJyPf0Q-UH9VZOUkVdvQp0qWTSyYNwWndZO7HCahC5qYtYUT3oWFek3lOsjTTgKph6AMs0wUSIKdondmZsv0lkhgVmgFjKtic98V4GySofvGIC4-WKzY7idDjetsL-B5eBN6F5xE_fQL1KDLZa1obi7ZVMbj6F-22ztvND7p7sDGOx84L8BHPg.jpg",
+   "visual_prompt": "скриншот публикации The Economist — сцена ДОСЛОВНО называет это издание"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "duration_sec": 13.28,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/УКРАИНА/Map of Ukraine Oblasts simple 4 colors.jpg",
+   "visual_prompt": "где проходит «демилитаризованная зона» — география, которой нет в кадре блокпоста"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 12.99,
+   "source": "press_photo",
+   "source_query": "разрушенный заводской цех в Мариуполе реальное фото",
+   "visual_prompt": "разрушенное производство — та самая территория, о которой речь, в базе только трибуна"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 8.71,
+   "source": "press_photo",
+   "source_query": "украинский дальнобойный беспилотник реальное фото",
+   "visual_prompt": "чем именно идут «военные действия» — инструмент, которого нет в кадре укреплений"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 7.77,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/РОССИЯ/Blank map of Russia-gray.jpg",
+   "visual_prompt": "кому предлагают смягчение санкций — география поверх кадра терминала"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 13.44,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ЕВРОПА/Europe 2.jpg",
+   "visual_prompt": "«общая система безопасности в Европе» — карта поверх кадра с Путиным"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 14.34,
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступление октябрь 2026 реальное фото",
+   "visual_prompt": "лицо того, кто требует — прямой автор фразы, база это только здание"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "duration_sec": 12.74,
+   "source": "press_photo",
+   "source_query": "Илон Маск 2026 реальное фото",
+   "visual_prompt": "кто стоит за Starlink — назван в тексте сцены (эталонная формула)"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "duration_sec": 13.8,
+   "source": "press_photo",
+   "source_query": "дизельный генератор у входа в магазин в Киеве реальное фото",
+   "visual_prompt": "что люди делают, когда нет света — чего нет в кадре счётчика"
+  },
+  {
+   "id": 83,
+   "text": "",
+   "duration_sec": 12.56,
+   "source": "press_photo",
+   "source_query": "мешки с песком у окон первого этажа в Киеве реальное фото",
+   "visual_prompt": "как именно живут внутри войны — чего нет в кадре заколоченных окон"
+  }
+ ]
+}
