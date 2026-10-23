@@ -1,0 +1,92 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 5.97,
+   "source": "press_photo",
+   "source_query": "флаг Евросоюза на флагштоке у здания Еврокомиссии в Брюсселе реальное фото",
+   "visual_prompt": "флаг Евросоюза на флагштоке у здания Еврокомиссии в Брюсселе реальное фото"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 13.96,
+   "source": "press_photo",
+   "source_query": "флаг Украины над зданием Верховной Рады в Киеве реальное фото",
+   "visual_prompt": "флаг Украины над зданием Верховной Рады в Киеве реальное фото"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 12.4,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЧЕХИЯ/Czechia locator in Europe (red on cream).png",
+   "visual_prompt": "КАРТЫ/ЧЕХИЯ/Czechia locator in Europe (red on cream).png"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 8.61,
+   "source": "press_photo",
+   "source_query": "Владимир Путин крупный план на пресс-конференции 2026 реальное фото",
+   "visual_prompt": "Владимир Путин крупный план на пресс-конференции 2026 реальное фото"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "duration_sec": 13.64,
+   "source": "press_photo",
+   "source_query": "здание Europa Европейский совет Брюссель фасад реальное фото",
+   "visual_prompt": "здание Europa Европейский совет Брюссель фасад реальное фото"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 14.0,
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "visual_prompt": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "duration_sec": 14.82,
+   "source": "press_photo",
+   "source_query": "штаб-квартира Еврокомиссии Берлемон в Брюсселе вечером реальное фото",
+   "visual_prompt": "штаб-квартира Еврокомиссии Берлемон в Брюсселе вечером реальное фото"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "duration_sec": 13.44,
+   "source": "press_photo",
+   "source_query": "Елисейский дворец в Париже реальное фото",
+   "visual_prompt": "Елисейский дворец в Париже реальное фото"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "duration_sec": 13.52,
+   "source": "press_photo",
+   "source_query": "здание Офиса президента Украины на Банковой в Киеве реальное фото",
+   "visual_prompt": "здание Офиса президента Украины на Банковой в Киеве реальное фото"
+  },
+  {
+   "id": 56,
+   "text": "",
+   "duration_sec": 9.85,
+   "source": "press_photo",
+   "source_query": "Белый дом в Вашингтоне ночью реальное фото",
+   "visual_prompt": "Белый дом в Вашингтоне ночью реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "duration_sec": 12.4,
+   "source": "press_photo",
+   "source_query": "Александр Стубб крупный план портрет 2026 реальное фото",
+   "visual_prompt": "Александр Стубб крупный план портрет 2026 реальное фото"
+  }
+ ]
+}

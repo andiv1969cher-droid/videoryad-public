@@ -1,0 +1,462 @@
+{
+ "anchor": "top",
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "whoosh",
+  "at": 2.09,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "8": {
+  "photo": "overlays/scene_008.jpg",
+  "sound": "zatvor",
+  "at": 4.89,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "11": {
+  "photo": "overlays/scene_011.jpg",
+  "sound": "pop",
+  "at": 4.34,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "whoosh",
+  "at": 3.01,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "17": {
+  "photo": "overlays/scene_017.jpg",
+  "sound": "zatvor",
+  "at": 4.77,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "20": {
+  "photo": "overlays/scene_020.jpg",
+  "sound": "pop",
+  "at": 4.9,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "22": {
+  "photo": "overlays/scene_022.jpg",
+  "sound": "whoosh",
+  "at": 5.19,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "43": {
+  "photo": "overlays/scene_043.jpg",
+  "sound": "zatvor",
+  "at": 4.7,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "51": {
+  "photo": "overlays/scene_051.jpg",
+  "sound": "pop",
+  "at": 4.73,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "56": {
+  "photo": "overlays/scene_056.jpg",
+  "sound": "whoosh",
+  "at": 3.45,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "60": {
+  "photo": "overlays/scene_060.jpg",
+  "sound": "zatvor",
+  "at": 4.34,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "1": {
+  "text": {
+   "words": "ЕВРОПА ИЩЕТ ПЕРЕГОВОРЩИКА",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.33,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "2": {
+  "text": {
+   "words": "ПЕТЕРБУРГ, 21 ОКТЯБРЯ",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.88,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "3": {
+  "text": {
+   "words": "МЕРЦ: БЕЗ ЕВРОПЫ МИРА НЕ БУДЕТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.65,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "5": {
+  "text": {
+   "words": "ЧЕТЫРЕ ФАМИЛИИ В СПИСКЕ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.6,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "10": {
+  "text": {
+   "words": "КОНТАКТ С ТРАМПОМ ЕСТЬ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.93,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "13": {
+  "text": {
+   "words": "КОГО МОСКВА НЕ РАЗВЕРНЁТ У ДВЕРИ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.56,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "15": {
+  "text": {
+   "words": "ОСЛО: ПЕРЕГОВОРЫ ТРЁХ СТОРОН",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 4.45,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "16": {
+  "text": {
+   "words": "ДМИТРИЕВ СНОВА В США",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.48,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "19": {
+  "text": {
+   "words": "ТАНКЕР УЖЕ В ПУТИ",
+   "color": "orange",
+   "pos": "mc",
+   "at": 4.73,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "21": {
+  "text": {
+   "words": "СЕВЕРНЫЙ ПОТОК: УЦЕЛЕВШИЕ НИТКИ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.76,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "25": {
+  "text": {
+   "words": "ЗАКУПКИ РОССИЙСКОГО СПГ: +9,5%",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.1,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "27": {
+  "text": {
+   "words": "ЗАПРЕТ НА ЭКСПОРТ ДИЗЕЛЯ СНЯТ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.9,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "28": {
+  "text": {
+   "words": "ГАЗ ЧЕРЕЗ УКРАИНУ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.9,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "29": {
+  "text": {
+   "words": "ПАВЕЛ: Я БЫ НАЗВАЛ ЭТО ОШИБКОЙ",
+   "color": "red",
+   "pos": "mc",
+   "at": 2.18,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "30": {
+  "text": {
+   "words": "ПЕРЕМИРИЕ БЫЛО СОВСЕМ БЛИЗКО",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.37,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "32": {
+  "text": {
+   "words": "ТРАМП ДОГОВОРИЛСЯ О ДИЗЕЛЕ",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 5.17,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "33": {
+  "text": {
+   "words": "ЧТО КОНКРЕТНО БЫЛО СОГЛАСОВАНО?",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.19,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "35": {
+  "text": {
+   "words": "230 ТЫСЯЧ БАРРЕЛЕЙ ДИЗЕЛЯ",
+   "color": "orange",
+   "pos": "mc",
+   "at": 5.42,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "36": {
+  "text": {
+   "words": "РОССИЯ ДОГОВАРИВАЕТСЯ, ОБХОДЯ ЕВРОПУ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.26,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "38": {
+  "text": {
+   "words": "УШАКОВ: ДЕЛО ИДЁТ К ЗАВЕРШЕНИЮ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.43,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "41": {
+  "text": {
+   "words": "ТРЁХСТОРОННЯЯ ВСТРЕЧА — НОЯБРЬ",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.68,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "42": {
+  "text": {
+   "words": "ДОГОВОРЁННОСТЬ УЖЕ ИСПОЛНЯЕТСЯ",
+   "color": "white",
+   "pos": "mc",
+   "at": 2.82,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "44": {
+  "text": {
+   "words": "ЕВРОКОМИССИЯ ЗАЩИЩАЕТ САНКЦИИ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.26,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "47": {
+  "text": {
+   "words": "КАЛЛАС: США ТОЛКАЮТ КИЕВ К КАПИТУЛЯЦИИ",
+   "color": "red",
+   "pos": "mc",
+   "at": 4.2,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "48": {
+  "text": {
+   "words": "КОНСТРУКЦИЮ СОБИРАЮТ БЕЗ ЕВРОПЫ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.08,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "53": {
+  "text": {
+   "words": "РУБИО: УКРАИНА ЗАВИСИТ ОТ США",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.86,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "54": {
+  "text": {
+   "words": "ОДНОГО СТУЛА НЕДОСТАТОЧНО",
+   "color": "white",
+   "pos": "mc",
+   "at": 5.07,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "55": {
+  "text": {
+   "words": "ЕВРОПА ПЛАТИТ. РЕШАЮТ ДРУГИЕ",
+   "color": "orange",
+   "pos": "mc",
+   "at": 4.28,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "58": {
+  "text": {
+   "words": "ФОН ДЕР ЛЯЙЕН: САНКЦИИ НЕ СНИМЕМ",
+   "color": "yellow",
+   "pos": "tc",
+   "at": 2.92,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "61": {
+  "text": {
+   "words": "ПЕСКОВ: НЕКОНСТРУКТИВНО",
+   "color": "red",
+   "pos": "mc",
+   "at": 3.89,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "64": {
+  "text": {
+   "words": "ВОЗВРАТ ГАЗА — В АМЕРИКАНСКОМ ПЛАНЕ",
+   "color": "white",
+   "pos": "mc",
+   "at": 3.29,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "66": {
+  "text": {
+   "words": "САНКЦИИ. ЭНЕРГЕТИКА. ТОРГОВЛЯ",
+   "color": "white",
+   "pos": "tc",
+   "at": 2.27,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "69": {
+  "text": {
+   "words": "ГЛАВНЫЙ ЕВРОПЕЙСКИЙ ЭКЗАМЕН",
+   "color": "yellow",
+   "pos": "mc",
+   "at": 4.37,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "70": {
+  "text": {
+   "words": "ВОЙТИ ДО ТОГО, КАК ВСЁ РЕШАТ",
+   "color": "white",
+   "pos": "mc",
+   "at": 4.43,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "71": {
+  "text": {
+   "words": "ЧЕТЫРЕ ГОДА В ЦЕНТРЕ СОБЫТИЙ",
+   "color": "white",
+   "pos": "tc",
+   "at": 4.45,
+   "scale": 1.0
+  },
+  "sound": ""
+ },
+ "72": {
+  "text": {
+   "words": "ОТЛИЧНО, ЧТО ВЫ ПРИШЛИ",
+   "color": "red",
+   "pos": "mc",
+   "at": 3.96,
+   "scale": 1.0
+  },
+  "sound": ""
+ }
+}
