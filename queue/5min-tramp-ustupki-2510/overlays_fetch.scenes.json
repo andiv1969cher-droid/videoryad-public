@@ -1,0 +1,108 @@
+{
+ "scenes": [
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 9.634,
+   "source": "local_library",
+   "source_query": "КАРТЫ/БЕЛАРУСЬ/Belarus locator (region).png",
+   "visual_prompt": "всплывашка: КАРТЫ/БЕЛАРУСЬ/Belarus locator (region).png"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 9.68,
+   "source": "press_photo",
+   "source_query": "Свежие креветки на прилавке рыбного рынка реальное фото",
+   "visual_prompt": "всплывашка: Свежие креветки на прилавке рыбного рынка реальное фото"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 9.36,
+   "source": "press_photo",
+   "source_query": "Электрический чайник на кухонной столешнице реальное фото",
+   "visual_prompt": "всплывашка: Электрический чайник на кухонной столешнице реальное фото"
+  },
+  {
+   "id": 27,
+   "text": "",
+   "duration_sec": 9.6,
+   "source": "press_photo",
+   "source_query": "Коробка пиццы на столе крупным планом реальное фото",
+   "visual_prompt": "всплывашка: Коробка пиццы на столе крупным планом реальное фото"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 8.56,
+   "source": "press_photo",
+   "source_query": "Терминал сжиженного газа в Свиноуйсьце с газовозом реальное фото",
+   "visual_prompt": "всплывашка: Терминал сжиженного газа в Свиноуйсьце с газовозом реальное фото"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "duration_sec": 10.56,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ГЕРМАНИЯ/Germany locator (region).png",
+   "visual_prompt": "всплывашка: КАРТЫ/ГЕРМАНИЯ/Germany locator (region).png"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "duration_sec": 9.36,
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА/Europe-Ukraine.jpg",
+   "visual_prompt": "всплывашка: КАРТЫ/УКРАИНА/Europe-Ukraine.jpg"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "duration_sec": 8.16,
+   "source": "press_photo",
+   "source_query": "Ручной рычаг стрелочного перевода на путях реальное фото",
+   "visual_prompt": "всплывашка: Ручной рычаг стрелочного перевода на путях реальное фото"
+  },
+  {
+   "id": 59,
+   "text": "",
+   "duration_sec": 8.64,
+   "source": "press_photo",
+   "source_query": "Ракета Falcon 9 с партией спутников Starlink на старте реальное фото",
+   "visual_prompt": "всплывашка: Ракета Falcon 9 с партией спутников Starlink на старте реальное фото"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "duration_sec": 10.56,
+   "source": "press_photo",
+   "source_query": "Разгрузка военно-транспортного самолёта США в Польше 2026 реальное фото",
+   "visual_prompt": "всплывашка: Разгрузка военно-транспортного самолёта США в Польше 2026 реальное фото"
+  },
+  {
+   "id": 74,
+   "text": "",
+   "duration_sec": 9.146,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ПОЛЬША/Poland locator in region (red on cream).png",
+   "visual_prompt": "всплывашка: КАРТЫ/ПОЛЬША/Poland locator in region (red on cream).png"
+  },
+  {
+   "id": 78,
+   "text": "",
+   "duration_sec": 9.2,
+   "source": "press_photo",
+   "source_query": "Гружёный нефтеналивной танкер в открытом море реальное фото",
+   "visual_prompt": "всплывашка: Гружёный нефтеналивной танкер в открытом море реальное фото"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "duration_sec": 9.84,
+   "source": "press_photo",
+   "source_query": "Шоколадная конфета на блюдце у чашки кофе реальное фото",
+   "visual_prompt": "Шоколадная конфета на блюдце у чашки кофе реальное фото"
+  }
+ ]
+}

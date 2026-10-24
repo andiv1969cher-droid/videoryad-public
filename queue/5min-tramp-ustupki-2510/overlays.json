@@ -1,0 +1,638 @@
+{
+  "anchor": "top",
+  "8": {
+    "photo": "overlays/scene_008.jpg",
+    "sound": "whoosh",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "11": {
+    "photo": "overlays/scene_011.jpg",
+    "sound": "zatvor",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "23": {
+    "photo": "overlays/scene_023.jpg",
+    "sound": "zatvor",
+    "at": 3.3,
+    "shape": "rect",
+    "style": "up-right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "27": {
+    "photo": "overlays/scene_027.jpg",
+    "sound": "pop",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "34": {
+    "photo": "overlays/scene_034.jpg",
+    "sound": "zatvor",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "right",
+    "size": "m",
+    "scale": 1.0,
+    "anchor": "bottom",
+    "approved": true
+  },
+  "37": {
+    "photo": "overlays/scene_037.jpg",
+    "sound": "whoosh",
+    "at": 3.3,
+    "shape": "rect",
+    "style": "up-right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "52": {
+    "photo": "overlays/scene_052.jpg",
+    "sound": "zatvor",
+    "at": 2.9,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "59": {
+    "photo": "overlays/scene_059.jpg",
+    "sound": "pop",
+    "at": 3.0,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "68": {
+    "photo": "overlays/scene_068.jpg",
+    "sound": "whoosh",
+    "at": 3.7,
+    "shape": "rect",
+    "style": "left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "78": {
+    "photo": "overlays/scene_078.jpg",
+    "sound": "pop",
+    "at": 3.2,
+    "shape": "rect",
+    "style": "up-right",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "6": {
+    "sound": "pop",
+    "at": 3.3,
+    "text": {
+      "words": "ДИЗЕЛЬ ИЗ РФ СНОВА В США",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "9": {
+    "sound": "mashinka",
+    "at": 3.6,
+    "text": {
+      "words": "САНКЦИИ С КАЛИЕМ СНЯТЫ ВЕСНОЙ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "12": {
+    "sound": "pshik",
+    "at": 3.2,
+    "text": {
+      "words": "БЕЛАРУСЬ — КРУПНЕЙШИЙ ЭКСПОРТЁР КАЛИЯ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "16": {
+    "sound": "zatvor",
+    "at": 3.3,
+    "text": {
+      "words": "БАНКИ. РАСЧЁТЫ. СТРАХОВАНИЕ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "17": {
+    "sound": "whoosh",
+    "at": 3.3,
+    "text": {
+      "words": "ТРИ МЕСЯЦА ПРОВЕРОК КОМПЛАЕНСА",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "21": {
+    "sound": "pop",
+    "at": 3.1,
+    "text": {
+      "words": "40 000 ТОНН = 300 000 БАРРЕЛЕЙ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "22": {
+    "sound": "mashinka",
+    "at": 3.4,
+    "text": {
+      "words": "США: 4 МЛН БАРРЕЛЕЙ В СУТКИ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "24": {
+    "sound": "pshik",
+    "at": 3.3,
+    "text": {
+      "words": "ПЕРВЫЙ ТАНКЕР С 2022 ГОДА",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "26": {
+    "sound": "zatvor",
+    "at": 3.3,
+    "text": {
+      "words": "ДВА ЧАСА ПОТРЕБЛЕНИЯ США",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "29": {
+    "photo": "overlays/scene_029.jpg",
+    "sound": "whoosh",
+    "at": 3.4,
+    "shape": "rect",
+    "style": "up-center",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "30": {
+    "sound": "pop",
+    "at": 3.3,
+    "text": {
+      "words": "СХЕМЫ С АМЕРИКАНСКИМ КАПИТАЛОМ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "31": {
+    "sound": "mashinka",
+    "at": 2.6,
+    "text": {
+      "words": "ЕВРОПА ПЕРЕШЛА НА СПГ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "33": {
+    "sound": "pshik",
+    "at": 3.1,
+    "text": {
+      "words": "«КАК ЖЕ МЫ СКУЧАЛИ ПО ГАЗПРОМУ»",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "36": {
+    "sound": "zatvor",
+    "at": 2.9,
+    "text": {
+      "words": "ОДНО ИСКЛЮЧЕНИЕ ЗА ДРУГИМ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.9,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "38": {
+    "sound": "whoosh",
+    "at": 3.6,
+    "text": {
+      "words": "ДОНБАСС. НАТО. ТОРГОВЛЯ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "42": {
+    "sound": "pop",
+    "at": 3.4,
+    "text": {
+      "words": "200% ПОШЛИН",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "43": {
+    "sound": "mashinka",
+    "at": 3.2,
+    "text": {
+      "words": "ПЯТЫЙ ГОД ВОЙНЫ",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "45": {
+    "sound": "pshik",
+    "at": 3.0,
+    "text": {
+      "words": "ТРАМП: ТОВАРООБОРОТ НЕ ТОТ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "47": {
+    "sound": "zatvor",
+    "at": 2.9,
+    "text": {
+      "words": "НЕ 20 И НЕ 50 — СРАЗУ 200",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.9,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "55": {
+    "sound": "whoosh",
+    "at": 2.9,
+    "text": {
+      "words": "США — КЛЮЧЕВОЙ ПОСТАВЩИК",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.9,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "56": {
+    "sound": "pop",
+    "at": 3.6,
+    "text": {
+      "words": "ПВО. РАКЕТЫ. БОЕПРИПАСЫ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "60": {
+    "sound": "mashinka",
+    "at": 3.4,
+    "text": {
+      "words": "БОЛЕЕ НЕДЕЛИ ОГРАНИЧЕНИЙ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "61": {
+    "sound": "pshik",
+    "at": 2.7,
+    "text": {
+      "words": "ДРОНЫ-ПЕРЕХВАТЧИКИ ВСТАЛИ",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.7,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "62": {
+    "sound": "zatvor",
+    "at": 3.3,
+    "text": {
+      "words": "STARLINK — СВЯЗЬ, STARSHIELD — ВОЙНА",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "63": {
+    "sound": "whoosh",
+    "at": 3.2,
+    "text": {
+      "words": "ПЭТРИОТ — ИЗ США",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "70": {
+    "sound": "pop",
+    "at": 3.0,
+    "text": {
+      "words": "КИЕВ ПОТРЕБОВАЛ ВЕРНУТЬ СВЯЗЬ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "71": {
+    "sound": "mashinka",
+    "at": 3.0,
+    "text": {
+      "words": "СЕНАТ ВЫЯСНЯЕТ РОЛЬ МАСКА",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "72": {
+    "sound": "pshik",
+    "at": 2.9,
+    "text": {
+      "words": "«ДИСТАНЦИОННО НЕ ОТКЛЮЧИТЬ»",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.9,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "75": {
+    "sound": "zatvor",
+    "at": 3.3,
+    "text": {
+      "words": "РАЗВЕДКА. СПУТНИКИ. ПВО. ДЕНЬГИ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "77": {
+    "sound": "whoosh",
+    "at": 3.5,
+    "text": {
+      "words": "ЕВРОПА МОЖЕТ ЧАСТЬ САМА",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.5,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "82": {
+    "sound": "pop",
+    "at": 3.5,
+    "text": {
+      "words": "РЕСПУБЛИКАНЦЫ ТРЕБУЮТ ЖЁСТЧЕ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.5,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "83": {
+    "sound": "mashinka",
+    "at": 3.1,
+    "text": {
+      "words": "УГРОЖАЮТ РАЗБИРАТЕЛЬСТВАМИ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "85": {
+    "sound": "pshik",
+    "at": 3.2,
+    "text": {
+      "words": "ТРАМП: Я МОГУ ЗАКОНЧИТЬ КОНФЛИКТ",
+      "color": "yellow",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "94": {
+    "sound": "zatvor",
+    "at": 3.4,
+    "text": {
+      "words": "ГОДЫ. ДЕНЬГИ. СВЯЗИ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "98": {
+    "sound": "whoosh",
+    "at": 3.3,
+    "text": {
+      "words": "ПОШЛИНЫ ОТМЕНЯЮТ ОДНИМ УКАЗОМ",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.3,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "99": {
+    "sound": "pop",
+    "at": 3.8,
+    "text": {
+      "words": "ТАНКЕР РАЗВЕРНУТЬ. САНКЦИЮ СНЯТЬ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "101": {
+    "sound": "mashinka",
+    "at": 4.1,
+    "text": {
+      "words": "УКАЗОМ ЭТО НЕ ОТМЕНИТЬ",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 4.1,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "35": {
+    "photo": "overlays/scene_035.jpg",
+    "sound": "pop",
+    "at": 3.7,
+    "shape": "rect",
+    "style": "up-left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  },
+  "74": {
+    "photo": "overlays/scene_074.jpg",
+    "sound": "zatvor",
+    "at": 3.2,
+    "shape": "rect",
+    "style": "up-left",
+    "size": "m",
+    "scale": 1.0,
+    "approved": true
+  }
+}
