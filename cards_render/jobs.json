@@ -1,0 +1,175 @@
+[
+ {
+  "scene": 11,
+  "view": "cinematic.dossier",
+  "dur": 9.52,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "case": "КАНАЛ 2023",
+   "kick": "кто собирал",
+   "rows": [
+    [
+     "посредники",
+     "Конн · Форесман · Варниг · Роднянский"
+    ],
+    [
+     "предмет",
+     "линия, НАТО, Крым, коридор, гарантии"
+    ],
+    [
+     "итог",
+     "Киев не принял"
+    ]
+   ],
+   "photo": "cards/replaced/scene_011.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "title": "Неофициальный канал",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 12,
+  "view": "cinematic.evidence_wall",
+  "dur": 9.25,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "что стояло на столе",
+   "title": "УСЛОВИЯ",
+   "shots": [
+    "cards/replaced/scene_012.jpg",
+    "cards/replaced/scene_014.jpg",
+    "cards/replaced/scene_015.jpg",
+    "cards/replaced/scene_017.jpg"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "cinematic.trailer_title",
+  "dur": 5.94,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "ЦЕНА ОТКАЗА",
+   "sub": "разбор",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "style_cards.person",
+  "dur": 12.36,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "name": "Маттиас Варниг",
+   "photo": "cards/replaced/scene_015.jpg",
+   "facts": [
+    "участник неофициального канала",
+    "по версии Financial Times"
+   ],
+   "kick": "кто вёл переговоры",
+   "source": "Financial Times, 24.10.2026",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "devices.device_scene",
+  "dur": 12.96,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kind": "monitor",
+   "kick": "как это подали",
+   "title": "Публикация",
+   "sub": "24.10.2026",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "style_cards.tape_canvas",
+  "dur": 14.99,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "как это шло",
+   "title": "ЛЕНТА СОБЫТИЙ",
+   "events": [
+    {
+     "date": "2022",
+     "text": "линия 24 февраля"
+    },
+    {
+     "date": "2023",
+     "text": "канал посредников"
+    },
+    {
+     "date": "2026",
+     "text": "нынешняя карта"
+    }
+   ],
+   "kind": "chrono",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "style_cards.page_canvas",
+  "dur": 12.64,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "разбор",
+   "title": "ЧТО ПРЕДЛАГАЛОСЬ",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Линия по состоянию на 24 февраля 2022 года."
+    },
+    {
+     "type": "p",
+     "text": "Отказ Украины от вступления в НАТО."
+    },
+    {
+     "type": "p",
+     "text": "Российский контроль над Крымом и сухопутный коридор."
+    }
+   ],
+   "meta": "по изложению публикации",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "torn_photo.torn_photo",
+  "dur": 8.38,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "a_path": "cards/replaced/scene_019.jpg",
+   "b_path": "cards/replaced/scene_020.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
