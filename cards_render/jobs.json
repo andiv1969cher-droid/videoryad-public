@@ -1,7 +1,7 @@
 [
  {
   "scene": 2,
-  "view": "film.film_single",
+  "view": "cinematic.battle_flashback",
   "dur": 14.42,
   "anim": 0,
   "tail_zoom": 0,
@@ -14,7 +14,7 @@
  },
  {
   "scene": 3,
-  "view": "cinematic.battle_flashback",
+  "view": "photo_card.photo_card",
   "dur": 12.64,
   "anim": 0,
   "tail_zoom": 0,
@@ -22,21 +22,37 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_003.jpg",
+   "kick": "",
+   "title": "Особенно если перестать смотреть",
+   "lines": [
+    "Вообще замечательная. Особенно если перестать",
+    "Положить рядом",
+    "Что предлагалось тогда"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 4,
-  "view": "style_cards.attrib_frame",
+  "view": "film.film_strip",
   "dur": 12.46,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_004.jpg",
-   "text": "Но сначала важная деталь.",
-   "sub": "",
+   "shots": [
+    "cards/replaced/scene_004.jpg",
+    "cards/replaced/scene_002.jpg",
+    "cards/replaced/scene_003.jpg"
+   ],
+   "captions": [
+    "",
+    "",
+    ""
+   ],
+   "kick": "кадры истории",
+   "title": "Но сначала важная деталь.",
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -55,59 +71,34 @@
  },
  {
   "scene": 6,
-  "view": "cinematic.trailer_title",
+  "view": "film.film_single",
   "dur": 5.8,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "РАЗОЙТИСЬ",
-   "sub": "",
+   "photo": "cards/replaced/scene_006.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 7,
-  "view": "film.film_strip",
+  "view": "style_cards.attrib_frame",
   "dur": 15.21,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_007.jpg",
-    "cards/replaced/scene_002.jpg",
-    "cards/replaced/scene_003.jpg"
-   ],
-   "captions": [
-    "сцена 7",
-    "сцена 2",
-    "сцена 3"
-   ],
-   "kick": "кадры истории",
-   "title": "Вот тут и начинается самое вкусное.",
-   "watermark": "ПЛАНЕТА"
-  }
- },
- {
-  "scene": 9,
-  "view": "cinematic.trailer_title",
-  "dur": 11.56,
-  "anim": 0,
-  "tail_zoom": 0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "title": "КАК ДАЛЕКО ШЛА МОСКВА",
-   "sub": "",
+   "photo": "cards/replaced/scene_007.jpg",
+   "text": "ВОТ ТУТ И НАЧИНАЕТСЯ САМОЕ ВКУСНОЕ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 10,
-  "view": "film.film_single",
+  "view": "photo_card.photo_card",
   "dur": 14.36,
   "anim": 0,
   "tail_zoom": 0,
@@ -115,25 +106,43 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_010.jpg",
+   "kick": "",
+   "title": "А она очень простая.",
+   "lines": [
+    "А она очень простая.",
+    "Потому что допустим даже максимально удобную",
+    "Посредники нарисовали Украине почти лучший"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 11,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_strip",
   "dur": 9.52,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_011.jpg",
+   "shots": [
+    "cards/replaced/scene_011.jpg",
+    "cards/replaced/scene_005.jpg",
+    "cards/replaced/scene_006.jpg"
+   ],
+   "captions": [
+    "",
+    "",
+    ""
+   ],
+   "kick": "кадры истории",
+   "title": "Россия уходит почти туда, откуда",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 12,
-  "view": "style_cards.attrib_frame",
+  "view": "film.film_newsreel",
   "dur": 9.25,
   "anim": 0,
   "tail_zoom": 0,
@@ -141,28 +150,57 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_012.jpg",
-   "text": "НАТО нет.",
-   "sub": "",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "cinematic.trailer_title",
+  "dur": 5.94,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "У ЭТОЙ ПЕРЕГОВОРНОЙ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "style_cards.person",
+  "dur": 12.36,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "name": "Маттиас Варниг",
+   "photo": "portrait/scene_900.jpg",
+   "facts": [
+    "участник неофициального канала 2023"
+   ],
+   "kick": "кто вёл переговоры",
+   "source": "Financial Times, 24.10.2026",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 16,
-  "view": "cinematic.trailer_title",
+  "view": "cinematic.battle_flashback",
   "dur": 12.96,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "ОКНО 2023 ГОДА",
-   "sub": "",
+   "photo": "cards/replaced/scene_016.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 17,
-  "view": "film.film_newsreel",
+  "view": "photo_card.photo_card",
   "dur": 14.99,
   "anim": 0,
   "tail_zoom": 0,
@@ -170,48 +208,50 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_017.jpg",
+   "kick": "",
+   "title": "Но политического толчка, который мог",
+   "lines": [
+    "С которой ей приходится иметь дело сегодня.",
+    "Который мог превратить эти разговоры в настоящий",
+    "Не произошло. Киев при этом не принял ту рамку"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 18,
-  "view": "photo_card.photo_card",
+  "view": "film.film_strip",
   "dur": 12.64,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_018.jpg",
-   "kick": "",
-   "title": "И вот здесь вопрос к Зеленскому",
-   "lines": [
-    "А необходимой американской политической поддержки"
+   "shots": [
+    "cards/replaced/scene_018.jpg",
+    "cards/replaced/scene_012.jpg",
+    "cards/replaced/scene_014.jpg"
    ],
+   "captions": [
+    "",
+    "",
+    ""
+   ],
+   "kick": "кадры истории",
+   "title": "И вот здесь вопрос к Зеленскому",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 19,
-  "view": "film.film_strip",
+  "view": "cinematic.depth_of_field",
   "dur": 8.38,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_019.jpg",
-    "cards/replaced/scene_014.jpg",
-    "cards/replaced/scene_015.jpg"
-   ],
-   "captions": [
-    "сцена 19",
-    "сцена 14",
-    "сцена 15"
-   ],
-   "kick": "кадры истории",
-   "title": "Киев, продолжая игру?",
+   "photo": "cards/replaced/scene_019.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -229,7 +269,7 @@
     "Можно сколько угодно рассказывать",
     "Насколько слабой тогда была Москва",
     "Насколько сильно на неё давили",
-    "Тем больнее один вопрос а что Киев рассчитывал"
+    "Украина могла выйти из этой истории."
    ],
    "watermark": "ПЛАНЕТА"
   }
@@ -249,52 +289,64 @@
  },
  {
   "scene": 23,
-  "view": "style_cards.bullets",
+  "view": "photo_card.photo_card",
   "dur": 14.56,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
+   "photo": "cards/replaced/scene_023.jpg",
    "kick": "",
-   "items": [
+   "title": "Потеряла деньги, экспорт, зерно",
+   "lines": [
     "Подстанции",
-    "Участки путей",
-    "Новые территории"
+    "Участки путей. Потеряла деньги",
+    "Новые территории. Причём здесь есть вещи"
    ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 24,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_strip",
   "dur": 8.43,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_024.jpg",
+   "shots": [
+    "cards/replaced/scene_024.jpg",
+    "cards/replaced/scene_018.jpg",
+    "cards/replaced/scene_019.jpg"
+   ],
+   "captions": [
+    "",
+    "",
+    ""
+   ],
+   "kick": "кадры истории",
+   "title": "Завод можно построить заново, если",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 25,
-  "view": "cinematic.trailer_title",
+  "view": "film.film_newsreel",
   "dur": 13.12,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "ЛЮДЕЙ НАЗАД НЕ ПОСТРОИШЬ",
-   "sub": "",
+   "photo": "cards/replaced/scene_025.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 26,
-  "view": "film.film_newsreel",
+  "view": "film.film_single",
   "dur": 12.32,
   "anim": 0,
   "tail_zoom": 0,
@@ -307,7 +359,7 @@
  },
  {
   "scene": 28,
-  "view": "photo_card.photo_card",
+  "view": "style_cards.attrib_frame",
   "dur": 11.17,
   "anim": 0,
   "tail_zoom": 0,
@@ -315,42 +367,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_028.jpg",
-   "kick": "",
-   "title": "Исполнить.",
-   "lines": [
-    "Исполнить.",
-    "Надо дать оружие. Если обещают ПВО"
-   ],
+   "text": "ИСПОЛНИТЬ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 29,
-  "view": "film.film_strip",
+  "view": "cinematic.battle_flashback",
   "dur": 12.03,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_029.jpg",
-    "cards/replaced/scene_023.jpg",
-    "cards/replaced/scene_024.jpg"
-   ],
-   "captions": [
-    "сцена 29",
-    "сцена 23",
-    "сцена 24"
-   ],
-   "kick": "кадры истории",
-   "title": "А если гарантия означает прямую",
+   "photo": "cards/replaced/scene_029.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 30,
-  "view": "film.film_single",
+  "view": "photo_card.photo_card",
   "dur": 13.96,
   "anim": 0,
   "tail_zoom": 0,
@@ -358,12 +394,17 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_030.jpg",
+   "kick": "",
+   "title": "Написать \"непоколебимая поддержка\"",
+   "lines": [
+    "Написать \"непоколебимая поддержка\" тоже недорого."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 31,
-  "view": "photo_card.photo_card",
+  "view": "film.film_single",
   "dur": 9.59,
   "anim": 0,
   "tail_zoom": 0,
@@ -371,24 +412,25 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_031.jpg",
-   "kick": "",
-   "title": "И это как раз тот момент, где",
-   "lines": [
-    "И это как раз тот момент"
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 32,
-  "view": "film.film_single",
+  "view": "style_cards.bullets",
   "dur": 12.18,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_032.jpg",
+   "kick": "",
+   "items": [
+    "Если Вашингтон тогда не подтолкнул такую конструкцию",
+    "А позже не дал Киеву того уровня гарантий",
+    "Ради которого стоило отказываться от прежнего",
+    "Возникает совсем некрасивый промежуток между двумя"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -407,7 +449,7 @@
  },
  {
   "scene": 35,
-  "view": "cinematic.battle_flashback",
+  "view": "style_cards.attrib_frame",
   "dur": 11.91,
   "anim": 0,
   "tail_zoom": 0,
@@ -415,70 +457,64 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_035.jpg",
+   "text": "ВОТ НАСТОЯЩАЯ ЦЕНА ВРЕМЕНИ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 37,
-  "view": "cinematic.trailer_title",
+  "view": "photo_card.photo_card",
   "dur": 11.8,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "БУМАГА ПРОТИВ ИТОГА",
-   "sub": "",
+   "photo": "cards/replaced/scene_037.jpg",
+   "kick": "",
+   "title": "Сравнивать приходится бумагу с тем",
+   "lines": [
+    "Сравнивать приходится бумагу с тем",
+    "Получается почти автомобильный рынок."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 38,
-  "view": "photo_card.photo_card",
+  "view": "style_cards.bullets",
   "dur": 13.04,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_038.jpg",
    "kick": "",
-   "title": "Вы хотите двенадцать и гордо",
-   "lines": [
+   "items": [
     "Вы хотите двенадцать",
     "Гордо отказываетесь. Через год машина после аварии",
-    "Двигателя нет"
+    "Двигателя нет",
+    "Два колеса унесли"
    ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 39,
-  "view": "film.film_strip",
+  "view": "film.film_single",
   "dur": 12.88,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_039.jpg",
-    "cards/replaced/scene_034.jpg",
-    "cards/replaced/scene_035.jpg"
-   ],
-   "captions": [
-    "сцена 39",
-    "сцена 34",
-    "сцена 35"
-   ],
-   "kick": "кадры истории",
-   "title": "Принципиальный человек.",
+   "photo": "cards/replaced/scene_039.jpg",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 40,
-  "view": "film.film_single",
+  "view": "style_cards.attrib_frame",
   "dur": 15.37,
   "anim": 0,
   "tail_zoom": 0,
@@ -486,12 +522,13 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_040.jpg",
+   "text": "УКРАИНЫ ВИДЕ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 41,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 12.39,
   "anim": 0,
   "tail_zoom": 0,
@@ -499,19 +536,12 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_041.jpg",
-   "kick": "",
-   "title": "Убираем из него всё неприятное",
-   "lines": [
-    "Убираем из него всё неприятное",
-    "Украина сохраняет основную часть страны",
-    "Вопрос НАТО закрывается"
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 42,
-  "view": "film.film_single",
+  "view": "photo_card.photo_card",
   "dur": 13.2,
   "anim": 0,
   "tail_zoom": 0,
@@ -519,12 +549,17 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_042.jpg",
+   "kick": "",
+   "title": "Крым остаётся России.",
+   "lines": [
+    "Крым остаётся России."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 45,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_single",
   "dur": 13.92,
   "anim": 0,
   "tail_zoom": 0,
@@ -537,36 +572,39 @@
  },
  {
   "scene": 46,
-  "view": "style_cards.attrib_frame",
+  "view": "style_cards.bullets",
   "dur": 12.16,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/replaced/scene_046.jpg",
-   "text": "Можно возмущаться.",
-   "sub": "",
+   "kick": "",
+   "items": [
+    "Некоторое время приходите снова",
+    "Можно возмущаться.",
+    "Можно даже показать старый рекламный буклет."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 47,
-  "view": "cinematic.trailer_title",
+  "view": "style_cards.attrib_frame",
   "dur": 13.6,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "ЦЕННИК — ЛИНИЯ КОНТРОЛЯ",
-   "sub": "",
+   "photo": "cards/replaced/scene_047.jpg",
+   "text": "ВО ВРЕМЯ ВОЙНЫ РОЛЬ ЦЕННИКА ИГРАЕТ ЛИНИЯ КОНТРОЛЯ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 49,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 12.93,
   "anim": 0,
   "tail_zoom": 0,
@@ -574,25 +612,25 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_049.jpg",
-   "kick": "",
-   "title": "Следующий мир может оказаться ещё",
-   "lines": [
-    "Следующий мир может оказаться ещё хуже."
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 50,
-  "view": "cinematic.trailer_title",
+  "view": "photo_card.photo_card",
   "dur": 14.52,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "ЭТО БЫЛА СТАВКА",
-   "sub": "",
+   "photo": "cards/replaced/scene_050.jpg",
+   "kick": "",
+   "title": "Переговорная позиция станет сильнее.",
+   "lines": [
+    "Переговорная позиция станет сильнее.",
+    "Потому что рассчитываете через год получить лучшее"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -611,7 +649,7 @@
  },
  {
   "scene": 52,
-  "view": "cinematic.battle_flashback",
+  "view": "style_cards.attrib_frame",
   "dur": 13.01,
   "anim": 0,
   "tail_zoom": 0,
@@ -619,6 +657,7 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_052.jpg",
+   "text": "НО ИГРОК ЗНАЕТ СЕЙЧАС ТОЧНО ДОЛЖНО ПОЙТИ.",
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -637,7 +676,7 @@
  },
  {
   "scene": 55,
-  "view": "style_cards.attrib_frame",
+  "view": "photo_card.photo_card",
   "dur": 9.12,
   "anim": 0,
   "tail_zoom": 0,
@@ -645,14 +684,18 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_055.jpg",
-   "text": "Сегодня крайним сценарием кажется Днепр.",
-   "sub": "",
+   "kick": "",
+   "title": "Сегодня крайним сценарием кажется",
+   "lines": [
+    "Однажды спорить придётся уже не о той линии",
+    "Сегодня крайним сценарием кажется Днепр."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 57,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_single",
   "dur": 13.88,
   "anim": 0,
   "tail_zoom": 0,
@@ -665,21 +708,21 @@
  },
  {
   "scene": 58,
-  "view": "cinematic.trailer_title",
+  "view": "style_cards.attrib_frame",
   "dur": 12.64,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "БЫЛ ПРОСТО ГОРОД",
-   "sub": "",
+   "photo": "cards/replaced/scene_058.jpg",
+   "text": "ЭТО БЫЛ ПРОСТО ГОРОД.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 59,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 8.38,
   "anim": 0,
   "tail_zoom": 0,
@@ -687,35 +730,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_059.jpg",
-   "kick": "",
-   "title": "Но есть во всей этой истории ещё один",
-   "lines": [
-    "Тот самый DHL"
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 60,
-  "view": "film.film_strip",
+  "view": "photo_card.photo_card",
   "dur": 8.73,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_060.jpg",
-    "cards/replaced/scene_054.jpg",
-    "cards/replaced/scene_055.jpg"
-   ],
-   "captions": [
-    "сцена 60",
-    "сцена 54",
-    "сцена 55"
-   ],
-   "kick": "кадры истории",
+   "photo": "cards/replaced/scene_060.jpg",
+   "kick": "",
    "title": "Соединённые Штаты связывали Россию",
+   "lines": [
+    "The Atlantic описал историю",
+    "В которой Соединённые Штаты связывали Россию",
+    "Грузовой логистики в Европе."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
@@ -734,7 +768,7 @@
  },
  {
   "scene": 62,
-  "view": "photo_card.photo_card",
+  "view": "style_cards.attrib_frame",
   "dur": 12.39,
   "anim": 0,
   "tail_zoom": 0,
@@ -742,18 +776,13 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_062.jpg",
-   "kick": "",
-   "title": "Владимир Владимирович, посольство",
-   "lines": [
-    "Миллиарды долларов",
-    "А надо было просто сказать Владимир Владимирович"
-   ],
+   "text": "ВЛАДИМИР ВЛАДИМИРОВИЧ, ПОСОЛЬСТВО ЗАКРОЕМ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 63,
-  "view": "film.film_single",
+  "view": "cinematic.battle_flashback",
   "dur": 11.15,
   "anim": 0,
   "tail_zoom": 0,
@@ -766,7 +795,7 @@
  },
  {
   "scene": 64,
-  "view": "cinematic.battle_flashback",
+  "view": "photo_card.photo_card",
   "dur": 13.47,
   "anim": 0,
   "tail_zoom": 0,
@@ -774,12 +803,19 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_064.jpg",
+   "kick": "",
+   "title": "Там американцы повысили голос, и всё",
+   "lines": [
+    "Там американцы повысили голос",
+    "Тогда вопрос к Киеву становится ещё хуже.",
+    "Настолько пугливой"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 65,
-  "view": "style_cards.attrib_frame",
+  "view": "film.film_single",
   "dur": 13.25,
   "anim": 0,
   "tail_zoom": 0,
@@ -787,33 +823,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_065.jpg",
-   "text": "Украина после отказа от того окна пришла к нынешней карте?",
-   "sub": "",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 66,
-  "view": "style_cards.bullets",
+  "view": "style_cards.attrib_frame",
   "dur": 11.27,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "kick": "",
-   "items": [
-    "Отдать всё обратно",
-    "Рассказывать",
-    "А потом годами объяснять",
-    "Почему Украина не стала от этого сильнее"
-   ],
+   "photo": "cards/replaced/scene_066.jpg",
+   "text": "ВАШИНГТОН ОДНИМ ДИПЛОМАТИЧЕСКИМ ОКРИКОМ ЗАСТАВЛЯЕТ ЕЁ МЕНЯТЬ ПОВЕДЕНИЕ, А ПОТОМ",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 68,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 14.18,
   "anim": 0,
   "tail_zoom": 0,
@@ -821,42 +850,30 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_068.jpg",
-   "kick": "",
-   "title": "На истощение России.",
-   "lines": [
-    "На истощение России.",
-    "Что у Москвы быстрее закончатся деньги"
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 69,
-  "view": "film.film_strip",
+  "view": "photo_card.photo_card",
   "dur": 7.05,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_069.jpg",
-    "cards/replaced/scene_063.jpg",
-    "cards/replaced/scene_064.jpg"
-   ],
-   "captions": [
-    "сцена 69",
-    "сцена 63",
-    "сцена 64"
-   ],
-   "kick": "кадры истории",
+   "photo": "cards/replaced/scene_069.jpg",
+   "kick": "",
    "title": "У России намного больше территория.",
+   "lines": [
+    "У России намного больше территория."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 70,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_single",
   "dur": 9.95,
   "anim": 0,
   "tail_zoom": 0,
@@ -869,7 +886,7 @@
  },
  {
   "scene": 71,
-  "view": "cinematic.battle_flashback",
+  "view": "style_cards.attrib_frame",
   "dur": 13.44,
   "anim": 0,
   "tail_zoom": 0,
@@ -877,12 +894,13 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_071.jpg",
+   "text": "У УКРАИНЫ ЭТИХ ЗАПАСОВ МЕНЬШЕ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 73,
-  "view": "film.film_single",
+  "view": "cinematic.battle_flashback",
   "dur": 11.99,
   "anim": 0,
   "tail_zoom": 0,
@@ -895,7 +913,7 @@
  },
  {
   "scene": 74,
-  "view": "cinematic.battle_flashback",
+  "view": "photo_card.photo_card",
   "dur": 12.53,
   "anim": 0,
   "tail_zoom": 0,
@@ -903,12 +921,17 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_074.jpg",
+   "kick": "",
+   "title": "И вот теперь можно открывать кассу.",
+   "lines": [
+    "И вот теперь можно открывать кассу."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 75,
-  "view": "style_cards.attrib_frame",
+  "view": "film.film_single",
   "dur": 7.2,
   "anim": 0,
   "tail_zoom": 0,
@@ -916,33 +939,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_075.jpg",
-   "text": "Может принести.",
-   "sub": "",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 76,
-  "view": "style_cards.bullets",
+  "view": "style_cards.attrib_frame",
   "dur": 10.56,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "kick": "",
-   "items": [
-    "А может принести ещё один Бахмут",
-    "Ещё несколько потерянных предприятий",
-    "Новые повреждённые электростанции",
-    "Новые проблемы на железной дороге"
-   ],
+   "photo": "cards/replaced/scene_076.jpg",
+   "text": "А МОЖЕТ ПРИНЕСТИ ЕЩЁ ОДИН БАХМУТ, ЕЩЁ НЕСКОЛЬКО ПОТЕРЯННЫХ ПРЕДПРИЯТИЙ, НОВЫЕ",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 78,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 14.99,
   "anim": 0,
   "tail_zoom": 0,
@@ -950,42 +966,31 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_078.jpg",
-   "kick": "",
-   "title": "Слово осталось таким же коротким.",
-   "lines": [
-    "Пытались выяснить",
-    "Москва могла бы принять."
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 79,
-  "view": "film.film_strip",
+  "view": "photo_card.photo_card",
   "dur": 13.92,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_079.jpg",
-    "cards/replaced/scene_073.jpg",
-    "cards/replaced/scene_074.jpg"
-   ],
-   "captions": [
-    "сцена 79",
-    "сцена 73",
-    "сцена 74"
-   ],
-   "kick": "кадры истории",
+   "photo": "cards/replaced/scene_079.jpg",
+   "kick": "",
    "title": "Вашингтона.",
+   "lines": [
+    "Вашингтона.",
+    "Дальше история пошла своим путём."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 80,
-  "view": "cinematic.battle_flashback",
+  "view": "film.film_single",
   "dur": 12.32,
   "anim": 0,
   "tail_zoom": 0,
@@ -998,7 +1003,7 @@
  },
  {
   "scene": 81,
-  "view": "photo_card.photo_card",
+  "view": "style_cards.attrib_frame",
   "dur": 13.5,
   "anim": 0,
   "tail_zoom": 0,
@@ -1006,17 +1011,13 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_081.jpg",
-   "kick": "",
-   "title": "Украины вариант выглядит не слабее",
-   "lines": [
-    "Наоборот."
-   ],
+   "text": "УКРАИНЫ ВАРИАНТ ВЫГЛЯДИТ НЕ СЛАБЕЕ ОТ ТОГО, ЧТО БЫЛ ПРИУКРАШЕН.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 82,
-  "view": "film.film_single",
+  "view": "cinematic.battle_flashback",
   "dur": 8.65,
   "anim": 0,
   "tail_zoom": 0,
@@ -1029,7 +1030,7 @@
  },
  {
   "scene": 83,
-  "view": "cinematic.battle_flashback",
+  "view": "photo_card.photo_card",
   "dur": 10.26,
   "anim": 0,
   "tail_zoom": 0,
@@ -1037,12 +1038,19 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_083.jpg",
+   "kick": "",
+   "title": "Могла искать выход.",
+   "lines": [
+    "Могла искать выход.",
+    "Насколько это нравится тем",
+    "Кто любит историю про DHL."
+   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 84,
-  "view": "style_cards.attrib_frame",
+  "view": "film.film_single",
   "dur": 11.61,
   "anim": 0,
   "tail_zoom": 0,
@@ -1050,28 +1058,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_084.jpg",
-   "text": "Это уже ничего не меняет.",
-   "sub": "",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 85,
-  "view": "cinematic.trailer_title",
+  "view": "style_cards.attrib_frame",
   "dur": 12.63,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "ВСЕГО ТРИ БУКВЫ",
-   "sub": "",
+   "photo": "cards/replaced/scene_085.jpg",
+   "text": "МОЖНО ОПЯТЬ СКАЗАТЬ НЕТ.",
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 86,
-  "view": "photo_card.photo_card",
+  "view": "cinematic.battle_flashback",
   "dur": 13.15,
   "anim": 0,
   "tail_zoom": 0,
@@ -1079,35 +1085,26 @@
   "channel": "ПЛАНЕТА",
   "kwargs": {
    "photo": "cards/replaced/scene_086.jpg",
-   "kick": "",
-   "title": "Потому что когда нибудь может",
-   "lines": [
-    "То как будет называться следующий отказ"
-   ],
    "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 87,
-  "view": "film.film_strip",
+  "view": "photo_card.photo_card",
   "dur": 12.62,
   "anim": 0,
   "tail_zoom": 0,
   "watermark": "ПЛАНЕТА",
   "channel": "ПЛАНЕТА",
   "kwargs": {
-   "shots": [
-    "cards/replaced/scene_087.jpg",
-    "cards/replaced/scene_081.jpg",
-    "cards/replaced/scene_082.jpg"
-   ],
-   "captions": [
-    "сцена 87",
-    "сцена 81",
-    "сцена 82"
-   ],
-   "kick": "кадры истории",
+   "photo": "cards/replaced/scene_087.jpg",
+   "kick": "",
    "title": "Украина решила не брать.",
+   "lines": [
+    "Будут вспоминать как подарок",
+    "Украина решила не брать.",
+    "Металлургии"
+   ],
    "watermark": "ПЛАНЕТА"
   }
  }
