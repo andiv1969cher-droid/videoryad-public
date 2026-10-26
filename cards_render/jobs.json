@@ -1,0 +1,314 @@
+[
+ {
+  "scene": 4,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.46,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_004.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "cinematic.depth_of_field",
+  "dur": 14.08,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_008.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "cinematic.depth_of_field",
+  "dur": 9.52,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_011.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "cinematic.depth_of_field",
+  "dur": 5.94,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_014.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.64,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_018.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 20,
+  "view": "cinematic.depth_of_field",
+  "dur": 14.5,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_020.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "cinematic.depth_of_field",
+  "dur": 11.17,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_028.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.96,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_030.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.18,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_032.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.88,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_039.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.39,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_041.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.92,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_045.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.01,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_052.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "cinematic.depth_of_field",
+  "dur": 9.12,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_055.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "cinematic.depth_of_field",
+  "dur": 8.73,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_060.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.39,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_062.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.47,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_064.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "cinematic.depth_of_field",
+  "dur": 7.05,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_069.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 71,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.44,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_071.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 74,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.53,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_074.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.92,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_079.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 81,
+  "view": "cinematic.depth_of_field",
+  "dur": 13.5,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_081.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 83,
+  "view": "cinematic.depth_of_field",
+  "dur": 10.26,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_083.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 87,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.62,
+  "anim": 0,
+  "tail_zoom": 0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_087.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
