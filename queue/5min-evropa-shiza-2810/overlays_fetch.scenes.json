@@ -1,0 +1,125 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 2,
+   "text": "",
+   "duration_sec": 12.24,
+   "visual_prompt": "Карта Европы",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА/Borders Europe Map HD.jpg"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 13.4,
+   "visual_prompt": "Фон дер Ляйен уходит из зала Европарламента",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/dddff89dc9.mp4?token=NmUnk413iT4uHX-f6GkgK1QzTYYO6aPyZnRGG49CrVMS5fIP8R4Zmfrd83xDEcNrxST0woB9d9EUAgaIE_MzyBg4xxK3KZCBmnvNI1gdQ2CkBqDTq1yNcl-2vrf5waJFs0oewfzZvAMQJTK85p8tXxd00wifcQXAQzH9ENZ0v7c__P5BjHWl1Mc1ysU4P6VjVgf_BiYNukvYBXQD_0d41s_DOPdl5yzLonBe1E7jWeBdErgWmVkUjuDOI66499DdrqjtDCsu2gEtOODsra7tecrgqup6BSWd7JgnXySSjGUxFiobJ0u1NgNqh8QZlRqtUV6KztLaYidzYf4TxRnrGw"
+  },
+  {
+   "id": 9,
+   "text": "",
+   "duration_sec": 10.427,
+   "visual_prompt": "Карта Словакии — откуда депутат Угрик",
+   "source": "local_library",
+   "source_query": "КАРТЫ/СЛОВАКИЯ/Slovakia map modern.jpg"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "duration_sec": 11.84,
+   "visual_prompt": "Сообщение: ЕК не возвращается к изъятию активов РФ",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/XQoxsjzcarYSDQD4EdaZ1zPTx4FOYVr7Ec5EXpICg--zoO6sGqyBzpH8u9QfYAewJoXwSs1kyn6u2Ss8ge3ARyvGZhX4zVU0U7AxxYllQSqKha0DsdfRJjCGmxKicXvB_Li-9FOx8y-Byy7M6jOBLD-Ux76_D4zHxwMcRlaMVQVMyW0byHQL7jmomtmSLOpxrGxyz6-S-fWLuL0CksC82DAuq_Wnaof7Y3GC08c2RS7cfNuHXFgM67qZaYFe0G1AXtTHXW2aVsPTsSQoJ_TQTA7QdzRITDle4jKST0KvAE_4KZKFVEaz1if2I4jIYYKKFjvIJ4pb0hNu_wmERQmmMQ.jpg"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 10.16,
+   "visual_prompt": "Перечень запасов кампании «Будьте готовы»",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/UgxGkohlbaw0OTtSqU3Y8hxxzaw3CcpdMV0aRSY4YS1s3jsxasJV28oUPJU7fws1eNtwcwVkyVYUarcUpEnipgtaW-NUYumABf91UudnVP_XMeo5mJMZ5ACH7FErsGqHRFk8ObIORF8I9bwfOWz8oSyq73qTj3xpRIPSTOlftDg-bPxnrim91lwNe3KnrLXWVNsu4FZs2rJwzSc12ieQq9WJtdP2Dvk2AMgl8QKc_7EU2OdAmB3fJgUuSbc5JrD8l8Ljx96yTmnIxrjV7HopIWyQ3cP4D5WwJcI4NLNla3LGBTJOEuLX18unW9NxLIgJRLzno-zLwErZtNQsSpRMSg.jpg"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "duration_sec": 14.68,
+   "visual_prompt": "Запуск британской кампании готовности",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/tN1I3Qckjb6YaOi2NuhPLYyLwo_5pCIDsZJPjYpyCbYUoL3pcyCvEugwxqRyp9W861p-z2uD4K6uJD9ntGtc39kZAsQTYYDihU1C5djUexgJ2iLH3uYLTaIeUScR4Q8MU6FH99DcubFRaFS9UP2lfdGXhra7cRiuWBoUC7vtUh2wEWxXybN-bYJj6FzZYzHwBC6PObUJF-QeBb67LyodAhTe_Hi6qM3tMOCV_ktPVPY6tOe7j-l1sgGlYd_57W5lm9A9Ng_kvirYd4TXbM0Qj62z8dwfLVWeDZERNPYugqG1dzjOjdPC-BiQmrI5CiTocVXb-hc18OiULR_mB4q9Mg.jpg"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "duration_sec": 12.851,
+   "visual_prompt": "Карта России",
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ/Blank map of Russia-gray.jpg"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "duration_sec": 12.32,
+   "visual_prompt": "Кая Каллас, глава дипломатии ЕС",
+   "source": "press_photo",
+   "source_query": "Кая Каллас верховный представитель ЕС по иностранным делам 2026"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "duration_sec": 9.281,
+   "visual_prompt": "Роберто Ванначчи о шантаже Зеленского",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/4bbbb97beb.mp4?token=vBf9AVv0B0boZpJ7E_zNOtcjf6ilPYvxK1GUcDes3lHPUlwv91Y5hCBFaxdVcEW_s8gJVnAW1eQ4tuUcPTbitE7uN-76-9LulJJX8AFymWHuz8AAZIKLgc7UMV9kdyW0D_gRpsTDsDA4GZg-xxTUHOb-xQ9megLIBc7JM_KcqOjANvS3eo9X-GClSNJkr5l-T7go8knqzYgSYNMO0Ac02ZTX4WUP1n7j8LOuD4p5INLMqmfs46gYRtihcHROTefWZ0NV-Aqt22EHs703oNBDJpqOvCvKqDuYhySNKRWVlGb7GDQZO56GZzhL-mLRdbRzaGygCHnUtqsnPL55Fk2mSA"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "duration_sec": 8.894,
+   "visual_prompt": "Карта Германии",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ГЕРМАНИЯ/Germany locator (region).png"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 11.17,
+   "visual_prompt": "Алис Вайдель, лидер АдГ",
+   "source": "press_photo",
+   "source_query": "Алис Вайдель АдГ выступление Германия 2026"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 11.902,
+   "visual_prompt": "Белоусов на коллегии в Минске",
+   "source": "press_photo",
+   "source_query": "Андрей Белоусов совместная коллегия министерств обороны Минск 23 октября 2026"
+  },
+  {
+   "id": 54,
+   "text": "",
+   "duration_sec": 10.359,
+   "visual_prompt": "Фон дер Ляйен уходит из зала Европарламента",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/dfd7ff810c.mp4?token=CU8zQljiCj_5325_G04tLwfdFIt4hEdjGvKMWKdZrBvZAzTGKXi_6-XGuyq60bR3JDqeT9xfM589dqlZ8O14hXNBo8ogWhLzui3mwRR5eAMMiLtlWUwNyQPWZT_est-uA9qbKqaWYx9URwviiTXEyL7um4X5A7EmkwEqXGhTQYkB07VG-b491J9-jAVsfTk32SLOkK-6gcPTptFYMP2MIbvBBIr0zRmmWvGEx7Dxd3Jv1aqiMCl8_HY-53SXyVeT4-ALMYv8CHiGx-4_tCOM5PMjQaEgjNsiNhCswkuQOh0baYgMSjhcI60MXjsb9Iy679ueV-_ExqZrRrdazu59tAKh1VyCO8YY7YbXwzyPJg4mk32jkxQQWDsdUxSj-yxyDWLV-tgucyJqJBwD4998KI3p9JmDf4OnAdY4JuXfB9gNiwO8eT24YZD-f9nG5UJOmFEWi4TLUKDlcn52V4gYKuuFknxLoaf-rIRz6OnzBqeItDVl4BLS8H8ifNS0e7rtQGPq8xqM2vGiwOFPREaSt_R55AhRTfa_ahpxaf3ATAjCsb_tAj-7B38o3l5LIfmjeinVA286MoWFJswlfN4izgzr1GLF9X53HHrUVOcHS0ZZg8A2ZtHpfPamocZad297Ft5XJ7XDsLQza9n0FwaC75ppkjGJ-32roTwa2zP98nY"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "duration_sec": 11.36,
+   "visual_prompt": "Протесты в европейских странах",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/g4uSqGTUaDk75wjSn2oGihnwFtnQq-7OrxDn73FElNwQ823p0Q5KEblOMy8MUNQpuY1ai_xnzuv8G0yBraPmAZb26guIwz3OCJtCVr2rNd7fB7Kq8reeMiKOegkixg7HBZ729V3V7Z-D1tW3pIe-D0CjBSdturRIyawrnI4vVaIF2XUNBo622v1W8imk26d1QQUVebpT8DZR1K_RIPS3HP3CcfhavsOpg1iwEea7djFwcKE1gceO-VzRJ5cQhael8pkHMmgWyCvDwbaJ7Muvmy-fdTarRVx8z7uQlaotAkxtEmn1nuy5VkMRcLpuR9RHVvh5a98qJ60xHJj7UNtDHQ.jpg"
+  },
+  {
+   "id": 68,
+   "text": "",
+   "duration_sec": 14.08,
+   "visual_prompt": "Страница кампании Be Ready",
+   "source": "press_photo",
+   "source_query": "Страница кампании Be Ready на сайте правительства Великобритании 2026"
+  }
+ ]
+}
