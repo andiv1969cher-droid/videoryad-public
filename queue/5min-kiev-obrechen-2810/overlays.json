@@ -1,0 +1,325 @@
+{
+  "anchor": "top",
+  "6": {
+    "text": {
+      "words": "ПОЛЧАСА ПЕШКОМ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "mashinka"
+  },
+  "9": {
+    "text": {
+      "words": "ТРИ МИЛЛИОНА ЖИТЕЛЕЙ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pshik"
+  },
+  "12": {
+    "text": {
+      "words": "ЮЖНЫЙ МОСТ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "zatvor"
+  },
+  "13": {
+    "text": {
+      "words": "НУЖНЫ НОВЫЕ ПЕРЕПРАВЫ",
+      "color": "white",
+      "pos": "tr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "whoosh"
+  },
+  "14": {
+    "text": {
+      "words": "ГОРОД РАЗДЕЛЁН ДНЕПРОМ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pop"
+  },
+  "18": {
+    "text": {
+      "words": "ПЯТНАДЦАТЬ ЭТАЖЕЙ",
+      "color": "yellow",
+      "pos": "tl",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "mashinka"
+  },
+  "20": {
+    "text": {
+      "words": "НАСОСЫ СТОЯТ БЕЗ СВЕТА",
+      "color": "white",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pshik"
+  },
+  "30": {
+    "text": {
+      "words": "ВТОРОЙ КВАРТИРЫ НЕТ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "zatvor"
+  },
+  "32": {
+    "text": {
+      "words": "ДЕВЯТЫЙ ЭТАЖ",
+      "color": "yellow",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "whoosh"
+  },
+  "34": {
+    "text": {
+      "words": "ПУНКТЫ ОБОГРЕВА",
+      "color": "white",
+      "pos": "tr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.5,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pop"
+  },
+  "37": {
+    "text": {
+      "words": "НО НЕ ТРЁМ МИЛЛИОНАМ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "mashinka"
+  },
+  "41": {
+    "text": {
+      "words": "ВОТ И ВСЯ ЭВАКУАЦИЯ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pshik"
+  },
+  "43": {
+    "text": {
+      "words": "ТРЕТИЙ ДЕНЬ БЕЗ СВЕТА",
+      "color": "yellow",
+      "pos": "tr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "zatvor"
+  },
+  "44": {
+    "text": {
+      "words": "ДОСТАВКА ЧЕРЕЗ ТРИ ДНЯ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "whoosh"
+  },
+  "51": {
+    "text": {
+      "words": "ГЕРМАНИЯ: ЗАПАС НА ДЕСЯТЬ ДНЕЙ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pop"
+  },
+  "52": {
+    "text": {
+      "words": "МИНИМУМ ТРИ ДНЯ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "mashinka"
+  },
+  "53": {
+    "text": {
+      "words": "БРИТАНИЯ: БУДЬ ГОТОВ",
+      "color": "yellow",
+      "pos": "tr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pshik"
+  },
+  "55": {
+    "text": {
+      "words": "ТРИ ДНЯ САМОСТОЯТЕЛЬНОСТИ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "zatvor"
+  },
+  "57": {
+    "text": {
+      "words": "КОМУ-ТО ПРИДЁТСЯ ЖДАТЬ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "whoosh"
+  },
+  "61": {
+    "text": {
+      "words": "РЕЗЕРВ ЕСТЬ У БОЛЬНИЦЫ",
+      "color": "white",
+      "pos": "tr",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pop"
+  },
+  "62": {
+    "text": {
+      "words": "У ТРЁХ МИЛЛИОНОВ ЕГО НЕТ",
+      "color": "red",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.4,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "mashinka"
+  },
+  "68": {
+    "text": {
+      "words": "ЧИНЯТ, ЧТО МОЖНО ПОЧИНИТЬ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pshik"
+  },
+  "3": {
+    "text": {
+      "words": "СВЕТ ПРИХОДИТ НА ЧАС",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.6,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "top",
+    "sound": "pop"
+  }
+}
