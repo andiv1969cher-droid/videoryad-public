@@ -1,0 +1,482 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 14.2,
+   "visual_prompt": "Сельскохозяйственные участки и разделяющие их полосы деревьев с высоты",
+   "source": "pexels_video",
+   "source_query": "aerial view of empty farmland and tree lines"
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 14.2,
+   "duration_sec": 14.6,
+   "visual_prompt": "Дорога между лесными полосами в зоне боевых действий",
+   "source": "press_photo",
+   "source_query": "дорога между лесными полосами в Харьковской области, 2026"
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 28.8,
+   "duration_sec": 11.2,
+   "visual_prompt": "Московский Кремль в дальней панораме города",
+   "source": "press_photo",
+   "source_query": "панорама Московского Кремля с другого берега Москвы реки, 2026"
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 40.0,
+   "duration_sec": 11.8,
+   "visual_prompt": "Ветер раскачивает густую полосу деревьев у пустой дороги",
+   "source": "pexels_video",
+   "source_query": "wind moving through dense roadside trees"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 51.8,
+   "duration_sec": 11.5,
+   "visual_prompt": "Лесная полоса и земляной ров на открытой местности",
+   "source": "press_photo",
+   "source_query": "лесная полоса с земляным рвом в Донецкой области, 2026"
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 63.3,
+   "duration_sec": 11.9,
+   "visual_prompt": "Грунтовый просёлок пересекает сельскохозяйственные угодья",
+   "source": "press_photo",
+   "source_query": "грунтовый просёлок через сельхозугодья Донецкой области, 2026"
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 75.2,
+   "duration_sec": 9.8,
+   "visual_prompt": "Телекамеры информационных агентств у киевского пресс-центра",
+   "source": "press_photo",
+   "source_query": "телекамеры информационных агентств у пресс-центра в Киеве, 2026"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 85.0,
+   "duration_sec": 9.3,
+   "visual_prompt": "Строгая карточка с ключевой цитатой о решении СНБО",
+   "source": "card:quote",
+   "source_query": "На фоне всех этих разговоров о наступлении Зеленский вводит в действие решение СНБО о подготовке украинских городов к круговой обороне."
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 94.3,
+   "duration_sec": 12.3,
+   "visual_prompt": "Здание Совета национальной безопасности и обороны Украины",
+   "source": "press_photo",
+   "source_query": "здание СНБО Украины в Киеве, 2026"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 106.6,
+   "duration_sec": 9.3,
+   "visual_prompt": "Кольцевая автомобильная развязка на окраине украинского города",
+   "source": "press_photo",
+   "source_query": "кольцевая автомобильная развязка на окраине Киева, 2026"
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 115.9,
+   "duration_sec": 11.0,
+   "visual_prompt": "Бетонные блоки перекрывают часть въезда в город",
+   "source": "press_photo",
+   "source_query": "бетонные блоки на въезде в Сумы, 2026"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 126.9,
+   "duration_sec": 8.2,
+   "visual_prompt": "Крупный план мотка колючей проволоки на заградительной линии",
+   "source": "pexels_video",
+   "source_query": "razor wire coil closeup wind"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 135.1,
+   "duration_sec": 10.0,
+   "visual_prompt": "Дорожная разметка движется под камерой крупным планом",
+   "source": "pexels_video",
+   "source_query": "highway lane markings closeup moving"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 145.1,
+   "duration_sec": 13.5,
+   "visual_prompt": "Железобетонные пирамиды образуют заградительную линию",
+   "source": "press_photo",
+   "source_query": "железобетонные пирамиды на подъезде к украинскому городу, 2026"
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 158.6,
+   "duration_sec": 13.7,
+   "visual_prompt": "Противотанковые ежи установлены вдоль автомобильного полотна",
+   "source": "press_photo",
+   "source_query": "противотанковые ежи вдоль автодороги в Сумской области, 2026"
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 172.3,
+   "duration_sec": 13.9,
+   "visual_prompt": "Ковш экскаватора крупным планом выбирает грунт",
+   "source": "pexels_video",
+   "source_query": "excavator bucket digging closeup"
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 186.2,
+   "duration_sec": 13.6,
+   "visual_prompt": "Габионы образуют укреплённый рубеж возле городской окраины",
+   "source": "press_photo",
+   "source_query": "габионы вдоль городской окраины в Харьковской области, 2026"
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 199.8,
+   "duration_sec": 14.8,
+   "visual_prompt": "Материальные разрушения жилых кварталов Мариуполя",
+   "source": "press_photo",
+   "source_query": "разрушенные кварталы Мариуполя с уровня улицы, 2026"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 214.6,
+   "duration_sec": 9.7,
+   "visual_prompt": "Ковш экскаватора разбирает груду бетонных обломков",
+   "source": "pexels_video",
+   "source_query": "excavator bucket sorting concrete rubble"
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 224.3,
+   "duration_sec": 15.4,
+   "visual_prompt": "Коробка жилого дома с полностью отсутствующей наружной стеной",
+   "source": "press_photo",
+   "source_query": "коробка жилого дома без наружной стены, Бахмут, 2026"
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 239.7,
+   "duration_sec": 14.5,
+   "visual_prompt": "Пустой разрушенный корпус промышленного предприятия",
+   "source": "press_photo",
+   "source_query": "пустой корпус металлургического предприятия, Авдеевка, 2026"
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 254.2,
+   "duration_sec": 15.7,
+   "visual_prompt": "Фасад многоэтажного дома с выбитыми окнами",
+   "source": "press_photo",
+   "source_query": "выбитые окна многоквартирного дома, Часов Яр, 2026"
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 269.9,
+   "duration_sec": 14.3,
+   "visual_prompt": "Разбитый автомобильный мост и повреждённые пролёты",
+   "source": "press_photo",
+   "source_query": "разбитый автомобильный мост в Донецкой области, 2026"
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 284.2,
+   "duration_sec": 15.0,
+   "visual_prompt": "Железнодорожная развязка с несколькими расходящимися путями",
+   "source": "press_photo",
+   "source_query": "путевая развязка станции Краматорск с уровня земли, 2026"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 299.2,
+   "duration_sec": 13.8,
+   "visual_prompt": "Перегрузочная железнодорожная станция в промышленной части города",
+   "source": "press_photo",
+   "source_query": "перегрузочная станция промышленного района Краматорска, 2026"
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 313.0,
+   "duration_sec": 13.4,
+   "visual_prompt": "Карточка с вопросом о цене длительного удержания города",
+   "source": "card:quote",
+   "source_query": "Она хорошо объясняет, почему город надо удерживать. И значительно хуже отвечает на вопрос, что от этого города останется после удержания."
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 326.4,
+   "duration_sec": 8.8,
+   "visual_prompt": "Поток жидкого бетона крупным планом",
+   "source": "pexels_video",
+   "source_query": "wet concrete pouring closeup"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 335.2,
+   "duration_sec": 9.4,
+   "visual_prompt": "Микрофоны на столе во время правительственного совещания",
+   "source": "press_photo",
+   "source_query": "микрофоны на столе Кабинета министров Украины, Киев, 2026"
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 344.6,
+   "duration_sec": 13.9,
+   "visual_prompt": "Проходная действующего металлургического предприятия",
+   "source": "press_photo",
+   "source_query": "проходная современного металлургического предприятия, Украина, 2026"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 358.5,
+   "duration_sec": 13.8,
+   "visual_prompt": "Станки в действующем машиностроительном производстве",
+   "source": "press_photo",
+   "source_query": "станки современного машиностроительного производства, Украина, 2026"
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 372.3,
+   "duration_sec": 9.1,
+   "visual_prompt": "Мотки колючей проволоки лежат на гравийной поверхности",
+   "source": "pexels_video",
+   "source_query": "coils of barbed wire on gravel ground"
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 381.4,
+   "duration_sec": 9.6,
+   "visual_prompt": "Шлагбаум и бетонное ограждение на въезде в город",
+   "source": "press_photo",
+   "source_query": "шлагбаум на въезде в прифронтовой город, Украина, 2026"
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 391.0,
+   "duration_sec": 9.0,
+   "visual_prompt": "Пустая улица города с бетонными препятствиями на проезжей части",
+   "source": "press_photo",
+   "source_query": "пустая городская улица с бетонными препятствиями, Украина, 2026"
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 400.0,
+   "duration_sec": 16.0,
+   "visual_prompt": "Межевой бетонный знак посреди сельскохозяйственных угодий",
+   "source": "press_photo",
+   "source_query": "межевой бетонный знак среди сельхозугодий, Украина, 2026"
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 416.0,
+   "duration_sec": 15.0,
+   "visual_prompt": "Дорожный указатель расстояний на украинской трассе",
+   "source": "press_photo",
+   "source_query": "дорожный указатель расстояний на трассе Киев Харьков, 2026"
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 431.0,
+   "duration_sec": 14.4,
+   "visual_prompt": "Километровый столб у длинной пустой трассы",
+   "source": "press_photo",
+   "source_query": "дорожный километровый столб на трассе в Украине, 2026"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 445.4,
+   "duration_sec": 14.9,
+   "visual_prompt": "Фасад здания Европейской комиссии в Брюсселе",
+   "source": "press_photo",
+   "source_query": "фасад здания Европейской комиссии в Брюсселе, 2026"
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 460.3,
+   "duration_sec": 15.6,
+   "visual_prompt": "Железнодорожный мост соединяет промышленные районы через реку",
+   "source": "press_photo",
+   "source_query": "Мерефо-Херсонский мост через Днепр, Днепр, 2026"
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 475.9,
+   "duration_sec": 8.9,
+   "visual_prompt": "Колесо вагона движется по рельсу крупным планом",
+   "source": "pexels_video",
+   "source_query": "railway wheel rolling on track closeup"
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 484.8,
+   "duration_sec": 9.5,
+   "visual_prompt": "Обвалившаяся кровля разрушенного жилого квартала",
+   "source": "press_photo",
+   "source_query": "обвалившаяся кровля жилого квартала, Авдеевка, 2026"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 494.3,
+   "duration_sec": 9.2,
+   "visual_prompt": "Одинокая стена разрушенной квартиры с пустыми оконными проёмами",
+   "source": "press_photo",
+   "source_query": "одинокая стена разрушенной квартиры, Бахмут, 2026"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 503.5,
+   "duration_sec": 9.3,
+   "visual_prompt": "Обломки домашней мебели лежат у разрушенной стены",
+   "source": "press_photo",
+   "source_query": "обломки мебели у разрушенной стены, Часов Яр, 2026"
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 512.8,
+   "duration_sec": 9.6,
+   "visual_prompt": "Пустой дверной проём в разрушенной квартире",
+   "source": "press_photo",
+   "source_query": "пустой дверной проём разрушенной квартиры, Часов Яр, 2026"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 522.4,
+   "duration_sec": 14.4,
+   "visual_prompt": "Карточка с главным вопросом о цене военного успеха",
+   "source": "card:quote",
+   "source_query": "Не является ли такая цена слишком высокой даже для военного успеха?"
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 536.8,
+   "duration_sec": 9.9,
+   "visual_prompt": "Металлические противотанковые ежи на городской окраине",
+   "source": "press_photo",
+   "source_query": "металлические противотанковые ежи на окраине Сум, 2026"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 546.7,
+   "duration_sec": 8.7,
+   "visual_prompt": "Повреждённая железнодорожная насыпь у промышленной зоны",
+   "source": "press_photo",
+   "source_query": "насыпь путей у станции Сумы-Товарная, 2026"
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 555.4,
+   "duration_sec": 9.0,
+   "visual_prompt": "Разрушенная водонапорная башня над опустевшим кварталом",
+   "source": "press_photo",
+   "source_query": "разрушенная водонапорная башня, Харьковская область, 2026"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 564.4,
+   "duration_sec": 8.7,
+   "visual_prompt": "Автомобильная развязка у въезда в прифронтовой город",
+   "source": "press_photo",
+   "source_query": "автомобильная развязка у въезда в Константиновку, 2026"
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 573.1,
+   "duration_sec": 9.0,
+   "visual_prompt": "Жилой дом с выбитыми окнами и повреждённым фасадом",
+   "source": "press_photo",
+   "source_query": "жилой дом с выбитыми окнами, Константиновка, 2026"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 582.1,
+   "duration_sec": 9.8,
+   "visual_prompt": "Пустой подъезд повреждённой многоэтажки",
+   "source": "press_photo",
+   "source_query": "пустой подъезд повреждённой многоэтажки, Украина, 2026"
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 591.9,
+   "duration_sec": 9.3,
+   "visual_prompt": "Грунтовый вал тянется вдоль сельскохозяйственных угодий",
+   "source": "press_photo",
+   "source_query": "грунтовый вал вдоль сельхозугодий, Украина, 2026"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 601.2,
+   "duration_sec": 12.5,
+   "visual_prompt": "Несколько экскаваторов одновременно перемещают грунт возле города",
+   "source": "press_photo",
+   "source_query": "экскаваторы на земляных работах у Сум, 2026"
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 613.7,
+   "duration_sec": 15.8,
+   "visual_prompt": "Кучи кирпича и бетона на месте разрушенного жилого квартала",
+   "source": "press_photo",
+   "source_query": "кучи кирпича на месте жилого квартала, Украина, 2026"
+  }
+ ]
+}
