@@ -1,0 +1,645 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 10.6,
+   "visual_prompt": "Стенд Fire Point с крупным макетом украинской ракеты и посетителями выставки",
+   "source": "web_search",
+   "source_query": "стенд Fire Point с макетом ракеты Фламинго Украина 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 10.6,
+   "duration_sec": 8.0,
+   "visual_prompt": "Сотрудники в современном офисе переключают изображения проектов на мониторах",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ЛЮДИ-ОФИСЕ-МОНИТОРАМИ",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 18.6,
+   "duration_sec": 8.64,
+   "visual_prompt": "Ряды дронов в ангаре — украинская оборонка",
+   "source": "press_photo",
+   "source_query": "ряды ударных беспилотников в ангаре Украина реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 27.24,
+   "duration_sec": 9.68,
+   "visual_prompt": "Крылатая ракета на пусковой: большая дальность и боевая часть",
+   "source": "web_search",
+   "source_query": "крылатая ракета Фламинго FP-5 на пусковой установке Украина реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 36.92,
+   "duration_sec": 9.84,
+   "visual_prompt": "Фасад Офиса президента Украины на Банковой перед официальной презентацией",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 46.76,
+   "duration_sec": 9.6,
+   "visual_prompt": "Пуск крылатой ракеты — «птичка весом в несколько тонн»",
+   "source": "web_search",
+   "source_query": "испытательный пуск украинской крылатой ракеты 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 56.36,
+   "duration_sec": 8.56,
+   "visual_prompt": "Ирина Терех — руководитель Fire Point, названа в этой фразе",
+   "source": "press_photo",
+   "source_query": "Ирина Терех Fire Point руководитель 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 64.92,
+   "duration_sec": 9.231,
+   "visual_prompt": "Фасад Верховной Рады в Киеве как символ политического заявления",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 74.151,
+   "duration_sec": 8.24,
+   "visual_prompt": "МИД на Смоленской — те самые «ноты», которые посылали государства",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 82.391,
+   "duration_sec": 9.44,
+   "visual_prompt": "Кремль — тот самый адресат «политического заявления»",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/МОСКОВСКИЙ-КРЕМЛЬ-СО",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 91.831,
+   "duration_sec": 10.8,
+   "visual_prompt": "Кабинет министров — государственный заказчик, «что остаётся после презентаций»",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 102.631,
+   "duration_sec": 10.32,
+   "visual_prompt": "Транспортная машина перевозит длинный корпус ракеты Fire Point",
+   "source": "press_photo",
+   "source_query": "транспортёр ракеты Фламинго Fire Point Украина 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 112.951,
+   "duration_sec": 9.52,
+   "visual_prompt": "Баллистическая ракета — следующая «декорация»",
+   "source": "press_photo",
+   "source_query": "баллистическая ракета Украины на пусковой платформе реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 122.471,
+   "duration_sec": 8.037,
+   "visual_prompt": "Рабочий участок Fire Point с длинными корпусами украинских ракет",
+   "source": "web_search",
+   "source_query": "сборка дальнобойных ракет Fire Point Украина 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 130.508,
+   "duration_sec": 12.203,
+   "visual_prompt": "Рисованное досье Fire Point с профилем компании и масштабом государственных заказов",
+   "source": "card:dossier",
+   "source_query": "Fire Point: беспилотные системы, оборонный производитель, огромные государственные заказы",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 142.711,
+   "duration_sec": 9.189,
+   "visual_prompt": "Дальнобойные беспилотники Fire Point подготовлены к передаче заказчику",
+   "source": "press_photo",
+   "source_query": "дальнобойные беспилотники Fire Point Украина 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 151.9,
+   "duration_sec": 8.615,
+   "visual_prompt": "Нацбанк Украины — масштаб гривневых расходов",
+   "source": "press_photo",
+   "source_query": "Национальный банк Украины здание Киев реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 160.515,
+   "duration_sec": 10.0,
+   "visual_prompt": "Гривны в руках — масштаб контрактов",
+   "source": "press_photo",
+   "source_query": "гривневые банкноты в руках кассира Ощадбанк реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 170.515,
+   "duration_sec": 11.76,
+   "visual_prompt": "Ряды корпусов беспилотников Fire Point на сборочном участке",
+   "source": "press_photo",
+   "source_query": "корпуса беспилотников Fire Point на сборочном участке 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 182.275,
+   "duration_sec": 12.88,
+   "visual_prompt": "Хвостовое оперение ракеты Фламинго крупным планом на производственной площадке",
+   "source": "press_photo",
+   "source_query": "хвостовое оперение ракеты Фламинго FP-5 Украина реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 195.155,
+   "duration_sec": 13.047,
+   "visual_prompt": "Серийный участок сборки украинских ударных беспилотников",
+   "source": "web_search",
+   "source_query": "участок серийной сборки беспилотников Fire Point 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 208.202,
+   "duration_sec": 12.181,
+   "visual_prompt": "Макет украинской ракеты на выставочном стенде под светом прожекторов",
+   "source": "press_photo",
+   "source_query": "макет ракеты Fire Point на выставочном стенде Киев 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 220.383,
+   "duration_sec": 12.48,
+   "visual_prompt": "Вход в НАБУ в Киеве с официальной табличкой ведомства",
+   "source": "press_photo",
+   "source_query": "вход НАБУ Киев табличка ведомства 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 232.863,
+   "duration_sec": 13.04,
+   "visual_prompt": "Тимур Миндич рядом с Владимиром Зеленским на публичном мероприятии",
+   "source": "web_search",
+   "source_query": "Тимур Миндич Владимир Зеленский совместное фото реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 245.903,
+   "duration_sec": 13.36,
+   "visual_prompt": "Официальная табличка антикоррупционной прокуратуры у входа в киевское ведомство",
+   "source": "press_photo",
+   "source_query": "табличка Специализированной антикоррупционной прокуратуры Киев реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 259.263,
+   "duration_sec": 13.348,
+   "visual_prompt": "Заседание правительства: где сходятся деньги и отрасль",
+   "source": "press_photo",
+   "source_query": "заседание правительства Украины оборонные закупки 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 272.611,
+   "duration_sec": 12.812,
+   "visual_prompt": "Автомобили НАБУ возле офиса оборонной компании в Киеве",
+   "source": "web_search",
+   "source_query": "автомобили НАБУ у офиса Fire Point Киев 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 285.423,
+   "duration_sec": 10.585,
+   "visual_prompt": "Боевая часть ракеты Фламинго рядом с корпусом изделия",
+   "source": "press_photo",
+   "source_query": "боевая часть ракеты Фламинго Fire Point Украина реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 296.008,
+   "duration_sec": 11.525,
+   "visual_prompt": "Ремонт дороги: «ремонтировала дороги» буквально из текста",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/РЕМОНТ-ДОРОГИ-АСФАЛЬТОУКЛАДЧИК",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 307.533,
+   "duration_sec": 12.316,
+   "visual_prompt": "Исторический лунный модуль на поверхности Луны",
+   "source": "web_search",
+   "source_query": "лунный модуль на поверхности Луны архивный снимок реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 319.849,
+   "duration_sec": 11.282,
+   "visual_prompt": "Новая баллистическая ракета Fire Point на открытой демонстрационной площадке",
+   "source": "web_search",
+   "source_query": "баллистическая ракета Fire Point Украина 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 331.131,
+   "duration_sec": 9.918,
+   "visual_prompt": "Денис Штилерман выступает рядом с разработками Fire Point",
+   "source": "press_photo",
+   "source_query": "Денис Штилерман Fire Point выступление 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 341.049,
+   "duration_sec": 11.92,
+   "visual_prompt": "Баллистическое изделие Fire Point закреплено на испытательном стенде",
+   "source": "press_photo",
+   "source_query": "стендовые испытания украинской баллистической ракеты 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 352.969,
+   "duration_sec": 14.0,
+   "visual_prompt": "Дальнобойный беспилотник Fire Point установлен на пусковой направляющей",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 366.969,
+   "duration_sec": 11.241,
+   "visual_prompt": "Пусковая направляющая украинского дальнобойного беспилотника крупным планом",
+   "source": "press_photo",
+   "source_query": "пусковая направляющая украинского дальнобойного беспилотника 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 378.21,
+   "duration_sec": 12.398,
+   "visual_prompt": "Мобильная пусковая установка баллистического изделия на украинском полигоне",
+   "source": "web_search",
+   "source_query": "мобильная пусковая установка баллистической ракеты Украина 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 390.608,
+   "duration_sec": 13.12,
+   "visual_prompt": "Радиолокационная машина противовоздушной обороны развёрнута на позиции",
+   "source": "press_photo",
+   "source_query": "радиолокационная машина противовоздушной обороны Украина 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 403.728,
+   "duration_sec": 11.108,
+   "visual_prompt": "Несколько ракетных корпусов проходят последовательные этапы серийной сборки",
+   "source": "web_search",
+   "source_query": "серийная сборка ракетных корпусов Украина 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 414.836,
+   "duration_sec": 12.252,
+   "visual_prompt": "Ракетные двигатели размещены на рабочем участке украинского предприятия",
+   "source": "press_photo",
+   "source_query": "ракетные двигатели на производственном участке Украина 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 427.088,
+   "duration_sec": 12.4,
+   "visual_prompt": "Специалист проверяет геометрию большого корпуса ракеты на предприятии",
+   "source": "press_photo",
+   "source_query": "контроль качества корпуса ракеты на украинском предприятии 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 439.488,
+   "duration_sec": 12.759,
+   "visual_prompt": "Журналисты снимают макет украинской ракеты на оборонной выставке",
+   "source": "press_photo",
+   "source_query": "журналисты у макета украинской ракеты на оборонной выставке 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 452.247,
+   "duration_sec": 12.01,
+   "visual_prompt": "Транспортные тележки с несколькими готовыми серийными изделиями",
+   "source": "web_search",
+   "source_query": "транспортные тележки с серийными украинскими изделиями 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 464.257,
+   "duration_sec": 13.19,
+   "visual_prompt": "Наноспутник в чистой комнате перед запуском",
+   "source": "web_search",
+   "source_query": "наноспутник кубсат в чистой комнате инженеры реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 477.447,
+   "duration_sec": 11.12,
+   "visual_prompt": "Falcon 9 стартует с полезной нагрузкой миссии Transporter-18",
+   "source": "press_photo",
+   "source_query": "ракета Falcon 9 миссия Transporter-18 старт реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 488.567,
+   "duration_sec": 12.24,
+   "visual_prompt": "Наземные антенны спутниковой связи",
+   "source": "web_search",
+   "source_query": "наземная станция спутниковой связи антенны тарелки реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 500.807,
+   "duration_sec": 13.2,
+   "visual_prompt": "Публичная презентация наноспутника OBRIA NANO представителями HIMERA",
+   "source": "web_search",
+   "source_query": "наноспутник OBRIA NANO HIMERA реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 514.007,
+   "duration_sec": 13.44,
+   "visual_prompt": "Лента из трёх кадров разных спутников, каждый представлен как первый",
+   "source": "card:film",
+   "source_query": "Три кадра: «Первый один», «первый другой», «ещё один первый»",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 527.447,
+   "duration_sec": 12.28,
+   "visual_prompt": "Макет украинского спутника под прозрачным защитным колпаком",
+   "source": "web_search",
+   "source_query": "макет украинского спутника на выставке Киев реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 539.727,
+   "duration_sec": 13.68,
+   "visual_prompt": "Сергей Притула выступает на мероприятии своего фонда",
+   "source": "press_photo",
+   "source_query": "Сергей Притула на мероприятии благотворительного фонда 2022 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 553.407,
+   "duration_sec": 11.662,
+   "visual_prompt": "Кубсат на стенде сборки у датского производителя",
+   "source": "press_photo",
+   "source_query": "кубсат GomSpace спутник на стенде сборки Дания реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 565.069,
+   "duration_sec": 12.985,
+   "visual_prompt": "Сборка спутника в чистой комнате",
+   "source": "press_photo",
+   "source_query": "чистая комната сборки спутника инженеры в костюмах реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 578.054,
+   "duration_sec": 10.633,
+   "visual_prompt": "Зал управления связью — эксплуатация, а не презентация",
+   "source": "web_search",
+   "source_query": "зал центра управления спутниковой связью операторы мониторы реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 588.687,
+   "duration_sec": 11.92,
+   "visual_prompt": "Вход в украинское ведомство стратегической промышленности",
+   "source": "press_photo",
+   "source_query": "вход Министерства стратегических отраслей промышленности Украины Киев реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 600.607,
+   "duration_sec": 13.169,
+   "visual_prompt": "Посетители рассматривают стенд украинских оборонных разработок",
+   "source": "press_photo",
+   "source_query": "посетители у стенда украинских оборонных разработок 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 613.776,
+   "duration_sec": 11.84,
+   "visual_prompt": "Следователи НАБУ входят в офисное помещение со спины",
+   "source": "web_search",
+   "source_query": "следователи НАБУ у входа в офис Киев 2025 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 625.616,
+   "duration_sec": 11.955,
+   "visual_prompt": "Falcon 9 поднимается над стартовой площадкой с миссией Transporter-18",
+   "source": "press_photo",
+   "source_query": "старт миссии Transporter-18 SpaceX Falcon 9 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 637.571,
+   "duration_sec": 11.401,
+   "visual_prompt": "Наноспутники миссии Transporter-18 подготовлены к размещению в головной части ракеты",
+   "source": "web_search",
+   "source_query": "наноспутники миссии SpaceX Transporter-18 перед запуском реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 648.972,
+   "duration_sec": 13.361,
+   "visual_prompt": "Белка и Стрелка в рамке архивной киноплёнки",
+   "source": "card:film_frame",
+   "source_query": "Белка и Стрелка в архивной рамке киноплёнки",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 662.333,
+   "duration_sec": 11.522,
+   "visual_prompt": "Коридор Министерства обороны Украины перед обсуждением крупных закупок",
+   "source": "press_photo",
+   "source_query": "коридор Министерства обороны Украины оборонные закупки 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 673.855,
+   "duration_sec": 12.897,
+   "visual_prompt": "Украинская ракета-носитель установлена на реальном стартовом комплексе",
+   "source": "web_search",
+   "source_query": "ракета-носитель на стартовом столе космодрома реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 686.752,
+   "duration_sec": 11.843,
+   "visual_prompt": "Аудитория слушает презентацию украинских оборонных технологий",
+   "source": "press_photo",
+   "source_query": "аудитория презентации украинских оборонных технологий 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 698.595,
+   "duration_sec": 13.125,
+   "visual_prompt": "Общий вид изделия — «даже если у него отличное название»",
+   "source": "web_search",
+   "source_query": "ракета Фламинго FP-5 общий вид изделия Украина реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 711.72,
+   "duration_sec": 14.402,
+   "visual_prompt": "Зал Рады — государственные контракты и политические связи",
+   "source": "press_photo",
+   "source_query": "зал заседаний Верховной Рады Украины голосование 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 726.122,
+   "duration_sec": 14.678,
+   "visual_prompt": "Антенна направлена в небо — «поднять глаза к небу»",
+   "source": "web_search",
+   "source_query": "антенна дальней космической связи направлена в небо реальное фото",
+   "overlays": []
+  }
+ ]
+}
