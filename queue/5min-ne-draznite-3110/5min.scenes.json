@@ -1,0 +1,745 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 8.59,
+   "visual_prompt": "президент Литвы выступает перед флагами за рабочим столом",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПРИБАЛТИКА-США-РИТОРИКА/17_StateDept_q9XP76.mp4",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 8.59,
+   "duration_sec": 8.09,
+   "visual_prompt": "пятиугольное здание Министерства обороны США с воздуха",
+   "source": "press_photo",
+   "source_query": "здание Пентагона в Арлингтоне вид с воздуха",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 16.68,
+   "duration_sec": 8.98,
+   "visual_prompt": "действующий премьер-министр Эстонии на пресс-подходе",
+   "source": "web_search",
+   "source_query": "Кристен Михал премьер-министр Эстонии 2026",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 25.66,
+   "duration_sec": 8.45,
+   "visual_prompt": "три прибалтийских флага на флагштоках у входа в ведомство",
+   "source": "press_photo",
+   "source_query": "флаги Литвы Латвии и Эстонии рядом перед зданием",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 34.11,
+   "duration_sec": 9.91,
+   "visual_prompt": "российские военнослужащие в парадном строю на площади",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПРИБАЛТИКА-США-РИТОРИКА/04_kremlin_bSkMRZ.mp4",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 44.02,
+   "duration_sec": 11.79,
+   "visual_prompt": "каменная эмблема Пентагона на стене у входа",
+   "source": "press_photo",
+   "source_query": "эмблема Министерства обороны США на стене здания",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 55.81,
+   "duration_sec": 7.15,
+   "visual_prompt": "солдаты США и литовские добровольцы с бронемашиной в заснеженном лесу",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПРИБАЛТИКА-США-РИТОРИКА/13_usarmy_KsRz0e.mp4",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 62.96,
+   "duration_sec": 11.84,
+   "visual_prompt": "пустой пресс-зал, ряды кресел",
+   "source": "press_photo",
+   "source_query": "зал для пресс-конференций с пустыми креслами",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 74.8,
+   "duration_sec": 8.07,
+   "visual_prompt": "Овальный кабинет, флаг США у стены",
+   "source": "press_photo",
+   "source_query": "Овальный кабинет Белого дома флаг США реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 82.87,
+   "duration_sec": 7.78,
+   "visual_prompt": "круглый стол делегаций в зале заседаний НАТО",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 90.65,
+   "duration_sec": 7.35,
+   "visual_prompt": "Официальный представитель Белого дома отвечает на вопросы журналистов",
+   "source": "press_photo",
+   "source_query": "брифинг Белого дома представитель администрации Вашингтон 2026",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 98.0,
+   "duration_sec": 5.79,
+   "visual_prompt": "замминистра обороны США по политическим вопросам на выступлении",
+   "source": "web_search",
+   "source_query": "Элбридж Колби заместитель министра обороны США реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 103.79,
+   "duration_sec": 8.13,
+   "visual_prompt": "фасад минобороны Литвы с государственным флагом",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны Литвы в Вильнюсе",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 111.92,
+   "duration_sec": 9.68,
+   "visual_prompt": "американские военные разгружают боеприпасы у артиллерийской установки",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПРИБАЛТИКА-США-РИТОРИКА/12_usarmy_FfZbIN.mp4",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 121.6,
+   "duration_sec": 9.5,
+   "visual_prompt": "Депутаты литовского Сейма обсуждают оборонную политику в Вильнюсе",
+   "source": "press_photo",
+   "source_query": "депутаты Сейма Литвы обсуждают оборону Вильнюс 2026",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 131.1,
+   "duration_sec": 10.8,
+   "visual_prompt": "Потому что здесь возникает маленькая проблема.",
+   "source": "card:quote",
+   "source_query": "Потому что здесь возникает маленькая проблема.",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 141.9,
+   "duration_sec": 8.29,
+   "visual_prompt": "Американская военная техника проходит колонной по прибалтийскому полигону",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 150.19,
+   "duration_sec": 7.44,
+   "visual_prompt": "Транспортный самолёт армии США готовится к вылету с европейской авиабазы",
+   "source": "press_photo",
+   "source_query": "транспортный самолёт армии США на авиабазе в Европе 2026",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 157.63,
+   "duration_sec": 9.76,
+   "visual_prompt": "военнослужащие НАТО работают с оборудованием возле бронемашины в Балтии",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПРИБАЛТИКА-США-РИТОРИКА/09_usarmy_oLke5O.mp4",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 167.39,
+   "duration_sec": 9.32,
+   "visual_prompt": "Штаб Североатлантического альянса в Брюсселе окружён официальными автомобилями",
+   "source": "press_photo",
+   "source_query": "штаб НАТО в Брюсселе прибытие делегаций 2026",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 176.71,
+   "duration_sec": 10.89,
+   "visual_prompt": "техника армии США в ремонтном ангаре",
+   "source": "press_photo",
+   "source_query": "ангар технического обслуживания армии США реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 187.6,
+   "duration_sec": 8.67,
+   "visual_prompt": "Истребители НАТО пролетают над Балтийским морем во время патрулирования",
+   "source": "press_photo",
+   "source_query": "истребители НАТО над Балтийским морем патрулирование 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 196.27,
+   "duration_sec": 7.61,
+   "visual_prompt": "Американские бронемашины покидают место временного размещения в Эстонии",
+   "source": "press_photo",
+   "source_query": "бронемашины армии США покидают базу в Эстонии 2026",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 203.88,
+   "duration_sec": 13.46,
+   "visual_prompt": "Самолёты стран НАТО выстроены на аэродроме в северной Европе",
+   "source": "press_photo",
+   "source_query": "самолёты НАТО на аэродроме северной Европы учения 2026",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 217.34,
+   "duration_sec": 11.28,
+   "visual_prompt": "пустой зал форума, флаги НАТО",
+   "source": "press_photo",
+   "source_query": "зал оборонного форума с флагами НАТО без людей",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 228.62,
+   "duration_sec": 8.82,
+   "visual_prompt": "Американские военнослужащие участвуют в совместном построении с литовскими подразделениями",
+   "source": "press_photo",
+   "source_query": "военнослужащие США и Литвы на совместной церемонии 2026",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 237.44,
+   "duration_sec": 10.1,
+   "visual_prompt": "Американский батальон обслуживает бронемашины на литовской военной базе",
+   "source": "press_photo",
+   "source_query": "американский батальон обслуживает бронемашины в Литве 2026",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 247.54,
+   "duration_sec": 9.71,
+   "visual_prompt": "фасад Западного крыла Белого дома",
+   "source": "press_photo",
+   "source_query": "Западное крыло Белого дома фасад",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 257.25,
+   "duration_sec": 9.24,
+   "visual_prompt": "ряд флагов стран НАТО у штаба",
+   "source": "press_photo",
+   "source_query": "флагштоки стран НАТО у штаб-квартиры в Брюсселе",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 266.49,
+   "duration_sec": 9.83,
+   "visual_prompt": "Капитолий и правительственный квартал Вашингтона показаны с высоты",
+   "source": "press_photo",
+   "source_query": "правительственный квартал Вашингтона Капитолий вид с высоты 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 276.32,
+   "duration_sec": 12.78,
+   "visual_prompt": "Вашингтон определяет поведение младших союзников через военную и финансовую власть",
+   "source": "card:dossier",
+   "source_query": "Вашингтон — центр военной и финансовой власти союзников",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 289.1,
+   "duration_sec": 10.69,
+   "visual_prompt": "фасад Министерства торговли США",
+   "source": "press_photo",
+   "source_query": "здание Министерства торговли США фасад",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 299.79,
+   "duration_sec": 7.27,
+   "visual_prompt": "стенд РФПИ с логотипом",
+   "source": "press_photo",
+   "source_query": "вывеска Российского фонда прямых инвестиций на стенде форума",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 307.06,
+   "duration_sec": 16.09,
+   "visual_prompt": "колонны фасада NYSE",
+   "source": "press_photo",
+   "source_query": "фасад Нью-Йоркской фондовой биржи на Уолл-стрит",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 323.15,
+   "duration_sec": 10.4,
+   "visual_prompt": "Трамп проводит экономическое совещание с членами своей администрации",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп проводит экономическое совещание Белый дом 2026",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 333.55,
+   "duration_sec": 12.8,
+   "visual_prompt": "портрет главы РФПИ Кирилла Дмитриева",
+   "source": "web_search",
+   "source_query": "Кирилл Дмитриев 2026 реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 346.35,
+   "duration_sec": 15.63,
+   "visual_prompt": "торжественный зал Кремля перед встречей делегаций",
+   "source": "press_photo",
+   "source_query": "Георгиевский зал Кремля перед официальной встречей реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 361.98,
+   "duration_sec": 7.01,
+   "visual_prompt": "герб Минфина США на стене",
+   "source": "press_photo",
+   "source_query": "печать Министерства финансов США на стене здания",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 368.99,
+   "duration_sec": 12.14,
+   "visual_prompt": "Российский нефтяной танкер идёт через Атлантический океан",
+   "source": "web_search",
+   "source_query": "российский нефтяной танкер в Атлантическом океане октябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 381.13,
+   "duration_sec": 11.09,
+   "visual_prompt": "Российский нефтеперерабатывающий комплекс работает ночью при свете факела",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ-ЗАВОД-ФАКЕЛ",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 392.22,
+   "duration_sec": 9.15,
+   "visual_prompt": "Контейнеры и портальные краны заполняют терминал Роттердама",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/КОНТЕЙНЕРНЫЙ-ТЕРМИНАЛ-ПОРТА",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 401.37,
+   "duration_sec": 10.33,
+   "visual_prompt": "заправка на американской АЗС, колонки и машины",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/РФ-США-ЭНЕРГЕТИКА-БИЗНЕС/26_2026_WhiteHouse_CtvvI2.mp4",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 411.7,
+   "duration_sec": 9.09,
+   "visual_prompt": "поток машин на американском хайвее",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ХАЙВЕЙ-США-ПОТОК",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 420.79,
+   "duration_sec": 6.53,
+   "visual_prompt": "Трамп и Путин беседуют во время двусторонней встречи",
+   "source": "web_search",
+   "source_query": "Дональд Трамп Владимир Путин двусторонняя встреча поставки дизеля 2026",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 427.32,
+   "duration_sec": 13.94,
+   "visual_prompt": "Грузовое судно отходит от причалов порта Новороссийска",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ПОРТ-НОВОРОССИЙСКА-ПРИЧАЛЫ",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 441.26,
+   "duration_sec": 10.95,
+   "visual_prompt": "Это большой морской танкер с топливом, который идёт через океан.",
+   "source": "card:quote",
+   "source_query": "Это большой морской танкер с топливом, который идёт через океан.",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 452.21,
+   "duration_sec": 7.09,
+   "visual_prompt": "Несколько российских танкеров следуют морским маршрутом в открытом океане",
+   "source": "web_search",
+   "source_query": "несколько российских танкеров под санкциями Европы в океане 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 459.3,
+   "duration_sec": 14.0,
+   "visual_prompt": "Европейские чиновники проходят по коридору здания Еврокомиссии в Брюсселе",
+   "source": "press_photo",
+   "source_query": "флаг Евросоюза на фасаде здания Еврокомиссии реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 473.3,
+   "duration_sec": 7.34,
+   "visual_prompt": "Газовоз стоит у европейского терминала СПГ среди трубопроводов",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ГАЗОВЫЙ-ТЕРМИНАЛ-СПГ",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 480.64,
+   "duration_sec": 8.55,
+   "visual_prompt": "Портовые краны разгружают судно у причала в Гамбурге",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПОРТ-ГАМБУРГА-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 489.19,
+   "duration_sec": 20.63,
+   "visual_prompt": "Министр финансов США выходит к журналистам у здания ведомства",
+   "source": "press_photo",
+   "source_query": "офисная башня нефтяной компании в Хьюстоне реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 509.82,
+   "duration_sec": 8.23,
+   "visual_prompt": "стенды нефтегазовой выставки",
+   "source": "press_photo",
+   "source_query": "выставочный зал нефтяной конференции в Хьюстоне без людей",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 518.05,
+   "duration_sec": 7.86,
+   "visual_prompt": "Штаб-квартира американской энергетической корпорации показана в деловом квартале Техаса",
+   "source": "press_photo",
+   "source_query": "штаб-квартира ЭксонМобил Техас деловой квартал 2026",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 525.91,
+   "duration_sec": 7.57,
+   "visual_prompt": "входная группа конгресс-центра",
+   "source": "press_photo",
+   "source_query": "вход в конгресс-центр международного форума в Москве реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 533.48,
+   "duration_sec": 17.2,
+   "visual_prompt": "пустой зал форума, флаги двух стран",
+   "source": "press_photo",
+   "source_query": "зал делового форума с флагами России и США",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 550.68,
+   "duration_sec": 7.56,
+   "visual_prompt": "коридор форума, навигационные указатели",
+   "source": "press_photo",
+   "source_query": "фойе международного экономического форума изнутри без людей реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 558.24,
+   "duration_sec": 8.21,
+   "visual_prompt": "выставочные стенды форума",
+   "source": "press_photo",
+   "source_query": "выставочные стенды международного инвестиционного форума реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 566.45,
+   "duration_sec": 11.32,
+   "visual_prompt": "Российская морская буровая платформа работает в арктических водах",
+   "source": "press_photo",
+   "source_query": "российская морская буровая платформа Арктика 2026",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 577.77,
+   "duration_sec": 14.58,
+   "visual_prompt": "башни Москва-Сити в вечернем свете",
+   "source": "press_photo",
+   "source_query": "башни делового центра Москва-Сити вечером реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 592.35,
+   "duration_sec": 11.65,
+   "visual_prompt": "Еврокомиссия проводит заседание по очередному пакету ограничений",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 604.0,
+   "duration_sec": 9.67,
+   "visual_prompt": "А американцы тем временем начинают щупать ручку двери.",
+   "source": "card:quote",
+   "source_query": "А американцы тем временем начинают щупать ручку двери.",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 613.67,
+   "duration_sec": 7.03,
+   "visual_prompt": "автоцистерна под наливной эстакадой",
+   "source": "press_photo",
+   "source_query": "автоцистерна у наливной эстакады нефтебазы реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 620.7,
+   "duration_sec": 9.84,
+   "visual_prompt": "запорная арматура нефтепровода",
+   "source": "press_photo",
+   "source_query": "монтажники у задвижки магистрального нефтепровода реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 630.54,
+   "duration_sec": 10.59,
+   "visual_prompt": "полукруг кресел Европарламента без людей",
+   "source": "press_photo",
+   "source_query": "здание Европарламента в Страсбурге фасад реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 641.13,
+   "duration_sec": 10.54,
+   "visual_prompt": "фасад штаба НАТО и флаги",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО фасад с флагштоками в Брюсселе",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 651.67,
+   "duration_sec": 11.6,
+   "visual_prompt": "стол Cabinet Room, людей нет",
+   "source": "press_photo",
+   "source_query": "здание Министерства энергетики США в Вашингтоне фасад реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 663.27,
+   "duration_sec": 6.19,
+   "visual_prompt": "зал Рийгикогу с депутатами и флагом Эстонии",
+   "source": "press_photo",
+   "source_query": "здание парламента Эстонии Рийгикогу в Таллине фасад без людей",
+   "overlays": []
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 669.46,
+   "duration_sec": 13.6,
+   "visual_prompt": "классический фасад Минфина США с колоннами",
+   "source": "press_photo",
+   "source_query": "здание Министерства финансов США в Вашингтоне фасад",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 683.06,
+   "duration_sec": 13.62,
+   "visual_prompt": "рисованная карточка-цитата",
+   "source": "card:quote",
+   "source_query": "В какой-то момент взрослые говорят ребёнку: иди поиграй в другой комнате.",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 696.68,
+   "duration_sec": 13.91,
+   "visual_prompt": "трибуна для брифингов Госдепа с флагами США",
+   "source": "press_photo",
+   "source_query": "зал для брифингов Госдепа США с флагами у кафедры",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 710.59,
+   "duration_sec": 14.89,
+   "visual_prompt": "ряд флагов ЕС у входа в Евросовет",
+   "source": "press_photo",
+   "source_query": "флаги стран Евросоюза перед зданием Евросовета в Брюсселе",
+   "overlays": []
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 725.48,
+   "duration_sec": 13.13,
+   "visual_prompt": "пустой зал литовского Сейма с государственной символикой",
+   "source": "press_photo",
+   "source_query": "зал заседаний Сейма Литвы в Вильнюсе",
+   "overlays": []
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 738.61,
+   "duration_sec": 11.62,
+   "visual_prompt": "Пентагон вечером, освещённый фасад",
+   "source": "press_photo",
+   "source_query": "здание Пентагона ночью с подсветкой",
+   "overlays": []
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 750.23,
+   "duration_sec": 13.11,
+   "visual_prompt": "станки-качалки на российском нефтяном промысле",
+   "source": "press_photo",
+   "source_query": "нефтяные качалки на месторождении в Западной Сибири реальное фото",
+   "overlays": []
+  }
+ ]
+}

@@ -1,0 +1,419 @@
+{
+ "anchor": "top",
+ "3": {
+  "photo": "overlays/scene_003.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "zatvor",
+  "style": "left",
+  "anchor": "top"
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "whoosh",
+  "style": "left",
+  "anchor": "top"
+ },
+ "14": {
+  "photo": "overlays/scene_014.jpg",
+  "shape": "rect",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "ding",
+  "style": "right",
+  "anchor": "top"
+ },
+ "22": {
+  "photo": "overlays/scene_022.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "zatvor",
+  "style": "left",
+  "anchor": "top"
+ },
+ "34": {
+  "photo": "overlays/scene_034.jpg",
+  "shape": "rect",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "pop",
+  "style": "right",
+  "anchor": "top"
+ },
+ "38": {
+  "photo": "overlays/scene_038.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "whoosh",
+  "style": "left",
+  "anchor": "top"
+ },
+ "47": {
+  "photo": "overlays/scene_047.jpg",
+  "shape": "rect",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "ding",
+  "style": "right",
+  "anchor": "top"
+ },
+ "53": {
+  "photo": "overlays/scene_053.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "zatvor",
+  "style": "left",
+  "anchor": "top"
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "shape": "rect",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "pop",
+  "style": "right",
+  "anchor": "top"
+ },
+ "60": {
+  "photo": "overlays/scene_060.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "whoosh",
+  "style": "left",
+  "anchor": "top"
+ },
+ "72": {
+  "photo": "overlays/scene_072.jpg",
+  "shape": "rect",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "ding",
+  "style": "right",
+  "anchor": "top"
+ },
+ "5": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "НЕ ЗАГОНЯТЬ РОССИЮ В УГОЛ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "6": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТРЕБОВАНИЕ ОЗВУЧИЛ ПЕНТАГОН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "10": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "БЕЗОПАСНОСТЬ ОПЛАЧИВАЕТ ВАШИНГТОН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СИГНАЛ ПЕРЕДАН ЗАКРЫТО",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СПОР ИДЁТ ВНУТРИ ЕВРОПЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "18": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "США СОКРАЩАЮТ НАГРУЗКУ В ЕВРОПЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "20": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "БОЛЬШЕ УГРОЗЫ — БОЛЬШЕ ВОЙСК",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "23": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "БЕЗ США БАЛТИЯ ОСТАЁТСЯ ОДНА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВАШИНГТОН ПРОСИТ НЕ ОРАТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "28": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СОЮЗНИКОВ НАЧАЛИ КОНТРОЛИРОВАТЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "32": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЭКОНОМИЧЕСКИЕ ДВЕРИ ОТКРЫВАЮТСЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "36": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ГЛАВА ФОНДА ЕЗДИТ И ДОГОВАРИВАЕТСЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "РОССИЙСКИЙ ДИЗЕЛЬ ПОШЁЛ В США",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "44": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МИНФИН США ВЫДАЛ РАЗРЕШЕНИЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПЕРВЫЙ ГРУЗ — СОРОК ТЫСЯЧ ТОНН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "49": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЕВРОПА ЗАПЛАТИЛА ЗА НОВУЮ ЛОГИСТИКУ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "51": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПРИНЦИП ПРЕВРАЩАЕТСЯ В ЛИЦЕНЗИЮ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "55": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВОЗВРАЩЕНИЕ НАЧИНАЕТСЯ С ПЕРЕГОВОРОВ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "63": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "АМЕРИКАНЦЫ ЗАХОДЯТ ПЕРВЫМИ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "68": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "САНКЦИОННЫЕ ИСКЛЮЧЕНИЯ ГОТОВЯТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "71": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "У КАЖДОГО СВОЙ ИНТЕРЕС",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "74": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "НА СТОЛЕ БОЛЬШИЕ ДЕНЬГИ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "30": {
+  "photo": "overlays/scene_030.jpg",
+  "shape": "rounded",
+  "at": 2.4,
+  "scale": 1.0,
+  "sound": "pop",
+  "style": "left",
+  "anchor": "top"
+ }
+}
