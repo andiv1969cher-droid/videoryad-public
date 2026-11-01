@@ -1,0 +1,94 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 8.229,
+   "visual_prompt": "Карта Европы: о каком регионе идёт речь",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "duration_sec": 8.2,
+   "visual_prompt": "Карта Европы: страны, которых касается решение",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "duration_sec": 12.0,
+   "visual_prompt": "Карта Ближнего Востока: откуда идёт нервозность рынка",
+   "source": "local_library",
+   "source_query": "КАРТЫ/БЛИЖНИЙ ВОСТОК",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "duration_sec": 12.2,
+   "visual_prompt": "Карта Ирана и Ормузского пролива",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ИРАН",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "duration_sec": 12.5,
+   "visual_prompt": "Карта России: откуда идёт газ, который продолжают покупать",
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "duration_sec": 12.7,
+   "visual_prompt": "Карта США: откуда пришёл новый СПГ",
+   "source": "local_library",
+   "source_query": "КАРТЫ/США",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 13.5,
+   "visual_prompt": "Карта Болгарии",
+   "source": "local_library",
+   "source_query": "КАРТЫ/БОЛГАРИЯ",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "duration_sec": 13.5,
+   "visual_prompt": "Карта Германии: где идёт процесс",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ГЕРМАНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 13.5,
+   "visual_prompt": "Зеленский, который отрицал причастность Украины",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский пресс-конференция ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "duration_sec": 13.0,
+   "visual_prompt": "Карта Германии: чей это избиратель",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ГЕРМАНИЯ",
+   "overlays": []
+  }
+ ]
+}
