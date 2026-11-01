@@ -1,0 +1,675 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 10.52,
+   "visual_prompt": "раскрытая карта Евразии на большом рабочем столе, реальное фото",
+   "source": "press_photo",
+   "source_query": "раскрытая карта Евразии на большом рабочем столе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 10.52,
+   "duration_sec": 8.907,
+   "visual_prompt": "Бронетехника НАТО движется по полигону",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 19.427,
+   "duration_sec": 7.574,
+   "visual_prompt": "Фридрих Мерц отвечает журналистам в Берлине, реальное фото",
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц отвечает журналистам в Берлине, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 27.001,
+   "duration_sec": 8.719,
+   "visual_prompt": "вложение поста досье: Мерц, коалиция желающих",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/If5Foicc4ZxBaum966D12KhUro32D1ZtU1N6QIanp-DgHNBTcKLS3dFsYBeHtKwgoEQwIyZHTTEhluzWckCkwl2KzAA6bswAF_E2azM4R14ysSo0bMisI8PVRhg77FW6mKEvK3PosySY-j-RsXPVK8VkMUWklhqPuGWeWY5THuRmkaKMwDuB6pbOhKYLLYz8erD-hfEQnQLV-tqqifT-AUuN0uRfY4kDuiVqPVP17EiTTDPzG1bCO_YHLu6t7EJwV0VDhcKnDq2BLOkFaulgFdgU0pPivlaGkw2H0MWLWM6lzP8bGn_rwMT-4haGlxFjAo0hEmtXx9mOaN_n8zS46Q.jpg",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 35.72,
+   "duration_sec": 9.037,
+   "visual_prompt": "Сингапур, Япония и Южная Корея показаны отдельными кружками",
+   "source": "card:bubbles",
+   "source_query": "Сингапур, Япония и Южная Корея — азиатские партнёры Германии",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 44.757,
+   "duration_sec": 9.943,
+   "visual_prompt": "Современная Германия в динамичной политической хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ГЕРМАНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 54.7,
+   "duration_sec": 10.379,
+   "visual_prompt": "немецкая и японская дипломатические делегации 1940 год, реальное фото",
+   "source": "press_photo",
+   "source_query": "немецкая и японская дипломатические делегации 1940 год, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 65.079,
+   "duration_sec": 7.992,
+   "visual_prompt": "разрушенные кварталы Берлина после окончания войны 1945 год, реальное фото",
+   "source": "press_photo",
+   "source_query": "разрушенные кварталы Берлина после окончания войны 1945 год, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 73.071,
+   "duration_sec": 8.447,
+   "visual_prompt": "Современная Россия в международной политической хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 81.518,
+   "duration_sec": 9.119,
+   "visual_prompt": "Военная техника и штабная работа НАТО",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 90.637,
+   "duration_sec": 8.727,
+   "visual_prompt": "старинный фотоальбом с архивными снимками Европы, реальное фото",
+   "source": "press_photo",
+   "source_query": "старинный фотоальбом с архивными снимками Европы, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 99.364,
+   "duration_sec": 9.434,
+   "visual_prompt": "Европейский форум по поддержке Украины",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕС-форумы-Украина",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 108.798,
+   "duration_sec": 9.52,
+   "visual_prompt": "Корабли и военнослужащие НАТО в современной хронике",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 118.318,
+   "duration_sec": 9.04,
+   "visual_prompt": "Участники европейского форума прибывают на встречу по Украине",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕС-форумы-Украина",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 127.358,
+   "duration_sec": 12.8,
+   "visual_prompt": "правительственный самолёт Германии у терминала азиатского аэропорта, реальное фото",
+   "source": "press_photo",
+   "source_query": "правительственный самолёт Германии у терминала азиатского аэропорта, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 140.158,
+   "duration_sec": 14.431,
+   "visual_prompt": "Марк Карни отвечает журналистам в Оттаве, реальное фото",
+   "source": "press_photo",
+   "source_query": "Марк Карни отвечает журналистам в Оттаве, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 154.589,
+   "duration_sec": 9.607,
+   "visual_prompt": "Путин на совещании и в международной хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 164.196,
+   "duration_sec": 8.879,
+   "visual_prompt": "Российская экономика и транспорт в современной хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 173.075,
+   "duration_sec": 11.12,
+   "visual_prompt": "Нефтяные терминалы и танкеры в экономической хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НЕФТЬ",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 184.195,
+   "duration_sec": 9.721,
+   "visual_prompt": "Путин выступает с микрофоном за столом совещания",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 193.916,
+   "duration_sec": 11.046,
+   "visual_prompt": "Марк Карни выступает в палате общин Канады, реальное фото",
+   "source": "press_photo",
+   "source_query": "Марк Карни выступает в палате общин Канады, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 204.962,
+   "duration_sec": 9.073,
+   "visual_prompt": "Путин читает заявление на международном саммите",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 214.035,
+   "duration_sec": 10.32,
+   "visual_prompt": "здание Берлемон в Брюсселе перед консультациями с Москвой, реальное фото",
+   "source": "press_photo",
+   "source_query": "здание Берлемон в Брюсселе перед консультациями с Москвой, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 224.355,
+   "duration_sec": 13.871,
+   "visual_prompt": "Карточка с цитатой об отсутствии новой части предложения",
+   "source": "card:quote",
+   "source_query": "Россия должна сделать то, чего она несколько лет категорически не собирается делать.",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 238.226,
+   "duration_sec": 11.199,
+   "visual_prompt": "Дом правительства России со стороны Краснопресненской набережной, реальное фото",
+   "source": "press_photo",
+   "source_query": "Дом правительства России со стороны Краснопресненской набережной, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 249.425,
+   "duration_sec": 10.561,
+   "visual_prompt": "фасад парламента Канады в Оттаве в пасмурный день, реальное фото",
+   "source": "press_photo",
+   "source_query": "фасад парламента Канады в Оттаве в пасмурный день, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 259.986,
+   "duration_sec": 9.106,
+   "visual_prompt": "Роб Йеттен выступает после заседания кабинета Нидерландов, реальное фото",
+   "source": "press_photo",
+   "source_query": "Роб Йеттен выступает после заседания кабинета Нидерландов, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 269.092,
+   "duration_sec": 9.981,
+   "visual_prompt": "Министерство финансов Нидерландов фасад в Гааге, реальное фото",
+   "source": "web_search",
+   "source_query": "Министерство финансов Нидерландов фасад в Гааге, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 279.073,
+   "duration_sec": 10.273,
+   "visual_prompt": "Роб Йеттен беседует с корреспондентами в Гааге, реальное фото",
+   "source": "press_photo",
+   "source_query": "Роб Йеттен беседует с корреспондентами в Гааге, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 289.346,
+   "duration_sec": 11.735,
+   "visual_prompt": "служебный вход Московского Кремля на Ивановской площади, реальное фото",
+   "source": "press_photo",
+   "source_query": "служебный вход Московского Кремля на Ивановской площади, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 301.081,
+   "duration_sec": 9.705,
+   "visual_prompt": "Современная работа российских войск и военной техники",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/МИНОБОРОНЫ-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 310.786,
+   "duration_sec": 12.531,
+   "visual_prompt": "заседание правительства России в Москве действующий состав, реальное фото",
+   "source": "press_photo",
+   "source_query": "заседание правительства России в Москве действующий состав, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 323.317,
+   "duration_sec": 10.323,
+   "visual_prompt": "Бинненхоф в Гааге фасад парламентского комплекса, реальное фото",
+   "source": "press_photo",
+   "source_query": "Бинненхоф в Гааге фасад парламентского комплекса, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 333.64,
+   "duration_sec": 11.757,
+   "visual_prompt": "флагштоки с флагами Нидерландов и Евросоюза в Гааге, без людей, реальное фото",
+   "source": "web_search",
+   "source_query": "флагштоки с флагами Нидерландов и Евросоюза в Гааге, без людей, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 345.397,
+   "duration_sec": 12.48,
+   "visual_prompt": "грузовики с военной помощью Украине на европейской трассе, реальное фото",
+   "source": "press_photo",
+   "source_query": "грузовики с военной помощью Украине на европейской трассе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 357.877,
+   "duration_sec": 12.88,
+   "visual_prompt": "Московский Кремль со стороны набережной",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/МОСКОВСКИЙ-КРЕМЛЬ-СО",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 370.757,
+   "duration_sec": 12.96,
+   "visual_prompt": "газоизмерительная станция Баумгартен в Австрии, реальное фото",
+   "source": "press_photo",
+   "source_query": "газоизмерительная станция Баумгартен в Австрии, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 383.717,
+   "duration_sec": 15.0,
+   "visual_prompt": "Карточка с цитатой о повышении дозировки",
+   "source": "card:quote",
+   "source_query": "Обычно лекарство увеличивают, когда старой дозы недостаточно.",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 398.717,
+   "duration_sec": 13.282,
+   "visual_prompt": "зенитные установки бундесвера на учениях в Баварии, реальное фото",
+   "source": "press_photo",
+   "source_query": "зенитные установки бундесвера на учениях в Баварии, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 411.999,
+   "duration_sec": 14.846,
+   "visual_prompt": "пункт выдачи комплектов гражданской защиты в Хельсинки, реальное фото",
+   "source": "press_photo",
+   "source_query": "пункт выдачи комплектов гражданской защиты в Хельсинки, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 426.845,
+   "duration_sec": 10.034,
+   "visual_prompt": "Эстонские политики в современной хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЭСТОНИЯ/tallinn.jpg",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 436.879,
+   "duration_sec": 12.817,
+   "visual_prompt": "вложение поста досье: Кристен Михал, Эстония",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Cn-BO45Ac0EGBNquEHpmONr4WWAuD85L9J0mDHCAucQ_uaIimlJNZlGpwtosyKgMVlN4NuOrsdjK0fvFNgyaK6k6cvDlvKFz4dC4zLyhSoX1D9ynS6DR1VPG4W-Jx8-OzlHoCRwwGGb_w_W_vWlo2zBJUYi_yWBQoHtCYqvjqpuLTnh0gHMlOksL14a1O3qnoQPERdiXHQwlWGlrjZulYn8AAE6g58wLXqdZn6Hk43gpliaHbyL-z-BLLcaNE90gH-WqQoGAsm5Pe0jAFbPbTqUbO_AI0kmSPeEFZxvetSHiHpmM_ui15FFhVFMFAdSQJsnPmIozglNOc3B2ATj1nA.jpg",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 449.696,
+   "duration_sec": 13.895,
+   "visual_prompt": "Таллин и представители эстонской власти",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЭСТОНИЯ/toompea.jpg",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 463.591,
+   "duration_sec": 13.608,
+   "visual_prompt": "штаб-квартира НАТО в Брюсселе перед заседанием Североатлантического совета, реальное фото",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО в Брюсселе перед заседанием Североатлантического совета, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 477.199,
+   "duration_sec": 13.948,
+   "visual_prompt": "Американские военнослужащие и техника на учениях",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 491.147,
+   "duration_sec": 13.919,
+   "visual_prompt": "истребитель ВВС США на авиабазе Шпангдалем в Германии, реальное фото",
+   "source": "press_photo",
+   "source_query": "истребитель ВВС США на авиабазе Шпангдалем в Германии, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 505.066,
+   "duration_sec": 11.601,
+   "visual_prompt": "фасад Госдепартамента США в Вашингтоне во время дипломатических консультаций, реальное фото",
+   "source": "press_photo",
+   "source_query": "фасад Госдепартамента США в Вашингтоне во время дипломатических консультаций, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 516.667,
+   "duration_sec": 9.598,
+   "visual_prompt": "Дональд Туск выступает в канцелярии премьера Польши, реальное фото",
+   "source": "press_photo",
+   "source_query": "Дональд Туск выступает в канцелярии премьера Польши, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 526.265,
+   "duration_sec": 10.555,
+   "visual_prompt": "Дональд Туск в польской политической хронике",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПОЛЬША/ТУСК",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 536.82,
+   "duration_sec": 12.247,
+   "visual_prompt": "сотрудники работают за компьютерами в польском офисе, реальное фото",
+   "source": "press_photo",
+   "source_query": "сотрудники работают за компьютерами в польском офисе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 549.067,
+   "duration_sec": 14.37,
+   "visual_prompt": "центр кибербезопасности Польши рабочие места с мониторами, реальное фото",
+   "source": "web_search",
+   "source_query": "центр кибербезопасности Польши рабочие места с мониторами, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 563.437,
+   "duration_sec": 14.794,
+   "visual_prompt": "серверные стойки государственного центра связи Польши, реальное фото",
+   "source": "press_photo",
+   "source_query": "серверные стойки государственного центра связи Польши, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 578.231,
+   "duration_sec": 12.08,
+   "visual_prompt": "Дональд Туск беседует с депутатами в Сейме Польши, реальное фото",
+   "source": "press_photo",
+   "source_query": "Дональд Туск беседует с депутатами в Сейме Польши, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 590.311,
+   "duration_sec": 12.48,
+   "visual_prompt": "Фридрих Мерц выходит из правительственного самолёта в Азии, реальное фото",
+   "source": "press_photo",
+   "source_query": "Фридрих Мерц выходит из правительственного самолёта в Азии, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 602.791,
+   "duration_sec": 11.92,
+   "visual_prompt": "Александр Стубб разговаривает по телефону в президентской канцелярии, реальное фото",
+   "source": "press_photo",
+   "source_query": "Александр Стубб разговаривает по телефону в президентской канцелярии, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 614.711,
+   "duration_sec": 12.052,
+   "visual_prompt": "Карта маршрута сообщений между Финляндией, Норвегией, Украиной и Москвой",
+   "source": "card:map",
+   "source_query": "Финляндия, Норвегия, Украина и Москва — маршрут сообщений",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 626.763,
+   "duration_sec": 11.736,
+   "visual_prompt": "президентский дворец Финляндии в Хельсинки официальный кабинет, реальное фото",
+   "source": "press_photo",
+   "source_query": "президентский дворец Финляндии в Хельсинки официальный кабинет, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 638.499,
+   "duration_sec": 12.081,
+   "visual_prompt": "аппарат официальной телефонной линии в рабочем кабинете, реальное фото",
+   "source": "press_photo",
+   "source_query": "аппарат официальной телефонной линии в рабочем кабинете, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 650.58,
+   "duration_sec": 13.6,
+   "visual_prompt": "служебные автомобили у президентского дворца в Хельсинки перед консультациями с Украиной, реальное фото",
+   "source": "press_photo",
+   "source_query": "служебные автомобили у президентского дворца в Хельсинки перед консультациями с Украиной, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 664.18,
+   "duration_sec": 11.36,
+   "visual_prompt": "кабинет премьер-министра Норвегии в Осло перед телефонными переговорами, реальное фото",
+   "source": "press_photo",
+   "source_query": "кабинет премьер-министра Норвегии в Осло перед телефонными переговорами, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 675.54,
+   "duration_sec": 14.32,
+   "visual_prompt": "флаг Финляндии и флаг России на флагштоках рядом, без людей, реальное фото",
+   "source": "press_photo",
+   "source_query": "флаг Финляндии и флаг России на флагштоках рядом, без людей, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 689.86,
+   "duration_sec": 13.281,
+   "visual_prompt": "Александр Стубб выступает в президентском дворце Хельсинки, реальное фото",
+   "source": "press_photo",
+   "source_query": "Александр Стубб выступает в президентском дворце Хельсинки, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 703.141,
+   "duration_sec": 13.152,
+   "visual_prompt": "аппарат правительственной связи Финляндии на письменном столе, реальное фото",
+   "source": "press_photo",
+   "source_query": "аппарат правительственной связи Финляндии на письменном столе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 716.293,
+   "duration_sec": 12.88,
+   "visual_prompt": "фасад резиденции Ново-Огарёво под Москвой, без людей, реальное фото",
+   "source": "press_photo",
+   "source_query": "фасад резиденции Ново-Огарёво под Москвой, без людей, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 729.173,
+   "duration_sec": 13.44,
+   "visual_prompt": "Здание МИД России на Смоленской площади",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 742.613,
+   "duration_sec": 12.72,
+   "visual_prompt": "заседание Евросовета в здании Европа в Брюсселе, реальное фото",
+   "source": "press_photo",
+   "source_query": "заседание Евросовета в здании Европа в Брюсселе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 755.333,
+   "duration_sec": 14.0,
+   "visual_prompt": "автомобильная трасса у Екатеринбурга и панорама города, реальное фото",
+   "source": "press_photo",
+   "source_query": "автомобильная трасса у Екатеринбурга и панорама города, реальное фото",
+   "overlays": []
+  }
+ ]
+}

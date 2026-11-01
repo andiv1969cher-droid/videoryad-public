@@ -1,0 +1,108 @@
+{
+ "scenes": [
+  {
+   "id": 2,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ",
+   "visual_prompt": "КАРТЫ/РОССИЯ"
+  },
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "подписание Берлинского пакта в Берлине 1940 год, реальное фото",
+   "visual_prompt": "подписание Берлинского пакта в Берлине 1940 год, реальное фото"
+  },
+  {
+   "id": 10,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание парламента Японии в Токио, реальное фото",
+   "visual_prompt": "здание парламента Японии в Токио, реальное фото"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "контейнерный терминал порта Сингапур, реальное фото",
+   "visual_prompt": "контейнерный терминал порта Сингапур, реальное фото"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "фасад Банка России на Неглинной улице в Москве, реальное фото",
+   "visual_prompt": "фасад Банка России на Неглинной улице в Москве, реальное фото"
+  },
+  {
+   "id": 28,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/КОНТЕЙНЕРНЫЙ-ТЕРМИНАЛ-ПОРТА",
+   "visual_prompt": "контейнерный терминал порта Ротердам"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "дорожный указатель Екатеринбург на автомобильной трассе, реальное фото",
+   "visual_prompt": "дорожный указатель Екатеринбург на автомобильной трассе, реальное фото"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "здание Пентагона в Арлингтоне с воздуха, реальное фото",
+   "visual_prompt": "здание Пентагона в Арлингтоне с воздуха, реальное фото"
+  },
+  {
+   "id": 44,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЭСТОНИЯ",
+   "visual_prompt": "КАРТЫ/ЭСТОНИЯ"
+  },
+  {
+   "id": 46,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "Белый дом в Вашингтоне южный фасад, реальное фото",
+   "visual_prompt": "Белый дом в Вашингтоне южный фасад, реальное фото"
+  },
+  {
+   "id": 57,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "Владимир Путин в рабочем кабинете 2026, реальное фото",
+   "visual_prompt": "Владимир Путин в рабочем кабинете 2026, реальное фото"
+  },
+  {
+   "id": 60,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "Йонас Гар Стёре премьер-министр Норвегии 2026, реальное фото",
+   "visual_prompt": "Йонас Гар Стёре премьер-министр Норвегии 2026, реальное фото"
+  },
+  {
+   "id": 67,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА",
+   "visual_prompt": "КАРТЫ/ЕВРОПА"
+  }
+ ]
+}
