@@ -1,0 +1,795 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 11.0,
+   "visual_prompt": "Офис президента Украины на Банковой, фасад с охраной, ноябрь 2026",
+   "source": "press_photo",
+   "source_query": "Офис президента Украины на Банковой, фасад с охраной, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 11.0,
+   "duration_sec": 8.999,
+   "visual_prompt": "Зеленский выступает перед камерой в официальной обстановке",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 19.999,
+   "duration_sec": 8.039,
+   "visual_prompt": "Украинская делегация движется по коридору международного форума",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕС-форумы-Украина",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 28.038,
+   "duration_sec": 8.082,
+   "visual_prompt": "Эрдоган встречает Зеленского, флаги Украины и Турции",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ЭРДОГАН-ЗЕЛЕНСКИЙ-ВСТРЕЧА",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 36.12,
+   "duration_sec": 10.161,
+   "visual_prompt": "Сервированный стол делегаций во дворце Долмабахче перед официальной встречей",
+   "source": "press_photo",
+   "source_query": "сервированный стол делегаций во дворце Долмабахче, Истанбул, 2026",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 46.281,
+   "duration_sec": 8.559,
+   "visual_prompt": "пассажирский самолёт на рулении по аэродрому, 2026",
+   "source": "press_photo",
+   "source_query": "пассажирский самолёт на рулении по аэродрому, 2026",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 54.84,
+   "duration_sec": 9.36,
+   "visual_prompt": "Путин выступает за столом рабочего совещания",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 64.2,
+   "duration_sec": 8.044,
+   "visual_prompt": "телефонная трубка на рабочем столе — звонок, который можно сделать",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЕВРОПА-ЗВОНИТ-МОСКВЕ-3110_ТЕЛЕФОННАЯ-ТРУБКА-СТОЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 72.244,
+   "duration_sec": 9.92,
+   "visual_prompt": "Зеленский выступает с обращением, Киев, ноябрь 2026",
+   "source": "press_photo",
+   "source_query": "Зеленский выступает с обращением, Киев, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 82.164,
+   "duration_sec": 12.32,
+   "visual_prompt": "Карта с отмеченными Турцией, Объединёнными Арабскими Эмиратами, Москвой и Киевом",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 94.484,
+   "duration_sec": 9.76,
+   "visual_prompt": "Дом правительства России на Краснопресненской набережной, 2026",
+   "source": "press_photo",
+   "source_query": "Дом правительства России на Краснопресненской набережной, 2026",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 104.244,
+   "duration_sec": 9.44,
+   "visual_prompt": "Зеленский выступает сидя за рабочим столом",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 113.684,
+   "duration_sec": 10.96,
+   "visual_prompt": "Фасад Кабинета министров Украины и охрана у центрального входа",
+   "source": "press_photo",
+   "source_query": "Кабинет министров Украины на Грушевского центральный вход, 2026",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 124.644,
+   "duration_sec": 10.284,
+   "visual_prompt": "авторынок: ряды машин на площадке",
+   "source": "press_photo",
+   "source_query": "ряды автомобилей на авторынке под открытым небом, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 134.928,
+   "duration_sec": 9.92,
+   "visual_prompt": "Российские официальные лица проходят к месту встречи",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 144.848,
+   "duration_sec": 10.0,
+   "visual_prompt": "флаг Украины над входом в министерство иностранных дел, Киев, 2026",
+   "source": "press_photo",
+   "source_query": "флаг Украины над входом в министерство иностранных дел, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 154.848,
+   "duration_sec": 10.0,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/СКОРАЯ-ПОМОЩЬ-ОТКРЫТЫМИ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/СКОРАЯ-ПОМОЩЬ-ОТКРЫТЫМИ",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 164.848,
+   "duration_sec": 9.44,
+   "visual_prompt": "разгрузка коробок гуманитарной помощи с грузовика, 2026",
+   "source": "press_photo",
+   "source_query": "разгрузка коробок гуманитарной помощи с грузовика, 2026",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 174.288,
+   "duration_sec": 10.314,
+   "visual_prompt": "пустая дорога вдоль Днепра в Херсонской области, 2026",
+   "source": "press_photo",
+   "source_query": "пустая дорога вдоль Днепра в Херсонской области, 2026",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 184.602,
+   "duration_sec": 9.686,
+   "visual_prompt": "Путин о причинах конфликта на совещании",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 194.288,
+   "duration_sec": 10.546,
+   "visual_prompt": "Кремль со стороны Москвы-реки в холодный пасмурный день",
+   "source": "press_photo",
+   "source_query": "Московский Кремль со стороны набережной, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 204.834,
+   "duration_sec": 10.542,
+   "visual_prompt": "Георгиевский зал Большого Кремлёвского дворца без людей, 2026",
+   "source": "press_photo",
+   "source_query": "Георгиевский зал Большого Кремлёвского дворца без людей, 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 215.376,
+   "duration_sec": 11.52,
+   "visual_prompt": "колонна российских военных грузовиков на трассе",
+   "source": "press_photo",
+   "source_query": "колонна военных грузовиков Вооружённых сил России на трассе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 226.896,
+   "duration_sec": 13.104,
+   "visual_prompt": "президентский комплекс Бештепе в Анкаре",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ДВОРЕЦ-БЕШТЕПЕ-АНКАРЕ",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 240.0,
+   "duration_sec": 11.376,
+   "visual_prompt": "Карточка с вопросом о неизменности политического курса Киева",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 251.376,
+   "duration_sec": 9.232,
+   "visual_prompt": "фасад здания Верховной Рады с флагом Украины, Киев, 2026",
+   "source": "press_photo",
+   "source_query": "фасад здания Верховной Рады с флагом Украины, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 260.608,
+   "duration_sec": 11.968,
+   "visual_prompt": "Фасад Министерства культуры Украины в центре Киева",
+   "source": "press_photo",
+   "source_query": "Министерство культуры Украины фасад в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 272.576,
+   "duration_sec": 12.64,
+   "visual_prompt": "Библиотечные полки с русскоязычными книгами в украинской городской библиотеке",
+   "source": "web_search",
+   "source_query": "библиотечные полки с русскоязычными книгами в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 285.216,
+   "duration_sec": 12.05,
+   "visual_prompt": "Двуязычная книжная полка в магазине Днепра",
+   "source": "press_photo",
+   "source_query": "двуязычная книжная полка в магазине Днепра, 2026",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 297.266,
+   "duration_sec": 12.88,
+   "visual_prompt": "Переименованная улица в Киеве с новой адресной табличкой",
+   "source": "web_search",
+   "source_query": "новая адресная табличка после переименования улицы в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 310.146,
+   "duration_sec": 12.4,
+   "visual_prompt": "мозаичное панно советских лет на киевском доме",
+   "source": "press_photo",
+   "source_query": "советское мозаичное панно на стене дома в Киеве, съёмка с земли, 2026",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 322.546,
+   "duration_sec": 12.4,
+   "visual_prompt": "бронемашина ВСУ на дороге, реальное фото, 2026",
+   "source": "press_photo",
+   "source_query": "бронемашина ВСУ на дороге, реальное фото, 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 334.946,
+   "duration_sec": 11.84,
+   "visual_prompt": "украинский дальнобойный беспилотник на пусковой катапульте, 2026",
+   "source": "press_photo",
+   "source_query": "украинский дальнобойный беспилотник на пусковой катапульте, 2026",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 346.786,
+   "duration_sec": 13.44,
+   "visual_prompt": "ПОЛИТИКА/ПВО-укр/nasams.jpg",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПВО-укр/nasams.jpg",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 360.226,
+   "duration_sec": 12.59,
+   "visual_prompt": "цех по сборке бронемашин на украинском заводе, 2026",
+   "source": "press_photo",
+   "source_query": "цех по сборке бронемашин на украинском заводе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 372.816,
+   "duration_sec": 10.858,
+   "visual_prompt": "Российские и украинские места разделены на противоположных сторонах стола в Стамбуле",
+   "source": "press_photo",
+   "source_query": "места России и Украины по сторонам стола в Стамбуле, 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 383.674,
+   "duration_sec": 12.902,
+   "visual_prompt": "штаб-квартира НАТО в Брюсселе, флагштоки у входа, 2026",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО в Брюсселе, флагштоки у входа, 2026",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 396.576,
+   "duration_sec": 12.24,
+   "visual_prompt": "Инструкторы НАТО обучают украинских военнослужащих работе с техникой",
+   "source": "press_photo",
+   "source_query": "инструкторы НАТО обучают украинских военных работе с техникой, 2026",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 408.816,
+   "duration_sec": 12.48,
+   "visual_prompt": "украинская делегация за длинным столом переговоров с западной стороной",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ЗЕЛЕНСКИЙ-ПЕРЕГОВОРАХ-ДЛИННЫМ",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 421.296,
+   "duration_sec": 12.752,
+   "visual_prompt": "Карточка с вопросом о содержании будущего соглашения",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 434.048,
+   "duration_sec": 13.759,
+   "visual_prompt": "блокпост на въезде в прифронтовой город Донецкой области, 2026",
+   "source": "press_photo",
+   "source_query": "блокпост на въезде в прифронтовой город Донецкой области, 2026",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 447.807,
+   "duration_sec": 12.48,
+   "visual_prompt": "фото досье: заявления о готовности прекратить огонь",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/Se5OMU2dP7cLZCdtkqTGYNVQf_4huu_6PgFRRBFIhwemtox9m_orS0kkASYSu0QAqfWvUXr2dQgjvtzvgiQ9x2hCw2T2Pa5rqqVJm_c5qf-O-y-hHmw-O-RMzf18BNM8bWWuSkcPP91bp33ntV8u1K4roRKdYaqCUBAp4OVW2KrFt2aELqRh7orwi3NQvy0I1iY7tJ_TDMq7FRRt7BDw8VhQe0QGqp6kQkbA9ZnwKYltefTwvdqZO5kdfBTZGMU2ElRMPC1rQG1K04teOz87Kn-apuhVPUANZVgwvurj95hbpW33X45FiEiyauLngCu5yFXQXTpGxmmtDn9jktBE2A.jpg",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 460.287,
+   "duration_sec": 12.88,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ТАМОЖЕННЫЙ-КОНТРОЛЬ-ДОСМОТР",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ТАМОЖЕННЫЙ-КОНТРОЛЬ-ДОСМОТР",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 473.167,
+   "duration_sec": 13.44,
+   "visual_prompt": "река Днепр и набережная города, 2026",
+   "source": "press_photo",
+   "source_query": "река Днепр и набережная города, 2026",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 486.607,
+   "duration_sec": 11.717,
+   "visual_prompt": "Стол российской и украинской делегаций в Долмабахче",
+   "source": "press_photo",
+   "source_query": "стол российской и украинской делегаций во дворце Долмабахче, 2026",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 498.324,
+   "duration_sec": 12.4,
+   "visual_prompt": "фасад комплекса Бештепе перед встречей",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ДВОРЕЦ-БЕШТЕПЕ-АНКАРЕ",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 510.724,
+   "duration_sec": 12.8,
+   "visual_prompt": "Украинский лидер эмоционально обращается к журналистам в официальном холле",
+   "source": "press_photo",
+   "source_query": "украинский лидер отвечает журналистам в официальном холле, 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 523.524,
+   "duration_sec": 12.48,
+   "visual_prompt": "Закрытые папки лежат перед местами украинской и российской делегаций",
+   "source": "press_photo",
+   "source_query": "закрытые папки перед местами делегаций России и Украины, 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 536.004,
+   "duration_sec": 12.48,
+   "visual_prompt": "Пустые кресла делегаций в штаб-квартире НАТО",
+   "source": "press_photo",
+   "source_query": "пустые кресла делегаций в штаб-квартире НАТО, Брюссель, 2026",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 548.484,
+   "duration_sec": 12.429,
+   "visual_prompt": "здание Министерства обороны России на Фрунзенской набережной, 2026",
+   "source": "press_photo",
+   "source_query": "здание Министерства обороны России на Фрунзенской набережной, 2026",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 560.913,
+   "duration_sec": 12.72,
+   "visual_prompt": "Российская подводная лодка выходит из военно-морской базы",
+   "source": "press_photo",
+   "source_query": "российская атомная подводная лодка выходит из базы, 2026",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 573.633,
+   "duration_sec": 12.4,
+   "visual_prompt": "Российское место за столом европейской конференции по безопасности",
+   "source": "press_photo",
+   "source_query": "российское место на европейской конференции по безопасности, 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 586.033,
+   "duration_sec": 12.0,
+   "visual_prompt": "Фасад МИД России на Смоленской площади в Москве",
+   "source": "press_photo",
+   "source_query": "МИД России на Смоленской площади, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 598.033,
+   "duration_sec": 12.64,
+   "visual_prompt": "Трамп отвечает журналистам возле входа в Белый дом",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп отвечает журналистам возле Белого дома, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 610.673,
+   "duration_sec": 11.638,
+   "visual_prompt": "Карточка с осторожной оценкой американской дипломатии",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 622.311,
+   "duration_sec": 12.0,
+   "visual_prompt": "Рубио отвечает журналистам у микрофона",
+   "source": "press_photo",
+   "source_query": "госсекретарь Марко Рубио у микрофона на пресс-подходе, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 634.311,
+   "duration_sec": 11.84,
+   "visual_prompt": "Западное крыло Белого дома и сотрудники администрации у входа",
+   "source": "press_photo",
+   "source_query": "Западное крыло Белого дома сотрудники администрации у входа, 2026",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 646.151,
+   "duration_sec": 12.16,
+   "visual_prompt": "Здание Государственного департамента США в Вашингтоне",
+   "source": "press_photo",
+   "source_query": "Государственный департамент США здание в Вашингтоне, 2026",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 658.311,
+   "duration_sec": 12.64,
+   "visual_prompt": "полигон ВСУ, занятия с военной техникой, 2026",
+   "source": "press_photo",
+   "source_query": "полигон ВСУ, занятия с военной техникой, 2026",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 670.951,
+   "duration_sec": 12.96,
+   "visual_prompt": "Дональд Трамп в Овальном кабинете за рабочим столом, ноябрь 2026",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Овальном кабинете за рабочим столом, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 683.911,
+   "duration_sec": 12.191,
+   "visual_prompt": "Журналисты ожидают выхода официальных лиц в коридоре Белого дома",
+   "source": "press_photo",
+   "source_query": "журналисты ожидают заявления в коридоре Белого дома, 2026",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 696.102,
+   "duration_sec": 12.0,
+   "visual_prompt": "Спасская башня Московского Кремля вечером, 2026",
+   "source": "press_photo",
+   "source_query": "Спасская башня Московского Кремля вечером, 2026",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 708.102,
+   "duration_sec": 12.32,
+   "visual_prompt": "Микрофоны международной прессы перед выходом представителей делегаций",
+   "source": "press_photo",
+   "source_query": "микрофоны международной прессы перед выходом делегаций в Анкаре, 2026",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 720.422,
+   "duration_sec": 12.88,
+   "visual_prompt": "Бронетехника НАТО движется на совместных учениях",
+   "source": "press_photo",
+   "source_query": "бронетехника НАТО на совместных учениях в Европе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 733.302,
+   "duration_sec": 12.24,
+   "visual_prompt": "улица Киева с вывесками на украинском языке, съёмка с земли, 2026",
+   "source": "press_photo",
+   "source_query": "улица Киева с вывесками на украинском языке, съёмка с земли, 2026",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 745.542,
+   "duration_sec": 12.994,
+   "visual_prompt": "здание Администрации президента России на Старой площади, 2026",
+   "source": "press_photo",
+   "source_query": "здание Администрации президента России на Старой площади, 2026",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 758.536,
+   "duration_sec": 12.72,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 771.256,
+   "duration_sec": 12.48,
+   "visual_prompt": "Здание Совета Федерации России во время официальных консультаций",
+   "source": "press_photo",
+   "source_query": "здание Совета Федерации России во время консультаций, 2026",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 783.736,
+   "duration_sec": 12.48,
+   "visual_prompt": "Современное украинское производство беспилотников в 2026 году",
+   "source": "web_search",
+   "source_query": "современное производство украинских беспилотников, 2026",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 796.216,
+   "duration_sec": 12.32,
+   "visual_prompt": "Карточка с противопоставлением короткой паузы и долгосрочного решения",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 808.536,
+   "duration_sec": 13.76,
+   "visual_prompt": "Пустые места России и Украины после завершения встречи",
+   "source": "press_photo",
+   "source_query": "пустые места России и Украины после встречи в Стамбуле, 2026",
+   "overlays": []
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 822.296,
+   "duration_sec": 12.24,
+   "visual_prompt": "рукопожатие глав делегаций на фоне флагов, крупный план рук, 2026",
+   "source": "press_photo",
+   "source_query": "рукопожатие глав делегаций на фоне флагов, крупный план рук, 2026",
+   "overlays": []
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 834.536,
+   "duration_sec": 13.36,
+   "visual_prompt": "Эрдоган принимает делегацию, почётный караул",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ЭРДОГАН-ЗЕЛЕНСКИЙ-ВСТРЕЧА",
+   "overlays": []
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 847.896,
+   "duration_sec": 10.24,
+   "visual_prompt": "Журналисты ожидают лидеров у выхода из дворца Долмабахче",
+   "source": "press_photo",
+   "source_query": "журналисты у выхода из дворца Долмабахче в ожидании лидеров, 2026",
+   "overlays": []
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 858.136,
+   "duration_sec": 10.56,
+   "visual_prompt": "кортеж автомобилей выезжает из ворот резиденции, 2026",
+   "source": "press_photo",
+   "source_query": "кортеж автомобилей выезжает из ворот резиденции, 2026",
+   "overlays": []
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 868.696,
+   "duration_sec": 9.68,
+   "visual_prompt": "чашка турецкого кофе на блюдце, крупный план, 2026",
+   "source": "press_photo",
+   "source_query": "чашка турецкого кофе на блюдце, крупный план, 2026",
+   "overlays": []
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 878.376,
+   "duration_sec": 9.6,
+   "visual_prompt": "две делегации по сторонам длинного стола с флагами",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ЗЕЛЕНСКИЙ-ПЕРЕГОВОРАХ-ДЛИННЫМ",
+   "overlays": []
+  },
+  {
+   "id": 78,
+   "text": "",
+   "start_sec": 887.976,
+   "duration_sec": 9.92,
+   "visual_prompt": "Трамп завершает выступление перед журналистами в Вашингтоне",
+   "source": "press_photo",
+   "source_query": "Трамп завершает выступление перед журналистами в Вашингтоне, 2026",
+   "overlays": []
+  },
+  {
+   "id": 79,
+   "text": "",
+   "start_sec": 897.896,
+   "duration_sec": 8.004,
+   "visual_prompt": "Пахлава на протокольном столе во дворце Долмабахче перед встречей",
+   "source": "press_photo",
+   "source_query": "пахлава на протокольном столе во дворце Долмабахче, 2026",
+   "overlays": []
+  }
+ ]
+}
