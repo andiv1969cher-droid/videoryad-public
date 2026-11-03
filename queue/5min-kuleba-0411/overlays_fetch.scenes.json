@@ -1,0 +1,36 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/УКРАИНА",
+   "visual_prompt": "ПОЛИТИКА/КАРТЫ/УКРАИНА"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/ТУРЦИЯ",
+   "visual_prompt": "карта Турции"
+  },
+  {
+   "id": 30,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/КАРТЫ/МИР",
+   "visual_prompt": "карта мира"
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 3.0,
+   "source": "press_photo",
+   "source_query": "Киевская телевизионная башня общий план 2026",
+   "visual_prompt": "Киевская телевизионная башня общий план 2026"
+  }
+ ]
+}

@@ -1,0 +1,623 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 11.7,
+   "visual_prompt": "Холодный фасад Офиса президента Украины на Банковой в начале ноября",
+   "source": "press_photo",
+   "source_query": "фасад Офиса президента Украины на Банковой ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 11.7,
+   "duration_sec": 11.727,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 23.427,
+   "duration_sec": 12.357,
+   "visual_prompt": "Досье Дмитрия Кулебы с пометкой «бывший министр иностранных дел Украины»",
+   "source": "card:dossier",
+   "source_query": "карточка «dossier» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 35.784,
+   "duration_sec": 9.0,
+   "visual_prompt": "Здание с украинским флагом, зимние ветки — движение в кадре",
+   "source": "local_library",
+   "source_query": "УКРАИНА/укро (2).mp4",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 44.784,
+   "duration_sec": 8.216,
+   "visual_prompt": "переговоры делегаций России и Украины Гомель Беларусь февраль 2022 архив",
+   "source": "press_photo",
+   "source_query": "переговоры делегаций России и Украины Гомель Беларусь февраль 2022 архив",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 53.0,
+   "duration_sec": 8.64,
+   "visual_prompt": "Европейские и украинские представители прибывают на международную встречу",
+   "source": "press_photo",
+   "source_query": "переговоры России и Украины в Стамбуле март 2022 делегации за столом",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 61.64,
+   "duration_sec": 9.919,
+   "visual_prompt": "Архивные кадры британской делегации и визита Бориса Джонсона в Киев",
+   "source": "press_photo",
+   "source_query": "Борис Джонсон и Зеленский на улице Киева апрель 2022",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 71.559,
+   "duration_sec": 7.827,
+   "visual_prompt": "Борис Джонсон и Давид Арахамия во время киевского визита 2022 года",
+   "source": "press_photo",
+   "source_query": "Давид Арахамия на заседании Верховной Рады 2022",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 79.386,
+   "duration_sec": 8.456,
+   "visual_prompt": "Зеленский записывает обращение в официальном кабинете",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ЗЕЛЕНСКИЙ",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 87.842,
+   "duration_sec": 8.71,
+   "visual_prompt": "Европейские лидеры входят в помещение международного саммита",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 96.552,
+   "duration_sec": 8.958,
+   "visual_prompt": "Зеленский выступает перед камерой в рабочей обстановке",
+   "source": "press_photo",
+   "source_query": "Дмитрий Кулеба пресс-конференция МИД Украины 2022",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 105.51,
+   "duration_sec": 14.734,
+   "visual_prompt": "Хронология смены объяснений от весны 2022 года к концу 2022 года и сегодняшнему дню",
+   "source": "card:timeline",
+   "source_query": "карточка «timeline» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "timeline",
+    "kick": "КАК ЭТО ШЛО",
+    "lines": [
+     "делегации встречались",
+     "остановиться отказались",
+     "виновато общество"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 14.73
+   }
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 120.244,
+   "duration_sec": 10.158,
+   "visual_prompt": "Украинская делегация прибывает на встречу в Стамбуле весной 2022 года",
+   "source": "press_photo",
+   "source_query": "дворец Долмабахче Стамбул переговоры 2022",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 130.402,
+   "duration_sec": 9.68,
+   "visual_prompt": "Танк НАТО движется по полигону в сумеречном тумане",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 140.082,
+   "duration_sec": 9.561,
+   "visual_prompt": "Американские официальные лица проходят по коридору государственного учреждения",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 149.643,
+   "duration_sec": 9.846,
+   "visual_prompt": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 159.489,
+   "duration_sec": 9.756,
+   "visual_prompt": "Промышленные нефтяные установки и факел в движении",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/j3zrE3VfcDMRe5qIhM9evkm_qGuMqXEPhdbT9e1K-Kpqbjacz5DZKyYiiFxZfkV1nhJ1C6CMs4o2gnxAhrLozzt0sM6Sp_0mCZXiI0zHLVtjjNsJgw-Vizy77AreUqAokQqAnfTxLP0fM9eZDIY-8G3KZ9fHwWDMoI6cvplS1AWLDcQeZzAri94647SoKu4eSWVqamO89ZWSeZWpisrAHY9RArcdJ6TORlmXXdQUDau0HpVEoLggp7Fg6Mr1ITfxWA8hdY5qhchliBsDCRrZvVMur4xlxMYFakYU1i-pOTsMVAHq8LDqOakEcsaaNKhFVkNWXAaZHDe7eNmOCLc_ew.jpg",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 169.245,
+   "duration_sec": 9.514,
+   "visual_prompt": "Американские военнослужащие проверяют современное снаряжение перед учениями",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 178.759,
+   "duration_sec": 10.006,
+   "visual_prompt": "Трамп отвечает журналистам возле входа в Белый дом",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 188.765,
+   "duration_sec": 12.242,
+   "visual_prompt": "Белый дом со стороны Южного газона как центр американской власти",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 201.007,
+   "duration_sec": 6.8,
+   "visual_prompt": "Зеленский на Fox News объясняет условия паузы по НПЗ",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/f105e91f56.mp4?token=V9kimCxeXrKicDw06-z1T5pNhmhon6dB1DzUnLm4SBAl8ye9JMviuQ4_8obRhVAckXJ4Rh-HZU2iRz-MvxSxpDMhBWdyScI6aQXeTRXGquWBJi3LKaG4Umz00QidWtEcOULr3faeCKafInx6TgkAeuCEmZu_YILxdzqTY4Ymtmh-aqvcJ5PTW9XHzvaC6yQCcYyo3dhRZIHdAsqjTmvXwqjnfRNKXVR20TZCDHCOVU3_K1_rXUzwhJUinMsUejOHI66at5XLHap-cwrQxHwVJI9usKvDGaswZM3nzOyzWSw9seD0LFC_CvyB1FmEP0GjTEWKWpCKUch9icoshvEGWw",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 207.807,
+   "duration_sec": 7.118,
+   "visual_prompt": "Трамп у президентского самолёта беседа с журналистами 2026",
+   "source": "press_photo",
+   "source_query": "Трамп у президентского самолёта беседа с журналистами 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 214.925,
+   "duration_sec": 12.911,
+   "visual_prompt": "пусковая установка зенитного комплекса Patriot армии США 2026",
+   "source": "press_photo",
+   "source_query": "пусковая установка зенитного комплекса Patriot армии США 2026",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 227.836,
+   "duration_sec": 13.192,
+   "visual_prompt": "Российский нефтеперерабатывающий комплекс с горящим факелом и колоннами",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/НЕФТЕПЕРЕРАБАТЫВАЮЩИЙ-ЗАВОД-ФАКЕЛ",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 241.028,
+   "duration_sec": 12.808,
+   "visual_prompt": "Украинская трансформаторная подстанция за металлической сеткой",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 253.836,
+   "duration_sec": 13.192,
+   "visual_prompt": "Пустой брифинг-зал Белого дома перед объявлением позиции Вашингтона",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 267.028,
+   "duration_sec": 15.755,
+   "visual_prompt": "Вход европейских делегаций в штаб НАТО в Брюсселе",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 282.783,
+   "duration_sec": 14.53,
+   "visual_prompt": "здание Стортинга в Осло фасад 2026",
+   "source": "press_photo",
+   "source_query": "здание Стортинга в Осло фасад 2026",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 297.313,
+   "duration_sec": 14.24,
+   "visual_prompt": "Строгая карточка с формулой финансового влияния",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "quote",
+    "kick": "МЕЖДУНАРОДНАЯ ПОЛИТИКА В ОДНОЙ ФРАЗЕ",
+    "text": "Кто платит, тот хочет знать, что происходит с его деньгами",
+    "accent": "Кто платит, тот хочет знать",
+    "watermark": "5 МИНУТ"
+   }
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 311.553,
+   "duration_sec": 8.4,
+   "visual_prompt": "Капитолий в Вашингтоне как отдельный центр американского влияния",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 319.953,
+   "duration_sec": 8.8,
+   "visual_prompt": "Здание Еврокомиссии в Брюсселе во время рабочего дня",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 328.753,
+   "duration_sec": 9.526,
+   "visual_prompt": "Здание МИД России на Смоленской площади в свежей съёмке",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 338.279,
+   "duration_sec": 7.884,
+   "visual_prompt": "Кабинет министров Украины на Грушевского как место государственных решений",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 346.163,
+   "duration_sec": 8.735,
+   "visual_prompt": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 354.898,
+   "duration_sec": 9.855,
+   "visual_prompt": "Си Цзиньпин принимает Франка-Вальтера Штайнмайера в Пекине",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/eskChV8weyUKQWhofxltw9fveDdUwEwg3KvDxgkjxvl6yiLxO_m5-hVesZdlPqITG6NgG-pHjjtcJ8SMyM_OmK8stmbWAecpMANdAjwIMSTR3zSgqH3l-ZzIK5U6GqmEyK5AOyLejg5KudGDlUSj22Irrg_oCEBoqDeFjvaiw9_JfcGcY4wWVcW_4qYXt3lYnR2aDHPPTrRv98rj31C_-PM5O17CyugIY7rvG_N4Q7bc5r8lN6cwmzhw49RRaUeBpaZ8TDOFwNa06DJZMu9uqrVKYdjogEgNuAKhGGgKfL_2LmIzvJp0dCpOaFYLKxnb-WPj9vX9RAAUJ0_XuFoUvA.jpg",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 364.753,
+   "duration_sec": 9.962,
+   "visual_prompt": "Дом народных собраний в Пекине перед дипломатической встречей",
+   "source": "web_search",
+   "source_query": "Дом народных собраний Пекин дипломатическая встреча 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 374.715,
+   "duration_sec": 10.561,
+   "visual_prompt": "Стеклянный купол Бундестага и правительственный квартал Берлина",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/БУНДЕСТАГ-БЕРЛИНЕ-СТЕКЛЯННЫЙ",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 385.276,
+   "duration_sec": 8.869,
+   "visual_prompt": "Кружки стран показывают отодвигаемые Британию, Германию и Францию и приближаемые Норвегию и Финляндию",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 394.145,
+   "duration_sec": 12.434,
+   "visual_prompt": "Официальный вход в здание китайского МИД в Пекине",
+   "source": "web_search",
+   "source_query": "здание Министерства иностранных дел Китая Пекин ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 406.579,
+   "duration_sec": 14.576,
+   "visual_prompt": "Въезд в правительственный комплекс Чжуннаньхай в современном Пекине",
+   "source": "press_photo",
+   "source_query": "въезд в комплекс Чжуннаньхай Пекин осень 2026",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 421.155,
+   "duration_sec": 13.481,
+   "visual_prompt": "Языковой омбудсмен Елена Ивановская во время официального выступления",
+   "source": "web_search",
+   "source_query": "языковой омбудсмен Елена Ивановская выступление ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 434.636,
+   "duration_sec": 13.2,
+   "visual_prompt": "Фасад Верховной Рады как место принятия языковых норм",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 447.836,
+   "duration_sec": 12.191,
+   "visual_prompt": "Пассажиры едут на эскалаторе киевского метро в обычный будний день",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЭСКАЛАТОР-КИЕВСКОГО-МЕТРО",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 460.027,
+   "duration_sec": 14.56,
+   "visual_prompt": "Открытые двери лифта в обычном киевском жилом доме",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЛИФТ-ЖИЛОМ-ДОМЕ",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 474.587,
+   "duration_sec": 11.68,
+   "visual_prompt": "Кладовая киевской квартиры с бытовыми запасами на полках",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/КЛАДОВАЯ-КВАРТИРЕ-ПОЛКИ",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 486.267,
+   "duration_sec": 10.08,
+   "visual_prompt": "БАЗА/УНИВЕРСАЛЬНОЕ/ЛЮДИ-ОФИСЕ-МОНИТОРАМИ",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ЛЮДИ-ОФИСЕ-МОНИТОРАМИ",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 496.347,
+   "duration_sec": 11.524,
+   "visual_prompt": "улица Банковая в Киеве ограждение и КПП 2026",
+   "source": "press_photo",
+   "source_query": "улица Банковая в Киеве ограждение и КПП 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 507.871,
+   "duration_sec": 13.516,
+   "visual_prompt": "Кирилл Буданов на официальной встрече в Киеве",
+   "source": "press_photo",
+   "source_query": "начальник ГУР Кирилл Буданов на брифинге Киев 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 521.387,
+   "duration_sec": 12.034,
+   "visual_prompt": "Колоннада Национального банка Украины как символ перераспределения влияния и денег",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/НАЦИОНАЛЬНЫЙ-БАНК-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 533.421,
+   "duration_sec": 13.12,
+   "visual_prompt": "пассажиры с чемоданами в зале аэропорта Борисполь 2026",
+   "source": "press_photo",
+   "source_query": "пассажиры с чемоданами в зале аэропорта Борисполь 2026",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 546.541,
+   "duration_sec": 14.242,
+   "visual_prompt": "Центральная избирательная комиссия Украины в Киеве перед новым политическим циклом",
+   "source": "press_photo",
+   "source_query": "Центральная избирательная комиссия Украины фасад Киев 2026",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 560.783,
+   "duration_sec": 13.771,
+   "visual_prompt": "Операторы с камерами ожидают украинских чиновников у входа",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 574.554,
+   "duration_sec": 12.707,
+   "visual_prompt": "Бывший министр иностранных дел Украины Дмитрий Кулеба во время интервью 2026 года",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/vz5fptV-WJLM32Sr5LfPHOQIe7B9uVShpOkB-DPdumztvAe27cCn4ZvgoA3izzeDyRRxboJGgXOReogWR0aDS-6VhOj13SM2FCczG7fKXwalboZqnvEc9UdEhW1ZxqXeuHUHRin3ptZDvLGYc7CIYQjaHytU3mo5V3RNaIIjrKqjiK1SrZ1CZNL4mV62RwOp2EWZKbrXV9XniK77UBRmEtU36XiWeR3XdKk1XN9VRFriN60txglhoJLMm2qEFmduDonPn5fxN5WBPOOi582rzj6EM-K60gBu7BUw5C1V1WJg-fqz0dNnIP6qc0dcBbnwUQlfFOUfGtvKJzzN7GdTXQ.jpg",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 587.261,
+   "duration_sec": 12.525,
+   "visual_prompt": "Владимир Зеленский совещание в Офисе президента Киев 2022 архив",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский совещание в Офисе президента Киев 2022 архив",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 599.786,
+   "duration_sec": 12.801,
+   "visual_prompt": "Здание Кабинета министров Украины на Грушевского крупным общим планом",
+   "source": "press_photo",
+   "source_query": "здание Кабинета министров Украины улица Грушевского осень 2026",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 612.587,
+   "duration_sec": 11.92,
+   "visual_prompt": "Депутатские ряды Верховной Рады во время обсуждения государственной политики",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОЧЕРЕДЬ-ЛЮДЕЙ-ВХОДА",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 624.507,
+   "duration_sec": 11.841,
+   "visual_prompt": "Пустой участок для голосования в Киеве до открытия",
+   "source": "web_search",
+   "source_query": "урны и кабинки на избирательном участке Киев 2019 архив реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 636.348,
+   "duration_sec": 8.16,
+   "visual_prompt": "Решётка и интерьер Печерского районного суда как образ персональной ответственности",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ПЕЧЕРСКИЙ-РАЙОННЫЙ-СУД",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 644.508,
+   "duration_sec": 10.372,
+   "visual_prompt": "Коридор украинского правительства перед закрытым совещанием",
+   "source": "press_photo",
+   "source_query": "коридор украинского правительства перед совещанием Киев 2026",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 654.88,
+   "duration_sec": 10.72,
+   "visual_prompt": "Закрытый фасад Офиса президента Украины на Банковой в вечернем свете",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "overlays": []
+  }
+ ]
+}
