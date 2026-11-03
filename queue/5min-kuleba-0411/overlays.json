@@ -1,0 +1,402 @@
+{
+ "anchor": "top",
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "28": {
+  "photo": "overlays/scene_028.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "42": {
+  "photo": "overlays/scene_042.jpg",
+  "sound": "ding",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "43": {
+  "photo": "overlays/scene_043.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "48": {
+  "photo": "overlays/scene_048.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "50": {
+  "photo": "overlays/scene_050.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "1": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "КУЛЕБА: В КОНЦЕ 2022 ДОГОВОРИТЬСЯ БЫЛО МОЖНО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВЕСНА 2022: ДЕЛЕГАЦИИ ВСТРЕЧАЛИСЬ, УСЛОВИЯ ОБСУЖДАЛИСЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "8": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "АРАХАМИЯ: ДЖОНСОН СКАЗАЛ НИЧЕГО НЕ ПОДПИСЫВАТЬ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "КУЛЕБА ПРИЗНАЁТ: ВЛАСТЬ ЖИЛА ТЕМИ ЖЕ ОЖИДАНИЯМИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "НАРОД НЕ СИДЕЛ В СТАМБУЛЕ И НЕ ПОДПИСЫВАЛ УСЛОВИЙ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "17": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МЕСЯЦ БЕЗ УДАРОВ ПО НПЗ — В ОБМЕН НА PATRIOT",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ДЕНЬГИ НАЙДЁМ · ГОТОВЫ ПЛАТИТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "21": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЗЕЛЕНСКИЙ НА FOX NEWS НАЗВАЛ ЦЕНУ ПАУЗЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "23": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПРИХОДИЛО 12 РАКЕТ PATRIOT В МЕСЯЦ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "24": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЗА МЕСЯЦ ИЗРАСХОДОВАНО 35",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТОВАР: ПАУЗА ПО НПЗ · ЦЕНА: PATRIOT · СРОК: МЕСЯЦ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "27": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "БРИТАНИЮ, ГЕРМАНИЮ И ФРАНЦИЮ ОТОДВИГАЮТ ДАЛЬШЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "30": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВСЕ РАЗГОВАРИВАЮТ · СДЕЛКИ ПОКА НЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "32": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МОСКВА ТРЕБОВАНИЙ НЕ СНЯЛА · КИЕВ ПОЗИЦИЙ НЕ ВЫБРОСИЛ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "35": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПЕКИН НЕ ВИДИТ СМЫСЛА В ТРЁХСТОРОННЕМ ФОРМАТЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СИ: ЭТО ПРЕЖДЕ ВСЕГО ЕВРОПЕЙСКАЯ БЕЗОПАСНОСТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЕСЛИ РАЗВАЛИТСЯ — КИТАЙ НИ ПРИ ЧЁМ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "44": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЗАКОН РЕГУЛИРУЕТ ПУБЛИЧНОЕ · ДОМАШНЮЮ РЕЧЬ НЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "1 НОЯБРЯ · АНОНИМНАЯ ПУБЛИКАЦИЯ О БОРЬБЕ НА БАНКОВОЙ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "49": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ИСТОЧНИК АНОНИМНЫЙ · ПОДТВЕРЖДЕНИЙ НЕТ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "51": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МИР ОЗНАЧАЕТ ВЫБОРЫ И НОВЫЕ ПОЛНОМОЧИЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "55": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "У КАЖДОГО БЫЛА ДОЛЖНОСТЬ · У КАЖДОГО ПОЛНОМОЧИЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ГОЛОСОВАНИЯ НЕ БЫЛО · РЕФЕРЕНДУМА НЕ БЫЛО",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "60": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПОЛНОМОЧИЯ ВСЁ ЭТО ВРЕМЯ БЫЛИ НАВЕРХУ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ }
+}
