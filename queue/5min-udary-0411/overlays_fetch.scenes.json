@@ -1,0 +1,49 @@
+{
+ "scenes": [
+  {
+   "id": 4,
+   "text": "",
+   "duration_sec": 11.04,
+   "visual_prompt": "Карта Украины: чью энергетику бьют",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "duration_sec": 10.32,
+   "visual_prompt": "Карта России: где находится Поволжье",
+   "source": "local_library",
+   "source_query": "КАРТЫ/РОССИЯ",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "duration_sec": 8.041,
+   "visual_prompt": "Карта Европы: на чьих складах лежат перехватчики",
+   "source": "local_library",
+   "source_query": "КАРТЫ/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 72,
+   "text": "",
+   "duration_sec": 10.0,
+   "visual_prompt": "Карта Украины: по чьей логистике идут удары",
+   "source": "local_library",
+   "source_query": "КАРТЫ/УКРАИНА",
+   "overlays": []
+  },
+  {
+   "id": 76,
+   "text": "",
+   "duration_sec": 12.16,
+   "visual_prompt": "Карта мира: насколько широко разошёлся этот торг",
+   "source": "local_library",
+   "source_query": "КАРТЫ/МИР",
+   "overlays": []
+  }
+ ]
+}
