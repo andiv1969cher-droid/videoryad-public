@@ -1,0 +1,606 @@
+{
+ "anchor": "top",
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "21": {
+  "photo": "overlays/scene_021.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "23": {
+  "photo": "overlays/scene_023.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "37": {
+  "photo": "overlays/scene_037.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "55": {
+  "photo": "overlays/scene_055.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "71": {
+  "photo": "overlays/scene_071.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "72": {
+  "photo": "overlays/scene_072.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "76": {
+  "photo": "overlays/scene_076.jpg",
+  "sound": "pop",
+  "at": 1.5,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0
+ },
+ "3": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ИНТЕРВЬЮ АМЕРИКАНСКОМУ ТЕЛЕКАНАЛУ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВАРИАНТ ВТОРОЙ: РАКЕТЫ ДЛЯ PATRIOT НА МЕСЯЦ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "7": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВОПРОС В ЭФИРЕ: НЕ БОИТЕСЬ ЛИ ДАВИТЬ НА ТРАМПА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "10": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТРЕБОВАНИЕ ОЗВУЧЕНО ПУБЛИЧНО · КИЕВ ЕГО НЕ ВЫПОЛНИЛ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "13": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "РАЗГОВОР БЫЛ · УДАРЫ ПРОДОЛЖИЛИСЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "16": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОРУЖИЕ · БОЕПРИПАСЫ · РАЗВЕДКА · ДЕНЬГИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТЫ МНЕ PATRIOT — Я ТЕБЕ МЕСЯЦ БЕЗ УДАРОВ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "20": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СПУТНИКОВЫЙ МОНИТОРИНГ ЗАФИКСИРОВАЛ ТЕПЛОВУЮ АНОМАЛИЮ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "22": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЭТО НЕ ЗАВОД — ЭТО УЗЕЛ ПЕРЕКАЧКИ НЕФТИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "24": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЁМКОСТЬ ХРАНИЛИЩ — БОЛЕЕ 1 600 000 КУБОМЕТРОВ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "26": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "НЕФТЬ ЕСТЬ · ПЕРЕКАЧАТЬ ЕЁ НЕЧЕМ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "27": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "УДАРЫ ПО НПЗ — НО ПЕРЕГОВОРЫ НЕ ЗАКРЫТЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "30": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ДВЕ РЕАЛЬНОСТИ: РАКЕТЫ И ПЕРЕГОВОРНЫЙ СТОЛ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "32": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЗЕЛЕНСКИЙ ПРОСИТ РАКЕТЫ СЕЙЧАС",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "33": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОДОБРЕНА ПРОДАЖА 500 ПЕРЕХВАТЧИКОВ PAC-3",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "35": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МЕСЯЦ — ПРОТИВ ТРЁХ ЛЕТ ПОСТАВОК",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "36": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ДВЕ РАЗНЫЕ ИСТОРИИ: КОНТРАКТ И СКЛАДЫ СОЮЗНИКОВ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПОДДЕРЖИВАЕМ — БЕСПЛАТНО · ОТДАТЬ РАКЕТЫ — НЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "41": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СКОЛЬКО ОСТАВИТЬ СЕБЕ · КТО ЗАПЛАТИТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "43": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "FIRE POINT: БАЛЛИСТИЧЕСКАЯ FP-7 УЖЕ ПРИМЕНЯЛАСЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "44": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "200 КГ НА 300 КМ — ОКОЛО 600 000 ДОЛЛАРОВ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТА ЖЕ ЗАДАЧА НА FP-2 — ОКОЛО 50 000 ДОЛЛАРОВ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "48": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВОЙНА СЧИТАЕТ НЕ ДАЛЬНОСТЬ, А ЦЕНУ ДОСТАВКИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "49": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ГЕРБЕРА: ЗАЯВЛЕНО ДО 1200 КМ, БЧ ДО 25 КГ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "50": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "РАНЬШЕ — ПРИМАНКА ДЛЯ ПВО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "53": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ДЕШЁВАЯ ЦЕЛЬ СТАЛА УДАРНОЙ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "56": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЗАЯВЛЕНО ОКОЛО 13 ГЕКТАРОВ — 18 ФУТБОЛЬНЫХ ПОЛЕЙ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ЭТО ЗОНА РАССЕИВАНИЯ, А НЕ ВЫЖЖЕННОЕ ПОЛЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "61": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "КНДР ИСПЫТАЛА И ПОКАЗАЛА · ПЕРЕДАЧИ РОССИИ НЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "64": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВЗЛОМАНЫ СИСТЕМЫ ОПОВЕЩЕНИЯ В РОССИИ И УКРАИНЕ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "66": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВОЕННОГО СМЫСЛА НЕТ · ПАНИКА ЕСТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "68": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СИСТЕМА РАБОТАЕТ, ПОКА ЕЙ ВЕРЯТ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "69": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "УДАРЫ ПО ЖЕЛЕЗНОЙ ДОРОГЕ В СУМСКОЙ ОБЛАСТИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "73": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СТРЕЛЯЕТ ОДНО — ПОДВОЗИТ ДРУГОЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "77": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТРАМП ПОПРОСИЛ · КИЕВ НЕ ПРЕКРАТИЛ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "79": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОТВЕТ УЖЕ ОЗВУЧЕН В ЭФИРЕ ДО РАЗГОВОРА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ }
+}
