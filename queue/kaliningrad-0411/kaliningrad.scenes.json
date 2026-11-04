@@ -1,0 +1,1015 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 9.8,
+   "visual_prompt": "Польские военнослужащие быстро готовят снаряжение перед выездом.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПОЛЬША",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 9.8,
+   "duration_sec": 13.1,
+   "visual_prompt": "Панорама польской восточной границы с лесом и патрульной дорогой.",
+   "source": "press_photo",
+   "source_query": "пограничная дорога среди лесов северо-восточной Польши, 2026",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 22.9,
+   "duration_sec": 9.6,
+   "visual_prompt": "Польский пограничный патруль движется вдоль инженерных заграждений.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПОЛЬША",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 32.5,
+   "duration_sec": 13.3,
+   "visual_prompt": "Тягачи Войска Польского везут бронемашины по автомагистрали.",
+   "source": "web_search",
+   "source_query": "тягачи Войска Польского везут бронемашины по автомагистрали, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 45.8,
+   "duration_sec": 9.9,
+   "visual_prompt": "Ночной патруль осматривает лесную дорогу у польской границы.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 55.7,
+   "duration_sec": 13.5,
+   "visual_prompt": "Дональд Туск выступает перед журналистами после совещания в Варшаве.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ПОЛЬША/ТУСК",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 69.2,
+   "duration_sec": 9.7,
+   "visual_prompt": "Несколько силовых подразделений прибывают на лесную развилку.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 78.9,
+   "duration_sec": 12.9,
+   "visual_prompt": "Польский полицейский внедорожник освещает пустой просёлок ночью.",
+   "source": "web_search",
+   "source_query": "полицейский внедорожник Польши на ночной просёлочной дороге, 2026",
+   "overlays": []
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 91.8,
+   "duration_sec": 9.5,
+   "visual_prompt": "Мобильная группа силовиков получает команду и садится в машины.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА-армия",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 101.3,
+   "duration_sec": 13.7,
+   "visual_prompt": "Офицеры польской операции координируют выезд машин из штаба.",
+   "source": "press_photo",
+   "source_query": "офицеры полиции Польши координируют межведомственную операцию, 2026",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 115.0,
+   "duration_sec": 9.8,
+   "visual_prompt": "Колонна европейской бронетехники продолжает движение по дороге.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА-армия",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 124.8,
+   "duration_sec": 13.1,
+   "visual_prompt": "Командный автомобиль польской бригады развёрнут рядом с лесной дорогой.",
+   "source": "web_search",
+   "source_query": "командный автомобиль территориальной обороны Польши у леса, 2026",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 137.9,
+   "duration_sec": 9.6,
+   "visual_prompt": "Военная колонна проходит заранее подготовленный дорожный маршрут.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 147.5,
+   "duration_sec": 13.3,
+   "visual_prompt": "Карта двух польских направлений — к Украине и Калининградской области.",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 160.8,
+   "duration_sec": 9.9,
+   "visual_prompt": "Польский военный транспорт одновременно движется по нескольким направлениям.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕВРОПА",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 170.7,
+   "duration_sec": 13.5,
+   "visual_prompt": "Железнодорожная платформа перевозит польскую военную технику.",
+   "source": "press_photo",
+   "source_query": "железнодорожная платформа с техникой Войска Польского, 2026",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 184.2,
+   "duration_sec": 9.7,
+   "visual_prompt": "Бронетехника союзников прибывает на польский учебный центр.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 193.9,
+   "duration_sec": 12.9,
+   "visual_prompt": "Многонациональное подразделение отрабатывает слаженное движение на полигоне.",
+   "source": "press_photo",
+   "source_query": "многонациональное подразделение на учениях в Нова-Дембе, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 206.8,
+   "duration_sec": 9.5,
+   "visual_prompt": "Военно-транспортные машины союзников выстраиваются перед переброской.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/НАТО",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 216.3,
+   "duration_sec": 13.7,
+   "visual_prompt": "Британские и французские офицеры работают в объединённом штабе.",
+   "source": "web_search",
+   "source_query": "британские и французские офицеры объединённого командования, 2026",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 230.0,
+   "duration_sec": 9.8,
+   "visual_prompt": "Британская военная делегация прибывает на встречу коалиции.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/Англия",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 239.8,
+   "duration_sec": 13.1,
+   "visual_prompt": "Шеренга многонациональных сил готовится к практическому этапу учений.",
+   "source": "press_photo",
+   "source_query": "шеренга сил коалиции перед практическим этапом учений, 2026",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 252.9,
+   "duration_sec": 9.6,
+   "visual_prompt": "Британские военнослужащие поднимаются в транспортный самолёт.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/Англия",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 262.5,
+   "duration_sec": 13.3,
+   "visual_prompt": "Колонна тяжёлой техники осторожно проходит по узкому мосту.",
+   "source": "web_search",
+   "source_query": "колонна тяжёлой техники союзников пересекает узкий мост, 2026",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 275.8,
+   "duration_sec": 9.9,
+   "visual_prompt": "Французские связисты настраивают аппаратуру рядом с военными машинами.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ФРАНЦИЯ",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 285.7,
+   "duration_sec": 13.5,
+   "visual_prompt": "Ремонтная машина обслуживает бронетранспортёр во время польских учений.",
+   "source": "press_photo",
+   "source_query": "ремонтная машина обслуживает бронетранспортёр на учениях в Польше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 299.2,
+   "duration_sec": 9.7,
+   "visual_prompt": "Румынский аэродром принимает военно-транспортный самолёт союзников.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ФРАНЦИЯ",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 308.9,
+   "duration_sec": 12.9,
+   "visual_prompt": "Карта компонентов операции в Польше, Румынии и Турции.",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 321.8,
+   "duration_sec": 9.5,
+   "visual_prompt": "Военная техника движется по румынскому аэродрому перед вылетом.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/РУМЫНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 331.3,
+   "duration_sec": 13.7,
+   "visual_prompt": "Бронемашина заезжает на грузовую рампу по аппарели.",
+   "source": "press_photo",
+   "source_query": "бронемашина бундесвера заезжает на грузовую рампу, 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 345.0,
+   "duration_sec": 9.8,
+   "visual_prompt": "Румынские военные машины проходят вдоль ограждения аэродрома.",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/РУМЫНИЯ",
+   "overlays": []
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 354.8,
+   "duration_sec": 13.1,
+   "visual_prompt": "Пограничный столб Польши стоит рядом с российской границей.",
+   "source": "web_search",
+   "source_query": "пограничный столб Польши у Калининградской области, 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 367.9,
+   "duration_sec": 9.6,
+   "visual_prompt": "Фасад Берлаймона с флагами — очередная «отдельная новость».",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 377.5,
+   "duration_sec": 9.9,
+   "visual_prompt": "Европейские политические и военные сюжеты соединяются в единую последовательность.",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 387.4,
+   "duration_sec": 10.8,
+   "visual_prompt": "Елисейский дворец в Париже перед встречей французской и финской делегаций.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЕЛИСЕЙСКИЙ-ДВОРЕЦ-ПАРИЖЕ",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 398.2,
+   "duration_sec": 11.3,
+   "visual_prompt": "Кортежи делегаций прибывают во двор Елисейского дворца.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЕЛИСЕЙСКИЙ-ДВОРЕЦ-ПАРИЖЕ",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 409.5,
+   "duration_sec": 11.8,
+   "visual_prompt": "Французская и финская делегации сидят за рабочим столом в Париже.",
+   "source": "press_photo",
+   "source_query": "французская и финская делегации на рабочей встрече в Париже, октябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 421.3,
+   "duration_sec": 12.3,
+   "visual_prompt": "Александр Стубб выступает после официальной встречи в Финляндии.",
+   "source": "press_photo",
+   "source_query": "Александр Стубб выступает после встречи по безопасности, ноябрь 2026",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 433.6,
+   "duration_sec": 10.8,
+   "visual_prompt": "Пустой стол французско-финской рабочей группы после совещания.",
+   "source": "web_search",
+   "source_query": "стол французско-финской рабочей группы после совещания, 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 444.4,
+   "duration_sec": 11.3,
+   "visual_prompt": "Французская атомная подводная лодка выходит из военно-морской базы.",
+   "source": "press_photo",
+   "source_query": "атомная подводная лодка Франции выходит из Бреста, 2026",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 455.7,
+   "duration_sec": 11.8,
+   "visual_prompt": "Краны и буксиры у причальной стенки базы Брест.",
+   "source": "web_search",
+   "source_query": "причальная стенка военно-морской базы Брест, краны и буксиры, 2026",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 467.5,
+   "duration_sec": 12.3,
+   "visual_prompt": "Стратегическая субмарина скрывается под поверхностью Атлантики.",
+   "source": "press_photo",
+   "source_query": "стратегическая субмарина Франции погружается в Атлантике",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 479.8,
+   "duration_sec": 10.8,
+   "visual_prompt": "Карточка с ключевой фразой о новой концепции.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 490.6,
+   "duration_sec": 11.3,
+   "visual_prompt": "Французский истребитель готовится к вылету на военном аэродроме.",
+   "source": "press_photo",
+   "source_query": "истребитель Рафаль Франции готовится к вылету, 2026",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 501.9,
+   "duration_sec": 11.8,
+   "visual_prompt": "Здание парламента Финляндии как новый политический участник инициативы.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-ПАРЛАМЕНТА-ФИНЛЯНДИИ",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 513.7,
+   "duration_sec": 12.3,
+   "visual_prompt": "Финский военный аэродром с защищёнными стоянками самолётов.",
+   "source": "web_search",
+   "source_query": "защищённые стоянки самолётов на военном аэродроме Финляндии, 2026",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 526.0,
+   "duration_sec": 10.8,
+   "visual_prompt": "Бетонные капониры тянутся вдоль рулёжной дорожки.",
+   "source": "press_photo",
+   "source_query": "бетонные укрытия-капониры вдоль рулёжной дорожки авиабазы Франции, 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 536.8,
+   "duration_sec": 11.3,
+   "visual_prompt": "Мобильный командный модуль развёрнут возле финской авиабазы.",
+   "source": "web_search",
+   "source_query": "мобильный командный модуль финских сил у авиабазы, 2026",
+   "overlays": []
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 548.1,
+   "duration_sec": 11.8,
+   "visual_prompt": "Бетонное крытое укрытие базы Иль-Лонг со стороны воды.",
+   "source": "press_photo",
+   "source_query": "крытое укрытие для подводных лодок на базе Иль-Лонг, 2026",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 559.9,
+   "duration_sec": 12.3,
+   "visual_prompt": "Французский боевой самолёт рулит по полосе северной авиабазы.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ИСТРЕБИТЕЛЬ-EUROFIGHTER-РУЛЁЖКЕ",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 572.2,
+   "duration_sec": 10.8,
+   "visual_prompt": "Радиолокационная станция контролирует воздушное пространство Финляндии.",
+   "source": "press_photo",
+   "source_query": "радиолокационная станция сил Финляндии на севере страны, 2026",
+   "overlays": []
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 583.0,
+   "duration_sec": 11.3,
+   "visual_prompt": "Офицеры изучают воздушную обстановку на экранах командного центра.",
+   "source": "web_search",
+   "source_query": "офицеры воздушного командования Финляндии у рабочих экранов, 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 594.3,
+   "duration_sec": 11.8,
+   "visual_prompt": "Военный аэродром, ангар и самолёты образуют единую инфраструктуру.",
+   "source": "press_photo",
+   "source_query": "ангары и самолёты на современной авиабазе Финляндии, 2026",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 606.1,
+   "duration_sec": 12.3,
+   "visual_prompt": "Стратегическая ракета проходит техническое обслуживание в защищённом помещении.",
+   "source": "web_search",
+   "source_query": "стратегическая ракета Франции на техническом обслуживании",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 618.4,
+   "duration_sec": 10.8,
+   "visual_prompt": "Российские стратегические носители на официальном военном параде.",
+   "source": "press_photo",
+   "source_query": "стратегические носители России на официальном параде, 2026",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 629.2,
+   "duration_sec": 11.3,
+   "visual_prompt": "Французская стратегическая авиация выстроена на удалённых стоянках.",
+   "source": "press_photo",
+   "source_query": "стратегическая авиация Франции на удалённых стоянках авиабазы",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 640.5,
+   "duration_sec": 11.8,
+   "visual_prompt": "Атомная субмарина Франции уходит от берега в открытое море.",
+   "source": "web_search",
+   "source_query": "атомная субмарина Франции уходит в открытое море",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 652.3,
+   "duration_sec": 12.3,
+   "visual_prompt": "Карточка с выводом об уязвимости меньшего арсенала.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 664.6,
+   "duration_sec": 10.8,
+   "visual_prompt": "Защищённый командный корпус и ангар на авиабазе.",
+   "source": "press_photo",
+   "source_query": "защищённый командный корпус на авиабазе Войска Польского, 2026",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 675.4,
+   "duration_sec": 11.3,
+   "visual_prompt": "Огни рулёжной дорожки авиабазы в ночной съёмке.",
+   "source": "web_search",
+   "source_query": "рулёжная дорожка и светосигнальное оборудование авиабазы Франции ночью, 2026",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 686.7,
+   "duration_sec": 11.8,
+   "visual_prompt": "Дежурный самолёт ускоряется по полосе военного аэродрома.",
+   "source": "press_photo",
+   "source_query": "дежурный истребитель ускоряется по полосе авиабазы Франции",
+   "overlays": []
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 698.5,
+   "duration_sec": 12.3,
+   "visual_prompt": "Офицеры стратегического командования обсуждают срочное решение.",
+   "source": "web_search",
+   "source_query": "офицеры стратегического командования Франции на срочном совещании",
+   "overlays": []
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 710.8,
+   "duration_sec": 10.8,
+   "visual_prompt": "Закрытые двери кабинета после совещания по стратегической политике.",
+   "source": "press_photo",
+   "source_query": "закрытые двери кабинета стратегического совета в Париже",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 721.6,
+   "duration_sec": 11.3,
+   "visual_prompt": "Александр Стубб произносит речь второго ноября.",
+   "source": "press_photo",
+   "source_query": "Александр Стубб речь второго ноября 2026 года",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 732.9,
+   "duration_sec": 11.8,
+   "visual_prompt": "Ряд флагов стран НАТО у кафедры перед выходом делегаций.",
+   "source": "press_photo",
+   "source_query": "флаги стран НАТО у кафедры в зале заседаний, 2026",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 744.7,
+   "duration_sec": 12.3,
+   "visual_prompt": "Пентагон с воздуха как центр американской военной системы.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 757.0,
+   "duration_sec": 10.8,
+   "visual_prompt": "Военно-транспортный C-17 стоит на перроне авиабазы Рамштайн.",
+   "source": "press_photo",
+   "source_query": "военно-транспортный самолёт C-17 ВВС США на авиабазе Рамштайн, 2026",
+   "overlays": []
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 767.8,
+   "duration_sec": 11.3,
+   "visual_prompt": "Здание парламента Финляндии на фоне усиленной охраны.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-ПАРЛАМЕНТА-ФИНЛЯНДИИ",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 779.1,
+   "duration_sec": 11.8,
+   "visual_prompt": "Британские военные грузовики стоят на территории польской части.",
+   "source": "web_search",
+   "source_query": "военные грузовики Великобритании на территории польской части, 2026",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 790.9,
+   "duration_sec": 12.3,
+   "visual_prompt": "Министры обороны подходят к общей встрече в Брюсселе.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ЕВРОПАРЛАМЕНТ",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 803.2,
+   "duration_sec": 10.8,
+   "visual_prompt": "Ночной патруль пограничной стражи Польши идёт вдоль заграждения.",
+   "source": "web_search",
+   "source_query": "ночной патруль пограничной стражи Польши с прибором ночного видения, 2026",
+   "overlays": []
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 814.0,
+   "duration_sec": 11.3,
+   "visual_prompt": "Колонна польской полиции выезжает на ночное дежурство.",
+   "source": "press_photo",
+   "source_query": "колонна полиции Польши выезжает на ночное дежурство, 2026",
+   "overlays": []
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 825.3,
+   "duration_sec": 11.8,
+   "visual_prompt": "Кинолента показывает спокойное депо и ночной выезд машин.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 837.1,
+   "duration_sec": 12.3,
+   "visual_prompt": "Новый складской ангар соединён с широкой подъездной дорогой.",
+   "source": "press_photo",
+   "source_query": "новый складской ангар военной базы в Польше у широкой подъездной дороги, 2026",
+   "overlays": []
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 849.4,
+   "duration_sec": 10.8,
+   "visual_prompt": "Штаб НАТО в Брюсселе перед рабочей встречей командования.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 860.2,
+   "duration_sec": 11.3,
+   "visual_prompt": "Пустой учебный класс с разложенными на столах материалами.",
+   "source": "web_search",
+   "source_query": "пустой учебный класс военной академии Войска Польского, 2026",
+   "overlays": []
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 871.5,
+   "duration_sec": 11.8,
+   "visual_prompt": "Польские офицеры сверяют план операции за рабочим столом.",
+   "source": "press_photo",
+   "source_query": "польские офицеры сверяют план пограничной операции, 2026",
+   "overlays": []
+  },
+  {
+   "id": 78,
+   "text": "",
+   "start_sec": 883.3,
+   "duration_sec": 12.3,
+   "visual_prompt": "Европейская делегация входит в штаб для согласования общих планов.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ГОСДЕП-США",
+   "overlays": []
+  },
+  {
+   "id": 79,
+   "text": "",
+   "start_sec": 895.6,
+   "duration_sec": 10.8,
+   "visual_prompt": "Оперативный центр коалиции координирует движение транспорта.",
+   "source": "press_photo",
+   "source_query": "оперативный центр коалиции координирует военный транспорт, 2026",
+   "overlays": []
+  },
+  {
+   "id": 80,
+   "text": "",
+   "start_sec": 906.4,
+   "duration_sec": 11.3,
+   "visual_prompt": "Бетонное укрытие стоит у подъездного пути базы.",
+   "source": "web_search",
+   "source_query": "бетонное укрытие для техники на военной базе в Польше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 81,
+   "text": "",
+   "start_sec": 917.7,
+   "duration_sec": 11.8,
+   "visual_prompt": "Ангары и мачты связи постоянной военной базы.",
+   "source": "press_photo",
+   "source_query": "ангары и мачты связи военной базы бундесвера, 2026",
+   "overlays": []
+  },
+  {
+   "id": 82,
+   "text": "",
+   "start_sec": 929.5,
+   "duration_sec": 12.3,
+   "visual_prompt": "Французская бронемашина движется на многонациональных манёврах.",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА",
+   "overlays": []
+  },
+  {
+   "id": 83,
+   "text": "",
+   "start_sec": 941.8,
+   "duration_sec": 10.8,
+   "visual_prompt": "Сотрудники европейского командования работают за мониторами.",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ЛЮДИ-ОФИСЕ-МОНИТОРАМИ",
+   "overlays": []
+  },
+  {
+   "id": 84,
+   "text": "",
+   "start_sec": 952.6,
+   "duration_sec": 11.3,
+   "visual_prompt": "Пограничный переход Безледы: шлагбаумы и полосы досмотра.",
+   "source": "web_search",
+   "source_query": "пограничный переход Безледы между Польшей и Калининградской областью, 2026",
+   "overlays": []
+  },
+  {
+   "id": 85,
+   "text": "",
+   "start_sec": 963.9,
+   "duration_sec": 11.8,
+   "visual_prompt": "Польская бронетехника занимает позиции на северо-востоке страны.",
+   "source": "press_photo",
+   "source_query": "бронетехника Войска Польского на северо-востоке страны, 2026",
+   "overlays": []
+  },
+  {
+   "id": 86,
+   "text": "",
+   "start_sec": 975.7,
+   "duration_sec": 12.3,
+   "visual_prompt": "Финская авиабаза с самолётами и защищёнными сооружениями.",
+   "source": "press_photo",
+   "source_query": "финская авиабаза с самолётами и защитными сооружениями, 2026",
+   "overlays": []
+  },
+  {
+   "id": 87,
+   "text": "",
+   "start_sec": 988.0,
+   "duration_sec": 10.8,
+   "visual_prompt": "Будка и шлагбаум пограничного поста Гроново.",
+   "source": "web_search",
+   "source_query": "будка и шлагбаум поста пограничной стражи Польши в Гроново, 2026",
+   "overlays": []
+  },
+  {
+   "id": 88,
+   "text": "",
+   "start_sec": 998.8,
+   "duration_sec": 11.3,
+   "visual_prompt": "Карточка с выводом о каждом новом круге противостояния.",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 89,
+   "text": "",
+   "start_sec": 1010.1,
+   "duration_sec": 11.8,
+   "visual_prompt": "Ракетные транспортёры находятся в укреплённом ангаре европейской базы.",
+   "source": "web_search",
+   "source_query": "ракетные транспортёры в укреплённом ангаре современной базы",
+   "overlays": []
+  },
+  {
+   "id": 90,
+   "text": "",
+   "start_sec": 1021.9,
+   "duration_sec": 12.3,
+   "visual_prompt": "Штабные офицеры работают над маршрутами и сроками операции.",
+   "source": "press_photo",
+   "source_query": "штабные офицеры коалиции рассчитывают маршруты операции, 2026",
+   "overlays": []
+  },
+  {
+   "id": 91,
+   "text": "",
+   "start_sec": 1034.2,
+   "duration_sec": 10.8,
+   "visual_prompt": "Офицер отмечает движение машин на рабочей схеме за столом.",
+   "source": "web_search",
+   "source_query": "офицер отмечает движение колонн на рабочей схеме, 2026",
+   "overlays": []
+  },
+  {
+   "id": 92,
+   "text": "",
+   "start_sec": 1045.0,
+   "duration_sec": 11.3,
+   "visual_prompt": "Дежурный F-16 ВВС Польши отрывается от полосы.",
+   "source": "press_photo",
+   "source_query": "дежурный истребитель F-16 ВВС Польши взлетает с авиабазы, 2026",
+   "overlays": []
+  },
+  {
+   "id": 93,
+   "text": "",
+   "start_sec": 1056.3,
+   "duration_sec": 11.8,
+   "visual_prompt": "Ряды подписанных папок в металлическом шкафу штаба.",
+   "source": "web_search",
+   "source_query": "ряды папок в металлическом шкафу штабного помещения, 2026",
+   "overlays": []
+  },
+  {
+   "id": 94,
+   "text": "",
+   "start_sec": 1068.1,
+   "duration_sec": 12.3,
+   "visual_prompt": "Межведомственный штаб Польши работает во время реального вызова.",
+   "source": "press_photo",
+   "source_query": "межведомственный штаб Польши во время оперативного вызова, 2026",
+   "overlays": []
+  },
+  {
+   "id": 95,
+   "text": "",
+   "start_sec": 1080.4,
+   "duration_sec": 10.8,
+   "visual_prompt": "Подготовленные польские силовики ожидают команду возле машин.",
+   "source": "press_photo",
+   "source_query": "силовики Польши ожидают команду возле служебных машин, 2026",
+   "overlays": []
+  },
+  {
+   "id": 96,
+   "text": "",
+   "start_sec": 1091.2,
+   "duration_sec": 11.3,
+   "visual_prompt": "Дежурный офицер работает у пульта связи.",
+   "source": "web_search",
+   "source_query": "дежурный офицер у пульта связи в зале оперативного управления, 2026",
+   "overlays": []
+  },
+  {
+   "id": 97,
+   "text": "",
+   "start_sec": 1102.5,
+   "duration_sec": 11.8,
+   "visual_prompt": "Польские и союзные машины стоят в готовности на рассвете.",
+   "source": "press_photo",
+   "source_query": "польские и союзные машины в готовности на рассвете, 2026",
+   "overlays": []
+  },
+  {
+   "id": 98,
+   "text": "",
+   "start_sec": 1114.3,
+   "duration_sec": 12.3,
+   "visual_prompt": "Колонна армейских грузовиков идёт по шоссе.",
+   "source": "web_search",
+   "source_query": "колонна армейских грузовиков идёт по шоссе мимо дорожного указателя, 2026",
+   "overlays": []
+  },
+  {
+   "id": 99,
+   "text": "",
+   "start_sec": 1126.6,
+   "duration_sec": 9.8,
+   "visual_prompt": "Крытые ангары парка техники на постоянной базе.",
+   "source": "press_photo",
+   "source_query": "крытые ангары парка техники на военной базе Польши, 2026",
+   "overlays": []
+  },
+  {
+   "id": 100,
+   "text": "",
+   "start_sec": 1136.4,
+   "duration_sec": 10.2,
+   "visual_prompt": "Закрывающийся шлагбаум оставляет военную колонну внутри базы.",
+   "source": "web_search",
+   "source_query": "шлагбаум закрывается после въезда военной колонны на базу",
+   "overlays": []
+  },
+  {
+   "id": 101,
+   "text": "",
+   "start_sec": 1146.6,
+   "duration_sec": 10.7,
+   "visual_prompt": "Финальная карточка с последней фразой ролика.",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  }
+ ]
+}
