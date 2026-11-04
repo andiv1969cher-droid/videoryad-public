@@ -1,0 +1,18 @@
+[
+ {
+  "scene": 14,
+  "view": "charts.cartogram",
+  "dur": 13.3,
+  "anim": 13.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Польша",
+    "Украина"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
