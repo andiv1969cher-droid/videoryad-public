@@ -1,0 +1,605 @@
+{
+ "anchor": "top",
+ "2": {
+  "photo": "overlays/scene_002.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "8": {
+  "photo": "overlays/scene_008.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "18": {
+  "photo": "overlays/scene_018.jpg",
+  "sound": "ding",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false
+ },
+ "22": {
+  "photo": "overlays/scene_022.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "26": {
+  "photo": "overlays/scene_026.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "32": {
+  "photo": "overlays/scene_032.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false
+ },
+ "38": {
+  "photo": "overlays/scene_038.jpg",
+  "sound": "ding",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "44": {
+  "photo": "overlays/scene_044.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "top"
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "64": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ХЕЛЬСИНКИ ЗАВОЗИТЬ ФРАНЦУЗСКИЕ БОЕЗАРЯДЫ В МИРНОЕ ВРЕМЯ НЕ ПЛАНИРУЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "72": {
+  "photo": "overlays/scene_072.jpg",
+  "sound": "ding",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "79": {
+  "photo": "overlays/scene_079.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false
+ },
+ "85": {
+  "photo": "overlays/scene_085.jpg",
+  "sound": "zatvor",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "top"
+ },
+ "90": {
+  "photo": "overlays/scene_090.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false
+ },
+ "95": {
+  "photo": "overlays/scene_095.jpg",
+  "sound": "ding",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "97": {
+  "photo": "overlays/scene_097.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "approved": false,
+  "anchor": "bottom"
+ },
+ "3": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПОЛЬША ПЕРЕСТРАИВАЕТ ЧЕТВЁРТУЮ БРИГАДУ В БРИГАДУ ОБОРОНЫ ПОГРАНИЧЬЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "5": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "БАТАЛЬОНЫ В ГИЖИЦКО И БРАНЕВЕ УЖЕ ПЕРЕВЕДЕНЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "10": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОПЕРАЦИЮ ВЕДЁТ ГЛАВНАЯ КОМЕНДАТУРА ПОЛИЦИИ ПОЛЬШИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "16": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПОВОД — ПРЕДУПРЕЖДЕНИЕ ВОЕННОЙ РАЗВЕДКИ ОТ ДВАДЦАТЬ ДЕВЯТОГО ОКТЯБРЯ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "20": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "К ГРАНИЦЕ ВЫДВИНУТ ЦЕНТР СПЕЦНАЗНАЧЕНИЯ «ГРОМ»",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "24": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "УЧЕНИЯ «KOALICJA»: ДЕВЯТОЕ — ДВАДЦАТЬ ВТОРОЕ НОЯБРЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "29": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПОЛИГОН НОВА-ДЕМБА, ЮГО-ВОСТОК ПОЛЬШИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "36": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТРИДЦАТЬ ШЕСТЬ СТРАН, ВО ГЛАВЕ ФРАНЦИЯ И ВЕЛИКОБРИТАНИЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "40": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОКОЛО ДВУХ ТЫСЯЧ ВОСЬМИСОТ ВОЕННЫХ ИЗ ДЕСЯТИ СТРАН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "46": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "США В УЧЕНИЯХ НЕ УЧАСТВУЮТ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "48": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "НАТО ПРОИНФОРМИРОВАНО, НО КОНСТРУКЦИЯ СОЗДАНА ВНЕ НАТО",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "50": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПРОВЕРЯЮТ КОМАНДОВАНИЕ, ЛОГИСТИКУ И БОРЬБУ С БЕСПИЛОТНИКАМИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "54": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ФИНЛЯНДИЯ ВОШЛА В ИНИЦИАТИВУ ЧЕТЫРНАДЦАТОГО СЕНТЯБРЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "56": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПЕРВОЕ ЗАСЕДАНИЕ ЯДЕРНОЙ ГРУППЫ — ДВАДЦАТЬ СЕДЬМОЕ ОКТЯБРЯ, ПАРИЖ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "60": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "КОНТРОЛЬ НАД АРСЕНАЛОМ ОСТАЁТСЯ ТОЛЬКО У ПАРИЖА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "62": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ГРАНИЦА ФИНЛЯНДИИ С РОССИЕЙ — ТЫСЯЧА ТРИСТА СОРОК КИЛОМЕТРОВ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "66": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "РАЗМЕЩЕНИЕ ФРАНЦУЗСКИХ БОЕЗАРЯДОВ В ФИНЛЯНДИИ НЕ ПОДТВЕРЖДЕНО",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "68": {
+  "photo": "overlays/scene_068.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "shape": "rect",
+  "style": "left",
+  "size": "m",
+  "scale": 1.0,
+  "anchor": "bottom",
+  "approved": false
+ },
+ "70": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "СТУББ: ПОЛНЫЙ ФОРМАТ ВЗАИМОДЕЙСТВИЯ ПОКА НЕ ОПРЕДЕЛЁН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "75": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ВСТРЕЧА КОАЛИЦИИ В БЕРЛИНЕ — В НОЯБРЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "77": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ОПЕРАЦИЯ ИДЁТ В ВАРМИНЬСКО-МАЗУРСКОМ И ПОДЛЯСКОМ ВОЕВОДСТВАХ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "81": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ШТАБЫ ОПЕРАЦИИ — ОЛЬШТЫН И БЕЛОСТОК",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "84": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПЕРЕХОД БЕЗЛЕДЫ — БАГРАТИОНОВСК",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "87": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ПЕРЕХОД ГРОНОВО — МАМОНОВО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "92": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ИНЖЕНЕРНЫЕ ЗАГРАЖДЕНИЯ — ПРОГРАММА «ВОСТОЧНЫЙ ЩИТ»",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "94": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "ТУСК РОССИЮ ПРЯМО НЕ ОБВИНИЛ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "96": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "МАНЁВРЫ В ЛАТВИИ: БОЛЕЕ ТРЁХ ТЫСЯЧ ВОЕННЫХ",
+   "color": "white",
+   "pos": "bc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ },
+ "99": {
+  "at": 2.6,
+  "scale": 1.0,
+  "anchor": "top",
+  "text": {
+   "words": "«РАМШТАЙН» В БРЮССЕЛЕ — СЕМНАДЦАТОГО НОЯБРЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0,
+   "approved": false
+  }
+ }
+}
