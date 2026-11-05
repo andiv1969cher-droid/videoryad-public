@@ -1,0 +1,318 @@
+{
+ "anchor": "top",
+ "2": {
+  "sound": "whoosh",
+  "at": 1.6,
+  "text": {
+   "words": "СПОР: ПОЛТОРА СУТОК ИЛИ ПЯТЬ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tl"
+  }
+ },
+ "4": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "В КИЕВЕ РАЗВЕРНУЛИ ПУНКТЫ ОБОГРЕВА",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "5": {
+  "sound": "whoosh",
+  "at": 2.2,
+  "text": {
+   "words": "В РАЙОНАХ СВЕТА НЕТ ЧЕТЫРЕ-ПЯТЬ СУТОК",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "6": {
+  "sound": "pop",
+  "at": 1.7,
+  "text": {
+   "words": "ЛЮДИ ВЫШЛИ ПЕРЕКРЫВАТЬ ДОРОГИ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "7": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "СВЕТ ДАЮТ НА ПЯТНАДЦАТЬ МИНУТ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tl"
+  }
+ },
+ "8": {
+  "sound": "whoosh",
+  "at": 2.4,
+  "text": {
+   "words": "И ЭТО ДО НАСТОЯЩИХ МОРОЗОВ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "10": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "ГЕНЕРАЦИЯ КИЕВСКИХ ТЭЦ УНИЧТОЖЕНА",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "11": {
+  "sound": "whoosh",
+  "at": 2.1,
+  "text": {
+   "words": "ВОССТАНОВИТЬ МОЖНО ДЕСЯТЬ-ПЯТНАДЦАТЬ ПРОЦЕНТОВ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tr"
+  }
+ },
+ "12": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "ПРИ МИНУС ПЯТИ — ТРИ-ПЯТЬ СУТОК БЕЗ СВЕТА",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "13": {
+  "sound": "pop",
+  "at": 1.9,
+  "text": {
+   "words": "ЭЛЕКТРИЧЕСТВО — НА ПОЛЧАСА, НА ЧАС",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tr"
+  }
+ },
+ "15": {
+  "sound": "whoosh",
+  "at": 2.3,
+  "text": {
+   "words": "МОЩНОСТЬ ТЕПЕРЬ ТЯНУТ В СТОЛИЦУ ИЗВНЕ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tl"
+  }
+ },
+ "16": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "ПОЧИНИЛИ — ЗАПУСТИЛИ — НОВЫЙ УДАР",
+   "style": "plate",
+   "color": "red",
+   "pos": "tr"
+  }
+ },
+ "17": {
+  "sound": "pop",
+  "at": 2.2,
+  "text": {
+   "words": "КОНОТОП БЫЛ ПРЕДУПРЕЖДЕНИЕМ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tl"
+  }
+ },
+ "19": {
+  "sound": "whoosh",
+  "at": 2.5,
+  "text": {
+   "words": "ВОССТАНАВЛИВАЮТ ЖИВЫЕ ЛЮДИ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "20": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "РАЗВЕДКА: БОЛЕЕ ДВУХСОТ РАКЕТ В МЕСЯЦ",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "21": {
+  "sound": "pop",
+  "at": 2.2,
+  "text": {
+   "words": "«ИСКАНДЕРЫ» — ДЕСЯТКАМИ ЕЖЕМЕСЯЧНО",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tr"
+  }
+ },
+ "22": {
+  "sound": "whoosh",
+  "at": 2.0,
+  "text": {
+   "words": "Х-101 — БОЛЕЕ ВОСЬМИДЕСЯТИ В МЕСЯЦ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tl"
+  }
+ },
+ "23": {
+  "sound": "pop",
+  "at": 2.3,
+  "text": {
+   "words": "«КАЛИБРОВ» — ЕЩЁ ОКОЛО ТРИДЦАТИ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tr"
+  }
+ },
+ "24": {
+  "sound": "pop",
+  "at": 2.1,
+  "text": {
+   "words": "В АРСЕНАЛЕ ОКОЛО СЕМИСОТ БАЛЛИСТИЧЕСКИХ",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "27": {
+  "sound": "whoosh",
+  "at": 2.4,
+  "text": {
+   "words": "ЭНЕРГОСИСТЕМУ ПЕРЕСТРАИВАЛИ МНОГО РАЗ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "29": {
+  "sound": "pop",
+  "at": 1.8,
+  "text": {
+   "words": "НАБУ ЗАДЕРЖАЛО ТОП-СИЛОВИКА",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "32": {
+  "sound": "pop",
+  "at": 2.0,
+  "text": {
+   "words": "ПЯТЬДЕСЯТ ДВЕ ТОЧКИ, ТРИ ТЫСЯЧИ СОТРУДНИКОВ",
+   "style": "plate",
+   "color": "red",
+   "pos": "tl"
+  }
+ },
+ "33": {
+  "sound": "pop",
+  "at": 2.1,
+  "text": {
+   "words": "СЕМЬ ТЫСЯЧ ДОЛЛАРОВ В МЕСЯЦ ЗА ТОЧКУ",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tr"
+  }
+ },
+ "34": {
+  "sound": "whoosh",
+  "at": 1.9,
+  "text": {
+   "words": "ОПЕРАЦИЯ НАЗЫВАЕТСЯ «КАРФАГЕН»",
+   "style": "plate",
+   "color": "white",
+   "pos": "tl"
+  }
+ },
+ "35": {
+  "sound": "pop",
+  "at": 2.2,
+  "text": {
+   "words": "В ТОТ ЖЕ ДЕНЬ ЗАДЕРЖАН ГЕНЕРАЛ-МАЙОР СБУ",
+   "style": "plate",
+   "color": "red",
+   "pos": "tr"
+  }
+ },
+ "36": {
+  "sound": "pop",
+  "at": 2.4,
+  "text": {
+   "words": "НАРКОТИКИ, ФАЛЬШИВЫЕ ЕВРО, СЛИВ БАЗ МВД",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tl"
+  }
+ },
+ "39": {
+  "sound": "whoosh",
+  "at": 2.0,
+  "text": {
+   "words": "ИРАНСКИЙ ТЕЛЕКАНАЛ IRINN",
+   "style": "plate",
+   "color": "white",
+   "pos": "tl"
+  },
+  "photo": "overlays/scene_039.jpg",
+  "shape": "rect",
+  "style": "right",
+  "size": "m",
+  "scale": 1.0
+ },
+ "41": {
+  "sound": "pop",
+  "at": 2.3,
+  "text": {
+   "words": "ОТВЕТ ВЫХОДИТ ЗА ПЕРСИДСКИЙ ЗАЛИВ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tr"
+  }
+ },
+ "43": {
+  "sound": "whoosh",
+  "at": 2.1,
+  "text": {
+   "words": "ПОСЛЕ ПРОШЛЫХ УДАРОВ СИСТЕМА УСТОЯЛА",
+   "style": "plate",
+   "color": "yellow",
+   "pos": "tl"
+  }
+ },
+ "48": {
+  "sound": "pop",
+  "at": 2.2,
+  "text": {
+   "words": "УКРАИНА ВНУТРИ ЧУЖОГО КОНФЛИКТА",
+   "style": "plate",
+   "color": "red",
+   "pos": "tr"
+  }
+ },
+ "50": {
+  "sound": "whoosh",
+  "at": 2.5,
+  "text": {
+   "words": "У КАЖДОГО КОНТУРА ЕСТЬ СВОЙ ПРЕДЕЛ",
+   "style": "plate",
+   "color": "white",
+   "pos": "tl"
+  }
+ }
+}
