@@ -1,0 +1,101 @@
+{
+ "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+ "scenes": [
+  {
+   "id": 3,
+   "text": "",
+   "duration_sec": 9.7,
+   "source": "press_photo",
+   "source_query": "урна для голосования с бюллетенем крупным планом, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "duration_sec": 5.6,
+   "source": "press_photo",
+   "source_query": "Алиса Вайдель за кафедрой, портрет по пояс, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 6.5,
+   "source": "press_photo",
+   "source_query": "флаг Евросоюза крупным планом на флагштоке, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "duration_sec": 15.7,
+   "source": "press_photo",
+   "source_query": "молоток председателя на столе заседаний крупным планом, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "duration_sec": 14.4,
+   "source": "press_photo",
+   "source_query": "смартфон с новостной лентой в руке крупным планом, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "duration_sec": 13.8,
+   "source": "press_photo",
+   "source_query": "портрет Дональда Трампа крупным планом, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "duration_sec": 9.3,
+   "source": "press_photo",
+   "source_query": "фасад здания испанского парламента Кортесов в Мадриде, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "duration_sec": 15.0,
+   "source": "press_photo",
+   "source_query": "флаг Франции на ветру крупным планом, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "duration_sec": 11.3,
+   "source": "press_photo",
+   "source_query": "разбитая витрина магазина на городской улице, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "duration_sec": 8.3,
+   "source": "press_photo",
+   "source_query": "немецкий триколор на флагштоке у правительственного здания, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "duration_sec": 8.2,
+   "source": "press_photo",
+   "source_query": "Дональд Туск у микрофонов на пресс-подходе, реальное фото",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "duration_sec": 13.5,
+   "source": "press_photo",
+   "source_query": "Марин Ле Пен крупным планом во время выступления, реальное фото",
+   "overlays": []
+  }
+ ]
+}
