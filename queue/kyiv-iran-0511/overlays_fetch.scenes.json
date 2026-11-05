@@ -1,0 +1,52 @@
+{
+ "scenes": [
+  {
+   "id": 39,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "студия иранского телеканала IRINN, сюжет о возможных ударах",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/En7PaoaDkSa065-wihDeRO06eQzPZlzAL1JKY3N88W7JFIW_KyHRH6q0BeRWDlHmt6GX3bxMtrgO7IjnT90Ydppp1nHSDfmozyDFYZ_TNJtiSqOz8x4vql727VlJNYC880T8noyxCzNGxCqLKUv5dCkNWEOU8gNY440qNXabMFvf1Hrey_mFk3Zh3ASumHkpuK88xRbMZE2j4z2DVD0sTrWdoitxwh-nFJZmQpVm27Ben3x0ecvNe473B--CEaqHW4MrkwMRdyecUbIFR4IF3jOuAgVuveK_-iDG33f9kF-E-XvsFTHuEFCVnuxOLyJzvvWzEOIzDxY_BjT8bCGwcg.jpg"
+  },
+  {
+   "id": 5,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "тёмный холл с лифтом в жилом доме",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЛИФТ-ЖИЛОМ-ДОМЕ/08_2000x1500.jpg"
+  },
+  {
+   "id": 13,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "домашние запасы на полках",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/КЛАДОВАЯ-КВАРТИРЕ-ПОЛКИ/04_2000x1333.jpg"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "аллея с иранскими флагами у атомного объекта",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ИРАН-ЯДЕРНАЯ-ДОКТРИНА-3110_АТОМНЫЙ-ОБЪЕКТ-НАТАНЗЕ/05_3000x2381.jpg"
+  },
+  {
+   "id": 48,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "фасад здания Верховной Рады в Киеве",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ/01_1920x1080.jpg"
+  },
+  {
+   "id": 50,
+   "text": "",
+   "duration_sec": 6.0,
+   "visual_prompt": "ночной город с линиями электропередачи",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ/15_2560x1440.jpg"
+  }
+ ]
+}
