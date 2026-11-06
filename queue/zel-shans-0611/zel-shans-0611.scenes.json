@@ -1,0 +1,1077 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "text": "",
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "visual_prompt": "Депутаты Украины в полукруге Верховной Рады",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ЗАЛ-ЗАСЕДАНИЙ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "text": "",
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "visual_prompt": "Киноплёнка с противоречивыми заявлениями о выборах",
+   "source": "card:film",
+   "source_query": "Выборы провести можно; выборы провести нельзя; шанс уже упущен",
+   "overlays": []
+  },
+  {
+   "id": 3,
+   "text": "",
+   "start_sec": 20.0,
+   "duration_sec": 13.7328,
+   "visual_prompt": "Владимир Зеленский сидит в кресле телестудии во время интервью, 2026",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский сидит в кресле телестудии во время интервью, 2026",
+   "overlays": []
+  },
+  {
+   "id": 4,
+   "text": "",
+   "start_sec": 33.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Телевизионные операторы готовят камеры к интервью",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "text": "",
+   "start_sec": 43.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Съёмочная камера и свет в телевизионной студии ZDF, Германия, 2026",
+   "source": "press_photo",
+   "source_query": "Съёмочная камера и свет в телевизионной студии ZDF, Германия, 2026",
+   "overlays": []
+  },
+  {
+   "id": 6,
+   "text": "",
+   "start_sec": 53.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Купол и фасад Капитолия в Вашингтоне",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/КАПИТОЛИЙ-ВАШИНГТОНЕ-ДНЁМ",
+   "overlays": []
+  },
+  {
+   "id": 7,
+   "text": "",
+   "start_sec": 63.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Американское подразделение выгружает технику из транспортного самолёта",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "text": "",
+   "start_sec": 73.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Дональд Трамп резко в фокусе, Белый дом размыт на заднем плане",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "dof",
+    "код": "A64",
+    "title": "Договариваться надо сегодня",
+    "watermark": "5 МИНУТ",
+    "anim": 10.0
+   }
+  },
+  {
+   "id": 9,
+   "text": "",
+   "start_sec": 83.7328,
+   "duration_sec": 10.0,
+   "visual_prompt": "Белый дом со стороны Южного газона",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО",
+   "overlays": []
+  },
+  {
+   "id": 10,
+   "text": "",
+   "start_sec": 93.7328,
+   "duration_sec": 13.7328,
+   "visual_prompt": "Илон Маск в тёмной футболке на пресс-подходе, США, 2026",
+   "source": "press_photo",
+   "source_query": "Илон Маск в тёмной футболке на пресс-подходе, США, 2026",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "text": "",
+   "start_sec": 107.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Сотрудники американского ведомства работают за мониторами",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ЛЮДИ-ОФИСЕ-МОНИТОРАМИ",
+   "overlays": []
+  },
+  {
+   "id": 12,
+   "text": "",
+   "start_sec": 117.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Пентагон с воздуха как центр американских военных решений",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "overlays": []
+  },
+  {
+   "id": 13,
+   "text": "",
+   "start_sec": 127.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Фасад Офиса президента Украины на Банковой",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "overlays": [],
+   "fx": "subscribe2"
+  },
+  {
+   "id": 14,
+   "text": "",
+   "start_sec": 137.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Хронология от зимнего прекращения огня к свету, воде и выборам",
+   "source": "press_photo",
+   "source_query": "Жилой квартал Киева с работающими окнами вечером, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 15,
+   "text": "",
+   "start_sec": 147.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Зеленский в кресле студии ZDF произносит фразу о потерянном шансе",
+   "source": "press_photo",
+   "source_query": "Фраза Владимира Зеленского про шанс заменить его, интервью ZDF, 2026",
+   "overlays": []
+  },
+  {
+   "id": 16,
+   "text": "",
+   "start_sec": 157.4656,
+   "duration_sec": 10.0,
+   "visual_prompt": "Фасад Верховной Рады в Киеве",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "text": "",
+   "start_sec": 167.4656,
+   "duration_sec": 13.7328,
+   "visual_prompt": "Здание Центральной избирательной комиссии Украины в Киеве, горизонтальный кадр, 2026",
+   "source": "press_photo",
+   "source_query": "Здание Центральной избирательной комиссии Украины в Киеве, горизонтальный кадр, 2026",
+   "overlays": []
+  },
+  {
+   "id": 18,
+   "text": "",
+   "start_sec": 181.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Кабинки для голосования с украинской символикой на избирательном участке, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Кабинки для голосования с украинской символикой на избирательном участке, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 19,
+   "text": "",
+   "start_sec": 191.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Здание Кабинета министров Украины на Грушевского",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 20,
+   "text": "",
+   "start_sec": 201.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Спокойная цитата о невозможности голосования для военнослужащих",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 21,
+   "text": "",
+   "start_sec": 211.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Пустая кафедра брифинг-комнаты Белого дома",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА",
+   "overlays": []
+  },
+  {
+   "id": 22,
+   "text": "",
+   "start_sec": 221.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Стеклянный купол Бундестага как символ законодательного решения",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/БУНДЕСТАГ-БЕРЛИНЕ-СТЕКЛЯННЫЙ",
+   "overlays": []
+  },
+  {
+   "id": 23,
+   "text": "",
+   "start_sec": 231.1984,
+   "duration_sec": 10.0,
+   "visual_prompt": "Здание Еврокомиссии в Брюсселе как образ институционального решения",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 24,
+   "text": "",
+   "start_sec": 241.1984,
+   "duration_sec": 13.7328,
+   "visual_prompt": "Зал заседаний Верховной Рады Украины с депутатами на местах, Киев, 2026",
+   "source": "press_photo",
+   "source_query": "Зал заседаний Верховной Рады Украины с депутатами на местах, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 25,
+   "text": "",
+   "start_sec": 254.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Пустые кабины для голосования в помещении Киева",
+   "source": "web_search",
+   "source_query": "Киев, помещение Центральной избирательной комиссии Украины без посетителей, 2026",
+   "overlays": []
+  },
+  {
+   "id": 26,
+   "text": "",
+   "start_sec": 264.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Архивный кадр избрания Зеленского в рамке киноплёнки",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 27,
+   "text": "",
+   "start_sec": 274.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Колоннада Национального банка Украины как государственный институт",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/НАЦИОНАЛЬНЫЙ-БАНК-УКРАИНЫ",
+   "overlays": []
+  },
+  {
+   "id": 28,
+   "text": "",
+   "start_sec": 284.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Марко Рубио у микрофонов на фоне американских флагов, Вашингтон, 2026",
+   "source": "press_photo",
+   "source_query": "Марко Рубио у микрофонов на фоне американских флагов, Вашингтон, 2026",
+   "overlays": []
+  },
+  {
+   "id": 29,
+   "text": "",
+   "start_sec": 294.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Зеленский в кресле студии ZDF говорит о концентрации власти",
+   "source": "press_photo",
+   "source_query": "Заявление Владимира Зеленского о концентрации власти, интервью ZDF, 2026",
+   "overlays": []
+  },
+  {
+   "id": 30,
+   "text": "",
+   "start_sec": 304.9312,
+   "duration_sec": 10.0,
+   "visual_prompt": "Журналисты с микрофонами на пресс-подходе в Киеве, 2026",
+   "source": "press_photo",
+   "source_query": "Журналисты с микрофонами на пресс-подходе в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 31,
+   "text": "",
+   "start_sec": 314.9312,
+   "duration_sec": 13.7328,
+   "visual_prompt": "Илон Маск отвечает журналистам на технологическом мероприятии",
+   "source": "direct_url",
+   "source_query": "https://t.me/OstashkoNews/228186",
+   "overlays": [],
+   "local_ready": true
+  },
+  {
+   "id": 32,
+   "text": "",
+   "start_sec": 328.664,
+   "duration_sec": 10.0,
+   "visual_prompt": "Пресс-зал Еврокомиссии в Брюсселе, кафедра с эмблемой Евросоюза, 2026",
+   "source": "press_photo",
+   "source_query": "Пресс-зал Еврокомиссии в Брюсселе, кафедра с эмблемой Евросоюза, 2026",
+   "overlays": []
+  },
+  {
+   "id": 33,
+   "text": "",
+   "start_sec": 338.664,
+   "duration_sec": 10.0,
+   "visual_prompt": "Полукруг Европарламента с депутатами",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ",
+   "overlays": []
+  },
+  {
+   "id": 34,
+   "text": "",
+   "start_sec": 348.664,
+   "duration_sec": 10.0,
+   "visual_prompt": "Штаб НАТО в Брюсселе перед переходом к теме большой сделки",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ",
+   "overlays": []
+  },
+  {
+   "id": 35,
+   "text": "",
+   "start_sec": 358.664,
+   "duration_sec": 11.76,
+   "visual_prompt": "Кирилл Дмитриев на переговорах с американской делегацией, 2026",
+   "source": "press_photo",
+   "source_query": "Кирилл Дмитриев на переговорах с американской делегацией, 2026",
+   "fx": "flash",
+   "overlays": []
+  },
+  {
+   "id": 36,
+   "text": "",
+   "start_sec": 370.424,
+   "duration_sec": 11.28,
+   "visual_prompt": "Украинская делегация у микрофонов на пресс-конференции, Киев, 2026",
+   "source": "press_photo",
+   "source_query": "Украинская делегация у микрофонов на пресс-конференции, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 37,
+   "text": "",
+   "start_sec": 381.704,
+   "duration_sec": 10.8,
+   "visual_prompt": "Энергетический узел российской сети возле города",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ",
+   "overlays": []
+  },
+  {
+   "id": 38,
+   "text": "",
+   "start_sec": 392.504,
+   "duration_sec": 12.56,
+   "visual_prompt": "Нефтеперерабатывающий завод в Рязани, трубопроводы и установки, наземный кадр, 2026",
+   "source": "press_photo",
+   "source_query": "Нефтеперерабатывающий завод в Рязани, трубопроводы и установки, наземный кадр, 2026",
+   "overlays": []
+  },
+  {
+   "id": 39,
+   "text": "",
+   "start_sec": 405.064,
+   "duration_sec": 12.64,
+   "visual_prompt": "Повреждённый жилой дом в Краматорске после удара, кадр без надписей, 2026",
+   "source": "press_photo",
+   "source_query": "Повреждённый жилой дом в Краматорске после удара, кадр без надписей, 2026",
+   "overlays": []
+  },
+  {
+   "id": 40,
+   "text": "",
+   "start_sec": 417.704,
+   "duration_sec": 10.602,
+   "visual_prompt": "Бронемашина ВСУ на дороге Донецкой области, 2026",
+   "source": "press_photo",
+   "source_query": "Бронемашина ВСУ на дороге Донецкой области, 2026",
+   "overlays": []
+  },
+  {
+   "id": 41,
+   "text": "",
+   "start_sec": 428.306,
+   "duration_sec": 13.04,
+   "visual_prompt": "Карта Европы с подсвеченными Прибалтикой и Скандинавией",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 42,
+   "text": "",
+   "start_sec": 441.346,
+   "duration_sec": 12.0,
+   "visual_prompt": "Бронетехника НАТО на учениях в Европе, колонна на марше, 2026",
+   "source": "press_photo",
+   "source_query": "Бронетехника НАТО на учениях в Европе, колонна на марше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 43,
+   "text": "",
+   "start_sec": 453.346,
+   "duration_sec": 11.68,
+   "visual_prompt": "Сергей Лавров в здании МИД России",
+   "source": "press_photo",
+   "source_query": "Сергей Лавров в МИД России, Москва, 2026",
+   "overlays": []
+  },
+  {
+   "id": 44,
+   "text": "",
+   "start_sec": 465.026,
+   "duration_sec": 11.2,
+   "visual_prompt": "Российские дипломаты входят в здание МИД в Москве",
+   "source": "web_search",
+   "source_query": "Дипломаты МИД России у высотки на Смоленской площади, Москва, 2026",
+   "overlays": []
+  },
+  {
+   "id": 45,
+   "text": "",
+   "start_sec": 476.226,
+   "duration_sec": 12.08,
+   "visual_prompt": "Бронетехника НАТО движется по полигону в Польше",
+   "source": "press_photo",
+   "source_query": "Бронетехника НАТО на учениях в Польше, 2026",
+   "overlays": []
+  },
+  {
+   "id": 46,
+   "text": "",
+   "start_sec": 488.306,
+   "duration_sec": 11.786,
+   "visual_prompt": "Антониу Кошта идёт по коридору здания Евросовета, Брюссель, 2026",
+   "source": "press_photo",
+   "source_query": "Антониу Кошта идёт по коридору здания Евросовета, Брюссель, 2026",
+   "overlays": []
+  },
+  {
+   "id": 47,
+   "text": "",
+   "start_sec": 500.092,
+   "duration_sec": 12.24,
+   "visual_prompt": "Министры обороны стран НАТО в зале заседаний в Брюсселе, 2026",
+   "source": "press_photo",
+   "source_query": "Министры обороны стран НАТО в зале заседаний в Брюсселе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 48,
+   "text": "",
+   "start_sec": 512.332,
+   "duration_sec": 11.76,
+   "visual_prompt": "Слайдер масштаба сделки от линии территорий до всей безопасности Европы",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "slider",
+    "код": "A5",
+    "title": "Рамка будущего соглашения",
+    "watermark": "5 МИНУТ",
+    "anim": 11.76
+   }
+  },
+  {
+   "id": 49,
+   "text": "",
+   "start_sec": 524.092,
+   "duration_sec": 12.4,
+   "visual_prompt": "Зеленский участвует в официальной церемонии в Киеве",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на официальной церемонии в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 50,
+   "text": "",
+   "start_sec": 536.492,
+   "duration_sec": 12.32,
+   "visual_prompt": "Дмитрий Песков отвечает журналистам в Кремле",
+   "source": "press_photo",
+   "source_query": "Дмитрий Песков отвечает журналистам в Кремле, Москва, 2026",
+   "overlays": []
+  },
+  {
+   "id": 51,
+   "text": "",
+   "start_sec": 548.812,
+   "duration_sec": 13.04,
+   "visual_prompt": "Джорджа Мелони отвечает журналистам перед заседанием Евросовета, 2026",
+   "source": "press_photo",
+   "source_query": "Джорджа Мелони отвечает журналистам перед заседанием Евросовета, 2026",
+   "overlays": [],
+   "fx": "subscribe2"
+  },
+  {
+   "id": 52,
+   "text": "",
+   "start_sec": 561.852,
+   "duration_sec": 12.288,
+   "visual_prompt": "Гуидо Крозетто прибывает в Министерство обороны Италии",
+   "source": "press_photo",
+   "source_query": "Гуидо Крозетто, министр обороны Италии, Рим, 2026",
+   "overlays": []
+  },
+  {
+   "id": 53,
+   "text": "",
+   "start_sec": 574.14,
+   "duration_sec": 13.2,
+   "visual_prompt": "Марио Драги с членами правительства Италии в архиве 2022 года",
+   "source": "press_photo",
+   "source_query": "Марио Драги выступает в палате депутатов Италии, Рим, 2022",
+   "overlays": []
+  },
+  {
+   "id": 54,
+   "text": "",
+   "start_sec": 587.34,
+   "duration_sec": 12.08,
+   "visual_prompt": "Гуидо Крозетто и его вопрос на разделённой именной карточке",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 55,
+   "text": "",
+   "start_sec": 599.42,
+   "duration_sec": 12.64,
+   "visual_prompt": "Палата депутатов Италии во время заседания, депутаты в зале, Рим, 2026",
+   "source": "press_photo",
+   "source_query": "Палата депутатов Италии во время заседания, депутаты в зале, Рим, 2026",
+   "overlays": []
+  },
+  {
+   "id": 56,
+   "text": "",
+   "start_sec": 612.06,
+   "duration_sec": 12.32,
+   "visual_prompt": "Джорджа Мелони с кабинетом министров Италии",
+   "source": "press_photo",
+   "source_query": "Джорджа Мелони с кабинетом министров Италии, Рим, 2026",
+   "overlays": []
+  },
+  {
+   "id": 57,
+   "text": "",
+   "start_sec": 624.38,
+   "duration_sec": 13.68,
+   "visual_prompt": "Депутаты Италии за столами в зале палаццо Сан-Макуто, Рим, 2026",
+   "source": "press_photo",
+   "source_query": "Депутаты Италии за столами в зале палаццо Сан-Макуто, Рим, 2026",
+   "overlays": []
+  },
+  {
+   "id": 58,
+   "text": "",
+   "start_sec": 638.06,
+   "duration_sec": 12.284,
+   "visual_prompt": "Пусковая установка SAMP/T итальянской армии на позиции, 2026",
+   "source": "press_photo",
+   "source_query": "Пусковая установка SAMP/T итальянской армии на позиции, 2026",
+   "overlays": [],
+   "local_ready": true
+  },
+  {
+   "id": 59,
+   "text": "",
+   "start_sec": 650.344,
+   "duration_sec": 11.52,
+   "visual_prompt": "Маттео Сальвини выступает на мероприятии партии Лига",
+   "source": "press_photo",
+   "source_query": "Маттео Сальвини на мероприятии партии Лига, Рим, 2026",
+   "overlays": []
+  },
+  {
+   "id": 60,
+   "text": "",
+   "start_sec": 661.864,
+   "duration_sec": 12.0,
+   "visual_prompt": "Военно-транспортный самолёт Испании с грузом помощи Украине, 2026",
+   "source": "press_photo",
+   "source_query": "Военно-транспортный самолёт Испании с грузом помощи Украине, 2026",
+   "overlays": []
+  },
+  {
+   "id": 61,
+   "text": "",
+   "start_sec": 673.864,
+   "duration_sec": 13.04,
+   "visual_prompt": "Зеленский и Педро Санчес жмут руки в Мадриде на фоне флагов Испании, ЕС и Украины",
+   "source": "direct_url",
+   "source_query": "https://t.me/OstashkoNews/228205",
+   "overlays": [],
+   "local_ready": true
+  },
+  {
+   "id": 62,
+   "text": "",
+   "start_sec": 686.904,
+   "duration_sec": 12.96,
+   "visual_prompt": "Столбчатое сравнение испанского пакета и готовящегося итальянского",
+   "source": "card:bars",
+   "source_query": "карточка «bars» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "bars",
+    "код": "A4",
+    "title": "Военная помощь: кто сколько",
+    "watermark": "5 МИНУТ",
+    "anim": 12.96
+   }
+  },
+  {
+   "id": 63,
+   "text": "",
+   "start_sec": 699.864,
+   "duration_sec": 11.76,
+   "visual_prompt": "Урсула фон дер Ляйен и канцлер Германии на встрече в Брюсселе",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен на брифинге Еврокомиссии в Брюсселе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 64,
+   "text": "",
+   "start_sec": 711.624,
+   "duration_sec": 12.187,
+   "visual_prompt": "Правительство Германии осматривает оборудование для украинской энергетики",
+   "source": "web_search",
+   "source_query": "Здание ведомства федерального канцлера в Берлине, фасад, 2026",
+   "overlays": []
+  },
+  {
+   "id": 65,
+   "text": "",
+   "start_sec": 723.811,
+   "duration_sec": 11.36,
+   "visual_prompt": "Антониу Кошта с главами правительств Евросоюза в Брюсселе",
+   "source": "press_photo",
+   "source_query": "Антониу Кошта с главами правительств Евросоюза, Брюссель, 2026",
+   "overlays": []
+  },
+  {
+   "id": 66,
+   "text": "",
+   "start_sec": 735.171,
+   "duration_sec": 12.64,
+   "visual_prompt": "Министры обороны Евросоюза входят в здание Совета ЕС, Брюссель, 2026",
+   "source": "press_photo",
+   "source_query": "Министры обороны Евросоюза входят в здание Совета ЕС, Брюссель, 2026",
+   "overlays": []
+  },
+  {
+   "id": 67,
+   "text": "",
+   "start_sec": 747.811,
+   "duration_sec": 11.92,
+   "visual_prompt": "Роберт Фицо говорит у микрофона на фоне флагов Словакии и ЕС",
+   "source": "direct_url",
+   "source_query": "https://t.me/nabludatels/67508",
+   "overlays": [],
+   "local_ready": true
+  },
+  {
+   "id": 68,
+   "text": "",
+   "start_sec": 759.731,
+   "duration_sec": 12.16,
+   "visual_prompt": "Дизельный генератор работает у подъезда жилого дома, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Дизельный генератор работает у подъезда жилого дома, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 69,
+   "text": "",
+   "start_sec": 771.891,
+   "duration_sec": 12.64,
+   "visual_prompt": "Грузовые автомобили на пограничном переходе Ужгород, дневной наземный кадр, 2026",
+   "source": "press_photo",
+   "source_query": "Грузовые автомобили на пограничном переходе Ужгород, дневной наземный кадр, 2026",
+   "overlays": []
+  },
+  {
+   "id": 70,
+   "text": "",
+   "start_sec": 784.531,
+   "duration_sec": 13.166,
+   "visual_prompt": "Министры Италии и Испании на совместной пресс-конференции, 2026",
+   "source": "press_photo",
+   "source_query": "Министры Италии и Испании на совместной пресс-конференции, 2026",
+   "overlays": []
+  },
+  {
+   "id": 71,
+   "text": "",
+   "start_sec": 797.697,
+   "duration_sec": 11.6,
+   "visual_prompt": "Илон Маск проходит по территории центра SpaceX в Техасе",
+   "source": "direct_url",
+   "source_query": "https://t.me/ejdailyru/427572",
+   "overlays": [],
+   "local_ready": true,
+   "fx": "flash"
+  },
+  {
+   "id": 72,
+   "text": "",
+   "start_sec": 809.297,
+   "duration_sec": 11.28,
+   "visual_prompt": "Здание Европейского совета Europa в Брюсселе, фасад, 2026",
+   "source": "press_photo",
+   "source_query": "Здание Европейского совета Europa в Брюсселе, фасад, 2026",
+   "overlays": []
+  },
+  {
+   "id": 73,
+   "text": "",
+   "start_sec": 820.577,
+   "duration_sec": 12.16,
+   "visual_prompt": "Пленарное заседание Бундестага в Берлине, депутаты в зале, 2026",
+   "source": "press_photo",
+   "source_query": "Пленарное заседание Бундестага в Берлине, депутаты в зале, 2026",
+   "overlays": []
+  },
+  {
+   "id": 74,
+   "text": "",
+   "start_sec": 832.737,
+   "duration_sec": 10.96,
+   "visual_prompt": "Зал Сената США во время голосования, интерьер верхней палаты, Вашингтон, 2026",
+   "source": "press_photo",
+   "source_query": "Зал Сената США во время голосования, интерьер верхней палаты, Вашингтон, 2026",
+   "overlays": []
+  },
+  {
+   "id": 75,
+   "text": "",
+   "start_sec": 843.697,
+   "duration_sec": 11.52,
+   "visual_prompt": "Сенаторы Демократической партии США идут по коридору Капитолия",
+   "source": "press_photo",
+   "source_query": "Сенаторы Демократической партии США в Капитолии, 2026",
+   "overlays": []
+  },
+  {
+   "id": 76,
+   "text": "",
+   "start_sec": 855.217,
+   "duration_sec": 11.92,
+   "visual_prompt": "Рабочий зал Офиса президента Украины перед совещанием, Киев, 2026",
+   "source": "press_photo",
+   "source_query": "Рабочий зал Офиса президента Украины перед совещанием, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 77,
+   "text": "",
+   "start_sec": 867.137,
+   "duration_sec": 12.606,
+   "visual_prompt": "Илон Маск выступает перед аудиторией в Вашингтоне",
+   "source": "press_photo",
+   "source_query": "Илон Маск выступает перед аудиторией в Вашингтоне, 2026",
+   "overlays": []
+  },
+  {
+   "id": 78,
+   "text": "",
+   "start_sec": 879.743,
+   "duration_sec": 10.4,
+   "visual_prompt": "Зеленский обращается к депутатам Верховной Рады",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский обращается к депутатам Верховной Рады, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 79,
+   "text": "",
+   "start_sec": 890.143,
+   "duration_sec": 11.52,
+   "visual_prompt": "Зеленский выступает из рабочего кабинета в Киеве",
+   "source": "press_photo",
+   "source_query": "Обращение Владимира Зеленского из рабочего кабинета в Киеве, 2026",
+   "overlays": []
+  },
+  {
+   "id": 80,
+   "text": "",
+   "start_sec": 901.663,
+   "duration_sec": 11.36,
+   "visual_prompt": "Резкая цитата с оранжевым мазком о неправильном и навязанном выборе",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен",
+   "overlays": []
+  },
+  {
+   "id": 81,
+   "text": "",
+   "start_sec": 913.023,
+   "duration_sec": 11.6,
+   "visual_prompt": "Илон Маск идёт между корпусами SpaceX в Техасе",
+   "source": "press_photo",
+   "source_query": "Ракета Falcon 9 компании SpaceX на стартовом столе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 82,
+   "text": "",
+   "start_sec": 924.623,
+   "duration_sec": 13.468,
+   "visual_prompt": "Оператор беспилотника ВСУ с пультом управления в поле, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Оператор беспилотника ВСУ с пультом управления в поле, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 83,
+   "text": "",
+   "start_sec": 938.091,
+   "duration_sec": 11.84,
+   "visual_prompt": "Главный вход Пентагона с уровня земли, Вашингтон, 2026",
+   "source": "press_photo",
+   "source_query": "Главный вход Пентагона с уровня земли, Вашингтон, 2026",
+   "overlays": []
+  },
+  {
+   "id": 84,
+   "text": "",
+   "start_sec": 949.931,
+   "duration_sec": 11.52,
+   "visual_prompt": "Здание посольства Украины в Вашингтоне, фасад с флагом, 2026",
+   "source": "press_photo",
+   "source_query": "Здание посольства Украины в Вашингтоне, фасад с флагом, 2026",
+   "overlays": []
+  },
+  {
+   "id": 85,
+   "text": "",
+   "start_sec": 961.451,
+   "duration_sec": 12.08,
+   "visual_prompt": "Штаб-квартира SpaceX в Техасе",
+   "source": "web_search",
+   "source_query": "Штаб-квартира SpaceX в Техасе, 2026",
+   "overlays": []
+  },
+  {
+   "id": 86,
+   "text": "",
+   "start_sec": 973.531,
+   "duration_sec": 12.8,
+   "visual_prompt": "Мобильная антенна военной спутниковой связи, широкий горизонтальный кадр, 2026",
+   "source": "press_photo",
+   "source_query": "Мобильная антенна военной спутниковой связи, широкий горизонтальный кадр, 2026",
+   "overlays": [],
+   "fx": "subscribe2"
+  },
+  {
+   "id": 87,
+   "text": "",
+   "start_sec": 986.331,
+   "duration_sec": 12.24,
+   "visual_prompt": "Квадрокоптер ВСУ на бруствере перед запуском, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Квадрокоптер ВСУ на бруствере перед запуском, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 88,
+   "text": "",
+   "start_sec": 998.571,
+   "duration_sec": 11.04,
+   "visual_prompt": "Военные связисты ВСУ с аппаратурой в укрытии, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Военные связисты ВСУ с аппаратурой в укрытии, Украина, 2026",
+   "overlays": [],
+   "fx": "flash"
+  },
+  {
+   "id": 89,
+   "text": "",
+   "start_sec": 1009.611,
+   "duration_sec": 11.564,
+   "visual_prompt": "Маленький снимок публикации в окне и четыре факта о позиции Маска",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "photo",
+    "title": "Что поддержал Маск",
+    "lines": [
+     "Тысячи терминалов Starlink",
+     "Бесплатно, миллионы в месяц",
+     "Речь о начале конфликта",
+     "Маск лишь распространил"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 11.56,
+    "photo": "cards_src/odessa_typical_83839_p0.jpg"
+   },
+   "url": "https://cdn4.telesco.pe/file/YHoLqOzU2opx0cC60f-1xUo6i8_SjQpD8Py_tTmjv-wyl1CEh2Lu41YtAFV7BCvLaFxI7r_lm_y6Zhn1PbufoHg4xZ3EzwRyWejLy15z7UF1o2D8ZcByqXswqJHiP-lsuwFyb1qjZ3wVDFEQNyHLIlR8trvi4t9jGR-tQN__Bk3QVXCh1P60zVW45svQ1IdN7xLum8MMlxGLhHg_Yzk4QDsCwYk-Lb9CvxyMDjdU83YoRL84lyvOXRRrVZi7SNELcovfP6py_u9VvCC2qAG4MEaruMa7a15EcGB5KRrDsSd_0cm9lQU7G1j1qeB6Uos2HQ_-sjTEeu4erU9AakNSxg.jpg"
+  },
+  {
+   "id": 90,
+   "text": "",
+   "start_sec": 1021.175,
+   "duration_sec": 11.84,
+   "visual_prompt": "Илон Маск в тёмной рубашке на сцене мероприятия, США, 2026",
+   "source": "press_photo",
+   "source_query": "Илон Маск в тёмной рубашке на сцене мероприятия, США, 2026",
+   "overlays": []
+  },
+  {
+   "id": 91,
+   "text": "",
+   "start_sec": 1033.015,
+   "duration_sec": 11.76,
+   "visual_prompt": "Терминал Starlink раскрыт на земле у военной машины, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Терминал Starlink раскрыт на земле у военной машины, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 92,
+   "text": "",
+   "start_sec": 1044.775,
+   "duration_sec": 10.56,
+   "visual_prompt": "Зеленский выступает перед микрофонами после вопроса об Илоне Маске",
+   "source": "direct_url",
+   "source_query": "https://t.me/OstashkoNews/228185",
+   "overlays": [],
+   "local_ready": true
+  },
+  {
+   "id": 93,
+   "text": "",
+   "start_sec": 1055.335,
+   "duration_sec": 11.52,
+   "visual_prompt": "Связист ВСУ настраивает спутниковую антенну в поле, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Связист ВСУ настраивает спутниковую антенну в поле, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 94,
+   "text": "",
+   "start_sec": 1066.855,
+   "duration_sec": 11.28,
+   "visual_prompt": "Первая ступень Falcon 9 на морской посадочной платформе после запуска, 2026",
+   "source": "press_photo",
+   "source_query": "Первая ступень Falcon 9 на морской посадочной платформе после запуска, 2026",
+   "overlays": []
+  },
+  {
+   "id": 95,
+   "text": "",
+   "start_sec": 1078.135,
+   "duration_sec": 10.667,
+   "visual_prompt": "Стена связей Зеленского, демократов США, Маска и Starshield",
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "Узел, который завязался",
+    "watermark": "5 МИНУТ",
+    "anim": 10.67
+   }
+  },
+  {
+   "id": 96,
+   "text": "",
+   "start_sec": 1088.802,
+   "duration_sec": 10.08,
+   "visual_prompt": "Сенаторы-демократы у микрофонов в Конгрессе США, Вашингтон, 2026",
+   "source": "press_photo",
+   "source_query": "Сенаторы-демократы у микрофонов в Конгрессе США, Вашингтон, 2026",
+   "overlays": []
+  },
+  {
+   "id": 97,
+   "text": "",
+   "start_sec": 1098.882,
+   "duration_sec": 12.32,
+   "visual_prompt": "Заседание комитета Сената США по вооружённым силам, общий план зала, 2026",
+   "source": "press_photo",
+   "source_query": "Заседание комитета Сената США по вооружённым силам, общий план зала, 2026",
+   "overlays": []
+  },
+  {
+   "id": 98,
+   "text": "",
+   "start_sec": 1111.202,
+   "duration_sec": 11.68,
+   "visual_prompt": "Зал заседаний Конгресса США изнутри, Вашингтон, 2026",
+   "source": "press_photo",
+   "source_query": "Зал заседаний Конгресса США изнутри, Вашингтон, 2026",
+   "overlays": []
+  },
+  {
+   "id": 99,
+   "text": "",
+   "start_sec": 1122.882,
+   "duration_sec": 12.0,
+   "visual_prompt": "Зеленский и Маск на разных мероприятиях в двухчастной композиции",
+   "source": "press_photo",
+   "source_query": "Зеленский за рабочим столом в Офисе президента Украины, Киев, 2026",
+   "overlays": []
+  },
+  {
+   "id": 100,
+   "text": "",
+   "start_sec": 1134.882,
+   "duration_sec": 11.52,
+   "visual_prompt": "Правительственный квартал Киева с высоты, Украина, 2026",
+   "source": "press_photo",
+   "source_query": "Правительственный квартал Киева с высоты, Украина, 2026",
+   "overlays": []
+  },
+  {
+   "id": 101,
+   "text": "",
+   "start_sec": 1146.402,
+   "duration_sec": 10.8,
+   "visual_prompt": "Итоговый аналитический плакат о границе между помощью и влиянием",
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "overlays": [],
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "kick": "Итог",
+    "title": "Где заканчивается помощь",
+    "watermark": "5 МИНУТ",
+    "anim": 10.8
+   }
+  }
+ ]
+}
