@@ -1,0 +1,274 @@
+[
+ {
+  "scene": 2,
+  "view": "film.film_strip",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "cards_src/zdf_6.jpg",
+    "cards_src/zdf_30.jpg",
+    "cards_src/zdf_55.jpg"
+   ],
+   "kick": "Интервью ZDF",
+   "title": "Один человек, три ответа",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "cinematic.depth_of_field",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "/mnt/d/media-library/БАЗА/ВЛАСТЬ-США/БРИФИНГ-ЗАЛ-БЕЛОГО-ДОМА/11_2500x1667.jpg",
+   "title": "Договариваться надо сегодня",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 20,
+  "view": "pull",
+  "dur": 10.0,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Проводить выборы без них несправедливо",
+   "author": "Владимир Зеленский",
+   "role": "президент Украины",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "film.film_single",
+  "dur": 10.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_078.jpg",
+   "title": "Срок истёк в мае 2024-го",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "charts.cartogram",
+  "dur": 13.04,
+  "anim": 13.04,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Литва",
+    "Латвия",
+    "Эстония",
+    "Норвегия",
+    "Швеция",
+    "Финляндия"
+   ],
+   "title": "Куда расширяется список требований",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "slider",
+  "dur": 11.76,
+  "anim": 11.76,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Рамка будущего соглашения",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 65.0,
+   "marker_display": "65",
+   "seconds": 11.76,
+   "range_label": "от отдельных районов до безопасности всей Европы",
+   "caption": "Чем шире рамка, тем больше тех, кто должен её подписать",
+   "source": ""
+  }
+ },
+ {
+  "scene": 54,
+  "view": "split",
+  "dur": 12.08,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Если помощь была правильной тогда, почему теперь она стала неправильной?",
+   "author": "Гуидо Крозетто",
+   "role": "министр обороны Италии",
+   "photo": "images/scene_052.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "bars",
+  "dur": 12.96,
+  "anim": 12.96,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Военная помощь: кто сколько",
+   "caption": "Соотношение, а не точная смета",
+   "seconds": 12.96,
+   "bars": [
+    {
+     "label": "ИСПАНИЯ — ОДИН ПАКЕТ, 437 МЛН ЕВРО",
+     "value": 0.5,
+     "color": "B92526"
+    },
+    {
+     "label": "ИТАЛИЯ — ТРИНАДЦАТЫЙ ПАКЕТ",
+     "value": 0.4,
+     "color": "EABD23"
+    },
+    {
+     "label": "СЛОВАКИЯ — ГЕНЕРАТОРЫ И УКРЫТИЯ",
+     "value": 0.15,
+     "color": "8C8C92"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 80,
+  "view": "marker_serif",
+  "dur": 11.36,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Даже неправильный выбор лучше, чем когда тебе кого-то навязывают",
+   "author": "Владимир Зеленский",
+   "role": "президент Украины",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 89,
+  "view": "photo",
+  "dur": 11.56,
+  "anim": 11.56,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards_src/odessa_typical_83839_p0.jpg",
+   "title": "Что поддержал Маск",
+   "lines": [
+    "Тысячи терминалов Starlink",
+    "Бесплатно, миллионы в месяц",
+    "Речь о начале конфликта",
+    "Маск лишь распространил"
+   ]
+  }
+ },
+ {
+  "scene": 95,
+  "view": "cinematic.evidence_wall",
+  "dur": 10.67,
+  "anim": 10.67,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "images/scene_078.jpg",
+     240,
+     250,
+     -4,
+     "Зеленский: Маск не имеет права влиять"
+    ],
+    [
+     "images/scene_006.jpg",
+     800,
+     250,
+     3,
+     "Демократы требуют документы"
+    ],
+    [
+     "images/scene_012.jpg",
+     1360,
+     250,
+     -2,
+     "Контракт идёт через Пентагон"
+    ],
+    [
+     "cards_src/drone_ops.jpg",
+     240,
+     580,
+     4,
+     "ВСУ зависят от связи"
+    ]
+   ],
+   "title": "Узел, который завязался",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 101,
+  "view": "poster.poster",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "kick": "Итог",
+   "title": "Где заканчивается помощь",
+   "bottom": "Чем больше внешняя поддержка, тем меньше самостоятельности",
+   "facts": [
+    {
+     "label": "Деньги",
+     "value": "Испания, Италия, Евросоюз"
+    },
+    {
+     "label": "Вооружения",
+     "value": "тринадцатый пакет"
+    },
+    {
+     "label": "Спутники",
+     "value": "Starlink и Starshield"
+    },
+    {
+     "label": "Политика",
+     "value": "выборы и легитимность"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ }
+]
