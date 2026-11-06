@@ -1,0 +1,179 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 2,
+   "start_sec": 8.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "player"
+  },
+  {
+   "id": 3,
+   "start_sec": 16.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "player"
+  },
+  {
+   "id": 4,
+   "start_sec": 24.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 5,
+   "start_sec": 32.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "curl"
+  },
+  {
+   "id": 6,
+   "start_sec": 40.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "curl"
+  },
+  {
+   "id": 7,
+   "start_sec": 48.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 8,
+   "start_sec": 56.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "slides"
+  },
+  {
+   "id": 9,
+   "start_sec": 64.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "slides"
+  },
+  {
+   "id": 10,
+   "start_sec": 72.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 11,
+   "start_sec": 80.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "stamps"
+  },
+  {
+   "id": 12,
+   "start_sec": 88.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "stamps"
+  },
+  {
+   "id": 13,
+   "start_sec": 96.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 14,
+   "start_sec": 104.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "torn"
+  },
+  {
+   "id": 15,
+   "start_sec": 112.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "torn"
+  },
+  {
+   "id": 16,
+   "start_sec": 120.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": []
+  },
+  {
+   "id": 17,
+   "start_sec": 128.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "filmwin"
+  },
+  {
+   "id": 18,
+   "start_sec": 136.0,
+   "duration_sec": 8.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "проба приёма 06.11 — кадр из БАЗЫ",
+   "overlays": [],
+   "fx": "filmwin"
+  }
+ ]
+}
