@@ -458,7 +458,7 @@ def _filmwin_frame(p, st):
     # кадром (`Image.blend`) — на листе превью это читалось не как засвет
     # плёнки, а как сбитый цвет всего кадра, то есть ровно тот «брак
     # картинки на стоп-кадре», который у нас запрещён.
-    k = 0.22 + 0.26 * math.sin(math.pi * p)
+    k = 0.14 + 0.20 * math.sin(math.pi * p)
     out.paste(st["pink"], (0, 0), st["glowmask"].point(lambda v: int(v * k)))
     plan = ((0.00, (-0.08, 0.22), (0.27, 0.26), 0.62, -0.13),
             (0.10, (1.12, 0.74), (0.73, 0.70), 0.54, 0.10),
@@ -552,7 +552,7 @@ def prepare(kind, A, B, seed=20261106):
         gm = Image.new("L", (W, H), 0)
         gd = ImageDraw.Draw(gm)
         for x in range(0, W, 2):
-            t = min(x / (W * 0.20), (W - x) / (W * 0.20), 1.0)
+            t = min(x / (W * 0.16), (W - x) / (W * 0.16), 1.0)
             gd.line([(x, 0), (x, H)], fill=int(235 * max(0.0, 1.0 - t) ** 1.4))
         st["glowmask"] = gm.filter(ImageFilter.GaussianBlur(26))
         st["pink"] = Image.new("RGB", (W, H), (222, 46, 126))
