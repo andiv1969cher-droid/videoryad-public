@@ -68,6 +68,11 @@ TRANS = ("mosaic", "panels", "wipe", "depth", "tear", "flash") + FIVE
 # «да, берём, ставь в ротацию планеты так же самое, три раза этот
 # эффект, и все эффекты, которые у нас есть, три раза на видеоряд».
 AUTO_TRANS = ("mosaic", "panels", "wipe", "depth", "tear")
+# «5 МИНУТ» — СВОЙ НАБОР, И ОН ВЕСЬ ИДЁТ В РОТАЦИЮ (06.11, его слово по шести
+# показанным приёмам: «раскатываем это на 5 минут… по такому же правилу, как
+# на Планета, по 3 раза один эффект на видеоролик. Применяем все, абсолютно
+# все эти эффекты в ролике. Рандомно. По 3 раза»).
+AUTO_FIVE = FIVE
 # ПОТОЛОК ТРИ — НА КАЖДЫЙ ВИД, А НЕ НА ВЕСЬ РОЛИК (04.11, его прямое слово
 # после первого боевого ролика: «не больше 3 раз ОДНОГО эффекта на всём
 # протяжении видео… пока этих эффектов мало, пусть будет 3 раза»).
@@ -428,11 +433,17 @@ def _auto(a, data, scenes):
         return src in ("press_photo", "web_search", "stock_photo", "local_library")
 
     _ch_now = _norm_chan(data.get("channel") if isinstance(data, dict) else "")
-    if _ch_now != _norm_chan("ПЛАНЕТА"):
+    # У КАЖДОГО КАНАЛА СВОЙ НАБОР ВИДОВ: ПЛАНЕТА — пять принятых переходов,
+    # «5 МИНУТ» — шесть своих приёмов (06.11). Норма одна и та же: по три
+    # каждого вида, места гуляют по ролику.
+    _auto_kinds = (AUTO_TRANS if _ch_now == _norm_chan("ПЛАНЕТА")
+                   else (AUTO_FIVE if _ch_now == _norm_chan("5 МИНУТ") else ()))
+    _sub_kind = "subscribe2" if _ch_now == _norm_chan("5 МИНУТ") else "subscribe"
+    if not _auto_kinds:
         # НЕ ПЛАНЕТА — ПЕРЕХОДОВ НЕТ, НО КНОПКА ЕСТЬ (05.11 про «5 МИНУТ»,
         # 06.11 расширено на все каналы его словом «раскатать на все»).
         # Вид кнопки выбирает канал: «5 МИНУТ» — вид 2, остальные — вид 1.
-        _kind = "subscribe2" if _ch_now == _norm_chan("5 МИНУТ") else "subscribe"
+        _kind = _sub_kind
         if not any(_norm_chan(x) == _ch_now for x in AUTO_CHANNELS_BUTTON):
             print("канал «%s» в списке кнопки не значится — ничего не ставлю"
                   % (data.get("channel") if isinstance(data, dict) else "?"))
@@ -459,10 +470,10 @@ def _auto(a, data, scenes):
     # по ТРИ КАЖДОГО перехода (его слово 04.11). Врезку `inset` автомат не
     # ставит: ей нужна видео-врезка, которую выбирает вкладка глазами.
     need = []
-    for k in AUTO_TRANS:
+    for k in _auto_kinds:
         need += [k] * max(0, FX_MAX - len(by_kind.get(k, [])))
     free = len(need)
-    _subs = _put_subscribe(scenes, by_id, first, len(scenes))
+    _subs = _put_subscribe(scenes, by_id, first, len(scenes), _sub_kind)
     if free <= 0:
         if _subs:
             _save(a.scenes, data)
@@ -568,7 +579,7 @@ def _auto(a, data, scenes):
     # на 56 сценах при четырёх видах вышло panels 3, mosaic 2, wipe 2,
     # depth 1 — то есть принятый вид показывался один раз за ролик. Круговая
     # раздача делит слоты поровну: сколько бы их ни было, виды идут подряд.
-    _kinds = [k for k in AUTO_TRANS if need.count(k)]
+    _kinds = [k for k in _auto_kinds if need.count(k)]
     rnd.shuffle(_kinds)
     _order = [k for _r in range(FX_MAX) for k in _kinds]
     for i, sid in enumerate(picked):
@@ -594,7 +605,9 @@ def _auto(a, data, scenes):
     # «эффектов 3 из 3» и посчитала норму закрытой — а счётчик считал
     # ТОЛЬКО переходы. Врезке нужен видеофайл, который выбирает человек,
     # поэтому автомат её не ставит; но молчать об этом нельзя.
-    if not _cnt.get("inset"):
+    # Врезка — эффект ПЛАНЕТЫ; на «5 МИНУТ» её в наборе нет, и требовать её
+    # там нечего (06.11).
+    if not _cnt.get("inset") and _ch_now == _norm_chan("ПЛАНЕТА"):
         print("")
         print("!! ВРЕЗКИ С КРУГАМИ-РАДАРОМ В РОЛИКЕ НЕТ (0 штук).")
         print("   Автомат её не ставит: нужен видеофайл, который выбираешь "
