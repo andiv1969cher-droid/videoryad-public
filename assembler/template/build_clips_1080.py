@@ -136,9 +136,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # `subscribe` — не переход и не врезка: кнопка ложится ПОВЕРХ уже
 # собранного клипа сцены (его заказ 05.11). Поэтому она есть в FX_KINDS
 # (чтобы попасть в разбор и в потолок), но нет в FX_TRANS.
+# Шесть приёмов канала «5 МИНУТ» (06.11) рисует ДРУГОЙ модуль — `fx_trans5.py`.
+# Принятые приёмы ПЛАНЕТЫ в нём не трогаются вовсе, регрессии невозможны.
+FX_FIVE = ("player", "curl", "slides", "stamps", "torn", "filmwin")
 FX_KINDS = ("inset", "mosaic", "panels", "wipe", "depth", "tear", "flash",
-            "subscribe", "subscribe2")
-FX_TRANS = ("mosaic", "panels", "wipe", "depth", "tear", "flash")
+            "subscribe", "subscribe2") + FX_FIVE
+FX_TRANS = ("mosaic", "panels", "wipe", "depth", "tear", "flash") + FX_FIVE
 FX_MAX = 3
 FX_OF = {}                  # sid -> вид эффекта (уже с потолком и каналом)
 INSET_SIDS = set()          # из них те, что «врезка» (для совместимости)
@@ -191,7 +194,8 @@ def build_trans_clip(ffmpeg, ffprobe, src, out_path, duration, sid, kind,
                             prev_src, "-frames:v", "1", tmpf],
                            capture_output=True, text=True)
         prev = tmpf if (r.returncode == 0 and os.path.isfile(tmpf)) else "-"
-    cmd = [sys.executable, os.path.join(HERE, "fx_trans.py"), prev, src,
+    mod = "fx_trans5.py" if kind in FX_FIVE else "fx_trans.py"
+    cmd = [sys.executable, os.path.join(HERE, mod), prev, src,
            out_path, "--kind", kind, "--seconds", f"{float(duration):.3f}",
            "--channel", CHANNEL or "ПЛАНЕТА", "--ffmpeg", ffmpeg]
     r = subprocess.run(cmd, capture_output=True, text=True)
