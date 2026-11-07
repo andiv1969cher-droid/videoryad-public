@@ -1,0 +1,457 @@
+{
+ "anchor": "top",
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "13": {
+  "photo": "overlays/scene_013.jpg",
+  "sound": "zatvor",
+  "at": 2.8,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "23": {
+  "photo": "overlays/scene_023.jpg",
+  "sound": "ding",
+  "at": 3.1,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "25": {
+  "photo": "overlays/scene_025.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "36": {
+  "photo": "overlays/scene_036.jpg",
+  "sound": "zatvor",
+  "at": 2.8,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "46": {
+  "photo": "overlays/scene_046.jpg",
+  "sound": "ding",
+  "at": 3.1,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "52": {
+  "photo": "overlays/scene_052.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "58": {
+  "photo": "overlays/scene_058.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "approved": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "1": {
+  "text": {
+   "words": "ТРАМП: НАДО САДИТЬСЯ И РАЗГОВАРИВАТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "3": {
+  "text": {
+   "words": "РАЗГОВОР ШИРЕ УКРАИНЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "5": {
+  "text": {
+   "words": "КТО КУДА НЕ ЛЕЗЕТ И КТО КОМУ ЗВОНИТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "6": {
+  "text": {
+   "words": "ЧТОБЫ КРИЗИС НЕ ТУШИЛ ВЕСЬ КОНТИНЕНТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "9": {
+  "text": {
+   "words": "ЕВРОПА ХОЧЕТ СИДЕТЬ ЗА СТОЛОМ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "10": {
+  "text": {
+   "words": "САДИТЬСЯ ХОЧЕТ, ОБСУЖДАТЬ — НЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "11": {
+  "text": {
+   "words": "КАЛЛАС: НОВАЯ АРХИТЕКТУРА НЕ НУЖНА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "12": {
+  "text": {
+   "words": "ПУТИН НЕ ИМЕЕТ ПРАВА ВЕТО",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "15": {
+  "text": {
+   "words": "КОНСТРУКЦИЮ НЕ ОБСУЖДАЕМ — ОНА ЕСТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "18": {
+  "text": {
+   "words": "МИХАЛ: ПОСРЕДНИК НЕ НУЖЕН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "19": {
+  "text": {
+   "words": "А РЕЗУЛЬТАТ КАКОЙ?",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "21": {
+  "text": {
+   "words": "ПОСТОЯННЫЙ ОФИС ПО САНКЦИЯМ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "24": {
+  "text": {
+   "words": "ДОГОВОРЁННОСТЬ ВЫГОДНЕЕ ПРОЦЕССА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "28": {
+  "text": {
+   "words": "КАЛЛАС ОСТАЛОСЬ ПРИНЯТЬ ПАРАД",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "30": {
+  "text": {
+   "words": "ОДНОГО ГРОМКОГО ГОЛОСА МАЛО",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "31": {
+  "text": {
+   "words": "НЕ В ЗАЯВЛЕНИИ. В РЕАЛЬНОСТИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "34": {
+  "text": {
+   "words": "ПЕРЕГОВОРЫ НЕ НУЖНЫ. ДАВЛЕНИЕ — ДА",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "35": {
+  "text": {
+   "words": "ЖИТЬ СУТКИ БЕЗ ИНФРАСТРУКТУРЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "37": {
+  "text": {
+   "words": "ПОД ОГРАНИЧЕНИЯ ПОПАЛИ СПОРТСМЕНЫ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "39": {
+  "text": {
+   "words": "СИКОРСКИЙ ЗОВЁТ НАВРОЦКОГО К ТРАМПУ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "40": {
+  "text": {
+   "words": "ВАРШАВА ДЕРЖИТ ПРОЕВРОПЕЙСКУЮ ЛИНИЮ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "41": {
+  "text": {
+   "words": "БЕЗ ВОСТОЧНОЙ ЕВРОПЫ — НЕЛЬЗЯ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "42": {
+  "text": {
+   "words": "ВСЕ ХОТЯТ БЫТЬ ЗА СТОЛОМ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "44": {
+  "text": {
+   "words": "ЧТО ОНИ СОБИРАЮТСЯ ПОДПИСЫВАТЬ?",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "45": {
+  "text": {
+   "words": "НУЖЕН ПРЕДМЕТ ОБМЕНА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "47": {
+  "text": {
+   "words": "КТО ЯВЛЯЕТСЯ ГАРАНТОМ?",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "49": {
+  "text": {
+   "words": "ЛИБО ПРАВИЛА, ЛИБО ГОНКА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "51": {
+  "text": {
+   "words": "ТОЛЬКО РАКЕТ ВСЁ БОЛЬШЕ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "53": {
+  "text": {
+   "words": "«ЕЩЁ СИЛЬНЕЕ НАДАВИТЬ» — НЕ ПЛАН",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ },
+ "54": {
+  "text": {
+   "words": "У ИНСТРУМЕНТОВ ДОЛЖЕН БЫТЬ РЕЗУЛЬТАТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 3.2,
+   "scale": 1.0
+  }
+ },
+ "57": {
+  "text": {
+   "words": "ЭТО НЕ СТРАТЕГИЯ ВЫХОДА. ЭТО ДОРОГА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0
+  }
+ },
+ "59": {
+  "text": {
+   "words": "ЗА СТОЛ САДЯТСЯ ТЕ, КТО НЕ ДОВЕРЯЕТ",
+   "color": "red",
+   "pos": "tc",
+   "font": "default",
+   "sound": "ding",
+   "at": 2.3,
+   "scale": 1.0
+  }
+ },
+ "60": {
+  "text": {
+   "words": "ПОКАЖИТЕ СВОЙ ВАРИАНТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.6,
+   "scale": 1.0
+  }
+ },
+ "61": {
+  "text": {
+   "words": "С УСЛОВИЯМИ И ТОЧКОЙ ОСТАНОВКИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.9,
+   "scale": 1.0
+  }
+ }
+}

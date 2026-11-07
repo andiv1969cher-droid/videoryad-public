@@ -1,0 +1,505 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 8.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп выступает в Вашингтоне, 2026"
+  },
+  {
+   "id": 2,
+   "start_sec": 8.6,
+   "duration_sec": 7.2,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка"
+  },
+  {
+   "id": 3,
+   "start_sec": 15.8,
+   "duration_sec": 8.9,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП"
+  },
+  {
+   "id": 4,
+   "start_sec": 24.7,
+   "duration_sec": 9.8,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ГОСДЕП-США"
+  },
+  {
+   "id": 5,
+   "start_sec": 34.5,
+   "duration_sec": 10.7,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО"
+  },
+  {
+   "id": 6,
+   "start_sec": 45.2,
+   "duration_sec": 8.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА"
+  },
+  {
+   "id": 7,
+   "start_sec": 53.8,
+   "duration_sec": 12.5,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ШТАБ-НАТО-БРЮССЕЛЕ"
+  },
+  {
+   "id": 8,
+   "start_sec": 66.3,
+   "duration_sec": 10.8,
+   "text": "",
+   "source": "card:wall",
+   "source_query": "карточка"
+  },
+  {
+   "id": 9,
+   "start_sec": 77.1,
+   "duration_sec": 8.5,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЗАСЕДАНИЙ-НАТО"
+  },
+  {
+   "id": 10,
+   "start_sec": 85.6,
+   "duration_sec": 10.55,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ЕВРОКОМИССИЯ"
+  },
+  {
+   "id": 11,
+   "start_sec": 96.15,
+   "duration_sec": 10.55,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/b34fee6532.mp4?token=WOeKXrh7v-VuS2i6QEUE--a5XqN87SQJvi-SoN2Jej3nuHREaVCNTAyO3P5FMVV0TdEOYT2o05lKCx7xFhPviQvGpzXugf2bona8aHZmz-b17bnfqqFb23TKl-tnKtJlTMqg3HDJxhEfEvT9lSqxfaG12WKiMka8FNeFTPObCIRGlvkIHlRCCXYmApysg10OiUioKMIs6iGe0DRy1la-di9-Ex7VvXloLl9MFJ2nuG6UMy42o1KRSTaaXDC-RwrAU7F7PIkNE_VGCY7vsNrLybOLcoDFleeilwW18WGahshH4Nl_-soQ8s0KfpdJzK1_AKnEGLC7nbL0a6_MdWn2WA",
+   "visual_prompt": "видео 1280x554, Кая Каллас у трибуны в Варшаве, флаги ЕС и Польши (пост t.me/nabludatels/67539, срезана плашка DWS)"
+  },
+  {
+   "id": 12,
+   "start_sec": 106.7,
+   "duration_sec": 9.9,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН"
+  },
+  {
+   "id": 13,
+   "start_sec": 116.6,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-РОССИЯ/ЗДАНИЕ-МИД-РОССИИ"
+  },
+  {
+   "id": 14,
+   "start_sec": 126.6,
+   "duration_sec": 5.8,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка"
+  },
+  {
+   "id": 15,
+   "start_sec": 132.4,
+   "duration_sec": 16.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО"
+  },
+  {
+   "id": 16,
+   "start_sec": 148.4,
+   "duration_sec": 7.8,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ"
+  },
+  {
+   "id": 17,
+   "start_sec": 156.2,
+   "duration_sec": 11.7,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Рийгикогу в замке Тоомпеа, Таллин, 2026"
+  },
+  {
+   "id": 18,
+   "start_sec": 167.9,
+   "duration_sec": 14.2,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/RTJZeNsQ6cWURFNM8ihgcEIaC6KWFPAkBeBghG1bYwXrVjVafvGlF319O-aSWPE9AEo-emRppyclUNFA4_PfJyKmvHx50FnH_A585is-FkAZksq84XEzukWdr5rnrxdvSu-sSujoiesAsnlymXgQA1dsl1KI6GEI9gJKDAlTGjfchXY4oVb0nWgjCdZB-7PDU7gXjbvevghqcNShBFUjUA9lrKOawLkGYWgPvtKf9R8ULFEeETss2saeqrwdk0wEMm1jwk9iwLZ8hxnyO8IGmb3lsf91LyDPnXMjV3uA2_HAq7g6ylqihyHhZXVCK0yOH7ePkCKxxTXTlUwBPbNh0w.jpg",
+   "visual_prompt": "фото 772x430, Кристен Михал, премьер Эстонии (пост t.me/Media_Post_UA/34933, заголовок POLITICO срезан)"
+  },
+  {
+   "id": 19,
+   "start_sec": 182.1,
+   "duration_sec": 14.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Путин на экономическом форуме, Москва, 2026"
+  },
+  {
+   "id": 20,
+   "start_sec": 196.3,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "card:photo",
+   "source_query": "карточка"
+  },
+  {
+   "id": 21,
+   "start_sec": 209.9,
+   "duration_sec": 12.9,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Урсула фон дер Ляйен у входа Еврокомиссии, Брюссель, 2026"
+  },
+  {
+   "id": 22,
+   "start_sec": 222.8,
+   "duration_sec": 9.1,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Овальном кабинете, Вашингтон, 2026"
+  },
+  {
+   "id": 23,
+   "start_sec": 231.9,
+   "duration_sec": 11.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "контейнерный порт Лос-Анджелеса, 2026"
+  },
+  {
+   "id": 24,
+   "start_sec": 242.9,
+   "duration_sec": 11.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кая Каллас выступает в Еврокомиссии, Брюссель, 2026"
+  },
+  {
+   "id": 25,
+   "start_sec": 253.9,
+   "duration_sec": 11.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "президентский дворец Литвы, Вильнюс, 2026"
+  },
+  {
+   "id": 26,
+   "start_sec": 265.2,
+   "duration_sec": 9.3,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка"
+  },
+  {
+   "id": 27,
+   "start_sec": 274.5,
+   "duration_sec": 15.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бронемашины НАТО на дороге у Пабраде, 2026"
+  },
+  {
+   "id": 28,
+   "start_sec": 289.7,
+   "duration_sec": 12.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "колонна Stryker на учениях в Литве, 2026"
+  },
+  {
+   "id": 29,
+   "start_sec": 302.3,
+   "duration_sec": 12.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "истребители НАТО на авиабазе Шяуляй, Литва, 2026"
+  },
+  {
+   "id": 30,
+   "start_sec": 314.9,
+   "duration_sec": 12.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кристен Михал у правительственного входа, Таллин, 2026"
+  },
+  {
+   "id": 31,
+   "start_sec": 327.5,
+   "duration_sec": 17.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пограничный переход через Нарву, 2026"
+  },
+  {
+   "id": 32,
+   "start_sec": 344.8,
+   "duration_sec": 16.4,
+   "text": "",
+   "source": "card:poster",
+   "source_query": "карточка"
+  },
+  {
+   "id": 33,
+   "start_sec": 361.2,
+   "duration_sec": 11.9,
+   "text": "",
+   "source": "web_search",
+   "source_query": "аварийный радиоприёмник и фонарь, Хельсинки, 2026"
+  },
+  {
+   "id": 34,
+   "start_sec": 373.1,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "главный вход Еврокомиссии, Брюссель, 2026"
+  },
+  {
+   "id": 35,
+   "start_sec": 382.7,
+   "duration_sec": 13.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "служба гражданской защиты Финляндии, Хельсинки, 2026"
+  },
+  {
+   "id": 36,
+   "start_sec": 395.7,
+   "duration_sec": 6.1,
+   "text": "",
+   "source": "web_search",
+   "source_query": "въездной терминал Ваалимаа, 2026"
+  },
+  {
+   "id": 37,
+   "start_sec": 401.8,
+   "duration_sec": 14.1,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "российский хоккеист на арене, Хельсинки, 2026"
+  },
+  {
+   "id": 38,
+   "start_sec": 415.9,
+   "duration_sec": 11.9,
+   "text": "",
+   "source": "card:dof",
+   "source_query": "карточка"
+  },
+  {
+   "id": 39,
+   "start_sec": 427.8,
+   "duration_sec": 11.7,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/b40fb6e885.mp4?token=H7LkABi22Dl8qVPOfuqZquDRlr8z4xrB4sIG3-40cquoD-7chQQQ2iZ0N2nez967eOzMUfQGVQluhyyRg1-iWUiSqL59vht3gC5vsDyVyg8nBWlSFnj8qal1iRWdaAr94NlK7TaxQpmCYuJztIvAUaXpsTUEUeRNqWakby2WkUUur-D_QZycXTkUtbpMP9MPmv2zwBNox4nahkWD42-QoKVruU1id7qFy3rIfGUXngYmTASTP50D1tTBxIic71J30wM5PvrYEf8usHyLJAMRVHiNcM16nFwWNyHaEFiRSaRPIg78p21ZnEB5vguxnfd94XXgA5soi3xTnP123-0npIWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8",
+   "fx": "flash",
+   "visual_prompt": "видео 1020x480, Радослав Сикорский в студии TVP (пост t.me/Media_Post_UA/34928, срезаны знак канала и английские субтитры)"
+  },
+  {
+   "id": 40,
+   "start_sec": 439.5,
+   "duration_sec": 9.9,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Туск у здания Сейма, Варшава, 2026"
+  },
+  {
+   "id": 41,
+   "start_sec": 449.4,
+   "duration_sec": 9.9,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПОЛЬША-ТРАМП-3110_ЗАЛ-ЗАСЕДАНИЙ-СЕЙМА"
+  },
+  {
+   "id": 42,
+   "start_sec": 459.3,
+   "duration_sec": 11.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кароль Навроцкий у президентского дворца, Варшава, 2026"
+  },
+  {
+   "id": 43,
+   "start_sec": 470.7,
+   "duration_sec": 11.2,
+   "text": "",
+   "source": "card:bars",
+   "source_query": "карточка"
+  },
+  {
+   "id": 44,
+   "start_sec": 481.9,
+   "duration_sec": 15.7,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Гитанас Науседа на пресс-конференции, Вильнюс, 2026"
+  },
+  {
+   "id": 45,
+   "start_sec": 497.6,
+   "duration_sec": 11.95,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "главный вход здания Европейского совета, Брюссель, 2026"
+  },
+  {
+   "id": 46,
+   "start_sec": 509.55,
+   "duration_sec": 11.95,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "антенна связи НАТО на базе Шяуляй, 2026"
+  },
+  {
+   "id": 47,
+   "start_sec": 521.5,
+   "duration_sec": 13.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пограничная дорога у Нарвы, 2026"
+  },
+  {
+   "id": 48,
+   "start_sec": 534.5,
+   "duration_sec": 13.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бронемашина НАТО у шлагбаума, Нарва, 2026"
+  },
+  {
+   "id": 49,
+   "start_sec": 547.5,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "зенитная установка НАТО под Варшавой, 2026"
+  },
+  {
+   "id": 50,
+   "start_sec": 561.1,
+   "duration_sec": 12.8,
+   "text": "",
+   "source": "card:film",
+   "source_query": "карточка"
+  },
+  {
+   "id": 51,
+   "start_sec": 573.9,
+   "duration_sec": 12.8,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пусковые установки НАТО, Редзиково, 2026"
+  },
+  {
+   "id": 52,
+   "start_sec": 586.7,
+   "duration_sec": 13.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Путин у микрофона, Москва, 2026"
+  },
+  {
+   "id": 53,
+   "start_sec": 600.0,
+   "duration_sec": 9.7,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кремлёвская набережная, Москва, 2026"
+  },
+  {
+   "id": 54,
+   "start_sec": 609.7,
+   "duration_sec": 10.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Сергей Лавров на брифинге МИД России, Москва, 2026"
+  },
+  {
+   "id": 55,
+   "start_sec": 620.0,
+   "duration_sec": 9.15,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "военная техника НАТО на платформе, Жешув, 2026"
+  },
+  {
+   "id": 56,
+   "start_sec": 629.15,
+   "duration_sec": 9.15,
+   "text": "",
+   "source": "card:slider",
+   "source_query": "карточка"
+  },
+  {
+   "id": 57,
+   "start_sec": 638.3,
+   "duration_sec": 8.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бетонные ангары базы НАТО, Редзиково, 2026"
+  },
+  {
+   "id": 58,
+   "start_sec": 646.9,
+   "duration_sec": 14.4,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пограничный мост Нарва Ивангород, Нарва, 2026"
+  },
+  {
+   "id": 59,
+   "start_sec": 661.3,
+   "duration_sec": 13.3,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "МИД России на Смоленской площади, Москва, 2026"
+  },
+  {
+   "id": 60,
+   "start_sec": 674.6,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "комплекс Европейского совета, Брюссель, 2026"
+  },
+  {
+   "id": 61,
+   "start_sec": 684.6,
+   "duration_sec": 6.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "председатель Еврокомиссии на брифинге, Брюссель, 2026"
+  },
+  {
+   "id": 62,
+   "start_sec": 690.6,
+   "duration_sec": 19.56,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка"
+  }
+ ]
+}
