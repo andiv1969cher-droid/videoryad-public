@@ -1,0 +1,287 @@
+[
+ {
+  "scene": 2,
+  "view": "poster.poster",
+  "dur": 13.5,
+  "anim": 13.5,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "title": "Стол поставили. Садиться отказались",
+   "hero_photo": "cards/photo/nauseda.jpg",
+   "bottom": "А дальше-то что у вас по плану?",
+   "facts": [
+    {
+     "label": "Повестка",
+     "value": "готова"
+    },
+    {
+     "label": "Телефоны",
+     "value": "проверены"
+    },
+    {
+     "label": "Ответ Европы",
+     "value": "разговор начинать нельзя"
+    }
+   ],
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 5,
+  "view": "cinematic.depth_of_field",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "images/scene_005.jpg",
+   "title": "А сколько у них дивизий?",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 11,
+  "view": "marker_serif",
+  "dur": 11.17,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "text": "Не капитуляция и не подарок Москве. Это правила между теми, кто не доверяет",
+   "accent": "правила между теми, кто не доверяет",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "photo",
+  "dur": 6.8,
+  "anim": 6.8,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+   "photo": "images/scene_018.jpg",
+   "title": "Менять нечего?",
+   "lines": [
+    "НАТО уже построено",
+    "Евросоюз уже построен",
+    "Значит, обсуждать незачем"
+   ]
+  }
+ },
+ {
+  "scene": 21,
+  "view": "vyrezka.gazeta",
+  "dur": 13.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "images/scene_021.jpg",
+   "author": "КРИСТЕН МИХАЛ",
+   "role": "премьер-министр Эстонии",
+   "kick": "кто говорит",
+   "title": "Таллин",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "bars",
+  "dur": 10.5,
+  "anim": 10.5,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Что умеют санкции",
+   "caption": "",
+   "seconds": 10.5,
+   "bars": [
+    {
+     "label": "УЩЕРБ",
+     "value": 0.85,
+     "color": "06C7C7"
+    },
+    {
+     "label": "ЦЕНА РЕШЕНИЙ",
+     "value": 0.7,
+     "color": "EABD23"
+    },
+    {
+     "label": "ОТВЕТ, ЧЕМ ЗАКОНЧИТСЯ",
+     "value": 0.1,
+     "color": "84848A"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 29,
+  "view": "vyrezka.figura",
+  "dur": 7.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "images/scene_029.jpg",
+   "author": "ДОНАЛЬД ТРАМП",
+   "role": "президент США",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "split",
+  "dur": 9.6,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "images/scene_033.jpg",
+   "text": "Вопросы безопасности Европы нельзя обсуждать без Восточной Европы",
+   "author": "Радослав Сикорский",
+   "role": "глава МИД Польши",
+   "accent": "нельзя обсуждать без Восточной",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "cinematic.evidence_wall",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/d027.jpg",
+     240,
+     380,
+     -4,
+     "Пабраде: бронемашины"
+    ],
+    [
+     "cards/photo/d049.jpg",
+     800,
+     380,
+     3,
+     "Варшава: ПВО"
+    ],
+    [
+     "cards/photo/d055.jpg",
+     1360,
+     380,
+     -2,
+     "Жешув: переброска"
+    ]
+   ],
+   "title": "Круг, который не разрывается",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 42,
+  "view": "film.film_single",
+  "dur": 13.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "photo": "images/scene_042.jpg",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "film.film_strip",
+  "dur": 13.3,
+  "anim": 13.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "shots": [
+    "cards/photo/d040.jpg",
+    "cards/photo/d025.jpg",
+    "cards/photo/d058.jpg"
+   ],
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "slider",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.0,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Громкость давления",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 20.0,
+   "high": 95.0,
+   "marker_value": 90.0,
+   "marker_display": "90",
+   "seconds": 9.2,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 54,
+  "view": "charts.cartogram",
+  "dur": 12.7,
+  "anim": 12.7,
+  "tail_zoom": 0.045,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "data": [
+    "Украина",
+    "Польша",
+    "Эстония",
+    "Литва",
+    "Финляндия"
+   ],
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "pull",
+  "dur": 11.53,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "kwargs": {
+   "text": "Если ответа нет, Европа защищает уже не план победы, а право не признавать, что прежний план остался без своего главного участника",
+   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+  }
+ }
+]
