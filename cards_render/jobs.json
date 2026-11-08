@@ -1,0 +1,374 @@
+[
+ {
+  "scene": 4,
+  "view": "charts.slope",
+  "dur": 12.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "рождений за год",
+     "from": 274.0,
+     "to": 169.0
+    }
+   ],
+   "kick": "2021 → 2025",
+   "title": "РОЖДАЕМОСТЬ НА УКРАИНЕ",
+   "unit": "тыс.",
+   "source": "Минюст Украины",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "bars",
+  "dur": 10.0,
+  "anim": 10.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "РАЗНИЦА ЗА ЧЕТЫРЕ ГОДА",
+   "caption": "минус 105 тысяч детей в год, −38,4%",
+   "seconds": 10.0,
+   "bars": [
+    {
+     "label": "2021",
+     "value": 1.0,
+     "color": "B92526"
+    },
+    {
+     "label": "2025",
+     "value": 0.62,
+     "color": "EABD23"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 15,
+  "view": "vyrezka.gazeta",
+  "dur": 9.44,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_015.jpg",
+   "author": "ВЛАДИМИР ЗЕЛЕНСКИЙ",
+   "role": "президент Украины",
+   "kick": "ставка на следующий Конгресс",
+   "title": "Киев",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "split",
+  "dur": 10.0,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_019.jpg",
+   "text": "Германия уже передала несколько систем. Новых Patriot Берлин передавать не будет.",
+   "author": "Борис Писториус",
+   "role": "министр обороны Германии",
+   "source": "Берлин",
+   "accent": "Германия уже передала несколько",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "slider",
+  "dur": 9.52,
+  "anim": 9.52,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "ЗАПАС ПВО У БЕРЛИНА",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 85.0,
+   "marker_display": "85",
+   "seconds": 9.52,
+   "range_label": "от щедрой передачи до нижней границы",
+   "caption": "у любого склада есть дно",
+   "source": ""
+  }
+ },
+ {
+  "scene": 27,
+  "view": "charts.waterfall",
+  "dur": 12.0,
+  "anim": 12.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "применено",
+    "value": 36.0
+   },
+   "steps": [
+    {
+     "label": "перехвачено",
+     "value": -4.0
+    },
+    {
+     "label": "прошло",
+     "value": 32.0
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "kick": "заявление Киева",
+   "title": "ОДИН УДАР ПО КИЕВУ",
+   "unit": "баллистических ракет",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "vyrezka.figura",
+  "dur": 10.82,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_032.jpg",
+   "author": "ВИТАЛИЙ КЛИЧКО",
+   "role": "мэр Киева",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "charts.cartogram",
+  "dur": 12.4,
+  "anim": 12.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Киев"
+   ],
+   "kick": "переправы через Днепр",
+   "title": "ЧЕМ ДЕРЖИТСЯ СТРАНА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "pull",
+  "dur": 11.4,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Есть ещё люди. Ещё мобилизуем. Ещё найдём.",
+   "kick": "разговор о населении как о ресурсе",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "marker_serif",
+  "dur": 12.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Закончились ракеты — ищем ракеты. Закончились деньги — ищем деньги. У любого склада есть дно.",
+   "accent": "У любого склада есть дно",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "cinematic.evidence_wall",
+  "dur": 11.28,
+  "anim": 11.28,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "images/scene_031.jpg",
+     240,
+     250,
+     -4,
+     "свет"
+    ],
+    [
+     "images/scene_033.jpg",
+     800,
+     250,
+     3,
+     "вода"
+    ],
+    [
+     "images/scene_034.jpg",
+     1360,
+     250,
+     -2,
+     "мосты"
+    ],
+    [
+     "images/scene_041.jpg",
+     240,
+     580,
+     4,
+     "люди"
+    ]
+   ],
+   "title": "ВСЁ СРАЗУ",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 52,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.8,
+  "anim": 12.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_033.jpg",
+   "title": "ПЕРЕЖДАТЬ НЕ ВЫШЛО",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 56,
+  "view": "photo",
+  "dur": 12.32,
+  "anim": 12.32,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "images/scene_057.jpg",
+   "title": "СТАВКА НА СЛЕДУЮЩИХ",
+   "lines": [
+    "на следующий состав Конгресса",
+    "на следующий пакет",
+    "на тех, кто придёт потом"
+   ]
+  }
+ },
+ {
+  "scene": 60,
+  "view": "film.film_strip",
+  "dur": 12.64,
+  "anim": 12.64,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "images/scene_059.jpg",
+    "images/scene_061.jpg",
+    "images/scene_062.jpg"
+   ],
+   "title": "ЧТО ЕЩЁ ВОССТАНОВЯТ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "film.film_single",
+  "dur": 11.76,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "images/scene_064.jpg",
+   "title": "МОСТ ЧЕРЕЗ ДНЕПР",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 68,
+  "view": "poster.poster",
+  "dur": 10.68,
+  "anim": 10.68,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "ЗАМЕТНО СРАЗУ — И НЕЗАМЕТНО СОВСЕМ",
+   "hero_photo": "images/scene_068.jpg",
+   "bottom": "счёт приходит через двадцать лет",
+   "facts": [
+    {
+     "label": "погас свет",
+     "value": "видно сразу"
+    },
+    {
+     "label": "нет воды",
+     "value": "видно сразу"
+    },
+    {
+     "label": "не родился человек",
+     "value": "не видно"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 71,
+  "view": "timeline",
+  "dur": 11.68,
+  "anim": 11.68,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "kick": "СЧЁТ, КОТОРЫЙ ПРИХОДИТ ПОСЛЕДНИМ",
+   "watermark": "5 МИНУТ",
+   "events": [
+    {
+     "date": "через 7 лет",
+     "text": "некому идти в школу"
+    },
+    {
+     "date": "через 15 лет",
+     "text": "некому выбирать профессию",
+     "hot": true
+    },
+    {
+     "date": "через 20 лет",
+     "text": "некому платить налоги"
+    }
+   ]
+  }
+ }
+]
