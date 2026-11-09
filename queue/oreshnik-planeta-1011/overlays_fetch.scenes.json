@@ -1,0 +1,60 @@
+{
+ "scenes": [
+  {
+   "id": 7,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "баллистическая ракета Орешник на пусковой установке 2024",
+   "visual_prompt": "баллистическая ракета Орешник на пусковой установке 2024"
+  },
+  {
+   "id": 12,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский выступает в Киеве 2026",
+   "visual_prompt": "Владимир Зеленский выступает в Киеве 2026"
+  },
+  {
+   "id": 19,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "обломки сбитого дрона на улице Киева 2026",
+   "visual_prompt": "обломки сбитого дрона на улице Киева 2026"
+  },
+  {
+   "id": 25,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "сотрудники территориального центра комплектования на улице Киев 2026",
+   "visual_prompt": "сотрудники территориального центра комплектования на улице Киев 2026"
+  },
+  {
+   "id": 37,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "Виталий Кличко мэр Киева 2026",
+   "visual_prompt": "Виталий Кличко мэр Киева 2026"
+  },
+  {
+   "id": 41,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "зарядная станция для электромобилей в Киеве 2026",
+   "visual_prompt": "зарядная станция для электромобилей в Киеве 2026"
+  },
+  {
+   "id": 62,
+   "text": "",
+   "duration_sec": 4,
+   "source": "press_photo",
+   "source_query": "воробьи на проводах зимой",
+   "visual_prompt": "воробьи на проводах зимой"
+  }
+ ]
+}
