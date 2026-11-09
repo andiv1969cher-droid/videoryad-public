@@ -1,0 +1,85 @@
+{
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "url": "https://t.me/ZeRada1/32961",
+  "side": "right",
+  "anchor": "top"
+ },
+ "47": {
+  "photo": "overlays/scene_047.jpg",
+  "url": "https://t.me/ZeRada1/32958",
+  "side": "right",
+  "anchor": "top"
+ },
+ "55": {
+  "photo": "overlays/scene_055.jpg",
+  "url": "https://t.me/ZeRada1/32958",
+  "side": "right",
+  "anchor": "top"
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "pop",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "ding",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "19": {
+  "photo": "overlays/scene_019.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "25": {
+  "photo": "overlays/scene_025.jpg",
+  "sound": "pop",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "37": {
+  "photo": "overlays/scene_037.jpg",
+  "sound": "ding",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "whoosh",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "59": {
+  "photo": "overlays/scene_059.jpg",
+  "sound": "pop",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "62": {
+  "photo": "overlays/scene_062.jpg",
+  "sound": "ding",
+  "at": 2.5,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "anchor": "bottom"
+}
