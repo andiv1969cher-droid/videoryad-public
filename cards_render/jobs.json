@@ -1,373 +1,385 @@
 [
  {
-  "scene": 2,
-  "view": "poster.poster",
-  "dur": 11.95,
-  "anim": 11.95,
-  "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "scene": 6,
+  "view": "paper_typed",
+  "dur": 9.7,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "Стол поставили. Садиться отказались",
-   "hero_photo": "cards/photo/nauseda.jpg",
-   "bottom": "А дальше-то что у вас по плану?",
-   "facts": [
-    {
-     "label": "Повестка",
-     "value": "готова"
-    },
-    {
-     "label": "Телефоны",
-     "value": "проверены"
-    },
-    {
-     "label": "Ответ Европы",
-     "value": "разговор начинать нельзя"
-    }
-   ],
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 5,
-  "view": "cinematic.depth_of_field",
-  "dur": 12.4,
-  "anim": 12.4,
-  "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "photo": "images/scene_005.jpg",
-   "title": "А сколько у них дивизий?",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 8,
-  "view": "charts.cartogram",
-  "dur": 14.677,
-  "anim": 14.677,
-  "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "data": [
-    "Эстония",
-    "Литва",
-    "США"
-   ],
-   "mode": "bubble",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "text": "Гарантии безопасности: нерасширение НАТО, отвод сил, запрет на размещение ударных систем у границ",
+   "kick": "ДЕКАБРЬ ДВАДЦАТЬ ПЕРВОГО",
+   "title": "Пакет требований",
+   "source": "МИД России",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 11,
-  "view": "marker_serif",
-  "dur": 15.169,
-  "anim": 15.169,
+  "view": "vyrezka.gazeta",
+  "dur": 9.4,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Не капитуляция и не подарок Москве. Это правила между теми, кто не доверяет",
-   "accent": "правила между теми, кто не доверяет",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "photo": "images/scene_011.jpg",
+   "author": "РУСТЕМ УМЕРОВ",
+   "role": "секретарь СНБО Украины",
+   "kick": "кто в делегации",
+   "title": "Украинская сторона",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 15,
-  "view": "duel",
-  "dur": 14.0,
-  "anim": 14.0,
-  "tail_zoom": 0.035,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "scene": 16,
+  "view": "marker_serif",
+  "dur": 10.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "title": "Два ответа на один вопрос",
+   "text": "Война закончится, а Украина станет немного другой",
+   "accent": "немного другой",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "charts.cartogram",
+  "dur": 12.0,
+  "anim": 12.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Москва",
+    "Вашингтон",
+    "Брюссель"
+   ],
+   "kick": "КТО РЕШАЕТ",
+   "title": "Принцип нескольких держав",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "pull",
+  "dur": 12.35,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Европейская архитектура безопасности уже существует: НАТО и Евросоюз играют в ней свои роли",
+   "author": "Кая Каллас",
+   "role": "глава евродипломатии ЕС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "cinematic.depth_of_field",
+  "dur": 11.74,
+  "anim": 11.74,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "images/scene_036.jpg",
+   "title": "Рим говорит вслух: единства нет",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 40,
+  "view": "duel",
+  "dur": 12.34,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "СОВЕТ РОССИЯ — НАТО",
    "top": {
     "who": "",
-    "text": "У Европы уже есть НАТО и Евросоюз, менять систему незачем",
+    "text": "Площадка, где Москва и Альянс разбирают безопасность вместе",
     "accent": null,
     "source": ""
    },
    "bottom": {
     "who": "",
-    "text": "Тогда зачем понадобилась американская инициатива о новых правилах",
+    "text": "Последнее заседание — январь две тысячи двадцать второго",
     "accent": null,
     "source": ""
    },
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 18,
+  "scene": 45,
   "view": "photo",
-  "dur": 9.7,
-  "anim": 9.7,
+  "dur": 12.14,
+  "anim": 12.14,
   "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-   "photo": "images/scene_018.jpg",
-   "title": "Менять нечего?",
+   "watermark": "ПЛАНЕТА",
+   "photo": "images/scene_045.jpg",
+   "title": "Девяносто седьмой",
    "lines": [
-    "НАТО уже построено",
-    "Евросоюз уже построен",
-    "Значит, обсуждать незачем"
+    "Больше не противники — так заявили обе стороны",
+    "Расширение шло без баз у границ"
    ]
   }
  },
  {
-  "scene": 21,
-  "view": "vyrezka.gazeta",
-  "dur": 15.3,
-  "anim": 15.3,
+  "scene": 50,
+  "view": "film.film_single",
+  "dur": 10.94,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "images/scene_021.jpg",
-   "author": "КРИСТЕН МИХАЛ",
-   "role": "премьер-министр Эстонии",
-   "kick": "кто говорит",
-   "title": "Таллин",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "photo": "images/scene_050.jpg",
+   "kick": "ТОГДА",
+   "title": "Парад, оркестр, гости",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 25,
+  "scene": 54,
+  "view": "timeline",
+  "dur": 12.54,
+  "anim": 12.54,
+  "tail_zoom": 0.06,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "kick": "КАК ЭТО ШЛО",
+   "watermark": "ПЛАНЕТА",
+   "events": [
+    {
+     "date": "1997",
+     "text": "Основополагающий акт"
+    },
+    {
+     "date": "2004",
+     "text": "расширение НАТО"
+    },
+    {
+     "date": "2021",
+     "text": "требования Москвы",
+     "hot": true
+    },
+    {
+     "date": "2022",
+     "text": "последнее заседание"
+    },
+    {
+     "date": "2026",
+     "text": "Рябков снова за столом",
+     "hot": true
+    }
+   ]
+  }
+ },
+ {
+  "scene": 63,
   "view": "bars",
-  "dur": 7.8,
-  "anim": 7.8,
+  "dur": 12.94,
+  "anim": 12.94,
   "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {},
   "mode": "cli",
   "script": "build_chart_bars.py",
   "cfg": {
-   "title": "Что умеют санкции",
+   "title": "Три уровня «другой формы»",
    "caption": "",
-   "seconds": 7.8,
+   "seconds": 12.94,
    "bars": [
     {
-     "label": "УЩЕРБ",
-     "value": 0.85,
-     "color": "06C7C7"
+     "label": "ТЕРРИТОРИЯ",
+     "value": 0.45,
+     "color": "4A90E2"
     },
     {
-     "label": "ЦЕНА РЕШЕНИЙ",
-     "value": 0.7,
-     "color": "EABD23"
+     "label": "ВОЕННЫЙ СТАТУС",
+     "value": 0.75,
+     "color": "48BB78"
     },
     {
-     "label": "ОТВЕТ, ЧЕМ ЗАКОНЧИТСЯ",
-     "value": 0.1,
+     "label": "УСТРОЙСТВО ГОСУДАРСТВА",
+     "value": 1.0,
      "color": "84848A"
     }
    ]
   }
  },
  {
-  "scene": 29,
-  "view": "vyrezka.figura",
-  "dur": 18.5,
-  "anim": 18.5,
-  "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "photo": "images/scene_029.jpg",
-   "author": "ДОНАЛЬД ТРАМП",
-   "role": "президент США",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
- },
- {
-  "scene": 33,
-  "view": "split",
-  "dur": 12.0,
-  "anim": 12.0,
-  "tail_zoom": 0.06,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "photo": "images/scene_033.jpg",
-   "text": "Вопросы безопасности Европы нельзя обсуждать без Восточной Европы",
-   "author": "Радослав Сикорский",
-   "role": "глава МИД Польши",
-   "accent": "нельзя обсуждать без Восточной",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
- },
- {
-  "scene": 36,
-  "view": "paper_typed",
-  "dur": 17.326,
-  "anim": 17.326,
-  "tail_zoom": 0.04,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "text": "Кто контролирует выполнение условий. Какие гарантии получает каждая сторона. Что считается нарушением. Кто связывается с кем во время кризиса",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
- },
- {
-  "scene": 39,
-  "view": "cinematic.evidence_wall",
-  "dur": 14.1,
-  "anim": 14.1,
-  "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "shots": [
-    [
-     "cards/photo/d027.jpg",
-     240,
-     380,
-     -4,
-     "Пабраде: бронемашины"
-    ],
-    [
-     "cards/photo/d049.jpg",
-     800,
-     380,
-     3,
-     "Варшава: ПВО"
-    ],
-    [
-     "cards/photo/d055.jpg",
-     1360,
-     380,
-     -2,
-     "Жешув: переброска"
-    ]
-   ],
-   "title": "Круг, который не разрывается",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 42,
-  "view": "film.film_single",
-  "dur": 16.4,
-  "anim": 16.4,
-  "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "photo": "images/scene_042.jpg",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
- },
- {
-  "scene": 45,
-  "view": "film.film_strip",
-  "dur": 18.913,
-  "anim": 18.913,
-  "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
-  "kwargs": {
-   "shots": [
-    "cards/photo/d040.jpg",
-    "cards/photo/d025.jpg",
-    "cards/photo/d058.jpg"
-   ],
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
- },
- {
-  "scene": 48,
+  "scene": 65,
   "view": "slider",
-  "dur": 14.039,
-  "anim": 14.039,
+  "dur": 11.54,
+  "anim": 11.54,
   "tail_zoom": 0.0,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {},
   "mode": "cli",
   "script": "build_chart_slider.py",
   "cfg": {
-   "title": "Громкость давления",
+   "title": "Насколько глубока правка",
    "min": 0.0,
    "max": 100.0,
-   "low": 20.0,
+   "low": 15.0,
    "high": 95.0,
-   "marker_value": 90.0,
-   "marker_display": "90",
-   "seconds": 14.0,
+   "marker_value": 80.0,
+   "marker_display": "80",
+   "seconds": 11.54,
    "range_label": "РАЗБРОС ОЦЕНОК",
    "caption": "",
    "source": ""
   }
  },
  {
-  "scene": 51,
-  "view": "charts.pie",
-  "dur": 15.4,
-  "anim": 15.4,
+  "scene": 70,
+  "view": "cinematic.dossier",
+  "dur": 12.54,
+  "anim": 12.54,
   "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "segments": [
+   "case": "РОССИЙСКАЯ ГРУППА",
+   "rows": [
+    "Мединский — глава делегации",
+    "Рябков — стратегическая стабильность и США",
+    "Галузин — украинское направление МИД"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/scene_070.jpg",
+   "stamp": "РАСШИРЕНА",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 74,
+  "view": "film.film_strip",
+  "dur": 10.94,
+  "anim": 10.94,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_12.jpg",
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/234 (2).jpg",
+    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_14.jpg"
+   ],
+   "kick": "КАК ЭТО ВЫГЛЯДИТ",
+   "title": "Стол, флаги, подписи",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.94,
+  "anim": 12.94,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    [
+     "dossier/OstashkoNews_228151_f0.jpg",
+     240,
+     380,
+     -4,
+     "Москва ищет посредника"
+    ],
+    [
+     "dossier/OstashkoNews_227826_f0.jpg",
+     800,
+     380,
+     3,
+     "Вашингтон задаёт рамку"
+    ],
+    [
+     "images/scene_079.jpg",
+     1360,
+     380,
+     -2,
+     "Ялта, сорок пятый"
+    ]
+   ],
+   "kick": "ЧТО С ЧЕМ СВЯЗАНО",
+   "title": "Ялта, Париж, Абу-Даби — одна линия",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 85,
+  "view": "poster.poster",
+  "dur": 12.14,
+  "anim": 12.14,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "Вашингтон говорит с Москвой напрямую",
+   "hero_photo": "/home/andrey/projects/media-library/ПОЛИТИКА/ВИТКОФФ-КУШНЕР/кушнеш и уитков в москве2.jpg",
+   "features": [
     {
-     "label": "Армия",
-     "value": 35.0
+     "text": "Европа узнаёт о решениях после"
     },
     {
-     "label": "Экономика",
-     "value": 30.0
-    },
-    {
-     "label": "Ресурсы",
-     "value": 20.0
-    },
-    {
-     "label": "Готовность общества",
-     "value": 15.0
+     "text": "Форматы множатся, позиции нет"
     }
    ],
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
-  }
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
  },
  {
-  "scene": 54,
-  "view": "charts.cartogram",
-  "dur": 15.631,
-  "anim": 15.631,
+  "scene": 93,
+  "view": "vyrezka.figura",
+  "dur": 12.14,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "data": [
-    "Украина",
-    "Польша",
-    "Эстония",
-    "Литва",
-    "Финляндия"
-   ],
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "photo": "images/scene_093.jpg",
+   "author": "СЕРГЕЙ РЯБКОВ",
+   "role": "заместитель министра иностранных дел России",
+   "kick": "вернулся за стол",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 61,
-  "view": "pull",
-  "dur": 13.499,
-  "anim": 13.499,
-  "tail_zoom": 0.05,
-  "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
-  "channel": "ПЕРЕВОД с ДИПЛОМАТИЧЕСКОГО",
+  "scene": 100,
+  "view": "split",
+  "dur": 13.01,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Если ответа нет, Европа защищает уже не план победы, а право не признавать, что прежний план остался без своего главного участника",
-   "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО"
+   "text": "После соглашения Украина будет немного другой формы",
+   "author": "Дональд Трамп",
+   "role": "президент США",
+   "photo": "images/scene_100.jpg",
+   "watermark": "ПЛАНЕТА"
   }
  }
 ]
