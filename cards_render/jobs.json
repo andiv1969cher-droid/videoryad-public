@@ -1,0 +1,349 @@
+[
+ {
+  "scene": 3,
+  "view": "marker_serif",
+  "dur": 13.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Сколько ещё этот хор сможет изображать единство",
+   "accent": "изображать единство",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 5,
+  "view": "split",
+  "dur": 12.2,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_005.jpg",
+   "text": "Не согласую следующий бюджет Евросоюза, если финансировать Украину будут не все",
+   "author": "Фридрих Мерц",
+   "role": "канцлер Германии",
+   "accent": "Евросоюза, если финансировать",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 10,
+  "view": "charts.cartogram",
+  "dur": 10.08,
+  "anim": 10.08,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Венгрия",
+    "Словакия",
+    "Германия",
+    "Украина"
+   ],
+   "title": "Кто не хочет новых обязательств",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "vyrezka.figura",
+  "dur": 8.24,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_016.mp4",
+   "author": "ВЛАДИМИР ПУТИН",
+   "role": "президент России",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 20,
+  "view": "vyrezka.gazeta",
+  "dur": 8.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_020.jpg",
+   "author": "ФРИДРИХ МЕРЦ",
+   "role": "канцлер Германии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "charts.line",
+  "dur": 13.52,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "x_labels": [
+    "2026",
+    "2027",
+    "2028"
+   ],
+   "series": [
+    {
+     "name": "Календарь планов",
+     "values": [
+      0.3,
+      0.6,
+      1.0
+     ]
+    }
+   ],
+   "title": "Календарь планов",
+   "source": "Совет Евросоюза",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "slider",
+  "dur": 14.76,
+  "anim": 14.76,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Сколько может длиться отключение, дней",
+   "min": 0.0,
+   "max": 14.0,
+   "low": 3.0,
+   "high": 14.0,
+   "marker_value": 5.0,
+   "marker_display": "5",
+   "seconds": 14.76,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 30,
+  "view": "bars",
+  "dur": 11.52,
+  "anim": 11.52,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Ракеты и перехватчики: кто быстрее",
+   "caption": "",
+   "seconds": 11.52,
+   "bars": [
+    {
+     "label": "ПРОИЗВОДСТВО РАКЕТ",
+     "value": 0.9,
+     "color": "EABD23"
+    },
+    {
+     "label": "ВЫПУСК ПЕРЕХВАТЧИКОВ",
+     "value": 0.45,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 32,
+  "view": "poster.poster",
+  "dur": 14.16,
+  "anim": 14.16,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "Два горизонта планирования",
+   "hero_photo": "cards/photo/card_032.jpg",
+   "facts": [
+    {
+     "label": "наверху",
+     "value": "планы до 2028"
+    },
+    {
+     "label": "внизу",
+     "value": "горизонт до вечера"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 36,
+  "view": "film.film_strip",
+  "dur": 15.75,
+  "anim": 15.75,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_036.jpg",
+    "cards/photo/card_036_2.jpg",
+    "cards/photo/card_036_3.jpg"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "charts.waterfall",
+  "dur": 13.68,
+  "anim": 13.68,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "PAC-2 Германия 2027",
+    "value": 0.5
+   },
+   "steps": [
+    {
+     "label": "PAC-2 Германия 2028",
+     "value": 0.4
+    },
+    {
+     "label": "PAC-3 Польша",
+     "value": 0.3
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "title": "Поставки ракет Патриот",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "film.film_single",
+  "dur": 13.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_045.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "cinematic.evidence_wall",
+  "dur": 12.92,
+  "anim": 12.92,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_048.jpg",
+     240,
+     380,
+     -4,
+     "свет"
+    ],
+    [
+     "cards/photo/card_048_2.jpg",
+     800,
+     380,
+     3,
+     "вода"
+    ],
+    [
+     "cards/photo/card_048_3.jpg",
+     1360,
+     380,
+     -2,
+     "тепло"
+    ]
+   ],
+   "title": "Что нужно городу раньше геополитики",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 50,
+  "view": "pull",
+  "dur": 13.28,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Удары направлены на то, чтобы оставить крупные города без света надолго",
+   "author": "Андриан Прокип",
+   "role": "энергетический эксперт",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "quote",
+  "dur": 14.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Голосованием нельзя приказать городу спокойно сидеть две недели без света",
+   "author": "Из выпуска",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.76,
+  "anim": 12.76,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_059.jpg",
+   "title": "Вопрос снизу: почему дома холодно сейчас",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 62,
+  "view": "photo",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_062.jpg",
+   "title": "Встречи продолжаются",
+   "lines": [
+    "новые площадки",
+    "прежний результат"
+   ]
+  }
+ }
+]
