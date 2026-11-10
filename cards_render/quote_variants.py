@@ -327,7 +327,21 @@ def quote_split(out=None, photo="", text="", author="", role="", source="",
     half = 884
     col = sc.SPEAKER_COLORS[speaker_idx % len(sc.SPEAKER_COLORS)]
 
-    if photo and os.path.exists(photo):
+    # ПРОПАВШЕЕ ФОТО — ЭТО ОТКАЗ, А НЕ ЧЁРНАЯ ПОЛОВИНА (09.11, улов вкладки
+    # `usuario-2c`, сцена 100 ролика `planeta-ukraina-forma-1011`). Здесь
+    # стояло `if photo and os.path.exists(photo)` — и файл, пропавший между
+    # постановкой карточки и прогоном, просто НЕ РИСОВАЛСЯ: сплит уезжал в
+    # ролик с чёрной левой половиной, прогон отчитывался успехом, `selfcheck`
+    # молчал (клип на месте, длительность сходится), а пользователь увидел на
+    # дашборде цитату Трампа без самого Трампа. Остальные виды арсенала на
+    # пропавшем файле честно падают (`_fit` бросает), и это правильно: сцену
+    # видно в отчёте прогона. Теперь так же ведёт себя и сплит.
+    if photo and not os.path.exists(photo):
+        raise FileNotFoundError(
+            "сплиту нечего показать слева: нет файла снимка %s. "
+            "Карточка с пустой половиной в ролик не идёт — положи снимок в "
+            "cards/photo/ и переставь карточку." % photo)
+    if photo:
         ph = Image.open(photo).convert("RGB")
         k = max(half / ph.width, H / ph.height)
         ph = ph.resize((int(ph.width * k), int(ph.height * k)), Image.LANCZOS)

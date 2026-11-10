@@ -1,385 +1,349 @@
 [
  {
-  "scene": 6,
-  "view": "paper_typed",
-  "dur": 9.7,
-  "anim": 2.8,
-  "tail_zoom": 0.04,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "scene": 3,
+  "view": "marker_serif",
+  "dur": 13.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "Гарантии безопасности: нерасширение НАТО, отвод сил, запрет на размещение ударных систем у границ",
-   "kick": "ДЕКАБРЬ ДВАДЦАТЬ ПЕРВОГО",
-   "title": "Пакет требований",
-   "source": "МИД России",
-   "watermark": "ПЛАНЕТА"
+   "text": "Сколько ещё этот хор сможет изображать единство",
+   "accent": "изображать единство",
+   "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 11,
-  "view": "vyrezka.gazeta",
-  "dur": 9.4,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "scene": 5,
+  "view": "split",
+  "dur": 12.2,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "photo": "images/scene_011.jpg",
-   "author": "РУСТЕМ УМЕРОВ",
-   "role": "секретарь СНБО Украины",
-   "kick": "кто в делегации",
-   "title": "Украинская сторона",
-   "watermark": "ПЛАНЕТА"
+   "photo": "cards/photo/card_005.jpg",
+   "text": "Не согласую следующий бюджет Евросоюза, если финансировать Украину будут не все",
+   "author": "Фридрих Мерц",
+   "role": "канцлер Германии",
+   "accent": "Евросоюза, если финансировать",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 10,
+  "view": "charts.cartogram",
+  "dur": 10.08,
+  "anim": 10.08,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Венгрия",
+    "Словакия",
+    "Германия",
+    "Украина"
+   ],
+   "title": "Кто не хочет новых обязательств",
+   "watermark": "5 МИНУТ"
   }
  },
  {
   "scene": 16,
-  "view": "marker_serif",
-  "dur": 10.0,
+  "view": "vyrezka.figura",
+  "dur": 8.24,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "Война закончится, а Украина станет немного другой",
-   "accent": "немного другой",
-   "watermark": "ПЛАНЕТА"
+   "photo": "cards/photo/card_016.mp4",
+   "author": "ВЛАДИМИР ПУТИН",
+   "role": "президент России",
+   "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 22,
-  "view": "charts.cartogram",
-  "dur": 12.0,
-  "anim": 12.0,
+  "scene": 20,
+  "view": "vyrezka.gazeta",
+  "dur": 8.96,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "data": [
-    "Москва",
-    "Вашингтон",
-    "Брюссель"
+   "photo": "cards/photo/card_020.jpg",
+   "author": "ФРИДРИХ МЕРЦ",
+   "role": "канцлер Германии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "charts.line",
+  "dur": 13.52,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "x_labels": [
+    "2026",
+    "2027",
+    "2028"
    ],
-   "kick": "КТО РЕШАЕТ",
-   "title": "Принцип нескольких держав",
-   "watermark": "ПЛАНЕТА"
-  }
- },
- {
-  "scene": 31,
-  "view": "pull",
-  "dur": 12.35,
-  "anim": 2.6,
-  "tail_zoom": 0.05,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "text": "Европейская архитектура безопасности уже существует: НАТО и Евросоюз играют в ней свои роли",
-   "author": "Кая Каллас",
-   "role": "глава евродипломатии ЕС",
-   "watermark": "ПЛАНЕТА"
-  }
- },
- {
-  "scene": 36,
-  "view": "cinematic.depth_of_field",
-  "dur": 11.74,
-  "anim": 11.74,
-  "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "photo": "images/scene_036.jpg",
-   "title": "Рим говорит вслух: единства нет",
-   "watermark": "ПЛАНЕТА"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 40,
-  "view": "duel",
-  "dur": 12.34,
-  "anim": 3.2,
-  "tail_zoom": 0.035,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "kick": "СОВЕТ РОССИЯ — НАТО",
-   "top": {
-    "who": "",
-    "text": "Площадка, где Москва и Альянс разбирают безопасность вместе",
-    "accent": null,
-    "source": ""
-   },
-   "bottom": {
-    "who": "",
-    "text": "Последнее заседание — январь две тысячи двадцать второго",
-    "accent": null,
-    "source": ""
-   },
-   "watermark": "ПЛАНЕТА"
-  }
- },
- {
-  "scene": 45,
-  "view": "photo",
-  "dur": 12.14,
-  "anim": 12.14,
-  "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "watermark": "ПЛАНЕТА",
-   "photo": "images/scene_045.jpg",
-   "title": "Девяносто седьмой",
-   "lines": [
-    "Больше не противники — так заявили обе стороны",
-    "Расширение шло без баз у границ"
-   ]
-  }
- },
- {
-  "scene": 50,
-  "view": "film.film_single",
-  "dur": 10.94,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "photo": "images/scene_050.jpg",
-   "kick": "ТОГДА",
-   "title": "Парад, оркестр, гости",
-   "watermark": "ПЛАНЕТА"
-  }
- },
- {
-  "scene": 54,
-  "view": "timeline",
-  "dur": 12.54,
-  "anim": 12.54,
-  "tail_zoom": 0.06,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "kick": "КАК ЭТО ШЛО",
-   "watermark": "ПЛАНЕТА",
-   "events": [
+   "series": [
     {
-     "date": "1997",
-     "text": "Основополагающий акт"
-    },
-    {
-     "date": "2004",
-     "text": "расширение НАТО"
-    },
-    {
-     "date": "2021",
-     "text": "требования Москвы",
-     "hot": true
-    },
-    {
-     "date": "2022",
-     "text": "последнее заседание"
-    },
-    {
-     "date": "2026",
-     "text": "Рябков снова за столом",
-     "hot": true
+     "name": "Календарь планов",
+     "values": [
+      0.3,
+      0.6,
+      1.0
+     ]
     }
-   ]
+   ],
+   "title": "Календарь планов",
+   "source": "Совет Евросоюза",
+   "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 63,
-  "view": "bars",
-  "dur": 12.94,
-  "anim": 12.94,
-  "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {},
-  "mode": "cli",
-  "script": "build_chart_bars.py",
-  "cfg": {
-   "title": "Три уровня «другой формы»",
-   "caption": "",
-   "seconds": 12.94,
-   "bars": [
-    {
-     "label": "ТЕРРИТОРИЯ",
-     "value": 0.45,
-     "color": "4A90E2"
-    },
-    {
-     "label": "ВОЕННЫЙ СТАТУС",
-     "value": 0.75,
-     "color": "48BB78"
-    },
-    {
-     "label": "УСТРОЙСТВО ГОСУДАРСТВА",
-     "value": 1.0,
-     "color": "84848A"
-    }
-   ]
-  }
- },
- {
-  "scene": 65,
+  "scene": 27,
   "view": "slider",
-  "dur": 11.54,
-  "anim": 11.54,
+  "dur": 14.76,
+  "anim": 14.76,
   "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {},
   "mode": "cli",
   "script": "build_chart_slider.py",
   "cfg": {
-   "title": "Насколько глубока правка",
+   "title": "Сколько может длиться отключение, дней",
    "min": 0.0,
-   "max": 100.0,
-   "low": 15.0,
-   "high": 95.0,
-   "marker_value": 80.0,
-   "marker_display": "80",
-   "seconds": 11.54,
+   "max": 14.0,
+   "low": 3.0,
+   "high": 14.0,
+   "marker_value": 5.0,
+   "marker_display": "5",
+   "seconds": 14.76,
    "range_label": "РАЗБРОС ОЦЕНОК",
    "caption": "",
    "source": ""
   }
  },
  {
-  "scene": 70,
-  "view": "cinematic.dossier",
-  "dur": 12.54,
-  "anim": 12.54,
-  "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "case": "РОССИЙСКАЯ ГРУППА",
-   "rows": [
-    "Мединский — глава делегации",
-    "Рябков — стратегическая стабильность и США",
-    "Галузин — украинское направление МИД"
-   ],
-   "title": "ДОСЬЕ",
-   "photo": "images/card070.jpg",
-   "stamp": "РАСШИРЕНА",
-   "watermark": "ПЛАНЕТА"
+  "scene": 30,
+  "view": "bars",
+  "dur": 11.52,
+  "anim": 11.52,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Ракеты и перехватчики: кто быстрее",
+   "caption": "",
+   "seconds": 11.52,
+   "bars": [
+    {
+     "label": "ПРОИЗВОДСТВО РАКЕТ",
+     "value": 0.9,
+     "color": "EABD23"
+    },
+    {
+     "label": "ВЫПУСК ПЕРЕХВАТЧИКОВ",
+     "value": 0.45,
+     "color": "B92526"
+    }
+   ]
   }
  },
  {
-  "scene": 74,
+  "scene": 32,
+  "view": "poster.poster",
+  "dur": 14.16,
+  "anim": 14.16,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "Два горизонта планирования",
+   "hero_photo": "cards/photo/card_032.jpg",
+   "facts": [
+    {
+     "label": "наверху",
+     "value": "планы до 2028"
+    },
+    {
+     "label": "внизу",
+     "value": "горизонт до вечера"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 36,
   "view": "film.film_strip",
-  "dur": 10.94,
-  "anim": 10.94,
+  "dur": 15.75,
+  "anim": 15.75,
   "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
    "shots": [
-    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_12.jpg",
-    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/234 (2).jpg",
-    "/home/andrey/projects/media-library/ПОЛИТИКА/Украина-РФ-Переговоры/Screenshot_14.jpg"
+    "cards/photo/card_036.jpg",
+    "cards/photo/card_036_2.jpg",
+    "cards/photo/card_036_3.jpg"
    ],
-   "kick": "КАК ЭТО ВЫГЛЯДИТ",
-   "title": "Стол, флаги, подписи",
-   "watermark": "ПЛАНЕТА"
+   "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 79,
+  "scene": 43,
+  "view": "charts.waterfall",
+  "dur": 13.68,
+  "anim": 13.68,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "PAC-2 Германия 2027",
+    "value": 0.5
+   },
+   "steps": [
+    {
+     "label": "PAC-2 Германия 2028",
+     "value": 0.4
+    },
+    {
+     "label": "PAC-3 Польша",
+     "value": 0.3
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "title": "Поставки ракет Патриот",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "film.film_single",
+  "dur": 13.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_045.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
   "view": "cinematic.evidence_wall",
-  "dur": 12.94,
-  "anim": 12.94,
+  "dur": 12.92,
+  "anim": 12.92,
   "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
    "shots": [
     [
-     "dossier/OstashkoNews_228151_f0.jpg",
+     "cards/photo/card_048.jpg",
      240,
      380,
      -4,
-     "Москва ищет посредника"
+     "свет"
     ],
     [
-     "dossier/OstashkoNews_227826_f0.jpg",
+     "cards/photo/card_048_2.jpg",
      800,
      380,
      3,
-     "Вашингтон задаёт рамку"
+     "вода"
     ],
     [
-     "images/scene_079.jpg",
+     "cards/photo/card_048_3.jpg",
      1360,
      380,
      -2,
-     "Ялта, сорок пятый"
+     "тепло"
     ]
    ],
-   "kick": "ЧТО С ЧЕМ СВЯЗАНО",
-   "title": "Ялта, Париж, Абу-Даби — одна линия",
-   "watermark": "ПЛАНЕТА"
+   "title": "Что нужно городу раньше геополитики",
+   "watermark": "5 МИНУТ"
   },
   "mode": "frame"
  },
  {
-  "scene": 85,
-  "view": "poster.poster",
-  "dur": 12.14,
-  "anim": 12.14,
-  "tail_zoom": 0.0,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
-  "kwargs": {
-   "title": "Вашингтон говорит с Москвой напрямую",
-   "hero_photo": "/home/andrey/projects/media-library/ПОЛИТИКА/ВИТКОФФ-КУШНЕР/кушнеш и уитков в москве2.jpg",
-   "features": [
-    {
-     "text": "Европа узнаёт о решениях после"
-    },
-    {
-     "text": "Форматы множатся, позиции нет"
-    }
-   ],
-   "watermark": "ПЛАНЕТА"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 93,
-  "view": "vyrezka.figura",
-  "dur": 12.14,
+  "scene": 50,
+  "view": "pull",
+  "dur": 13.28,
   "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "photo": "images/scene_093.jpg",
-   "author": "СЕРГЕЙ РЯБКОВ",
-   "role": "заместитель министра иностранных дел России",
-   "kick": "вернулся за стол",
-   "watermark": "ПЛАНЕТА"
+   "text": "Удары направлены на то, чтобы оставить крупные города без света надолго",
+   "author": "Андриан Прокип",
+   "role": "энергетический эксперт",
+   "watermark": "5 МИНУТ"
   }
  },
  {
-  "scene": 100,
-  "view": "split",
-  "dur": 13.01,
+  "scene": 56,
+  "view": "quote",
+  "dur": 14.64,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "ПЛАНЕТА",
-  "channel": "ПЛАНЕТА",
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
   "kwargs": {
-   "text": "После соглашения Украина будет немного другой формы",
-   "author": "Дональд Трамп",
-   "role": "президент США",
-   "photo": "images/card100.jpg",
-   "watermark": "ПЛАНЕТА"
+   "text": "Голосованием нельзя приказать городу спокойно сидеть две недели без света",
+   "author": "Из выпуска",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "cinematic.depth_of_field",
+  "dur": 12.76,
+  "anim": 12.76,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_059.jpg",
+   "title": "Вопрос снизу: почему дома холодно сейчас",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 62,
+  "view": "photo",
+  "dur": 10.8,
+  "anim": 10.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_062.jpg",
+   "title": "Встречи продолжаются",
+   "lines": [
+    "новые площадки",
+    "прежний результат"
+   ]
   }
  }
 ]
