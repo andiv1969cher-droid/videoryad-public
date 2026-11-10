@@ -58,7 +58,7 @@
   "watermark": "5 МИНУТ",
   "channel": "5 МИНУТ",
   "kwargs": {
-   "photo": "cards/photo/card_016.mp4",
+   "photo": "cards/photo/card_016.jpg",
    "author": "ВЛАДИМИР ПУТИН",
    "role": "президент России",
    "watermark": "5 МИНУТ"
