@@ -1,0 +1,380 @@
+{
+  "6": {
+    "photo": "overlays/scene_006.jpg",
+    "sound": "whoosh",
+    "at": 3.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true,
+    "dash_ok": true
+  },
+  "25": {
+    "photo": "overlays/scene_025.jpg",
+    "sound": "pop",
+    "at": 3.0,
+    "text": {
+      "words": "НЕСКОЛЬКО ЧАСОВ БЕЗ СВЕТА",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "29": {
+    "photo": "overlays/scene_029.jpg",
+    "sound": "ding",
+    "at": 3.0,
+    "approved": true,
+    "dash_ok": true,
+    "style": "right",
+    "anchor": "top",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "35": {
+    "photo": "overlays/scene_035.jpg",
+    "sound": "mashinka",
+    "at": 3.0,
+    "text": {
+      "words": "УСТУПКИ ОБСУЖДАЮТСЯ",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "42": {
+    "photo": "overlays/scene_042.jpg",
+    "sound": "mashinka",
+    "at": 3.0,
+    "style": "left",
+    "anchor": "middle",
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true,
+    "dash_ok": true
+  },
+  "55": {
+    "photo": "overlays/scene_055.jpg",
+    "sound": "pop",
+    "at": 3.0,
+    "style": "left",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "44": {
+    "photo": "overlays/scene_044.jpg",
+    "sound": "ding",
+    "at": 3.0,
+    "text": {
+      "words": "PAC-3 В ПОЛЬШЕ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "style": "left",
+    "anchor": "top",
+    "approved": true,
+    "dash_ok": true,
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "anchor": "top",
+  "1": {
+    "text": {
+      "words": "ЕВРОПЕЙСКИЙ ХОР",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "4": {
+    "text": {
+      "words": "КАК ДОЛЖНО ВЫГЛЯДЕТЬ ЕДИНСТВО",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "7": {
+    "text": {
+      "words": "ШАНТАЖ ВЕДЁТ БЕРЛИН",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "9": {
+    "text": {
+      "words": "ВЫКРУЧИВАЮТ РУКИ СОЮЗНИКАМ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "11": {
+    "text": {
+      "words": "ДЕНЬГИ НА ГОДЫ ВПЕРЁД",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "13": {
+    "text": {
+      "words": "НЕСОГЛАСНЫХ МОЖНО НЕ СЛУШАТЬ",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "15": {
+    "text": {
+      "words": "КИЕВ ГОТОВ ОБСУЖДАТЬ УСТУПКИ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "17": {
+    "text": {
+      "words": "ОДНИ ДОГОВАРИВАЮТСЯ, ДРУГИЕ ВООРУЖАЮТСЯ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "19": {
+    "text": {
+      "words": "СОЮЗНИКИ СМОТРЯТ ПО-РАЗНОМУ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "22": {
+    "text": {
+      "words": "ПЕРЕВОРОТ СНИЗУ",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "26": {
+    "text": {
+      "words": "КИЕВ, ОДЕССА, ДНЕПР",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "28": {
+    "text": {
+      "words": "ГОРОДА БЕЗ ЭЛЕМЕНТАРНОГО",
+      "color": "white",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "31": {
+    "text": {
+      "words": "РАЗГОВОР УЖЕ В РАДЕ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "33": {
+    "text": {
+      "words": "ХОТЬ В АНТАРКТИДЕ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "37": {
+    "text": {
+      "words": "МИССИЯ ПРОДЛЕНА ДО 2028 ГОДА",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "41": {
+    "text": {
+      "words": "РАКЕТ БОЛЬШЕ, ЧЕМ ПЕРЕХВАТЧИКОВ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "46": {
+    "text": {
+      "words": "БЛИЖАЙШАЯ ЗИМА",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "51": {
+    "text": {
+      "words": "ГОРОД СТАНОВИТСЯ ОСТРОВОМ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "54": {
+    "text": {
+      "words": "ИСКАТЬ ОТВЕТСТВЕННОГО НЕДОЛГО",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "57": {
+    "text": {
+      "words": "НАВЕРХУ И ВНИЗУ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "60": {
+    "text": {
+      "words": "ДАВЛЕНИЕ НА ВЕНГРИЮ И СЛОВАКИЮ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pop",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "63": {
+    "text": {
+      "words": "ОДНИ ИЩУТ ДОРОГУ, ДРУГИЕ ДЕРЖАТ КУРС",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "39": {
+    "text": {
+      "words": "КАЛЕНДАРЬ ОТКРЫТ НА 2028",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  }
+}
