@@ -1,0 +1,456 @@
+{
+ "4": {
+  "photo": "overlays/scene_004.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "9": {
+  "photo": "overlays/scene_009.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "style": "up-right",
+  "scale": 0.68,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect"
+ },
+ "13": {
+  "photo": "overlays/scene_013.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "style": "left",
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "22": {
+  "photo": "overlays/scene_022.jpg",
+  "sound": "pshik",
+  "at": 3.0,
+  "style": "up-right",
+  "scale": 0.68,
+  "shape": "rect",
+  "approved": true,
+  "dash_ok": true
+ },
+ "27": {
+  "photo": "overlays/scene_027.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "31": {
+  "photo": "overlays/scene_031.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "style": "right",
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "37": {
+  "photo": "overlays/scene_037.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "style": "up-right",
+  "scale": 0.6,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect"
+ },
+ "41": {
+  "photo": "overlays/scene_041.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "style": "up-left",
+  "scale": 0.68,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect"
+ },
+ "50": {
+  "photo": "overlays/scene_050.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "style": "left",
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect",
+  "scale": 1.0
+ },
+ "56": {
+  "photo": "overlays/scene_056.jpg",
+  "sound": "pshik",
+  "at": 3.0,
+  "style": "right",
+  "scale": 0.6,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect"
+ },
+ "65": {
+  "photo": "overlays/scene_065.jpg",
+  "sound": "pop",
+  "at": 3.0,
+  "style": "up-right",
+  "scale": 0.68,
+  "approved": true,
+  "dash_ok": true,
+  "shape": "rect"
+ },
+ "1": {
+  "text": {
+   "words": "НАМ УЖЕ ВСЁ РАССКАЗАЛИ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "3": {
+  "text": {
+   "words": "ПРИКАЗ: УНИЧТОЖИТЬ МОСТЫ",
+   "color": "white",
+   "pos": "tl",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "6": {
+  "text": {
+   "words": "МОСТ — ЭТО СНАБЖЕНИЕ",
+   "color": "red",
+   "pos": "mc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "7": {
+  "text": {
+   "words": "ДОРОГИ, ЖЕЛЕЗНАЯ ДОРОГА, ПЕРЕПРАВЫ",
+   "color": "orange",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "8": {
+  "text": {
+   "words": "ФОРМУЛЕ ВОЙНЫ НЕ СТО ЛЕТ",
+   "color": "green",
+   "pos": "ml",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "11": {
+  "text": {
+   "words": "ЖИТЕЛЮ КИЕВА НУЖЕН НЕ ДОКЛАД",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "12": {
+  "text": {
+   "words": "ЗНАТЬ ПЛАН — НЕ ЗНАЧИТ ОСТАНОВИТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "15": {
+  "text": {
+   "words": "КРЕЙДЕНКО: БЕЗ МОСТОВ, МЕТРО И СВЕТА",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "17": {
+  "text": {
+   "words": "СНАЧАЛА ПРЕДУПРЕЖДЕНИЕ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "19": {
+  "text": {
+   "words": "ЯРОСЛАВСКИЙ: КИЕВ, ХАРЬКОВ, ОДЕССА",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "20": {
+  "text": {
+   "words": "СНОВА О ПРЕКРАЩЕНИИ ОГНЯ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "23": {
+  "text": {
+   "words": "«МЫ ЗНАЛИ» — ЭТО НЕ ЗАЩИТА",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "25": {
+  "text": {
+   "words": "ЦЕЛЬ — ПИЩЕВАЯ ПРОМЫШЛЕННОСТЬ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "26": {
+  "text": {
+   "words": "ЭЛЕВАТОРЫ, ЗЕРНО, ПЕРЕРАБОТКА",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "29": {
+  "text": {
+   "words": "СПИСКИ ПИСАТЬ УМЕЮТ ВСЕ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "30": {
+  "text": {
+   "words": "ОТ «СПРАВИМСЯ» К «БУДЕТ ТЯЖЕЛО»",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "32": {
+  "text": {
+   "words": "ТЕПЕРЬ НОВОСТИ ПРО ЛЮДЕЙ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "34": {
+  "text": {
+   "words": "УЕЗЖАЮТ СПЕЦИАЛИСТЫ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "35": {
+  "text": {
+   "words": "КТО ОСТАНЕТСЯ ЧЕРЕЗ ПЯТЬ ЛЕТ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "36": {
+  "text": {
+   "words": "ЧЕМОДАН УЖЕ РАСПАКОВАН",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "39": {
+  "text": {
+   "words": "С ОДНОЙ СТОРОНЫ — ТЯЖЁЛАЯ ЗИМА",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "40": {
+  "text": {
+   "words": "СВР: МУЖЧИН ВЕРНУТ ИЗ ЕС",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "42": {
+  "text": {
+   "words": "РЕШЕНИЯ ЕС НЕТ, ЛОГИКА ЕСТЬ",
+   "color": "yellow",
+   "pos": "ml",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "44": {
+  "text": {
+   "words": "ЧТО ДЕЛАТЬ С ТЕМИ, КТО УЕХАЛ",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "45": {
+  "text": {
+   "words": "ГДЕ ПРОХОДИТ ГРАНИЦА",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "46": {
+  "text": {
+   "words": "МОБИЛИЗАЦИОННЫЙ РЕСУРС",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "48": {
+  "text": {
+   "words": "ВОПРОС — ДАДУТ ЛИ ВЫБИРАТЬ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "51": {
+  "text": {
+   "words": "ЛЮДЕЙ НАДО ВЕРНУТЬ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.5,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "anchor": "top"
+}
