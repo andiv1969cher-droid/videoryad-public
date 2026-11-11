@@ -1,0 +1,645 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 13.56,
+   "text": "",
+   "source": "web_search",
+   "source_query": "ночной Киев с высоты 2026 огни города"
+  },
+  {
+   "id": 2,
+   "start_sec": 13.56,
+   "duration_sec": 9.92,
+   "text": "",
+   "source": "card:paper_typed",
+   "source_query": "карточка «paper_typed» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 3,
+   "start_sec": 23.48,
+   "duration_sec": 10.72,
+   "text": "",
+   "source": "web_search",
+   "source_query": "Валерий Герасимов начальник Генштаба Вооружённых сил России на совещании 2026",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 4,
+   "start_sec": 34.2,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/МОСТ-ПАТОНА-КИЕВЕ"
+  },
+  {
+   "id": 5,
+   "start_sec": 45.8,
+   "duration_sec": 11.12,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 6,
+   "start_sec": 56.92,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "колонна военных грузовиков шоссе Харьковская область 2026 без людей"
+  },
+  {
+   "id": 7,
+   "start_sec": 66.52,
+   "duration_sec": 9.404,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ГРУЗОВОЙ-ПОЕЗД-КОНТЕЙНЕРАМИ",
+   "fx": "player"
+  },
+  {
+   "id": 8,
+   "start_sec": 75.92,
+   "duration_sec": 9.92,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дарницкий мост через Днепр Киев 2026 без людей"
+  },
+  {
+   "id": 9,
+   "start_sec": 85.84,
+   "duration_sec": 12.72,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ТРАНСФОРМАТОРНАЯ-ПОДСТАНЦИЯ-СЕТКОЙ",
+   "fx": "stamps"
+  },
+  {
+   "id": 10,
+   "start_sec": 98.56,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "title": "Мы вас предупреждали",
+    "watermark": "5 МИНУТ",
+    "anim": 13.6
+   }
+  },
+  {
+   "id": 11,
+   "start_sec": 112.16,
+   "duration_sec": 10,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ДИЗЕЛЬНЫЙ-ГЕНЕРАТОР-РАБОТАЕТ",
+   "fx": "filmwin"
+  },
+  {
+   "id": 12,
+   "start_sec": 122.16,
+   "duration_sec": 9.68,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бригада энергетиков Киев 2026 ремонтирует силовой трансформатор"
+  },
+  {
+   "id": 13,
+   "start_sec": 131.84,
+   "duration_sec": 9.92,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "зенитная установка ВСУ на окраине Киева 2026",
+   "fx": "curl"
+  },
+  {
+   "id": 14,
+   "start_sec": 141.76,
+   "duration_sec": 9.491,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 15,
+   "start_sec": 151.25,
+   "duration_sec": 9.36,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Крейденко Верховная Рада 2026 портрет",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 16,
+   "start_sec": 160.62,
+   "duration_sec": 10.08,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЭСКАЛАТОР-КИЕВСКОГО-МЕТРО"
+  },
+  {
+   "id": 17,
+   "start_sec": 170.7,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ЗАЛ-ЗАСЕДАНИЙ-ВЕРХОВНОЙ",
+   "fx": "torn"
+  },
+  {
+   "id": 18,
+   "start_sec": 179.9,
+   "duration_sec": 11.04,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "split",
+    "text": "Если мы не договоримся о прекращении огня этой зимой, большие города — Киев, Харьков, Одесса — просто сделают непригодными для жизни",
+    "accent": "большие города — Киев, Харьков",
+    "author": "Денис Ярославский",
+    "role": "офицер командования штурмовых войск ВСУ",
+    "photo": "cards/photo/yaroslavsky.jpg",
+    "watermark": "5 МИНУТ"
+   }
+  },
+  {
+   "id": 19,
+   "start_sec": 190.94,
+   "duration_sec": 9.68,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "коммунальная техника Харьков 2026 зимняя улица",
+   "fx": "slides"
+  },
+  {
+   "id": 20,
+   "start_sec": 200.62,
+   "duration_sec": 11.52,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ПЕРЕЖИВЁТ-УКРАИНА-МИР"
+  },
+  {
+   "id": 21,
+   "start_sec": 212.14,
+   "duration_sec": 9.41,
+   "text": "",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 22,
+   "start_sec": 221.55,
+   "duration_sec": 10,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "машины коммунальной службы Киев 2026 возле энергообъекта",
+   "fx": "player"
+  },
+  {
+   "id": 23,
+   "start_sec": 231.55,
+   "duration_sec": 11.44,
+   "text": "",
+   "source": "web_search",
+   "source_query": "ремонт теплотрассы Киев 2026 экскаватор на улице"
+  },
+  {
+   "id": 24,
+   "start_sec": 242.99,
+   "duration_sec": 10.32,
+   "text": "",
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "Что в списке целей",
+    "watermark": "5 МИНУТ",
+    "anim": 10.32
+   }
+  },
+  {
+   "id": 25,
+   "start_sec": 253.31,
+   "duration_sec": 12.8,
+   "text": "",
+   "source": "web_search",
+   "source_query": "зернохранилище элеватор Украина 2026 силосные башни без людей",
+   "fx": "stamps"
+  },
+  {
+   "id": 26,
+   "start_sec": 266.11,
+   "duration_sec": 12.72,
+   "text": "",
+   "source": "web_search",
+   "source_query": "хлебозавод конвейер выпечка Украина 2026 без людей"
+  },
+  {
+   "id": 27,
+   "start_sec": 278.83,
+   "duration_sec": 12.56,
+   "text": "",
+   "source": "web_search",
+   "source_query": "производство растительного масла Кропивницкий 2026 современное оборудование",
+   "fx": "filmwin"
+  },
+  {
+   "id": 28,
+   "start_sec": 291.39,
+   "duration_sec": 11.633,
+   "text": "",
+   "source": "card:film",
+   "source_query": "карточка «film» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 29,
+   "start_sec": 303.02,
+   "duration_sec": 11.36,
+   "text": "",
+   "source": "web_search",
+   "source_query": "склад продовольствия паллеты Украина 2026 без людей",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 30,
+   "start_sec": 314.38,
+   "duration_sec": 13.04,
+   "text": "",
+   "source": "web_search",
+   "source_query": "улица Киева 2026 после отключения света вечером"
+  },
+  {
+   "id": 31,
+   "start_sec": 327.42,
+   "duration_sec": 10.56,
+   "text": "",
+   "source": "web_search",
+   "source_query": "тёмная улица Киева вечером 2026 без освещения"
+  },
+  {
+   "id": 32,
+   "start_sec": 337.98,
+   "duration_sec": 11.76,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пешеходы на улице Киева 2026 взрослые",
+   "fx": "flash"
+  },
+  {
+   "id": 33,
+   "start_sec": 349.74,
+   "duration_sec": 12.24,
+   "text": "",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "slider",
+    "код": "A5",
+    "title": "С какого возраста закрывают выезд",
+    "watermark": "5 МИНУТ",
+    "anim": 12.24
+   }
+  },
+  {
+   "id": 34,
+   "start_sec": 361.98,
+   "duration_sec": 10.516,
+   "text": "",
+   "source": "web_search",
+   "source_query": "зал ожидания аэропорта Варшава 2026 взрослые пассажиры с чемоданами",
+   "fx": "curl"
+  },
+  {
+   "id": 35,
+   "start_sec": 372.49,
+   "duration_sec": 11.12,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пустой двор спального района Киев 2026 многоэтажки без людей"
+  },
+  {
+   "id": 36,
+   "start_sec": 383.61,
+   "duration_sec": 11.44,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "пограничный пункт Краковец Львов 2026 шлагбаум и автомобили",
+   "fx": "torn"
+  },
+  {
+   "id": 37,
+   "start_sec": 395.05,
+   "duration_sec": 9.36,
+   "text": "",
+   "source": "web_search",
+   "source_query": "шлагбаум на выезде из города Украина 2026 без людей"
+  },
+  {
+   "id": 38,
+   "start_sec": 404.41,
+   "duration_sec": 12.08,
+   "text": "",
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 39,
+   "start_sec": 416.49,
+   "duration_sec": 12.96,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пустой пассажирский терминал Киев 2026 закрытый выход",
+   "fx": "slides"
+  },
+  {
+   "id": 40,
+   "start_sec": 429.45,
+   "duration_sec": 12.64,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗДАНИЕ-БЕРЛАЙМОН-БРЮССЕЛЕ"
+  },
+  {
+   "id": 41,
+   "start_sec": 442.09,
+   "duration_sec": 13.41,
+   "text": "",
+   "source": "web_search",
+   "source_query": "украинские рабочие на стройке Польша 2026 взрослые мужчины в касках"
+  },
+  {
+   "id": 42,
+   "start_sec": 455.5,
+   "duration_sec": 11.52,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/ЗАЛ-ЕВРОПАРЛАМЕНТА-СТРАСБУРГЕ",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 43,
+   "start_sec": 467.02,
+   "duration_sec": 12.56,
+   "text": "",
+   "source": "card:bars",
+   "source_query": "карточка «bars» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "bars",
+    "код": "A4",
+    "title": "Что можно восполнить, а что нет",
+    "watermark": "5 МИНУТ",
+    "anim": 12.56
+   }
+  },
+  {
+   "id": 44,
+   "start_sec": 479.58,
+   "duration_sec": 12.08,
+   "text": "",
+   "source": "web_search",
+   "source_query": "очередь взрослых у консульства Варшава 2026",
+   "fx": "player"
+  },
+  {
+   "id": 45,
+   "start_sec": 491.66,
+   "duration_sec": 11.68,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-ЕВРОПА-НАТО/УЧЕНИЯ-НАТО-БРОНЕТЕХНИКА"
+  },
+  {
+   "id": 46,
+   "start_sec": 503.34,
+   "duration_sec": 11.44,
+   "text": "",
+   "source": "web_search",
+   "source_query": "автобус украинских граждан Люблин 2026 возле границы",
+   "fx": "stamps"
+  },
+  {
+   "id": 47,
+   "start_sec": 514.78,
+   "duration_sec": 11.633,
+   "text": "",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 48,
+   "start_sec": 526.42,
+   "duration_sec": 12.72,
+   "text": "",
+   "source": "web_search",
+   "source_query": "современный международный автобус на трассе Польша 2026"
+  },
+  {
+   "id": 49,
+   "start_sec": 539.14,
+   "duration_sec": 11.44,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ЛОГИСТИКА-ЕВРОПА/ПОГРАНИЧНЫЙ-ПЕРЕХОД-МЕДЫКА"
+  },
+  {
+   "id": 50,
+   "start_sec": 550.58,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ФАСАД-ЗДАНИЯ-ВЕРХОВНОЙ"
+  },
+  {
+   "id": 51,
+   "start_sec": 562.18,
+   "duration_sec": 10.96,
+   "text": "",
+   "source": "web_search",
+   "source_query": "центр занятости Киев 2026 вывеска без людей",
+   "fx": "filmwin"
+  },
+  {
+   "id": 52,
+   "start_sec": 573.14,
+   "duration_sec": 13.52,
+   "text": "",
+   "source": "card:dossier",
+   "source_query": "карточка «dossier» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 53,
+   "start_sec": 586.66,
+   "duration_sec": 11.247,
+   "text": "",
+   "source": "web_search",
+   "source_query": "билетная касса автостанции Варшава 2026 без людей",
+   "fx": "subscribe2"
+  },
+  {
+   "id": 54,
+   "start_sec": 597.9,
+   "duration_sec": 13.12,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/УНИВЕРСАЛЬНОЕ/ОПЕРАТОРЫ-КАМЕРАМИ-ПРЕСС-ПОДХОДЕ"
+  },
+  {
+   "id": 55,
+   "start_sec": 611.02,
+   "duration_sec": 11.84,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ",
+   "fx": "curl"
+  },
+  {
+   "id": 56,
+   "start_sec": 622.86,
+   "duration_sec": 12.48,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "взрослые работники коммунальной службы Киев 2026 на улице"
+  },
+  {
+   "id": 57,
+   "start_sec": 635.34,
+   "duration_sec": 10.24,
+   "text": "",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "photo",
+    "title": "Чем давят на человека",
+    "lines": [
+     "свет",
+     "транспорт",
+     "работа"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 10.24,
+    "photo": "cards/photo/temnye_okna.jpg"
+   }
+  },
+  {
+   "id": 58,
+   "start_sec": 645.58,
+   "duration_sec": 13.76,
+   "text": "",
+   "source": "web_search",
+   "source_query": "междугородный автобус на стоянке Львов 2026 без людей"
+  },
+  {
+   "id": 59,
+   "start_sec": 659.34,
+   "duration_sec": 11.068,
+   "text": "",
+   "source": "web_search",
+   "source_query": "взрослый мужчина с чемоданом на перроне Киев 2026",
+   "fx": "torn"
+  },
+  {
+   "id": 60,
+   "start_sec": 670.41,
+   "duration_sec": 11.52,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/КАБИНЕТ-МИНИСТРОВ-УКРАИНЫ"
+  },
+  {
+   "id": 61,
+   "start_sec": 681.93,
+   "duration_sec": 13.6,
+   "text": "",
+   "source": "web_search",
+   "source_query": "современная переговорная комната офис Киев 2026 без людей"
+  },
+  {
+   "id": 62,
+   "start_sec": 695.53,
+   "duration_sec": 11.36,
+   "text": "",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "dof",
+    "код": "A64",
+    "title": "Мост восстановить можно",
+    "watermark": "5 МИНУТ",
+    "anim": 11.36
+   }
+  },
+  {
+   "id": 63,
+   "start_sec": 706.89,
+   "duration_sec": 12.8,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пограничный столб Украина Польша 2026 без людей",
+   "fx": "slides"
+  },
+  {
+   "id": 64,
+   "start_sec": 719.69,
+   "duration_sec": 11.68,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/БЫТ-УКРАИНА/ЭЛЕКТРИК-ОПОРЕ-ЛЭП"
+  },
+  {
+   "id": 65,
+   "start_sec": 731.37,
+   "duration_sec": 12.666,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "площадь Конституции Киев 2026 у Верховной Рады взрослые"
+  },
+  {
+   "id": 66,
+   "start_sec": 744.04,
+   "duration_sec": 10.56,
+   "text": "",
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 67,
+   "start_sec": 754.6,
+   "duration_sec": 12.88,
+   "text": "",
+   "source": "web_search",
+   "source_query": "университетский корпус Варшава 2026 здание без людей"
+  },
+  {
+   "id": 68,
+   "start_sec": 767.48,
+   "duration_sec": 12.96,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "украинский общественный центр Берлин 2026 взрослые посетители"
+  },
+  {
+   "id": 69,
+   "start_sec": 780.44,
+   "duration_sec": 12,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "международный автобус Киев 2026 на автовокзале взрослые пассажиры"
+  },
+  {
+   "id": 70,
+   "start_sec": 792.44,
+   "duration_sec": 12.162,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
+  }
+ ]
+}
