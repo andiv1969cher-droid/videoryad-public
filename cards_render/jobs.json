@@ -326,6 +326,21 @@
   }
  },
  {
+  "scene": 30,
+  "view": "torn_split.torn_split",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "a_path": "cards/photo/card_030.jpg",
+   "b_path": "cards/photo/card_030_2.jpg",
+   "title": "Тогда и сейчас",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
   "scene": 31,
   "view": "film.film_single",
   "dur": 15.0,
