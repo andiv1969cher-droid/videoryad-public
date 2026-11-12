@@ -1,0 +1,803 @@
+[
+ {
+  "scene": 2,
+  "view": "paper_hand",
+  "dur": 10.9,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Остальные ждать, пока вы договоритесь между собой, не собираются. И вот здесь вопрос уже совсем не смешной",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 5,
+  "view": "poster.poster",
+  "dur": 9.4,
+  "anim": 9.4,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "Три конструкции, которые предложила Москва",
+   "hero_photo": "cards/photo/card_005.jpg",
+   "facts": [
+    {
+     "label": "первая",
+     "value": "гарантии безопасности"
+    },
+    {
+     "label": "вторая",
+     "value": "политическое обязательство"
+    },
+    {
+     "label": "третья",
+     "value": "двусторонний договор"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 7,
+  "view": "marker_serif",
+  "dur": 11.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "НАТО у нас вроде коллективный альянс: все вместе, плечом к плечу",
+   "accent": "плечом к плечу",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "charts.cartogram",
+  "dur": 8.9,
+  "anim": 8.9,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Польша",
+    "Германия",
+    "Финляндия"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "doc",
+  "dur": 11.5,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Кто готов обсуждать конкретные гарантии, тот садится и обсуждает. И тут сразу возникает неудобная вещь: если у страны появляются отдельные обязательства и отдельный договор, что становится для неё главным в реальной кризисной ситуации",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 10,
+  "view": "cinematic.depth_of_field",
+  "dur": 7.1,
+  "anim": 7.1,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_010.jpg",
+   "title": "Отдельный договор на двоих",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 11,
+  "view": "pull",
+  "dur": 9.1,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Речь не о том, что НАТО завтра куда-то исчезнет",
+   "author": "Автор",
+   "role": "обозреватель",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "photo",
+  "dur": 9.8,
+  "anim": 9.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_014.jpg",
+   "title": "Табличка «это для нашей безопасности»",
+   "lines": [
+    "сосед нервничает",
+    "так это не работает"
+   ]
+  }
+ },
+ {
+  "scene": 15,
+  "view": "tape",
+  "dur": 8.6,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Американцы попросили Россию подготовить предложения по новым правилам европейской безопасности",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "paper_typed",
+  "dur": 9.9,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Российские требования касались расширения НАТО и размещения вооружений",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "charts.line",
+  "dur": 9.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "x_labels": [
+    "Ялта 1945",
+    "Женева 2021",
+    "Абу-Даби 2026"
+   ],
+   "series": [
+    {
+     "name": "Сколько держав за столом",
+     "values": [
+      3.0,
+      2.0,
+      3.0
+     ]
+    }
+   ],
+   "title": "Сколько держав за столом",
+   "source": "хроника переговоров",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "charts.slope",
+  "dur": 6.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Европа",
+     "from": 80.0,
+     "to": 30.0
+    },
+    {
+     "label": "США",
+     "from": 60.0,
+     "to": 90.0
+    }
+   ],
+   "left_label": "пять лет назад",
+   "right_label": "сейчас",
+   "title": "Прежняя конструкция не работает",
+   "source": "заявления Вашингтона",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 21,
+  "view": "cinematic.dossier",
+  "dur": 10.9,
+  "anim": 10.9,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "case": "Условие Белого дома: один представитель Европы",
+   "rows": [
+    "нужен единый представитель",
+    "сейчас голосов пять"
+   ],
+   "kick": "условие для переговоров",
+   "title": "Белый дом",
+   "photo": "cards/photo/card_021.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "zal_ekran",
+  "dur": 10.2,
+  "anim": 4.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.2,
+   "sheets": [],
+   "text": "Место за столом надо заслужить",
+   "say": "Можно пообщаться в лобби-баре",
+   "author": "Владимир Мединский",
+   "role": "глава российской делегации",
+   "source": "переговоры в Абу-Даби",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "charts.map_dist",
+  "dur": 16.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Абу-Даби",
+     "lat": 24.45,
+     "lon": 54.37,
+     "accent": false
+    },
+    {
+     "label": "Брюссель",
+     "lat": 50.85,
+     "lon": 4.35,
+     "accent": false
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "duel",
+  "dur": 6.4,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Одни страны хотят больше давления на Россию",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Другие хотят торговать",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "zal_pol",
+  "dur": 12.3,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 12.3,
+   "sheets": [],
+   "text": "Решают без Евросоюза",
+   "accent": "без",
+   "na_polu": "БЕЗ ЕВРОПЫ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "film.film_single",
+  "dur": 15.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_031.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "film.film_strip",
+  "dur": 12.2,
+  "anim": 12.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_033.jpg",
+    "cards/photo/card_033_2.jpg",
+    "cards/photo/card_033_3.jpg"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "zal_efir",
+  "dur": 10.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.8,
+   "sheets": [],
+   "text": "Это решения Европы",
+   "say": "Никто кроме Европы их принять не может",
+   "author": "Кая Каллас",
+   "role": "верховный представитель ЕС",
+   "source": "брифинг в Брюсселе",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "zal_shkala",
+  "dur": 9.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.9,
+   "sheets": [],
+   "text": "Двести миллиардов евро",
+   "value": "ДВЕСТИ МИЛЛИАРДОВ",
+   "value_sub": "евро",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "slider",
+  "dur": 9.0,
+  "anim": 9.0,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Двести миллиардов евро в большом разговоре",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 5.0,
+   "high": 15.0,
+   "marker_value": 8.0,
+   "marker_display": "8",
+   "seconds": 9.0,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 39,
+  "view": "charts.cartogram",
+  "dur": 15.0,
+  "anim": 15.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "США",
+    "Китай",
+    "Россия"
+   ],
+   "title": "Кто торгует дальше",
+   "mode": "bubble",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "bars",
+  "dur": 12.7,
+  "anim": 12.7,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Своей нефтегазовой базы у Евросоюза нет",
+   "caption": "",
+   "seconds": 12.7,
+   "bars": [
+    {
+     "label": "РОССИЯ",
+     "value": 0.9,
+     "color": "EABD23"
+    },
+    {
+     "label": "США",
+     "value": 0.85,
+     "color": "B92526"
+    },
+    {
+     "label": "ЕВРОСОЮЗ",
+     "value": 0.2,
+     "color": "84848A"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 41,
+  "view": "charts.pie",
+  "dur": 13.0,
+  "anim": 13.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "segments": [
+    {
+     "label": "газ",
+     "value": 45.0
+    },
+    {
+     "label": "уголь",
+     "value": 20.0
+    },
+    {
+     "label": "ветер",
+     "value": 20.0
+    },
+    {
+     "label": "солнце",
+     "value": 15.0
+    }
+   ],
+   "title": "Чем Европа закрывает энергию",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "vyrezka.figura",
+  "dur": 12.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_042.jpg",
+   "author": "ДОНАЛЬД ТРАМП",
+   "role": "президент США",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "cinematic.depth_of_field",
+  "dur": 7.8,
+  "anim": 7.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_043.jpg",
+   "title": "Трёхсторонний разговор",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 44,
+  "view": "cinematic.evidence_wall",
+  "dur": 16.8,
+  "anim": 16.8,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "shots": [
+    [
+     "cards/photo/card_044.jpg",
+     240,
+     380,
+     -4,
+     "Вашингтон"
+    ],
+    [
+     "cards/photo/card_044_2.jpg",
+     800,
+     380,
+     3,
+     "Москва"
+    ],
+    [
+     "cards/photo/card_044_3.jpg",
+     1360,
+     380,
+     -2,
+     "Пекин"
+    ]
+   ],
+   "title": "Ищут то, где трое способны договориться",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 46,
+  "view": "zal_slova",
+  "dur": 10.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.0,
+   "sheets": [
+    "правила безопасности",
+    "правила для ИИ"
+   ],
+   "text": "Дальше новые правила",
+   "accent": "правила",
+   "na_polu": "НОВЫЕ ПРАВИЛА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "charts.network",
+  "dur": 9.6,
+  "anim": 9.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "США",
+     "label": "США",
+     "weight": 5.0
+    },
+    {
+     "id": "Россия",
+     "label": "Россия",
+     "weight": 5.0
+    },
+    {
+     "id": "Китай",
+     "label": "Китай",
+     "weight": 4.0
+    }
+   ],
+   "links": [
+    {
+     "from": "США",
+     "to": "Россия",
+     "weight": 3.0
+    },
+    {
+     "from": "США",
+     "to": "Китай",
+     "weight": 2.0
+    },
+    {
+     "from": "Россия",
+     "to": "Китай",
+     "weight": 2.0
+    }
+   ],
+   "title": "Кто с кем договаривается",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "quote",
+  "dur": 14.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Одно дело, когда ты нужен. Другое — когда без тебя обходятся",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "zal_makety",
+  "dur": 9.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.0,
+   "sheets": [],
+   "text": "Европа ещё центр",
+   "accent": "центр",
+   "makety": [
+    "здание=ПРОМЫШЛЕННОСТЬ",
+    "банк=ФИНАНСЫ",
+    "лэп=ЭНЕРГОСЕТИ"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "strike",
+  "dur": 13.7,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Если сам отказался от дешёвой энергии и сам ограничил себе торговлю, за главным столом могут обойтись без тебя",
+   "struck": "дешёвой энергии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "zal_kub",
+  "dur": 15.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 15.1,
+   "sheets": [],
+   "text": "Вопрос будет стоять иначе",
+   "accent": "Вопрос",
+   "kick": "Крупные игроки договорятся",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "zal_schetchik",
+  "dur": 14.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 14.1,
+   "sheets": [],
+   "text": "Часы уже тикают",
+   "value": "3",
+   "value_sub": "державы",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "split",
+  "dur": 11.4,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_060.jpg",
+   "text": "Германия допускает прямой разговор с Москвой",
+   "author": "Фридрих Мерц",
+   "role": "канцлер Германии",
+   "accent": "Германия допускает прямой",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "devices.device_scene",
+  "dur": 14.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "content_path": "cards/photo/card_061.jpg",
+   "items": [
+    "язык силы",
+    "давление усиливать",
+    "Европа единым фронтом"
+   ],
+   "title": "Что говорил Мерц",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "vyrezka.gazeta",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_062.jpg",
+   "author": "ФРИДРИХ МЕРЦ",
+   "role": "канцлер Германии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "zal",
+  "dur": 13.55,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Телефон оказывается в руке",
+   "words": [
+    "ТЕЛЕФОН",
+    "МОСКВА"
+   ],
+   "sheets": [
+    "Мерц",
+    "Абу-Даби",
+    "прямой разговор",
+    "давление",
+    "единый фронт",
+    "звонок"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 13.55,
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
