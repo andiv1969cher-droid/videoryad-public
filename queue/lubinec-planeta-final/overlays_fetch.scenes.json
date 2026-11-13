@@ -1,0 +1,81 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп в Овальном кабинете Белого дома, 2026"
+  },
+  {
+   "id": 7,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Стив Уиткофф спецпосланник президента США, 2026"
+  },
+  {
+   "id": 10,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "самолёт Air Force One на стоянке, 2026"
+  },
+  {
+   "id": 12,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Джаред Кушнер на переговорах, 2026"
+  },
+  {
+   "id": 16,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Юрий Ушаков помощник президента России на брифинге, 2026"
+  },
+  {
+   "id": 20,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Государственного департамента США, Вашингтон"
+  },
+  {
+   "id": 26,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Марко Рубио государственный секретарь США, 2026"
+  },
+  {
+   "id": 29,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Давид Арахамия депутат Верховной Рады Украины, 2026"
+  },
+  {
+   "id": 34,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Верховной Рады Украины, Киев"
+  },
+  {
+   "id": 40,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Валерий Залужный посол Украины в Великобритании, 2026"
+  },
+  {
+   "id": 57,
+   "duration_sec": 4.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "автобус Красного Креста на дороге, Украина 2026"
+  }
+ ]
+}
