@@ -1,0 +1,134 @@
+{
+ "1": {
+  "photo": "overlays/scene_001.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right"
+ },
+ "7": {
+  "photo": "overlays/scene_007.jpg",
+  "sound": "whoosh",
+  "at": 2.4,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "right"
+ },
+ "10": {
+  "photo": "overlays/scene_010.jpg",
+  "sound": "ding",
+  "at": 2.6,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "12": {
+  "photo": "overlays/scene_012.jpg",
+  "sound": "pop",
+  "at": 2.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right"
+ },
+ "16": {
+  "photo": "overlays/scene_016.jpg",
+  "sound": "whoosh",
+  "at": 3.0,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "20": {
+  "photo": "overlays/scene_020.jpg",
+  "sound": "ding",
+  "at": 3.2,
+  "shape": "circle",
+  "scale": 1.2,
+  "style": "up-left"
+ },
+ "26": {
+  "photo": "overlays/scene_026.jpg",
+  "sound": "pop",
+  "at": 3.4,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-right"
+ },
+ "29": {
+  "photo": "overlays/scene_029.jpg",
+  "sound": "whoosh",
+  "at": 3.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right"
+ },
+ "34": {
+  "photo": "overlays/scene_034.jpg",
+  "sound": "ding",
+  "at": 3.8,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "up-left"
+ },
+ "40": {
+  "photo": "overlays/scene_040.jpg",
+  "sound": "pop",
+  "at": 4.0,
+  "shape": "rect",
+  "scale": 1.2,
+  "style": "left",
+  "anchor": "bottom"
+ },
+ "45": {
+  "photo": "overlays/scene_045.jpg",
+  "sound": "whoosh",
+  "at": 4.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "51": {
+  "photo": "overlays/scene_051.jpg",
+  "sound": "ding",
+  "at": 4.4,
+  "shape": "circle",
+  "scale": 1.0,
+  "style": "left"
+ },
+ "57": {
+  "photo": "overlays/scene_057.jpg",
+  "sound": "pop",
+  "at": 4.6,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right"
+ },
+ "3": {
+  "text": {
+   "words": "ЗЕЛЕНСКИЙ",
+   "sub": "президент Украины",
+   "style": "mask_plate",
+   "pos": "ml",
+   "at": 0.5
+  }
+ },
+ "37": {
+  "text": {
+   "words": "ЛУБИНЕЦ",
+   "sub": "уполномоченный по правам человека",
+   "style": "mask_plate",
+   "pos": "ml",
+   "at": 0.5
+  }
+ },
+ "23": {
+  "text": {
+   "words": "СВЯЗЬ",
+   "sub": "спутниковый терминал на позициях",
+   "style": "mask_plate",
+   "pos": "ml",
+   "at": 0.5
+  }
+ }
+}
