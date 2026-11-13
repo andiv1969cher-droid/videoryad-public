@@ -1,0 +1,528 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.999,
+   "text": "",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЕС-форумы-Украина"
+  },
+  {
+   "id": 2,
+   "start_sec": 11.0,
+   "duration_sec": 12.401,
+   "text": "",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 3,
+   "start_sec": 23.4,
+   "duration_sec": 9.981,
+   "text": "",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/ЗЕЛЕНСКИЙ"
+  },
+  {
+   "id": 4,
+   "start_sec": 33.38,
+   "duration_sec": 11.219,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/bbfbbe4b54.mp4?token=GgGMkcXouUU2dOdNWfbMztklHx0Fpg-nXr7HnL7b_r5UFtEQVKH2GQWxkStW9WlSE3lZPyb-1cfAm8MccQ4IET9vto4Hgu7grwYLbkQ7JiMR3R3bukDlQXAlvy8Wypdls10z-AJPjPabgaCFZ3boyl27GS-zygAcSwDYWcmhCms9y4fUd5277flJXcUGAhb5hljQ24wVS9IiWfsDQMxrRHfLPIttpTWWIqb5Hy99obrtB-ZdnzP604enRYeL77v5hobyef5YXLY3sOhesNQ2mMVxVdSpOZWD9pnW-yFUNoO1-uTKss7YKPVfhx0zlmKk2sPYbD4NCVk5W8Yj9j8P44WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8"
+  },
+  {
+   "id": 5,
+   "start_sec": 44.6,
+   "duration_sec": 11.36,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 6,
+   "start_sec": 55.96,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "card:zal_slova",
+   "source_query": "карточка «zal_slova» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 7,
+   "start_sec": 65.96,
+   "duration_sec": 9.709,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США"
+  },
+  {
+   "id": 8,
+   "start_sec": 75.67,
+   "duration_sec": 9.424,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ТРАМП"
+  },
+  {
+   "id": 9,
+   "start_sec": 85.09,
+   "duration_sec": 11.936,
+   "text": "",
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "Что сказано за закрытыми дверями",
+    "watermark": "ПЛАНЕТА",
+    "anim": 11.94
+   }
+  },
+  {
+   "id": 10,
+   "start_sec": 97.03,
+   "duration_sec": 9.52,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ТРАМП-МИР-БЛИЗКО-3110_ТРАМП-ЖУРНАЛИСТЫ-БОРТА"
+  },
+  {
+   "id": 11,
+   "start_sec": 106.55,
+   "duration_sec": 9.36,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ПЕРСОНЫ/ПУТИН"
+  },
+  {
+   "id": 12,
+   "start_sec": 115.91,
+   "duration_sec": 9.76,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ТРАМП-МИР-БЛИЗКО-3110_ТРАМП-ВЫСТУПАЕТ-БЕЛОМ"
+  },
+  {
+   "id": 13,
+   "start_sec": 125.67,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "card:film",
+   "source_query": "карточка «film» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 14,
+   "start_sec": 135.27,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ТЕМЫ/ЗЕЛЕНСКИЙ-ТУРЦИЯ-3110_ЗЕЛЕНСКИЙ-ПЕРЕГОВОРАХ-ДЛИННЫМ"
+  },
+  {
+   "id": 15,
+   "start_sec": 145.27,
+   "duration_sec": 11.374,
+   "text": "",
+   "source": "card:strike",
+   "source_query": "карточка «strike» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 16,
+   "start_sec": 156.64,
+   "duration_sec": 12.173,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Путин Стив Уиткофф Джаред Кушнер Москва 2026",
+   "fx": "flash"
+  },
+  {
+   "id": 17,
+   "start_sec": 168.82,
+   "duration_sec": 9.92,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-УКРАИНА/ОФИС-ПРЕЗИДЕНТА-УКРАИНЫ"
+  },
+  {
+   "id": 18,
+   "start_sec": 178.74,
+   "duration_sec": 9.83,
+   "text": "",
+   "source": "card:paper_typed",
+   "source_query": "карточка «paper_typed» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 19,
+   "start_sec": 188.57,
+   "duration_sec": 11.925,
+   "text": "",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 20,
+   "start_sec": 200.49,
+   "duration_sec": 9.925,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО"
+  },
+  {
+   "id": 21,
+   "start_sec": 210.42,
+   "duration_sec": 11.707,
+   "text": "",
+   "source": "card:dossier",
+   "source_query": "карточка «dossier» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 22,
+   "start_sec": 222.12,
+   "duration_sec": 11.36,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 23,
+   "start_sec": 233.48,
+   "duration_sec": 11.76,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/HE9uj2d7EixJ0R94aqLXcsZgITvE1mdS3WtIA7Q75ijoGLzxm9hpjaJZA9t_ljGVwlUMRojf7P4mJvbdo7OpgiHzEfi7MMFvX6nRtIqAI0R_L_MQVss8FKxn1XjXTOTlT43qXqk7dKHscSB04fDOs4oI_oY3uaWS1pLVwrP4AOW8DF0ToCgDIqZZ6aFAYhY--NaVV0xaB1GBg-Zg_yfcmNfLIiJEnl7ql-6emD0_GUV8bsYGfl12hNcqH46JL1lzkkGkIULBMapU6BtTCtUHvmq-RWmq5-XsUWSIb63RuSFwNl2o-wRPPPk1hZcyfRFOex1w9_RoOn-6Y0kArZmLLA.jpg",
+   "fx": "inset"
+  },
+  {
+   "id": 24,
+   "start_sec": 245.24,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "title": "Демонстрация суверенности",
+    "watermark": "ПЛАНЕТА",
+    "anim": 11.6
+   }
+  },
+  {
+   "id": 25,
+   "start_sec": 256.84,
+   "duration_sec": 11.254,
+   "text": "",
+   "source": "card:device",
+   "source_query": "карточка «device» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 26,
+   "start_sec": 268.1,
+   "duration_sec": 11.946,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/ПЕНТАГОН-ВОЗДУХА",
+   "fx": "mosaic"
+  },
+  {
+   "id": 27,
+   "start_sec": 280.04,
+   "duration_sec": 11.632,
+   "text": "",
+   "source": "web_search",
+   "source_query": "Капитолий США купол здание Конгресса Вашингтон"
+  },
+  {
+   "id": 28,
+   "start_sec": 291.68,
+   "duration_sec": 12.801,
+   "text": "",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 29,
+   "start_sec": 304.48,
+   "duration_sec": 11.68,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп Белый дом Вашингтон 2026 рабочее совещание",
+   "fx": "panels"
+  },
+  {
+   "id": 30,
+   "start_sec": 316.16,
+   "duration_sec": 11.12,
+   "text": "",
+   "source": "card:network",
+   "source_query": "карточка «network» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 31,
+   "start_sec": 327.28,
+   "duration_sec": 12.4,
+   "text": "",
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 32,
+   "start_sec": 339.68,
+   "duration_sec": 12.16,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кирилл Буданов Давид Арахамия Киев 2026",
+   "fx": "tear"
+  },
+  {
+   "id": 33,
+   "start_sec": 351.84,
+   "duration_sec": 11.468,
+   "text": "",
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 34,
+   "start_sec": 363.3,
+   "duration_sec": 12.26,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дмитрий Лубинец Белый дом Вашингтон 2026",
+   "fx": "depth"
+  },
+  {
+   "id": 35,
+   "start_sec": 375.56,
+   "duration_sec": 12.143,
+   "text": "",
+   "source": "card:doc",
+   "source_query": "карточка «doc» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 36,
+   "start_sec": 387.71,
+   "duration_sec": 12.797,
+   "text": "",
+   "source": "card:zal_efir",
+   "source_query": "карточка «zal_efir» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 37,
+   "start_sec": 400.5,
+   "duration_sec": 11.964,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "портрет Дмитрия Лубинца Киев 2026 омбудсмен",
+   "fx": "wipe"
+  },
+  {
+   "id": 38,
+   "start_sec": 412.47,
+   "duration_sec": 12.116,
+   "text": "",
+   "source": "card:paper_hand",
+   "source_query": "карточка «paper_hand» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 39,
+   "start_sec": 424.58,
+   "duration_sec": 11.803,
+   "text": "",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 40,
+   "start_sec": 436.39,
+   "duration_sec": 11.837,
+   "text": "",
+   "source": "local_library",
+   "source_query": "ПОЛИТИКА/БУДАНОВ"
+  },
+  {
+   "id": 41,
+   "start_sec": 448.22,
+   "duration_sec": 12.8,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 42,
+   "start_sec": 461.02,
+   "duration_sec": 12.48,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 43,
+   "start_sec": 473.5,
+   "duration_sec": 10.452,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Путин Москва 2026 выступление по Украине"
+  },
+  {
+   "id": 44,
+   "start_sec": 483.96,
+   "duration_sec": 11.228,
+   "text": "",
+   "source": "card:torn",
+   "source_query": "карточка «torn» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 45,
+   "start_sec": 495.18,
+   "duration_sec": 11.947,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дмитрий Лубинец омбудсмен Украины пресс-конференция Киев 2026"
+  },
+  {
+   "id": 46,
+   "start_sec": 507.13,
+   "duration_sec": 12.4,
+   "text": "",
+   "source": "card:map_dist",
+   "source_query": "карточка «map_dist» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 47,
+   "start_sec": 519.53,
+   "duration_sec": 12.0,
+   "text": "",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "photo",
+    "title": "Кого двигают ближе к центру фотографии",
+    "lines": [
+     "приём в Белом доме",
+     "благодарность первой леди",
+     "выход на международный уровень"
+    ],
+    "watermark": "ПЛАНЕТА",
+    "anim": 12.0,
+    "photo": "images_src/scene_034.jpg"
+   }
+  },
+  {
+   "id": 48,
+   "start_sec": 531.53,
+   "duration_sec": 12.08,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/83e560678a.mp4?token=pzQhYhKrIkur3iftwRq2YXAkolTCzbUjzC5nQqIx82YEtsFdW5J4tyPDpbitnN5qnM6WCC-UG9P7fIQavr24naj9uVRG2fRy-QYTwRbYfXBCbGtzA-y58zGJ_1UHKNGxbZT-dCJ12CbptIbeLokH3gCuYTkzPD6EdXDKIWBKUQfg2R_kJv0iFpqRBXz9gTwm78JW5As_GgLAU2DUhwNTZqCokAvsUx6frhX8NEatiRGFi5BNssir5jVONIHbT3j-l7ofjZjkBYCX9GvYVxqNQWSuhGaVQAlL1xiuKlz7eC6s6-H6FmoqXnTUQS0kO9Y2e4WurhSGRmp2GVF0MKHZNQ"
+  },
+  {
+   "id": 49,
+   "start_sec": 543.61,
+   "duration_sec": 12.123,
+   "text": "",
+   "source": "card:zal_ekran",
+   "source_query": "карточка «zal_ekran» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 50,
+   "start_sec": 555.73,
+   "duration_sec": 12.037,
+   "text": "",
+   "source": "card:radar",
+   "source_query": "карточка «radar» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 51,
+   "start_sec": 567.77,
+   "duration_sec": 11.6,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЛАСТЬ-США/БЕЛЫЙ-ДОМ-СО"
+  },
+  {
+   "id": 52,
+   "start_sec": 579.37,
+   "duration_sec": 12.927,
+   "text": "",
+   "source": "card:zal_makety",
+   "source_query": "карточка «zal_makety» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 53,
+   "start_sec": 592.3,
+   "duration_sec": 12.507,
+   "text": "",
+   "source": "card:zal_pol",
+   "source_query": "карточка «zal_pol» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 54,
+   "start_sec": 604.81,
+   "duration_sec": 12.933,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский на брифинге в Киеве 2026"
+  },
+  {
+   "id": 55,
+   "start_sec": 617.74,
+   "duration_sec": 11.972,
+   "text": "",
+   "source": "card:zal_kub",
+   "source_query": "карточка «zal_kub» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 56,
+   "start_sec": 629.71,
+   "duration_sec": 12.354,
+   "text": "",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "dof",
+    "код": "A64",
+    "title": "Спокойный, невоенный",
+    "watermark": "ПЛАНЕТА",
+    "anim": 12.35
+   }
+  },
+  {
+   "id": 57,
+   "start_sec": 642.06,
+   "duration_sec": 11.994,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Мелания Трамп Дмитрий Лубинец Вашингтон 2026"
+  },
+  {
+   "id": 58,
+   "start_sec": 654.06,
+   "duration_sec": 12.846,
+   "text": "",
+   "source": "card:tape",
+   "source_query": "карточка «tape» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 59,
+   "start_sec": 666.9,
+   "duration_sec": 12.596,
+   "text": "",
+   "source": "card:zal",
+   "source_query": "карточка «zal» — кадр рисуется в облаке, фетч не нужен"
+  }
+ ],
+ "propuski": {
+  "zal_shkala": "в тексте нет числового значения с периодом для растущей шкалы",
+  "zal_schetchik": "в тексте нет растущего счёта или количества за период",
+  "slider": "в тексте нет диапазона от одного значения до другого",
+  "line": "в тексте нет трёх числовых точек, расположенных по времени",
+  "map_dist": "в тексте не названо расстояние между двумя географическими точками",
+  "map_regions": "в тексте не перечислены области или города одной страны",
+  "pie": "в тексте не названы доли одного целого для круговой диаграммы",
+  "slope": "в тексте нет числовых значений для сравнения было и стало",
+  "waterfall": "в тексте нет начального и конечного числового итога по статьям"
+ }
+}
