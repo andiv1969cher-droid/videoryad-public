@@ -1,0 +1,143 @@
+{
+ "anchor": "top",
+ "6": {
+  "photo": "overlays/scene_006.jpg",
+  "sound": "pop",
+  "at": 2.2,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "up-left",
+  "text": {
+   "words": "77 ФАМИЛИЙ",
+   "color": "orange",
+   "pos": "tr",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "approved": true,
+  "dash_ok": true
+ },
+ "15": {
+  "photo": "overlays/scene_015.jpg",
+  "sound": "pop",
+  "at": 2.8,
+  "shape": "rect",
+  "scale": 1.0,
+  "style": "right",
+  "text": {
+   "words": "ЛЮДЕЙ НЕ ЗАНЯТЬ",
+   "color": "red",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pop",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "approved": true,
+  "dash_ok": true
+ },
+ "1": {
+  "text": {
+   "words": "ВЕЛИЧИЕ",
+   "color": "yellow",
+   "pos": "tc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "3": {
+  "text": {
+   "words": "ОДНА КАРТИНА",
+   "color": "white",
+   "pos": "tl",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "4": {
+  "text": {
+   "words": "200-300 ТЫСЯЧ",
+   "color": "red",
+   "pos": "mc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "11": {
+  "text": {
+   "words": "ЭТО ОЦЕНКА",
+   "color": "green",
+   "pos": "ml",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "16": {
+  "text": {
+   "words": "ОБРАТНО НЕ ВЕЗУТ",
+   "color": "orange",
+   "pos": "mc",
+   "font": "default",
+   "sound": "mashinka",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "19": {
+  "text": {
+   "words": "ДЕМОГРАФИЯ",
+   "color": "green",
+   "pos": "tr",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  }
+ },
+ "13": {
+  "text": {
+   "words": "ОДИН ГОРОД",
+   "color": "yellow",
+   "pos": "mr",
+   "font": "default",
+   "sound": "zatvor",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_013.jpg",
+  "at": 2.0
+ },
+ "14": {
+  "text": {
+   "words": "ЦЕНА ДОРОГИ",
+   "color": "white",
+   "pos": "tc",
+   "font": "default",
+   "sound": "whoosh",
+   "at": 2.0,
+   "scale": 1.0,
+   "approved": true
+  },
+  "photo": "overlays/scene_014.jpg",
+  "at": 2.5
+ }
+}
