@@ -1,0 +1,20 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "стена памяти погибших защитников Украины с фамилиями"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пешеходный пункт пропуска Украина Польша люди с сумками"
+  }
+ ]
+}
