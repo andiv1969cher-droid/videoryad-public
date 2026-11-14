@@ -1,0 +1,20 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "мемориальная плита с именами погибших воинов Украины крупным планом"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "свечи и портреты у стены памяти Киев 2026"
+  }
+ ]
+}
