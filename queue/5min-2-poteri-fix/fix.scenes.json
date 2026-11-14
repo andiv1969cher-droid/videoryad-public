@@ -1,0 +1,36 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "журналист Дмитрий Гнап выступает на форуме"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "мемориальная стена с фамилиями погибших Украина"
+  },
+  {
+   "id": 3,
+   "start_sec": 20.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "ряды могил с флагами Украины мемориальное кладбище"
+  },
+  {
+   "id": 4,
+   "start_sec": 30.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "очередь украинцев на границе с Польшей 2026"
+  }
+ ]
+}
