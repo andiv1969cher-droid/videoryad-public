@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "мемориал Аллея героев Лозовая флаги Украины"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "колонна автобусов украинской армии 2026"
+  },
+  {
+   "id": 3,
+   "start_sec": 20.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "карта Харьковской области"
+  },
+  {
+   "id": 4,
+   "start_sec": 30.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "воинское захоронение с флагами Украины Харьковская область"
+  },
+  {
+   "id": 5,
+   "start_sec": 40.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "здание Национального банка Украины Киев"
+  },
+  {
+   "id": 6,
+   "start_sec": 50.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "пассажиры с чемоданами на вокзале Варшавы 2026"
+  },
+  {
+   "id": 7,
+   "start_sec": 60.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "украинские переселенцы с чемоданами Варшава"
+  },
+  {
+   "id": 8,
+   "start_sec": 70.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "зал ожидания железнодорожного вокзала Варшава 2026"
+  }
+ ]
+}
