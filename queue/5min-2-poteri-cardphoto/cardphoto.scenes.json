@@ -1,0 +1,76 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "журналист Дмитрий Гнап портрет"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "волонтёр Геннадий Друзенко портрет"
+  },
+  {
+   "id": 3,
+   "start_sec": 20.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "народный депутат Алексей Кучеренко портрет"
+  },
+  {
+   "id": 4,
+   "start_sec": 30.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "заседание Кабинета министров Украины 2026"
+  },
+  {
+   "id": 5,
+   "start_sec": 40.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "монитор диспетчерской энергосистемы Украины"
+  },
+  {
+   "id": 6,
+   "start_sec": 50.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "Киев ночная улица без освещения 2026"
+  },
+  {
+   "id": 7,
+   "start_sec": 60.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "недостроенное бетонное укрытие энергообъекта Украина"
+  },
+  {
+   "id": 8,
+   "start_sec": 70.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "Ирина Верещук портрет"
+  },
+  {
+   "id": 9,
+   "start_sec": 80.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "web_search",
+   "source_query": "опора ЛЭП и подстанция Украина зима"
+  }
+ ]
+}
