@@ -1,0 +1,32 @@
+{
+  "8": {
+    "text": {
+      "words": "ЗАЧЕМ ЭТО ПРЕДЛОЖЕНИЕ",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "расчёт Вашингтона",
+      "approved": true
+    },
+    "sound": "whoosh"
+  },
+  "23": {
+    "text": {
+      "words": "СОЮЗНИКИ СПОРЯТ",
+      "color": "green",
+      "pos": "tl",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Европа против разговора с Москвой",
+      "approved": true
+    },
+    "sound": "whoosh"
+  }
+}
