@@ -1,416 +1,426 @@
 [
  {
-  "scene": 2,
+  "scene": 1,
   "view": "sceny.prolog",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 9.7,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
+  "dur": 9.8,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
   "cfg": {
    "view": "prolog",
-   "seconds": 9.7,
+   "seconds": 9.8,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Мерц просит не делать резких шагов.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 9.7
+    "text": "Европа снова проверяет замки.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.8
    }
   },
   "kwargs": {
-   "text": "Мерц просит не делать резких шагов.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 9.7
+   "text": "Европа снова проверяет замки.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.8
+  }
+ },
+ {
+  "scene": 3,
+  "view": "zal_slova",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.4,
+   "sheets": [
+    "и американскому президенту выдадут соп",
+    "который будет заранее предупреждать ев"
+   ],
+   "text": "Вопрос только один.",
+   "na_polu": "ЕВРОПА",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 5,
+  "view": "devices.device_scene",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "content_path": "cards/photo/card_005.jpg",
+   "items": [
+    "Встреча без Европы",
+    "Новости вместо доклада",
+    "Решение уже принято"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 7,
+  "view": "vyrezka.gazeta",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_007.jpg",
+   "author": "Мерц",
+   "title": "Само обращение Мерца говорит больше, чем",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 9,
-  "view": "zal",
-  "dur": 9.3,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Это всё внешняя мишура. Гораздо важнее другое.",
-   "words": [
-    "МИШУРА",
-    "ГЛАВНОЕ"
-   ],
-   "sheets": [
-    "переговоры",
-    "протокол",
-    "встреча",
-    "коридор",
-    "мишура",
-    "суть"
-   ],
-   "channel": "5 МИНУТ",
-   "dur": 9.3,
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 10,
-  "view": "zal_slova",
-  "dur": 9.7,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 9.7,
-   "sheets": [],
-   "text": "Европа исходила из одной конструкции.",
-   "na_polu": "БРЮССЕЛЬ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 11,
-  "view": "zal_pol",
-  "dur": 9.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 9.5,
-   "sheets": [],
-   "text": "Америка была мотором конструкции.",
-   "na_polu": "ВАШИНГТОН",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 12,
-  "view": "zal_kub",
-  "dur": 9.9,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 9.9,
-   "sheets": [
-    "разведка",
-    "политический вес, НАТО"
-   ],
-   "text": "Без США европейская машина выглядит уже не так бодро.",
-   "kick": "И ВОТ ТЕПЕРЬ ГЛАВНЫЙ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 13,
-  "view": "zal_efir",
-  "dur": 9.4,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 9.4,
-   "sheets": [],
-   "text": "Отсюда и эти просьбы Мерца.",
-   "say": "Пожалуйста, никаких сюрпризов",
-   "author": "Мерц",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 17,
-  "view": "film.film_single",
-  "dur": 11.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "photo": "cards/photo/card_017.jpg",
-   "title": "ПОЗИЦИЯ МОСКВЫ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 18,
-  "view": "charts.map_dist",
-  "dur": 12.3,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "points": [
-    {
-     "label": "Москва",
-     "lat": 55.75,
-     "lon": 37.62,
-     "accent": false
-    },
-    {
-     "label": "Киев",
-     "lat": 50.45,
-     "lon": 30.52,
-     "accent": false
-    }
-   ],
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 19,
-  "view": "sceny.relsy",
+  "view": "sceny.mehanizm",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 11.8,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
+  "dur": 13.4,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
   "cfg": {
-   "view": "relsy",
-   "seconds": 11.8,
+   "view": "mehanizm",
+   "seconds": 13.4,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "И уже внутри украинского конфликта появились",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.8,
-    "sobytiya": [
-     "есть сначала был спор о НАТО",
-     "Потом этот спор дошёл до Укр",
-     "И уже внутри украинского кон"
+    "text": "Настоящая проблема в другом.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 13.4,
+    "pary": [
+     "Европейцев — Настоящая",
+     "Настоящая — Администрация",
+     "Администрация — Трампа"
     ]
    }
   },
   "kwargs": {
-   "text": "И уже внутри украинского конфликта появились",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.8,
-   "sobytiya": [
-    "есть сначала был спор о НАТО",
-    "Потом этот спор дошёл до Укр",
-    "И уже внутри украинского кон"
+   "text": "Настоящая проблема в другом.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 13.4,
+   "pary": [
+    "Европейцев — Настоящая",
+    "Настоящая — Администрация",
+    "Администрация — Трампа"
    ]
   }
  },
  {
-  "scene": 20,
+  "scene": 11,
+  "view": "zal_makety",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.4,
+   "sheets": [],
+   "text": "Теперь Вашингтон сам",
+   "makety": [
+    "банк=ДЕНЬГИ",
+    "лэп=РЕСУРСЫ"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 13,
+  "view": "zal_g48",
+  "dur": 13.4,
+  "anim": 13.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.4,
+   "sheets": [],
+   "text": "Логика участия меняется.",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "charts.cartogram",
+  "dur": 13.4,
+  "anim": 13.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Россия",
+    "Украина"
+   ],
+   "title": "Российская претензия касалась расширения НАТО.",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "zal",
+  "dur": 9.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Спор о безопасности перешёл из заявлений в открытую схватку.",
+   "words": [
+    "СПОР",
+    "СХВАТКА",
+    "НАТО"
+   ],
+   "sheets": [
+    "НАТО у границ",
+    "Военные объекты",
+    "Пределы расширения",
+    "Поле спора — Украина",
+    "Территории и силы",
+    "Будущее Киева"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 9.8,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 17,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 13.4,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 13.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Спор шёл от НАТО к Украине.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 13.4,
+    "sobytiya": [
+     "НАТО у границ>Украина>Территории и силы"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Спор шёл от НАТО к Украине.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 13.4,
+   "sobytiya": [
+    "НАТО у границ>Украина>Территории и силы"
+   ]
+  }
+ },
+ {
+  "scene": 19,
   "view": "cinematic.evidence_wall",
-  "dur": 12.4,
-  "anim": 12.4,
+  "dur": 13.4,
+  "anim": 13.4,
   "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
    "shots": [
     [
-     "cards/photo/card_020.jpg",
+     "cards/photo/card_019.jpg",
      240,
      250,
      -4,
-     "переговоры"
+     "Берлин"
     ],
     [
-     "cards/photo/card_020_2.jpg",
+     "cards/photo/card_019_2.jpg",
      800,
      250,
      3,
-     "закрытая дверь"
+     "Москва"
     ],
     [
-     "cards/photo/card_020_3.jpg",
+     "cards/photo/card_019_3.jpg",
      1360,
      250,
      -2,
-     "трёхсторонняя встреча"
+     "Вашингтон"
     ],
     [
-     "cards/photo/card_020_4.jpg",
+     "cards/photo/card_019_4.jpg",
      240,
      580,
      4,
-     "авиация у Ирана"
+     "Париж"
+    ],
+    [
+     "cards/photo/card_019_5.jpg",
+     800,
+     580,
+     -3,
+     "НАТО"
+    ],
+    [
+     "cards/photo/card_019_6.jpg",
+     1360,
+     580,
+     2,
+     "Кабинет"
     ]
    ],
-   "title": "ЧТО СВЯЗАНО",
-   "watermark": "5 МИНУТ"
+   "title": "СПИСОК ЖЕЛАНИЙ",
+   "watermark": "ПЛАНЕТА"
   },
   "mode": "frame"
  },
  {
   "scene": 21,
-  "view": "charts.cartogram",
-  "dur": 11.6,
-  "anim": 11.6,
+  "view": "charts.network",
+  "dur": 13.4,
+  "anim": 13.4,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "data": [
-    "Украина",
-    "НАТО"
+   "nodes": [
+    {
+     "id": "Москва",
+     "label": "Москва",
+     "weight": 3.0
+    },
+    {
+     "id": "НАТО",
+     "label": "НАТО",
+     "weight": 1.0
+    },
+    {
+     "id": "Вашингтон",
+     "label": "Вашингтон",
+     "weight": 1.0
+    },
+    {
+     "id": "Киев",
+     "label": "Киев",
+     "weight": 1.0
+    }
    ],
-   "watermark": "5 МИНУТ"
+   "links": [
+    {
+     "from": "Москва",
+     "to": "НАТО",
+     "weight": 1.0
+    },
+    {
+     "from": "Москва",
+     "to": "Вашингтон",
+     "weight": 1.0
+    },
+    {
+     "from": "Москва",
+     "to": "Киев",
+     "weight": 1.0
+    }
+   ],
+   "title": "УЗЕЛ СПОРА",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 22,
-  "view": "zal_g01",
-  "dur": 12.2,
-  "anim": 12.2,
+  "view": "zal_ekran",
+  "dur": 9.8,
+  "anim": 9.8,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.2,
+   "channel": "ПЛАНЕТА",
+   "dur": 9.8,
    "sheets": [],
-   "text": "Другой масштаб разговора.",
-   "watermark": "5 МИНУТ"
+   "text": "Москва много лет добивалась",
+   "say": "Для европейских столиц это крайне неприятная перспектива.",
+   "author": "Уиткофф",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "zal_kub",
+  "dur": 13.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.4,
+   "sheets": [],
+   "text": "Но после подписания",
+   "kick": "откладывать",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 24,
-  "view": "sceny.mehanizm",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 12.5,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "mehanizm",
-   "seconds": 12.5,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Москва получает своё.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 12.5,
-    "pary": [
-     "США>Москва",
-     "Москва>Европа"
-    ]
-   }
-  },
+  "view": "doc",
+  "dur": 9.8,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Москва получает своё.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 12.5,
-   "pary": [
-    "США>Москва",
-    "Москва>Европа"
-   ]
+   "text": "Но после подписания соглашения спор о базах, вооружениях, иностранных контингентах и возможном расширении НАТО останется на прежнем месте.",
+   "mark": "НАТО",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 25,
-  "view": "duel",
-  "dur": 11.9,
-  "anim": 3.2,
-  "tail_zoom": 0.035,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "top": {
-    "who": "",
-    "text": "но и устройство безопасности всего континента",
-    "accent": null,
-    "source": ""
-   },
-   "bottom": {
-    "who": "",
-    "text": "И здесь очень интересное противоречие",
-    "accent": null,
-    "source": ""
-   },
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 26,
-  "view": "charts.pie",
-  "dur": 12.1,
-  "anim": 12.1,
+  "view": "zal_pol",
+  "dur": 9.8,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "segments": [
-    {
-     "label": "Прекращение огня на Украине",
-     "value": 33.333333333333336
-    },
-    {
-     "label": "Безопасность НАТО",
-     "value": 33.333333333333336
-    },
-    {
-     "label": "Расширение альянса",
-     "value": 33.333333333333336
-    }
+   "channel": "ПЛАНЕТА",
+   "dur": 9.8,
+   "sheets": [
+    "снова вылезет наружу",
+    "Отличная модель"
    ],
-   "sobytiya": true,
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 27,
-  "view": "film.film_strip",
-  "dur": 12.0,
-  "anim": 12.0,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "shots": [
-    "cards/photo/card_027.jpg",
-    "cards/photo/card_027_2.jpg",
-    "cards/photo/card_027_3.jpg",
-    "cards/photo/card_027_4.jpg"
-   ],
-   "title": "ПЕРЕМИРИЕ",
-   "watermark": "5 МИНУТ"
+   "text": "Каждому новому саммиту понадобится",
+   "na_polu": "ОТЛИЧНАЯ",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 28,
-  "view": "zal_g48",
-  "dur": 11.4,
-  "anim": 11.4,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.4,
-   "sheets": [],
-   "text": "И приезжаем туда же, откуда уехали.",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 29,
-  "view": "split",
-  "dur": 12.2,
+  "view": "quote",
+  "dur": 11.2,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Можно каждые несколько лет проводить новый мирный саммит и снова спасать мир.",
-   "photo": "cards/photo/card_029.jpg",
-   "watermark": "5 МИНУТ"
+   "text": "Украинская тема стала частью гораздо более крупного торга, где одним нужны границы, другим гарантии.",
+   "title": "КРУПНЫЙ ТОРГ",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
@@ -418,777 +428,735 @@
   "view": "sceny.prohod",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 11.7,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
+  "dur": 11.8,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
   "cfg": {
    "view": "prohod",
-   "seconds": 11.7,
+   "seconds": 11.8,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Похоже на переговоры.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.7,
+    "text": "На столе статус НАТО и пленные.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.8,
     "tezisy": [
-     "Никаких уступок",
-     "Ни шагу назад",
-     "Всё наше",
-     "Победа неизбежна"
+     "Гарантии безопасности",
+     "Статус НАТО",
+     "Обмен пленными"
     ]
    }
   },
   "kwargs": {
-   "text": "Похоже на переговоры.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.7,
+   "text": "На столе статус НАТО и пленные.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.8,
    "tezisy": [
-    "Никаких уступок",
-    "Ни шагу назад",
-    "Всё наше",
-    "Победа неизбежна"
+    "Гарантии безопасности",
+    "Статус НАТО",
+    "Обмен пленными"
    ]
   }
  },
  {
   "scene": 32,
-  "view": "marker_serif",
-  "dur": 11.3,
-  "anim": 2.6,
+  "view": "cinematic.dossier",
+  "dur": 11.2,
+  "anim": 11.2,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Что происходит с санкциями. Кто подписывает. Кто отвечает, если договор нарушен.",
-   "accent": "Кто подписывает",
-   "watermark": "5 МИНУТ"
+   "rows": [
+    "Санкции как инструмент сделки",
+    "Ограничение иностранных войск",
+    "Территории как предмет торга",
+    "Гарантии безопасности Киеву",
+    "Обмен пленными в пакете",
+    "Статус НАТО в том же списке"
+   ],
+   "title": "Уиткофф",
+   "photo": "cards/photo/card_032.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 11.5,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Значительно труднее составить условия",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.5,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Значительно труднее составить условия",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.5,
+   "stamp": "утверждено"
   }
  },
  {
   "scene": 34,
-  "view": "charts.network",
-  "dur": 11.6,
-  "anim": 11.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "nodes": [
-    {
-     "id": "Американцы",
-     "label": "Американцы",
-     "weight": 1.0
-    },
-    {
-     "id": "Киев",
-     "label": "Киев",
-     "weight": 2.0
-    },
-    {
-     "id": "Кушнер",
-     "label": "Кушнер",
-     "weight": 1.0
-    }
-   ],
-   "links": [
-    {
-     "from": "Американцы",
-     "to": "Киев",
-     "weight": 1.0
-    },
-    {
-     "from": "Киев",
-     "to": "Кушнер",
-     "weight": 1.0
-    }
-   ],
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 35,
   "view": "paper_typed",
-  "dur": 12.3,
+  "dur": 11.8,
   "anim": 2.8,
   "tail_zoom": 0.04,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Вытащить энергетику — одна картина. Вытащить территории — другая. Взять НАТО — третья.",
-   "watermark": "5 МИНУТ"
+   "text": "В международных делах мелкий шрифт стреляет громче артиллерии, и каждая столица потом читает договор по-своему.",
+   "title": "МЕЛКИЙ ШРИФТ",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 36,
-  "view": "charts.waterfall",
-  "dur": 11.7,
-  "anim": 11.7,
+  "view": "duel",
+  "dur": 11.2,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "а остальным позже сообщат, что получилось",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Существует и иной вариант повестки",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "charts.cartogram",
+  "dur": 11.5,
+  "anim": 11.5,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Россия"
+   ],
+   "title": "КТО СМОТРИТ ШИРЕ ЕВРОПЫ",
+   "mode": "bubble",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.8,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 11.8,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Папка уже не закрывается",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.8,
+    "region": "Иран"
+   }
+  },
+  "kwargs": {
+   "text": "Папка уже не закрывается",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.8,
+   "region": "Иран"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "film.film_single",
+  "dur": 12.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_039.jpg",
+   "title": "ЯЛТА ДВА НОЛЬ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 11.5,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "У Европы вопрос о своей роли.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.5,
+    "role": "участник переговоров"
+   }
+  },
+  "kwargs": {
+   "text": "У Европы вопрос о своей роли.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.5,
+   "role": "участник переговоров"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "vyrezka.figura",
+  "dur": 11.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_042.jpg",
+   "author": "Мерц",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "zal_g18",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.1,
+   "sheets": [],
+   "text": "Китай показывает, с чем приходит.",
+   "value": "2",
+   "value_sub": "авианосца в учениях",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "charts.cartogram",
+  "dur": 11.2,
+  "anim": 11.2,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Фуцзянь"
+   ],
+   "level": "region",
+   "admin": "Китай",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "marker_serif",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Для Пекина Тайвань не тема для дискуссии.",
+   "accent": "Тайвань",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "cinematic.depth_of_field",
+  "dur": 11.8,
+  "anim": 11.8,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_046.jpg",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 47,
+  "view": "zal_g01",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.1,
+   "sheets": [],
+   "text": "Возникает спор о правилах.",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.2,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 11.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "У каждого своя линейка риска.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.2,
+    "sobytiya": [
+     "Угроза Вашингтона>Риск Москвы>Общего мерила нет"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "У каждого своя линейка риска.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.2,
+   "sobytiya": [
+    "Угроза Вашингтона>Риск Москвы>Общего мерила нет"
+   ]
+  }
+ },
+ {
+  "scene": 49,
+  "view": "doc",
+  "dur": 11.5,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Обсуждаются возможные изменения правил, касающихся юрисдикции суда в отношении руководителей государств.",
+   "mark": "РУКОВОДИТЕЛЕЙ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "poster.poster",
+  "dur": 11.8,
+  "anim": 11.8,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "title": "ПЕРЕДЕЛКА МЕХАНИЗМОВ",
+   "hero_photo": "cards/photo/card_050.jpg",
+   "watermark": "ПЛАНЕТА"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 51,
+  "view": "strike",
+  "dur": 12.1,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Трамп меняет правила, мешающие американским интересам.",
+   "struck": "мешающие американским интересам",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "zal_shkala",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.2,
+   "sheets": [],
+   "text": "Механизмы идут под пересмотр.",
+   "value": "4",
+   "value_sub": "механизма",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "paper_hand",
+  "dur": 11.5,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Они переписывают порядок там, где прежние ограничения не устраивают американскую",
+   "accent": "американскую",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "film.film_strip",
+  "dur": 11.2,
+  "anim": 11.2,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_056.jpg",
+    "cards/photo/card_056_2.jpg",
+    "cards/photo/card_056_3.jpg",
+    "cards/photo/card_056_4.jpg"
+   ],
+   "title": "УДАРЫ И ОТЧЁТЫ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "zal_schetchik",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.5,
+   "sheets": [],
+   "text": "Иран продолжает выпускать ракеты.",
+   "value": "50",
+   "value_sub": "ракет в месяц",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "pull",
+  "dur": 11.8,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Если Иран по прежнему выпускает ракеты, способен угрожать американским базам и сохраняет",
+   "accent": "американским",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "charts.waterfall",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
    "start": {
-    "label": "Территории",
+    "label": "Заявления об ударах",
     "value": 1.0
    },
    "steps": [
     {
-     "label": "Гарантии безопасности",
+     "label": "Производство идёт",
      "value": 1.0
     },
     {
-     "label": "Санкции",
+     "label": "Угроза базам",
      "value": 1.0
     },
     {
-     "label": "Членство в НАТО",
+     "label": "Цель не достигнута",
      "value": 1.0
     }
    ],
    "end": {
     "label": "ИТОГ"
    },
+   "title": "ЧТО ОСТАЛОСЬ ПОСЛЕ УДАРОВ",
    "sobytiya": true,
-   "watermark": "5 МИНУТ"
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 37,
-  "view": "slider",
-  "dur": 11.4,
-  "anim": 11.4,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {},
-  "mode": "cli",
-  "script": "build_chart_slider.py",
-  "cfg": {
-   "title": "БЫСТРЫЙ МИР",
-   "min": 0.0,
-   "max": 100.0,
-   "low": 20.0,
-   "high": 80.0,
-   "marker_value": 50.0,
-   "marker_display": "50",
-   "seconds": 11.4,
-   "range_label": "на каких условиях",
-   "caption": "Условия решают всё.",
-   "source": ""
-  }
- },
- {
-  "scene": 38,
-  "view": "zal_slova",
-  "dur": 12.2,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.2,
-   "sheets": [],
-   "text": "Подписать бумагу быстро можно.",
-   "na_polu": "ГОРАЗДО",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 40,
-  "view": "sceny.kreslo",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 12.5,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "kreslo",
-   "seconds": 12.5,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Украинский конфликт обсуждаться не будет.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 12.5,
-    "role": "Лидер государства"
-   }
-  },
-  "kwargs": {
-   "text": "Украинский конфликт обсуждаться не будет.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 12.5,
-   "role": "Лидер государства"
-  }
- },
- {
-  "scene": 41,
-  "view": "poster.poster",
-  "dur": 11.3,
-  "anim": 11.3,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "title": "О ЧЁМ БУДУТ ГОВОРИТЬ",
-   "hero_photo": "cards/photo/card_041.jpg",
-   "bottom": "Встреча важна в любой версии",
-   "facts": [
-    {
-     "label": "тема",
-     "value": "ядерное оружие"
-    },
-    {
-     "label": "тема",
-     "value": "Иран"
-    }
-   ],
-   "watermark": "5 МИНУТ"
-  },
-  "mode": "frame"
- },
- {
-  "scene": 42,
+  "scene": 60,
   "view": "bars",
-  "dur": 12.0,
-  "anim": 12.0,
+  "dur": 11.2,
+  "anim": 11.2,
   "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {},
   "mode": "cli",
   "script": "build_chart_bars.py",
   "cfg": {
-   "title": "ЦЕНТРЫ РЕШЕНИЙ",
-   "caption": "Украина перестаёт быть единственным центром.",
-   "seconds": 12.0,
+   "title": "",
+   "caption": "",
+   "seconds": 11.2,
    "bars": [
     {
-     "label": "США",
+     "label": "ОБОГАЩЕНИЕ",
      "value": 0.9,
-     "color": "EABD23"
+     "color": "4A90E2"
     },
     {
-     "label": "РОССИЯ",
-     "value": 0.8,
-     "color": "B92526"
+     "label": "ИНСПЕКЦИИ",
+     "value": 0.7,
+     "color": "48BB78"
     },
     {
-     "label": "КИТАЙ",
-     "value": 0.9,
+     "label": "БЛОКАДА",
+     "value": 0.55,
      "color": "84848A"
     },
     {
-     "label": "УКРАИНА",
-     "value": 0.3,
+     "label": "АКТИВЫ",
+     "value": 0.4,
      "color": "E8E8E8"
     }
    ]
   }
  },
  {
-  "scene": 43,
-  "view": "charts.cartogram",
-  "dur": 11.6,
-  "anim": 11.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "data": [
-    "Китай",
-    "Иран"
-   ],
-   "mode": "bubble",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 44,
-  "view": "photo",
-  "dur": 12.3,
-  "anim": 12.3,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "watermark": "5 МИНУТ",
-   "photo": "cards/photo/card_044.jpg",
-   "title": "ЯЛТА ДВА НОЛЬ",
-   "lines": [
-    "трое за столом",
-    "каждый со своим куском",
-    "карту никто не режет"
-   ]
-  }
- },
- {
-  "scene": 45,
-  "view": "sceny.globus_map",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 11.7,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "globus",
-   "seconds": 11.7,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Мир так уже не работает.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.7,
-    "region": "США"
-   }
-  },
-  "kwargs": {
-   "text": "Мир так уже не работает.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.7,
-   "region": "США"
-  }
- },
- {
-  "scene": 46,
-  "view": "vyrezka.gazeta",
-  "dur": 11.4,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "photo": "cards/photo/card_046.jpg",
-   "author": "Мерц нервничает",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 48,
-  "view": "charts.cartogram",
-  "dur": 11.7,
-  "anim": 11.7,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "data": [
-    "Фуцзянь",
-    "Гуандун",
-    "Хайнань"
-   ],
-   "level": "region",
-   "admin": "Китай",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 49,
-  "view": "zal_schetchik",
-  "dur": 12.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.5,
-   "sheets": [],
-   "text": "Военные корабли Китая.",
-   "value": "100",
-   "value_sub": "кораблей",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 50,
-  "view": "charts.radar",
-  "dur": 11.3,
-  "anim": 11.3,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "axes": [
-    "Флот",
-    "Авиация",
-    "Ракеты",
-    "Правила"
-   ],
-   "series": [
-    {
-     "label": "ПЕКИН: СИЛА И ПРАВИЛА",
-     "values": [
-      9.0,
-      8.0,
-      8.0,
-      2.0
-     ]
-    }
-   ],
-   "title": "ПЕКИН: СИЛА И ПРАВИЛА",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 51,
-  "view": "quote",
-  "dur": 12.0,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Универсального правила до сих пор не придумали. Китай имеет свои представления. Россия имеет свои.",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 52,
-  "view": "devices.device_scene",
-  "dur": 11.6,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "content_path": "cards/photo/card_052.jpg",
-   "items": [
-    "обсуждается изменение правил юрисдикции",
-    "речь о руководителях государств",
-    "фигурируют Вашингтон и Нидерланды"
-   ],
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 53,
-  "view": "doc",
-  "dur": 12.3,
-  "anim": 3.4,
-  "tail_zoom": 0.04,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Обсуждается изменение правил юрисдикции. Речь идёт о руководителях государств. В разговоре фигурируют Вашингтон и Нидерланды. Просматривается гораздо более широкая логика.",
-   "title": "ЮРИСДИКЦИЯ СУДА",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 55,
-  "view": "strike",
-  "dur": 11.4,
-  "anim": 3.0,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Насколько далеко зайдут изменения вокруг МУС, покажут сами решения.",
-   "struck": "Насколько далеко зайдут изменения",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 56,
-  "view": "zal_pol",
-  "dur": 12.2,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.2,
-   "sheets": [],
-   "text": "Американские интересы затронуты.",
-   "na_polu": "ТЕГЕРАН",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 58,
-  "view": "zal_kub",
-  "dur": 12.5,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.5,
-   "sheets": [],
-   "text": "После предыдущих американских и израильских ударов",
-   "kick": "Военная подготовка",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 59,
-  "view": "zal_g18",
-  "dur": 11.3,
-  "anim": 11.3,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.3,
-   "sheets": [],
-   "text": "Производство не исчезло.",
-   "value": "50",
-   "value_sub": "ракет в месяц",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 60,
-  "view": "zal_shkala",
-  "dur": 12.0,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.0,
-   "sheets": [],
-   "text": "Темп выше довоенного уровня.",
-   "value": "50",
-   "value_sub": "вдвое ниже довоенного",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
   "scene": 61,
-  "view": "charts.slope",
-  "dur": 11.6,
+  "view": "charts.map_dist",
+  "dur": 11.5,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "items": [
+   "points": [
     {
-     "label": "Разногласия",
-     "from": 1.0,
-     "to": 1.0,
-     "to_label": "Договорённости"
+     "label": "Ормузский пролив",
+     "lat": 26.57,
+     "lon": 56.25,
+     "accent": false
     },
     {
-     "label": "Конфликт",
-     "from": 1.0,
-     "to": 1.0,
-     "to_label": "Переговоры"
+     "label": "Тегеран",
+     "lat": 35.69,
+     "lon": 51.39,
+     "accent": false
+    },
+    {
+     "label": "Эр-Рияд",
+     "lat": 24.71,
+     "lon": 46.68,
+     "accent": false
     }
    ],
-   "left_label": "Раньше",
-   "right_label": "Теперь",
-   "source": "Международные отношения",
-   "sobytiya": true,
-   "watermark": "5 МИНУТ"
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 62,
-  "view": "zal_g44",
-  "dur": 12.3,
-  "anim": 12.3,
+  "view": "marker_serif",
+  "dur": 11.8,
+  "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.3,
-   "sheets": [],
-   "text": "Интересы держав пересекаются.",
-   "value": "44 страны",
-   "watermark": "5 МИНУТ"
+   "text": "Нельзя вынуть атомную программу из этой конструкции, договориться по ней за час и положить обратно.",
+   "accent": "конструкции",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 63,
-  "view": "charts.line",
-  "dur": 11.7,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "view": "photo",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "x_labels": [
-    "Уран",
-    "Производство",
-    "Экспорт"
-   ],
-   "series": [
-    {
-     "name": "Иран",
-     "values": [
-      20.0,
-      30.0,
-      50.0
-     ]
-    }
-   ],
-   "source": "МАГАТЭ",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 64,
-  "view": "sceny.pechat",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 11.4,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "pechat",
-   "seconds": 11.4,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "Отношения Саудовской Аравии с хуситами.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.4,
-    "stamp": "утверждено"
-   }
-  },
-  "kwargs": {
-   "text": "Отношения Саудовской Аравии с хуситами.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.4,
-   "stamp": "утверждено"
-  }
- },
- {
-  "scene": 65,
-  "view": "torn_split.torn_split",
-  "dur": 12.2,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "a_path": "cards/photo/card_065.jpg",
-   "b_path": "cards/photo/card_065_2.jpg",
-   "title": "ИРАН И ЕВРОПА",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 66,
-  "view": "zal_efir",
-  "dur": 11.7,
-  "anim": 2.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.7,
-   "sheets": [],
-   "text": "Проблема в Европе.",
-   "say": "Трамп договорится с Путиным без нас",
-   "author": "Мерц",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 67,
-  "view": "pull",
-  "dur": 12.5,
-  "anim": 2.6,
-  "tail_zoom": 0.05,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Пожалуйста, не принимайте решения без нас.",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 69,
-  "view": "sceny.lenta",
-  "mode": "cli",
-  "script": "sceny_cli.py",
-  "dur": 12.0,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
-  "cfg": {
-   "view": "lenta",
-   "seconds": 12.0,
-   "fps": 30,
-   "t0": 0.0,
-   "kwargs": {
-    "text": "С поставками нефти стало хуже.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 12.0,
-    "soobshcheniya": [
-     "ЧТО АМЕРИКАНСКАЯ УГРОЗА РЕАЛЬНА",
-     "ПОСЛЕ СОБЫТИЙ В ВЕНЕСУЭЛЕ КУБА ПОТЕРЯЛА ВАЖНЕЙШУЮ",
-     "С ПОСТАВКАМИ НЕФТИ СТАЛО ХУЖЕ",
-     "ЭНЕРГЕТИЧЕСКАЯ СИТУАЦИЯ"
-    ]
-   }
-  },
-  "kwargs": {
-   "text": "С поставками нефти стало хуже.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 12.0,
-   "soobshcheniya": [
-    "ЧТО АМЕРИКАНСКАЯ УГРОЗА РЕАЛЬНА",
-    "ПОСЛЕ СОБЫТИЙ В ВЕНЕСУЭЛЕ КУБА ПОТЕРЯЛА ВАЖНЕЙШУЮ",
-    "С ПОСТАВКАМИ НЕФТИ СТАЛО ХУЖЕ",
-    "ЭНЕРГЕТИЧЕСКАЯ СИТУАЦИЯ"
+   "watermark": "ПЛАНЕТА",
+   "photo": "cards/photo/card_063.jpg",
+   "lines": [
+    "Иран предупреждает Европу",
+    "Базы США под ударом",
+    "Риск достаётся союзникам"
    ]
   }
  },
  {
-  "scene": 70,
-  "view": "cinematic.dossier",
-  "dur": 11.6,
-  "anim": 11.6,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "scene": 64,
+  "view": "tape",
+  "dur": 11.2,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "case": "МАРКО РУБИО",
-   "rows": [
-    "Марко Рубио",
-    "глава Госдепартамента",
-    "кубинская тема имеет личный вес",
-    "Трамп не исключает применения силы",
-    "вопрос решить до конца срока"
-   ],
-   "title": "ДОСЬЕ",
-   "photo": "cards/photo/card_070.jpg",
-   "stamp": "ПЕРВОИСТОЧНИК",
-   "watermark": "5 МИНУТ"
+   "text": "Они переживают, что Трамп договорится с Россией за их спиной, но вполне могут получить последствия американского",
+   "accent": "Трамп",
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
-  "scene": 71,
-  "view": "vyrezka.figura",
-  "dur": 12.3,
+  "scene": 65,
+  "view": "charts.slope",
+  "dur": 11.5,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/photo/card_071.jpg",
-   "author": "Марко Рубио",
-   "watermark": "5 МИНУТ"
+   "items": [
+    {
+     "label": "Вашингтон решает",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Европа платит"
+    },
+    {
+     "label": "Силы США действуют",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Риск у союзников"
+    }
+   ],
+   "title": "КТО РЕШАЕТ И КТО ПЛАТИТ",
+   "source": "по заявлениям сторон",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 66,
+  "view": "zal_pol",
+  "dur": 11.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.8,
+   "sheets": [],
+   "text": "Один выбирает, другие платят.",
+   "na_polu": "ГЕОГРАФИЯ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "split",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Рядом находится Марко Рубио, для которого Куба представляет не только внешнюю тему",
+   "photo": "cards/photo/card_069.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 70,
+  "view": "zal",
+  "dur": 11.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Здесь все линии сходятся.",
+   "words": [
+    "ЗДЕСЬ",
+    "ЛИНИИ"
+   ],
+   "sheets": [
+    "но и личную часть внутренней американс",
+    "Здесь все линии сходятся",
+    "Соединённые Штаты считают естественным",
+    "которые сочтут необходимыми",
+    "Если угрозой объявлен"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 11.8,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 72,
+  "view": "charts.line",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "x_labels": [
+    "Тайвань для Пекина",
+    "НАТО у границ России",
+    "Общее правило"
+   ],
+   "series": [
+    {
+     "name": "ПРАВА ДРУГИХ ДЕРЖАВ",
+     "values": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    }
+   ],
+   "title": "ПРАВА ДРУГИХ ДЕРЖАВ",
+   "source": "по заявлениям сторон",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
@@ -1196,173 +1164,224 @@
   "view": "sceny.tribuna",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 11.4,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
+  "dur": 11.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
   "cfg": {
    "view": "tribuna",
-   "seconds": 11.4,
+   "seconds": 11.5,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Правило должно быть понятным для всех.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.4,
-    "role": "Политолог"
+    "text": "Россия возражала против движения НАТО к границам.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.5,
+    "role": "сторона спора"
    }
   },
   "kwargs": {
-   "text": "Правило должно быть понятным для всех.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.4,
-   "role": "Политолог"
+   "text": "Россия возражала против движения НАТО к границам.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.5,
+   "role": "сторона спора"
   }
  },
  {
-  "scene": 75,
-  "view": "cinematic.depth_of_field",
-  "dur": 11.7,
-  "anim": 11.7,
-  "tail_zoom": 0.0,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "scene": 74,
+  "view": "zal_g44",
+  "dur": 11.8,
+  "anim": 11.8,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "photo": "cards/photo/card_075.jpg",
-   "title": "РАСШИРЕНИЕ НАТО",
-   "watermark": "5 МИНУТ"
-  },
-  "mode": "frame"
+   "channel": "ПЛАНЕТА",
+   "dur": 11.8,
+   "sheets": [],
+   "text": "Правило читается одинаково.",
+   "value": "1",
+   "value_sub": "правило на всех",
+   "watermark": "ПЛАНЕТА"
+  }
  },
  {
   "scene": 76,
-  "view": "zal",
-  "dur": 12.5,
-  "anim": 2.6,
+  "view": "charts.pie",
+  "dur": 11.2,
+  "anim": 11.2,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Правило должно быть понятным для всех.",
-   "words": [
-    "МОСКВА",
-    "ПЕКИН"
+   "segments": [
+    {
+     "label": "Владелец исключения",
+     "value": 33.333333333333336
+    },
+    {
+     "label": "Соседние столики",
+     "value": 33.333333333333336
+    },
+    {
+     "label": "Остальные",
+     "value": 33.333333333333336
+    }
    ],
-   "sheets": [
-    "правило",
-    "угроза",
-    "система",
-    "Москва",
-    "Пекин",
-    "безопасность"
-   ],
-   "channel": "5 МИНУТ",
-   "dur": 12.5,
-   "watermark": "5 МИНУТ"
+   "title": "КОМУ УДОБНА ИСКЛЮЧИТЕЛЬНОСТЬ",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
   }
  },
  {
   "scene": 77,
-  "view": "zal_ekran",
-  "dur": 11.3,
-  "anim": 11.3,
-  "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 11.3,
-   "sheets": [],
-   "text": "Правила для всех одинаковы.",
-   "say": "Если угроза у них реальна, то наша тоже",
-   "author": "Эксперт",
-   "role": "Политолог",
-   "source": "Трансляция",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 78,
-  "view": "paper_hand",
-  "dur": 12.0,
-  "anim": 2.8,
-  "tail_zoom": 0.04,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
-  "kwargs": {
-   "text": "Разговор об устранении первопричин важнее, чем выглядит. Иначе торг пойдёт по кругу.",
-   "watermark": "5 МИНУТ"
-  }
- },
- {
-  "scene": 79,
   "view": "sceny.repliki",
   "mode": "cli",
   "script": "sceny_cli.py",
-  "dur": 11.6,
-  "channel": "5 МИНУТ",
-  "watermark": "5 МИНУТ",
+  "dur": 11.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
   "cfg": {
    "view": "repliki",
-   "seconds": 11.6,
+   "seconds": 11.5,
    "fps": 30,
    "t0": 0.0,
    "kwargs": {
-    "text": "Каждый говорит о своих интересах.",
-    "channel": "5 МИНУТ",
-    "watermark": "5 МИНУТ",
-    "dur": 11.6,
+    "text": "Первопричины важнее соглашения.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.5,
     "repliki_": [
-     "Мерц|без сюрпризов",
-     "Путин|угроза НАТО",
-     "Си|Тайвань — внутреннее"
+     "Территории и перемирие",
+     "НАТО и безопасность Европы",
+     "Ядерные ограничения"
     ]
    }
   },
   "kwargs": {
-   "text": "Каждый говорит о своих интересах.",
-   "channel": "5 МИНУТ",
-   "watermark": "5 МИНУТ",
-   "dur": 11.6,
+   "text": "Первопричины важнее соглашения.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.5,
    "repliki_": [
-    "Мерц|без сюрпризов",
-    "Путин|угроза НАТО",
-    "Си|Тайвань — внутреннее"
+    "Территории и перемирие",
+    "НАТО и безопасность Европы",
+    "Ядерные ограничения"
    ]
   }
  },
  {
-  "scene": 80,
-  "view": "zal_makety",
-  "dur": 12.3,
+  "scene": 78,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.8,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 11.8,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Стороны будут менять условия местами.",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.8,
+    "soobshcheniya": [
+     "До мира не хватило запятой",
+     "Условия меняются местами",
+     "Переговоры идут по кругу"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Стороны будут менять условия местами.",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.8,
+   "soobshcheniya": [
+    "До мира не хватило запятой",
+    "Условия меняются местами",
+    "Переговоры идут по кругу"
+   ]
+  }
+ },
+ {
+  "scene": 79,
+  "view": "torn_split.torn_split",
+  "dur": 12.1,
   "anim": 2.6,
   "tail_zoom": 0.045,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "channel": "5 МИНУТ",
-   "dur": 12.3,
-   "sheets": [],
-   "text": "Каждый видит угрозу по-своему.",
-   "makety": [
-    "банк=Финансы",
-    "лэп=Энергетика"
-   ],
-   "watermark": "5 МИНУТ"
+   "a_path": "cards/photo/card_079.jpg",
+   "b_path": "cards/photo/card_079_2.jpg",
+   "title": "ГДЕ ГРАНИЦА",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 80,
+  "view": "slider",
+  "dur": 11.2,
+  "anim": 11.2,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Где защита становится угрозой.",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 50.0,
+   "marker_display": "50",
+   "seconds": 11.2,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
   }
  },
  {
   "scene": 81,
-  "view": "tape",
-  "dur": 11.7,
-  "anim": 2.4,
-  "tail_zoom": 0.04,
-  "watermark": "5 МИНУТ",
-  "channel": "5 МИНУТ",
+  "view": "zal_ekran",
+  "dur": 11.5,
+  "anim": 11.5,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
   "kwargs": {
-   "text": "Новые конфликты будут появляться быстрее.",
-   "watermark": "5 МИНУТ"
+   "channel": "ПЛАНЕТА",
+   "dur": 11.5,
+   "sheets": [],
+   "text": "Порядок признают по выгоде.",
+   "say": "Законным считается порядок сильного.",
+   "author": "Вашингтон",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 82,
+  "view": "zal_efir",
+  "dur": 12.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.0,
+   "sheets": [],
+   "text": "Договор готовит новый конфликт.",
+   "say": "Объявят новую эпоху мира.",
+   "author": "Политики",
+   "watermark": "ПЛАНЕТА"
   }
  }
 ]
