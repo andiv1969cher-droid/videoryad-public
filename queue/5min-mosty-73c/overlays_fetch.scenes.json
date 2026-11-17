@@ -1,0 +1,68 @@
+{
+ "scenes": [
+  {
+   "id": 12,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "флаг Украины Киев 2026"
+  },
+  {
+   "id": 17,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "энергетическая подстанция Украина реальное фото"
+  },
+  {
+   "id": 20,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Верховной рады Украины реальное фото"
+  },
+  {
+   "id": 21,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бомбоубежище укрытие реальное фото"
+  },
+  {
+   "id": 51,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "гидроцикл реальное фото"
+  },
+  {
+   "id": 52,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кремль здание реальное фото"
+  },
+  {
+   "id": 57,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "флаг Великобритании Лондон реальное фото"
+  },
+  {
+   "id": 59,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Москва Красная площадь реальное фото"
+  }
+ ]
+}
