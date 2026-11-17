@@ -1,0 +1,120 @@
+{
+ "scenes": [
+  {
+   "id": 201,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Руслан Стефанчук крупный план лицо анфас реальное фото",
+   "visual_prompt": "Руслан Стефанчук крупный план лицо анфас реальное фото"
+  },
+  {
+   "id": 202,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "флаг Турции реальное фото"
+  },
+  {
+   "id": 203,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Дональд Трамп официальный портрет Белый дом",
+   "visual_prompt": "Дональд Трамп официальный портрет Белый дом"
+  },
+  {
+   "id": 204,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "флаг Украины Киев 2026"
+  },
+  {
+   "id": 205,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "энергетическая подстанция Украина реальное фото"
+  },
+  {
+   "id": 206,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Верховной рады Украины реальное фото"
+  },
+  {
+   "id": 207,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бомбоубежище укрытие реальное фото"
+  },
+  {
+   "id": 208,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "карта расположение Крымский мост схема",
+   "visual_prompt": "карта расположение Крымский мост схема"
+  },
+  {
+   "id": 209,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский самолёт трап реальное фото"
+  },
+  {
+   "id": 210,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "самолёт-разведчик RC-135 на земле в ангаре реальное фото",
+   "visual_prompt": "самолёт-разведчик RC-135 на земле в ангаре реальное фото"
+  },
+  {
+   "id": 211,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "гидроцикл реальное фото"
+  },
+  {
+   "id": 212,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Кремль здание реальное фото"
+  },
+  {
+   "id": 213,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "флаг Великобритании Лондон реальное фото"
+  },
+  {
+   "id": 214,
+   "start_sec": 0,
+   "duration_sec": 5,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Москва Красная площадь реальное фото"
+  }
+ ]
+}
