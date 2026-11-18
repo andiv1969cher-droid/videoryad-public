@@ -1,0 +1,1197 @@
+[
+ {
+  "scene": 7,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 13.1,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 13.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Санкции должны сломать Россию",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 13.1,
+    "pary": [
+     "Брюссель=санкции против России",
+     "Бумеранг=удар по Европе"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Санкции должны сломать Россию",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 13.1,
+   "pary": [
+    "Брюссель=санкции против России",
+    "Бумеранг=удар по Европе"
+   ]
+  }
+ },
+ {
+  "scene": 9,
+  "view": "charts.cartogram",
+  "dur": 13.3,
+  "anim": 13.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Россия",
+    "Германия"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 13,
+  "view": "doc",
+  "dur": 13.4,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Достаточно посмотреть\nна Mercedes. Для Германии\nэто больше, чем\nавтомобильная компания",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "film.film_strip",
+  "dur": 13.5,
+  "anim": 13.5,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "shots": [
+    "cards/photo/card_015.jpg",
+    "cards/photo/card_015_2.jpg",
+    "cards/photo/card_015_3.jpg",
+    "cards/photo/card_015_4.jpg"
+   ],
+   "title": "ПРОМЫШЛЕННОСТЬ",
+   "captions": [
+    "Очередь-Жильцов-Ка",
+    "Очередь-Жильцов-Ка",
+    "Очередь-Жильцов-Ка",
+    "Очередь-Жильцов-Ка"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "zal_makety",
+  "dur": 13.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 13.1,
+   "sheets": [],
+   "text": "Инвестиций в производство нет",
+   "makety": [
+    "здание=ЗАВОД",
+    "лэп=ЭНЕРГОСЕТИ"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 21,
+  "view": "cinematic.dossier",
+  "dur": 13.0,
+  "anim": 13.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "case": "MERCEDES",
+   "rows": [
+    "Михаэль Шибе",
+    "Глава производства Mercedes",
+    "Разница в стоимости площадок",
+    "Не на десять процентов. Не на треть.",
+    "В пять раз"
+   ],
+   "kick": "кто считает деньги",
+   "title": "кто считает деньги",
+   "photo": "cards/photo/card_021.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "zal_g18",
+  "dur": 12.6,
+  "anim": 12.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.6,
+   "sheets": [],
+   "text": "Один час производства",
+   "value": "В 5 РАЗ ДОРОЖЕ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "bars",
+  "dur": 13.6,
+  "anim": 13.6,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Разница в стоимости производства",
+   "caption": "Почти в пять раз дороже",
+   "seconds": 13.6,
+   "bars": [
+    {
+     "label": "ГЕРМАНИЯ",
+     "value": 1.0,
+     "color": "4A90E2"
+    },
+    {
+     "label": "АЛЬТЕРНАТИВА",
+     "value": 0.2,
+     "color": "48BB78"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 26,
+  "view": "zal_pol",
+  "dur": 10.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.8,
+   "sheets": [],
+   "text": "Бренд Сделано в Германии",
+   "na_polu": "МЁРТВ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "zal_g48",
+  "dur": 12.3,
+  "anim": 12.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.3,
+   "sheets": [],
+   "text": "Роскошь — своё производство",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "zal_slova",
+  "dur": 11.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.0,
+   "sheets": [],
+   "text": "Европа сама решает",
+   "na_polu": "ОСТАЛОСЬ УБЕДИТЬ ПРОМЫШЛЕННОСТЬ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "slider",
+  "dur": 12.1,
+  "anim": 12.1,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "Во сколько раз дороже своё производство",
+   "min": 0.0,
+   "max": 5.0,
+   "low": 0.0,
+   "high": 5.0,
+   "marker_value": 5.0,
+   "marker_display": "5",
+   "seconds": 12.1,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "В пять раз",
+   "source": ""
+  }
+ },
+ {
+  "scene": 30,
+  "view": "doc",
+  "dur": 11.2,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Настоящая самостоятельность начинается не с новой декларации. Она начинается с ситуации, в которой главный автомобильный символ страны не рассматривает родину как площадку с неприлично высоким ценником",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "marker_serif",
+  "dur": 11.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Европа теряет собственную промышленность",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "zal_ekran",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.4,
+   "sheets": [],
+   "text": "Результат европейского курса",
+   "say": "Экономика пострадала у всех",
+   "author": "Владимир Путин",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "zal",
+  "dur": 11.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Заявление зарплату не платит",
+   "words": [
+    "СЧЁТ",
+    "ЦЕНА"
+   ],
+   "sheets": [
+    "Бюджет на поддержку",
+    "Заводы закрываются",
+    "Счета растут"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 11.7,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "zal_g01",
+  "dur": 11.5,
+  "anim": 11.5,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.5,
+   "sheets": [],
+   "text": "Спор переходит от денег к власти",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "vyrezka.figura",
+  "dur": 10.8,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_036.jpg",
+   "author": "Кая Каллас",
+   "role": "глава дипломатии ЕС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.3,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 12.3,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Кто считает, что служба не нужна",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.3,
+    "repliki_": [
+     "Марин Ле Пен=за ликвидацию дипслужбы",
+     "Шарль Анри Галлуа=польза крайне сомнительна"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Кто считает, что служба не нужна",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.3,
+   "repliki_": [
+    "Марин Ле Пен=за ликвидацию дипслужбы",
+    "Шарль Анри Галлуа=польза крайне сомнительна"
+   ]
+  }
+ },
+ {
+  "scene": 38,
+  "view": "split",
+  "dur": 11.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Анри Галлуа утверждает, что польза Каллас крайне ограничена",
+   "photo": "cards/photo/card_038.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.1,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 12.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Внешняя политика возвращается столицам",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.1,
+    "region": "Франция"
+   }
+  },
+  "kwargs": {
+   "text": "Внешняя политика возвращается столицам",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.1,
+   "region": "Франция"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.2,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 11.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "К верховному представителю полагаются кабинеты",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.2,
+    "role": "министры"
+   }
+  },
+  "kwargs": {
+   "text": "К верховному представителю полагаются кабинеты",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.2,
+   "role": "министры"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.9,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 11.9,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Кто согласует согласование?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.9,
+    "tezisy": [
+     "Советники",
+     "Департаменты",
+     "Делегации"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Кто согласует согласование?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.9,
+   "tezisy": [
+    "Советники",
+    "Департаменты",
+    "Делегации"
+   ]
+  }
+ },
+ {
+  "scene": 42,
+  "view": "charts.map_dist",
+  "dur": 11.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Париж",
+     "lat": 48.857,
+     "lon": 2.352,
+     "accent": false
+    },
+    {
+     "label": "Брюссель",
+     "lat": 50.846,
+     "lon": 4.352,
+     "accent": true
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "pull",
+  "dur": 11.7,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Аппарат на месте. Исчезла только его работа",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "zal_kub",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.5,
+   "sheets": [
+    "сообщения",
+    "Кофе в автомате наверняка тоже оплачив"
+   ],
+   "text": "Исчезает только главная функция",
+   "kick": "ВПРОЧЕМ, ВЫХОД",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "doc",
+  "dur": 11.6,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Комиссия по изучению\nпоследствий сокращения комиссий\nФорум и доклад на несколько сотен страниц\nБудущее общеевропейской внешней политики\nпосле возвращения политики государствам\nБрюссель. Презентация прилагается",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.8,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 10.8,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Сокращение полномочий Брюсселя",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 10.8,
+    "soobshcheniya": [
+     "ФРАНЦИЯ: вернуть внешнюю политику",
+     "ГЕРМАНИЯ И ПОЛЬША: поддержка идеи"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Сокращение полномочий Брюсселя",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 10.8,
+   "soobshcheniya": [
+    "ФРАНЦИЯ: вернуть внешнюю политику",
+    "ГЕРМАНИЯ И ПОЛЬША: поддержка идеи"
+   ]
+  }
+ },
+ {
+  "scene": 47,
+  "view": "charts.cartogram",
+  "dur": 12.3,
+  "anim": 12.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Брюссель",
+    "Страсбург"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 48,
+  "view": "marker_serif",
+  "dur": 11.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Его основа в согласии государств отдавать часть собственных прав общим органам",
+   "accent": "собственных",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.1,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 12.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Потерянное право решать",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.1
+   }
+  },
+  "kwargs": {
+   "text": "Потерянное право решать",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.1
+  }
+ },
+ {
+  "scene": 50,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.2,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 11.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Домино возврата полномочий",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.2,
+    "sobytiya": [
+     "Внешняя политика=первый шаг",
+     "Военные вопросы=второй шаг",
+     "Бюджет=третий шаг"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Домино возврата полномочий",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.2,
+   "sobytiya": [
+    "Внешняя политика=первый шаг",
+    "Военные вопросы=второй шаг",
+    "Бюджет=третий шаг"
+   ]
+  }
+ },
+ {
+  "scene": 51,
+  "view": "quote",
+  "dur": 11.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Деталь за деталью, пока дверь не откроется со стеной",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "zal_schetchik",
+  "dur": 11.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.4,
+   "sheets": [],
+   "text": "Объяснить правительствам",
+   "value": "27",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.7,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 11.7,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Как решать то, что забрали?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.7,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Как решать то, что забрали?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.7,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 54,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 11.5,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Зачем отдали работу наверх?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.5,
+    "role": "общеевропейская служба"
+   }
+  },
+  "kwargs": {
+   "text": "Зачем отдали работу наверх?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.5,
+   "role": "общеевропейская служба"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "tape",
+  "dur": 11.6,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Любой аппарат охотно обсуждает новые обязанности, дополнительные бюджеты и расширение штата",
+   "accent": "дополнительные",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "duel",
+  "dur": 12.3,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Решение принимает Брюссель",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Платит за него избиратель",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "zal_efir",
+  "dur": 11.0,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.0,
+   "sheets": [],
+   "text": "Торжественная риторика",
+   "say": "Ответственность у нас общая",
+   "author": "чиновник ЕС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "pull",
+  "dur": 12.1,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Налоги платит государство. Увольняют в конкретном городе",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.2,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 11.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Рабочий в Германии",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.2,
+    "role": "не восхищается масштабом задач"
+   }
+  },
+  "kwargs": {
+   "text": "Рабочий в Германии",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.2,
+   "role": "не восхищается масштабом задач"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.9,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 11.9,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Французский налогоплательщик",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.9,
+    "tezisy": [
+     "Платит за аппарат",
+     "Не видит пользы"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Французский налогоплательщик",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.9,
+   "tezisy": [
+    "Платит за аппарат",
+    "Не видит пользы"
+   ]
+  }
+ },
+ {
+  "scene": 62,
+  "view": "charts.cartogram",
+  "dur": 11.4,
+  "anim": 11.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Польша",
+    "Германия",
+    "Франция"
+   ],
+   "mode": "bubble",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.7,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 11.7,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Цена без мелкого шрифта",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.7,
+    "region": "Франция"
+   }
+  },
+  "kwargs": {
+   "text": "Цена без мелкого шрифта",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.7,
+   "region": "Франция"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "charts.map_dist",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Брюссель",
+     "lat": 50.846,
+     "lon": 4.352,
+     "accent": false
+    },
+    {
+     "label": "Москва",
+     "lat": 55.751,
+     "lon": 37.618,
+     "accent": true
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 65,
+  "view": "doc",
+  "dur": 11.6,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Путин подводит итог\nна площадке АТЭС в Китае\nспустя несколько лет санкций",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "strike",
+  "dur": 12.3,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Решения были выгодными и почти безболезненными",
+   "struck": "почти безболезненными",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 68,
+  "view": "charts.cartogram",
+  "dur": 11.0,
+  "anim": 11.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Берлин",
+    "Бавария"
+   ],
+   "level": "region",
+   "admin": "Германия",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.1,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 12.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "От денег к власти",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 12.1
+   }
+  },
+  "kwargs": {
+   "text": "От денег к власти",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 12.1
+  }
+ },
+ {
+  "scene": 70,
+  "view": "zal",
+  "dur": 11.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Кто получил право решать?",
+   "words": [
+    "ВЛАСТЬ",
+    "ДЕНЬГИ"
+   ],
+   "sheets": [
+    "Бюджет",
+    "Полномочия"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 11.2,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 71,
+  "view": "marker_serif",
+  "dur": 11.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Брюсселю придётся объяснять не Россию, а себя",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 72,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.4,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 11.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Кто должен решать сам",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.4,
+    "repliki_": [
+     "Париж=пусть решает сам",
+     "Варшава=не нужен посредник"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Кто должен решать сам",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.4,
+   "repliki_": [
+    "Париж=пусть решает сам",
+    "Варшава=не нужен посредник"
+   ]
+  }
+ },
+ {
+  "scene": 73,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.7,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 11.7,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Нужен ли этот аппарат вообще?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.7,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Нужен ли этот аппарат вообще?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.7,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 74,
+  "view": "zal_efir",
+  "dur": 11.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.5,
+   "sheets": [],
+   "text": "Результат механизма",
+   "say": "Бумеранг задел своих",
+   "author": "дипломат ЕС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 75,
+  "view": "pull",
+  "dur": 11.6,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Жаль только, что Mercedes уже достал калькулятор",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
