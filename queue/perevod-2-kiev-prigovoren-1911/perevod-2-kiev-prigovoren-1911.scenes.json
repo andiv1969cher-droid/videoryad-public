@@ -6,8 +6,8 @@
    "start_sec": 0.0,
    "duration_sec": 9.293,
    "text": "",
-   "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_002.jpg",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч за сценой не идёт",
    "card": {
     "kind": "split",
     "text": "В послевоенной Украине вернувшихся ветеранов ждут не праздник, а преступность, напряжение и революции",
@@ -31,8 +31,8 @@
    "start_sec": 19.04,
    "duration_sec": 9.743,
    "text": "",
-   "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_013.jpg",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
    "card": {
     "kind": "photo",
     "lines": [
@@ -57,16 +57,16 @@
    "start_sec": 38.66,
    "duration_sec": 9.458,
    "text": "",
-   "source": "web_search",
-   "source_query": "Международный валютный фонд Украина прогноз 2026"
+   "source": "card:line",
+   "source_query": "карточка «line» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 6,
    "start_sec": 48.12,
    "duration_sec": 9.76,
    "text": "",
-   "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_009.jpg",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
    "card": {
     "kind": "slider",
     "код": "A5",
@@ -89,15 +89,15 @@
    "duration_sec": 9.542,
    "text": "",
    "source": "web_search",
-   "source_query": "Корольчук Украина энергетика отключения"
+   "source_query": "тёмный город Киев отключение электричества 2026"
   },
   {
    "id": 9,
    "start_sec": 77.38,
    "duration_sec": 9.618,
    "text": "",
-   "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_010.jpg",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
    "card": {
     "kind": "dof",
     "код": "A64",
@@ -119,8 +119,8 @@
    "start_sec": 96.97,
    "duration_sec": 9.943,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким выступление Киев",
+   "source": "card:bars",
+   "source_query": "карточка «bars» — кадр рисуется в облаке, фетч за сценой не идёт",
    "card": {
     "kind": "bars",
     "код": "A4",
@@ -134,8 +134,8 @@
    "start_sec": 106.91,
    "duration_sec": 9.843,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source": "card:dossier",
+   "source_query": "карточка «dossier» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 13,
@@ -191,8 +191,8 @@
    "start_sec": 174.97,
    "duration_sec": 9.577,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские ветераны фронтовое братство 2026"
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 20,
@@ -215,8 +215,15 @@
    "start_sec": 205.62,
    "duration_sec": 10.809,
    "text": "",
-   "source": "web_search",
-   "source_query": "мобилизация улица Киев 2026"
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "Копились годами",
+    "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+    "anim": 10.81
+   }
   },
   {
    "id": 23,
@@ -247,8 +254,8 @@
    "start_sec": 248.92,
    "duration_sec": 11.056,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким интервью Киев"
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 27,
@@ -271,8 +278,8 @@
    "start_sec": 281.77,
    "duration_sec": 10.777,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким интервью Киев"
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 30,
@@ -296,7 +303,7 @@
    "duration_sec": 10.866,
    "text": "",
    "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source_query": "Виталий Ким за кафедрой брифинг Киев"
   },
   {
    "id": 33,
@@ -304,15 +311,15 @@
    "duration_sec": 10.851,
    "text": "",
    "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source_query": "Виталий Ким пресс-конференция Киев"
   },
   {
    "id": 34,
    "start_sec": 336.57,
    "duration_sec": 10.825,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские ветераны общественная организация 2026"
+   "source": "card:network",
+   "source_query": "карточка «network» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 35,
@@ -328,7 +335,7 @@
    "duration_sec": 10.398,
    "text": "",
    "source": "web_search",
-   "source_query": "Кабинет министров Украины Киев"
+   "source_query": "здание Кабинета министров Украины Киев без людей"
   },
   {
    "id": 37,
@@ -344,7 +351,7 @@
    "duration_sec": 10.806,
    "text": "",
    "source": "web_search",
-   "source_query": "украинские военные Киев возвращение 2026"
+   "source_query": "реальное фото украинский военный с планшетом фронт 2026"
   },
   {
    "id": 39,
@@ -359,8 +366,8 @@
    "start_sec": 400.79,
    "duration_sec": 10.476,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 41,
@@ -368,15 +375,15 @@
    "duration_sec": 10.892,
    "text": "",
    "source": "web_search",
-   "source_query": "Кабинет министров Украины Киев"
+   "source_query": "вывеска Кабинет министров Украины вход"
   },
   {
    "id": 42,
    "start_sec": 422.16,
    "duration_sec": 10.834,
    "text": "",
-   "source": "web_search",
-   "source_query": "Виталий Ким Киев интервью"
+   "source": "card:device",
+   "source_query": "карточка «device» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 43,
@@ -384,7 +391,7 @@
    "duration_sec": 10.756,
    "text": "",
    "source": "web_search",
-   "source_query": "Кабинет министров Украины Киев"
+   "source_query": "флаг Украины над зданием правительства Киев"
   },
   {
    "id": 44,
@@ -392,7 +399,7 @@
    "duration_sec": 10.253,
    "text": "",
    "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source_query": "Виталий Ким журналисты Telegram комментарий"
   },
   {
    "id": 45,
@@ -400,7 +407,7 @@
    "duration_sec": 10.683,
    "text": "",
    "source": "web_search",
-   "source_query": "украинские беженцы Европа 2026"
+   "source_query": "здание миграционной службы Варшава без людей"
   },
   {
    "id": 46,
@@ -415,8 +422,8 @@
    "start_sec": 475.19,
    "duration_sec": 10.378,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские беженцы Европа 2026"
+   "source": "card:slope",
+   "source_query": "карточка «slope» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 48,
@@ -431,8 +438,15 @@
    "start_sec": 496.4,
    "duration_sec": 10.894,
    "text": "",
-   "source": "web_search",
-   "source_query": "Кабинет министров Украины Киев"
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "title": "Кто ответит после победы",
+    "watermark": "ПЕРЕВОД С ДИПЛОМАТИЧЕСКОГО",
+    "anim": 10.89
+   }
   },
   {
    "id": 50,
@@ -440,31 +454,31 @@
    "duration_sec": 10.565,
    "text": "",
    "source": "web_search",
-   "source_query": "Министерство финансов Украины Киев"
+   "source_query": "здание Министерства финансов Украины Киев"
   },
   {
    "id": 51,
    "start_sec": 517.86,
    "duration_sec": 10.714,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские семьи беженцы Европа 2026"
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 52,
    "start_sec": 528.57,
    "duration_sec": 10.542,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские военные возвращение фронт 2026"
+   "source": "card:map_dist",
+   "source_query": "карточка «map_dist» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 53,
    "start_sec": 539.12,
    "duration_sec": 10.405,
    "text": "",
-   "source": "web_search",
-   "source_query": "румынская граница Украина колючая проволока 2026"
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 54,
@@ -487,8 +501,8 @@
    "start_sec": 570.64,
    "duration_sec": 10.687,
    "text": "",
-   "source": "web_search",
-   "source_query": "малый бизнес Украина налоги Киев 2026"
+   "source": "card:waterfall",
+   "source_query": "карточка «waterfall» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 57,
@@ -503,8 +517,8 @@
    "start_sec": 591.88,
    "duration_sec": 10.784,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские ветераны жильё Киев 2026"
+   "source": "card:pie",
+   "source_query": "карточка «pie» — кадр рисуется в облаке, фетч не нужен"
   },
   {
    "id": 59,
@@ -512,7 +526,7 @@
    "duration_sec": 10.564,
    "text": "",
    "source": "web_search",
-   "source_query": "Кабинет министров Украины Киев"
+   "source_query": "окна здания правительства Украины Киев подсветка"
   },
   {
    "id": 60,
@@ -528,7 +542,7 @@
    "duration_sec": 10.906,
    "text": "",
    "source": "web_search",
-   "source_query": "украинские военные возвращение Киев 2026"
+   "source_query": "украинский военный с рюкзаком возвращение Киев 2026"
   },
   {
    "id": 62,
@@ -552,7 +566,7 @@
    "duration_sec": 10.62,
    "text": "",
    "source": "web_search",
-   "source_query": "Виталий Ким Киев выступление"
+   "source_query": "Виталий Ким выступление зал Киев"
   },
   {
    "id": 65,
@@ -560,7 +574,7 @@
    "duration_sec": 10.177,
    "text": "",
    "source": "web_search",
-   "source_query": "украинские военные возвращение Киев 2026"
+   "source_query": "украинские военные идут по улице Киев 2026"
   },
   {
    "id": 66,
@@ -575,8 +589,8 @@
    "start_sec": 688.31,
    "duration_sec": 10.987,
    "text": "",
-   "source": "web_search",
-   "source_query": "украинские ветераны возвращение домой 2026"
+   "source": "card:paper_hand",
+   "source_query": "карточка «paper_hand» — кадр рисуется в облаке, фетч не нужен"
   }
  ]
 }
