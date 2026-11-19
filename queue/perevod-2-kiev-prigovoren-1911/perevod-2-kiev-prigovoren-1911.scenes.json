@@ -50,7 +50,8 @@
    "duration_sec": 9.874,
    "text": "",
    "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_006.jpg"
+   "source_query": "planeta-2-kiev-prigovoren-1911/scene_006.jpg",
+   "fx": "subscribe"
   },
   {
    "id": 5,
@@ -143,7 +144,8 @@
    "duration_sec": 9.444,
    "text": "",
    "source": "local_donor",
-   "source_query": "planeta-2-kiev-prigovoren-1911/scene_040.jpg"
+   "source_query": "planeta-2-kiev-prigovoren-1911/scene_040.jpg",
+   "fx": "subscribe"
   },
   {
    "id": 14,
@@ -175,16 +177,16 @@
    "start_sec": 155.71,
    "duration_sec": 9.608,
    "text": "",
-   "source": "local_donor",
-   "source_query": "5min-2-kiev-prigovoren-1911/scene_005.jpg"
+   "source": "web_search",
+   "source_query": "Виталий Ким пресс-центр Киев"
   },
   {
    "id": 18,
    "start_sec": 165.32,
    "duration_sec": 9.645,
    "text": "",
-   "source": "local_donor",
-   "source_query": "5min-2-kiev-prigovoren-1911/scene_007.jpg"
+   "source": "web_search",
+   "source_query": "украинские военные автобус возвращение Киев 2026"
   },
   {
    "id": 19,
@@ -231,7 +233,8 @@
    "duration_sec": 11.0,
    "text": "",
    "source": "web_search",
-   "source_query": "демобилизованный военный строитель Украина 2026"
+   "source_query": "демобилизованный военный строитель Украина 2026",
+   "fx": "subscribe"
   },
   {
    "id": 24,
@@ -311,7 +314,8 @@
    "duration_sec": 10.851,
    "text": "",
    "source": "web_search",
-   "source_query": "Виталий Ким пресс-конференция Киев"
+   "source_query": "Виталий Ким пресс-конференция Киев",
+   "fx": "subscribe"
   },
   {
    "id": 34,
@@ -375,7 +379,8 @@
    "duration_sec": 10.892,
    "text": "",
    "source": "web_search",
-   "source_query": "вывеска Кабинет министров Украины вход"
+   "source_query": "вывеска Кабинет министров Украины вход",
+   "fx": "subscribe"
   },
   {
    "id": 42,
