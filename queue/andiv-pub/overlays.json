@@ -1,0 +1,197 @@
+{
+ "2": {
+  "text": {
+   "words": "ДЕНЬГИ И БЛАГОДАРНОСТЬ",
+   "color": "yellow",
+   "pos": "tl",
+   "font": "default",
+   "sound": "pshik",
+   "at": 2.0,
+   "scale": 1.0,
+   "style": "mask_plate",
+   "approved": true
+  }
+ },
+ "3": {
+  "text": {
+   "words": "НЕПРИЯТНЫЕ ВЕЩИ",
+   "style": "mask_plate",
+   "pos": "tc"
+  }
+ },
+ "4": {
+  "text": {
+   "words": "ПРЕЖНИЕ СОЮЗНИКИ",
+   "style": "mask_plate",
+   "pos": "tr"
+  }
+ },
+ "5": {
+  "text": {
+   "words": "МЕМУАРЫ БАЙДЕНА",
+   "style": "mask_plate",
+   "pos": "ml"
+  }
+ },
+ "6": {
+  "text": {
+   "words": "КАПРИЗНЫЙ И НЕБЛАГОДАРНЫЙ",
+   "style": "mask_plate",
+   "pos": "mc"
+  }
+ },
+ "7": {
+  "text": {
+   "words": "ОРУЖИЕ, ДЕНЬГИ, ПОДДЕРЖКА",
+   "style": "mask_plate",
+   "pos": "mr"
+  }
+ },
+ "8": {
+  "text": {
+   "words": "ПРИЗНАНИЕ БАЙДЕНА",
+   "style": "mask_plate",
+   "pos": "tl"
+  }
+ },
+ "9": {
+  "text": {
+   "words": "БАЙДЕН ОТКАЗАЛ",
+   "style": "mask_plate",
+   "pos": "tc"
+  }
+ },
+ "10": {
+  "text": {
+   "words": "ТОН ПОМЕНЯЛСЯ",
+   "style": "mask_plate",
+   "pos": "tr"
+  }
+ },
+ "11": {
+  "text": {
+   "words": "АТМОСФЕРА В ПЕНТАГОНЕ",
+   "style": "mask_plate",
+   "pos": "ml"
+  }
+ },
+ "12": {
+  "text": {
+   "words": "ПРЕЗРИТЕЛЬНАЯ УСМЕШКА",
+   "style": "mask_plate",
+   "pos": "mc"
+  }
+ },
+ "15": {
+  "text": {
+   "words": "КАЯ КАЛЛАС",
+   "style": "mask_plate",
+   "pos": "mr"
+  }
+ },
+ "16": {
+  "text": {
+   "words": "ПРЕДЛОЖЕНИЯ МОСКВЫ",
+   "style": "mask_plate",
+   "pos": "tl"
+  }
+ },
+ "23": {
+  "text": {
+   "words": "МАЙДАН — ПЕРЕВОРОТ?",
+   "style": "mask_plate",
+   "pos": "tc"
+  }
+ },
+ "24": {
+  "text": {
+   "words": "АМЕРИКАНСКИЙ ПРЕДПРИНИМАТЕЛЬ",
+   "style": "mask_plate",
+   "pos": "tr"
+  }
+ },
+ "26": {
+  "text": {
+   "words": "ВИКТОРИЯ НУЛАНД",
+   "style": "mask_plate",
+   "pos": "ml"
+  }
+ },
+ "27": {
+  "text": {
+   "words": "ПЕЧЕНЬКИ НА МАЙДАНЕ",
+   "style": "mask_plate",
+   "pos": "mc"
+  }
+ },
+ "29": {
+  "text": {
+   "words": "ГИДО ВЕСТЕРВЕЛЛЕ",
+   "style": "mask_plate",
+   "pos": "mr"
+  }
+ },
+ "30": {
+  "text": {
+   "words": "ПРОТЕСТЫ В ПАРИЖЕ",
+   "style": "mask_plate",
+   "pos": "tl"
+  }
+ },
+ "37": {
+  "text": {
+   "words": "КОММЕРЧЕСКАЯ И ВОЕННАЯ СВЯЗЬ",
+   "style": "mask_plate",
+   "pos": "tc"
+  }
+ },
+ "39": {
+  "text": {
+   "words": "ЗАПРЕТ НА УДАРНЫЕ ДРОНЫ",
+   "style": "mask_plate",
+   "pos": "tr"
+  }
+ },
+ "48": {
+  "text": {
+   "words": "ШВЕЙЦАРИЯ И ЛЮКСЕМБУРГ",
+   "style": "mask_plate",
+   "pos": "ml"
+  }
+ },
+ "54": {
+  "text": {
+   "words": "ВЭНС, ДВЕ ТЫСЯЧИ ШЕСТНАДЦАТЫЙ",
+   "style": "mask_plate",
+   "pos": "mc"
+  }
+ },
+ "57": {
+  "text": {
+   "words": "БИОГРАФИЯ ПОЧТИ ИДЕАЛЬНАЯ",
+   "style": "mask_plate",
+   "pos": "mr"
+  }
+ },
+ "59": {
+  "text": {
+   "words": "ПОЛИТИЧЕСКАЯ КОНСТРУКЦИЯ",
+   "style": "mask_plate",
+   "pos": "tl"
+  }
+ },
+ "62": {
+  "text": {
+   "words": "КРАСНЫЕ ЛИНИИ МАСКА",
+   "style": "mask_plate",
+   "pos": "tc"
+  }
+ },
+ "65": {
+  "text": {
+   "words": "ЗАВИСИМОСТЬ ОТ ВАШИНГТОНА",
+   "style": "mask_plate",
+   "pos": "tr"
+  }
+ }
+}
