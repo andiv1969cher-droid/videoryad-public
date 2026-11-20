@@ -1,0 +1,214 @@
+[
+ {
+  "scene": 2,
+  "view": "paper_hand",
+  "dur": 11.5,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Партнёр и противник иногда одно и то же государство, смотря по пункту повестки",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.0,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 11.0,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Крупнейшие ядерные державы",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.0
+   }
+  },
+  "kwargs": {
+   "text": "Крупнейшие ядерные державы",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.0
+  }
+ },
+ {
+  "scene": 30,
+  "view": "charts.slope",
+  "dur": 13.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Брюссель решает",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Державы решают"
+    },
+    {
+     "label": "Общие органы",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Прямой диалог"
+    }
+   ],
+   "source": "Новый подход",
+   "sobytiya": true,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "charts.network",
+  "dur": 12.3,
+  "anim": 12.3,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Трамп",
+     "label": "Трамп",
+     "weight": 2.0
+    },
+    {
+     "id": "Путин",
+     "label": "Путин",
+     "weight": 2.0
+    },
+    {
+     "id": "Си",
+     "label": "Си",
+     "weight": 2.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Трамп",
+     "to": "Путин",
+     "weight": 1.0
+    },
+    {
+     "from": "Си",
+     "to": "Путин",
+     "weight": 1.0
+    },
+    {
+     "from": "Трамп",
+     "to": "Си",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "charts.map_dist",
+  "dur": 11.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "points": [
+    {
+     "label": "Рамштайн",
+     "lat": 49.44,
+     "lon": 7.6,
+     "accent": false
+    },
+    {
+     "label": "линия фронта",
+     "lat": 48.0,
+     "lon": 37.8,
+     "accent": false
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "charts.cartogram",
+  "dur": 13.2,
+  "anim": 13.2,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "Россия",
+    "США",
+    "Китай"
+   ],
+   "mode": "bubble",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "devices.device_scene",
+  "dur": 9.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "content_path": "cards/photo/card_061.jpg",
+   "items": [
+    "Владимир Путин",
+    "Президент России",
+    "Трамп называет его другом",
+    "Привёз ядерный чемоданчик"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 62,
+  "view": "torn_split.torn_split",
+  "dur": 12.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "a_path": "cards/photo/card_062.jpg",
+   "b_path": "cards/photo/card_062_2.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 73,
+  "view": "cinematic.dossier",
+  "dur": 15.4,
+  "anim": 15.4,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "rows": [
+    "Дональд Трамп",
+    "Президент США",
+    "Назвал Путина другом",
+    "Хозяин саммита"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "images/scene_073.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
