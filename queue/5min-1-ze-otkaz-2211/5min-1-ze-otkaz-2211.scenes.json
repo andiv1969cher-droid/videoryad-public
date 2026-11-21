@@ -1,0 +1,610 @@
+{
+ "channel": "5 МИНУТ",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Белый дом Овальный кабинет переговоры"
+  },
+  {
+   "id": 2,
+   "start_sec": 9.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/47e92a9ec5.mp4?token=XTTNO3P0JR2pl_8GStB2UvRlO0d3Map_hT1_oGNVx5mB4kCL4vNc4gMy3ak2rkHFuVZnx-PtSEeaS77ZF1K8iHDVq9oFud-_ibbyp8vl2fPWmIbGZN0NaMmVW1VU8-ZddXee_b8wSaV5SdXCdxWN_HeAKRGRruamx7LUANaJgnsbaqjJBt3DlBqSCreAMkOMx-39DaOlJNnyjrmOBNJkL9L6ZU5nJJc1VVQhuxCy40zjXwwCz7CxM7vA__87le9g9nCEJWSytKIzEFDxK1IEf-fwWAgzRo08Dtpn0sHEn94zEAf4c4b-Z_QKMnijSzGGN4OTtBGdLqbVIKVGTmLP5A",
+   "fx": "flash"
+  },
+  {
+   "id": 3,
+   "start_sec": 18.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:paper_hand",
+   "source_query": "карточка «paper_hand» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 4,
+   "start_sec": 27.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Капитолий Вашингтон здание Конгресса США",
+   "fx": "curl"
+  },
+  {
+   "id": 5,
+   "start_sec": 37.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_slova",
+   "source_query": "карточка «zal_slova» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 6,
+   "start_sec": 46.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/ee675f43fc.mp4?token=iJAu-K9wtcoTMw_-uDLxHLkNuov-Yd-SBn80WBcE0wyaqlu7W7RZx6bdz2vxiggtvIBuWJyyMBaxiBqQxcktVPKi9mvN66PSt2T9UNLfMHEFTrHFnVtQgEyCnPv4xejruyabdc-pQZrSP9jRiIbizqtdyEUzaLefJFD1149t8gtRhDluqlbn2aXAfqFvETD6IwnYH8IIvw5ppLY74wyW64HPVkLtyB1IrGL1DJhVd3JUC7_VOjLDNc89wrqS_IBiLRMnMDFi_Rz4afLb6L3gptYIIxTpVw4xZGyj_pEgFo2U_ZWRd7VmGRiLdJfZm4DNBdMSU70y64WstrGz2fBJWg",
+   "fx": "filmwin"
+  },
+  {
+   "id": 7,
+   "start_sec": 55.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:tribuna",
+   "source_query": "карточка «tribuna» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 8,
+   "start_sec": 64.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ГОСДЕП-США",
+   "fx": "player"
+  },
+  {
+   "id": 9,
+   "start_sec": 74.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:wall",
+   "source_query": "карточка «wall» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "wall",
+    "код": "A56",
+    "title": "СВЯЗЬ ПЕРЕГОВОРОВ",
+    "watermark": "5 МИНУТ",
+    "anim": 9.2
+   }
+  },
+  {
+   "id": 10,
+   "start_sec": 83.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/ЕВРОКОМИССИЯ",
+   "fx": "slides"
+  },
+  {
+   "id": 11,
+   "start_sec": 92.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:strike",
+   "source_query": "карточка «strike» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 12,
+   "start_sec": 101.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/НАТО",
+   "fx": "stamps"
+  },
+  {
+   "id": 13,
+   "start_sec": 111.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:dossier",
+   "source_query": "карточка «dossier» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 14,
+   "start_sec": 120.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 15,
+   "start_sec": 129.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/d779c277c6.mp4?token=mBizKPdD-Vi2n36fKuDTdXgoUeNJqO8QcN3_8qRbDwhQNSPDub-brBUPklFezs16FFSNuYV2uvRDd-iVMmZxbiylyWiKdcnDlQAdpXoQYqA_c7dxntcin1XnVhUl_qEh8R80OWm4cHePcIsRHJgTRYI4lcF3QDJl5GqWmPLZxk2BAXrq-RD7lDR2QCuYtDrulMW4khZps3icwVM6JEYVEobUe4G7R-5apSntFveN4RuX3YiQ8PXi2uVvgxAcq8b5wphV5VjXmmO6z5yAMOKSVqTTCXbRi_gL5PrsC4ppjeNcGlaTY7Qg0UsWOmUgQhn0HaE3G8uz5YkxxjjNLX6dczqarVIyFZBDW3iaLT7YusokaP8a7vi0BpRIVItySSoRPVDjbvo5gbQU7tFiHhKqJ30f9yhbuYYBV8cr-VOB8qWaS7Pb56XsY74WmWSuQdzAMxkNKeD-13PXi2Hy_KJU5n8Utgcc2uOvwCkZ539_gE6sIUvXiF6f-J1O2SrLCa_59DjzONmKB4prN-SV3exR_8M83AOo5zPrJg2eGTM0e5mC1xkuTRHntRoJ9T6Ot34bW2ERIcZUfCUpHc0xlfHDjRg8AOzcul2q3Hix6WeFipqqnSj10lvduDD_-sxMgr8pGIWFtQddfhZiPYRa6tcso73n9YleR2IPOgQLUMoer-I",
+   "fx": "torn"
+  },
+  {
+   "id": 16,
+   "start_sec": 138.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/ccc1b4d0bf.mp4?token=GJCdjgOTiaMgo4I5I0ZxZv0q_PZ-_99ZeWqQADAVts8PuvI5wAlmHHl_g86ip_XD74_oCEAf6IQ1G1NkhfZbyW_m3nyuNqnDwPekPkYv08KPjf565YxGu46lFpZp1jti5v0wroTLzouJgLACkcC7vg7bV9Ks87IHnJHqsuDdyAFroU3T-QbRxkD6u9igd7-eUn90u46cVinrtlE6PH_UFg3gNHpUZjvB9oVVpaM8tf6w2ZBCRq6UC8mK8DW_R59ZiKlSauTTbPXgq65q36F72PzisUxnbJ0bn6YkLOa3YbLs5NFOobgBWAH-5tgd95b0__9uzPYF2sKRH5LILHmv502BetUw81X70EiHLpZYqT22xhFNoqvji-k-e1VdTxkcwW2eeCGzJuOwIiX4NnT80FVE9hlMScNEZ1HBHbStWcU8pniGarLn3eT98cOEWCcvoIq9C5TTvJLghSzt_Y8aHS4poZUT6O6G7wuep5SFg-V6h99XEMpeK86RvJ5uqFFuFj7RpRyhVOqSStO2EaQmJBCclkbg6gYGZvaM_LeSinkbZ7gcyfokK1eV-tiOmT_fSy7bIDLR6b5nY9jORFto9uT6LdloeFkbt4LI8HH1a4qpjMnTIEqnqbdqHFobkNdYC-02Jev2dx1tyV11kyPn_AiLZ-TC8lGv3cltCSYc4KY"
+  },
+  {
+   "id": 17,
+   "start_sec": 148.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/АРМИЯ-США"
+  },
+  {
+   "id": 18,
+   "start_sec": 157.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "local_library",
+   "source_query": "БАЗА/ВЕДОМСТВА/БУНДЕСВЕР"
+  },
+  {
+   "id": 19,
+   "start_sec": 166.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 20,
+   "start_sec": 175.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_efir",
+   "source_query": "карточка «zal_efir» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 21,
+   "start_sec": 185.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 22,
+   "start_sec": 194.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:repliki",
+   "source_query": "карточка «repliki» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 23,
+   "start_sec": 203.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:doc",
+   "source_query": "карточка «doc» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 24,
+   "start_sec": 212.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:mehanizm",
+   "source_query": "карточка «mehanizm» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 25,
+   "start_sec": 222.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:prolog",
+   "source_query": "карточка «prolog» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 26,
+   "start_sec": 231.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "split",
+    "text": "Кушнер мог просто проверить готовность Киева к компромиссу",
+    "accent": "готовность Киева к компромиссу",
+    "author": "Джаред Кушнер",
+    "role": "спецпредставитель президента США",
+    "photo": "/mnt/i/media-library/БАЗА/ПЕРСОНЫ/КУШНЕР/03_1800x1200.jpg",
+    "watermark": "5 МИНУТ"
+   }
+  },
+  {
+   "id": 27,
+   "start_sec": 240.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:slope",
+   "source_query": "карточка «slope» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 28,
+   "start_sec": 249.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:poster",
+   "source_query": "карточка «poster» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "title": "ТРЕБОВАНИЯ РАСТУТ",
+    "watermark": "5 МИНУТ",
+    "anim": 9.2
+   }
+  },
+  {
+   "id": 29,
+   "start_sec": 259.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 30,
+   "start_sec": 268.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:film",
+   "source_query": "карточка «film» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 31,
+   "start_sec": 277.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:bars",
+   "source_query": "карточка «bars» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "bars",
+    "код": "A4",
+    "watermark": "5 МИНУТ",
+    "anim": 9.2
+   }
+  },
+  {
+   "id": 32,
+   "start_sec": 286.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:pechat",
+   "source_query": "карточка «pechat» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 33,
+   "start_sec": 296.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:network",
+   "source_query": "карточка «network» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 34,
+   "start_sec": 305.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 35,
+   "start_sec": 314.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_makety",
+   "source_query": "карточка «zal_makety» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 36,
+   "start_sec": 323.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:pie",
+   "source_query": "карточка «pie» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 37,
+   "start_sec": 333.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 38,
+   "start_sec": 342.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:waterfall",
+   "source_query": "карточка «waterfall» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 39,
+   "start_sec": 351.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_schetchik",
+   "source_query": "карточка «zal_schetchik» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 40,
+   "start_sec": 360.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "slider",
+    "код": "A5",
+    "title": "ЗАЯВКА УКРАИНЫ НА 2027",
+    "watermark": "5 МИНУТ",
+    "anim": 9.2
+   }
+  },
+  {
+   "id": 41,
+   "start_sec": 370.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_g44",
+   "source_query": "карточка «zal_g44» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 42,
+   "start_sec": 379.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:relsy",
+   "source_query": "карточка «relsy» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 43,
+   "start_sec": 388.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:paper_typed",
+   "source_query": "карточка «paper_typed» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 44,
+   "start_sec": 397.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:line",
+   "source_query": "карточка «line» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 45,
+   "start_sec": 407.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 46,
+   "start_sec": 416.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:map_dist",
+   "source_query": "карточка «map_dist» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 47,
+   "start_sec": 425.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/DsgeLNUqCPUvFFw8FwOyV62dXVgggcct1pXSHcIvW0cU-ucA4_VXL9VU-gglqOEjFDj9oVQlMg6tsCabFznDcyrgP_YdqXvipDO67dGA6DyRgugBptSiJ1wZSWvPtfUSVmCsnOE1IZdGer7oVRbpHd_VlSP8a89f1IbbkhrvMNEZDCE9vv2WU08flCtxx1CMqn3udCRlD7nFUsWedEah3w7AcrqCe32DZO0ua5dYivWlE6_xajRR2j9DY2S8K5tNke-9nTfZYk2ROum0fpzDIQ8Q185IU0Nmiu2FpWwfTQRP3BKeUemfT7OR8EnBllAN1QbWSVJgCPsC1EduhugFQw.jpg"
+  },
+  {
+   "id": 48,
+   "start_sec": 434.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бомбардировщик Су-34 России с планирующими авиабомбами, 2026"
+  },
+  {
+   "id": 49,
+   "start_sec": 444.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal",
+   "source_query": "карточка «zal» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 50,
+   "start_sec": 453.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:zal_g48",
+   "source_query": "карточка «zal_g48» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 51,
+   "start_sec": 462.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_g18",
+   "source_query": "карточка «zal_g18» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 52,
+   "start_sec": 471.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_ekran",
+   "source_query": "карточка «zal_ekran» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 53,
+   "start_sec": 481.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_shkala",
+   "source_query": "карточка «zal_shkala» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 54,
+   "start_sec": 490.2,
+   "duration_sec": 9.4,
+   "text": "",
+   "source": "card:globus_map",
+   "source_query": "карточка «globus_map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 55,
+   "start_sec": 499.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_kub",
+   "source_query": "карточка «zal_kub» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 56,
+   "start_sec": 508.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:photo",
+   "source_query": "карточка «photo» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "photo",
+    "title": "ЕС и Украина/Россия: деньги",
+    "lines": [
+     "ЕС Украине: ~231,5 млрд евро",
+     "Россия от ЕС: ~232 млрд евро за импорт"
+    ],
+    "watermark": "5 МИНУТ",
+    "anim": 9.2,
+    "photo": "/home/andrey/projects/5min-1-ze-otkaz-2211/dossier/odessa_eu_aid.jpg"
+   }
+  },
+  {
+   "id": 57,
+   "start_sec": 518.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 58,
+   "start_sec": 527.2,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:device",
+   "source_query": "карточка «device» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 59,
+   "start_sec": 536.4,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_pol",
+   "source_query": "карточка «zal_pol» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 60,
+   "start_sec": 545.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:lenta",
+   "source_query": "карточка «lenta» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 61,
+   "start_sec": 554.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:zal_g01",
+   "source_query": "карточка «zal_g01» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 62,
+   "start_sec": 564.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 63,
+   "start_sec": 573.2,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:kreslo",
+   "source_query": "карточка «kreslo» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 64,
+   "start_sec": 582.4,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:tape",
+   "source_query": "карточка «tape» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 65,
+   "start_sec": 591.6,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:dof",
+   "source_query": "карточка «dof» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "dof",
+    "код": "A64",
+    "title": "ПОЗИЦИЯ МОСКВЫ",
+    "watermark": "5 МИНУТ",
+    "anim": 9.2
+   }
+  },
+  {
+   "id": 66,
+   "start_sec": 600.8,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 67,
+   "start_sec": 610.0,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:torn",
+   "source_query": "карточка «torn» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 68,
+   "start_sec": 619.2,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "card:prohod",
+   "source_query": "карточка «prohod» — кадр рисуется в облаке, фетч не нужен"
+  }
+ ]
+}
