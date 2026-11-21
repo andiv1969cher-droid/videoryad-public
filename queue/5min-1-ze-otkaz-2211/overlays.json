@@ -1,0 +1,155 @@
+{
+  "1": {
+    "photo": "overlays/scene_001.jpg",
+    "sound": "pop",
+    "at": 2.2,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "text": {
+      "words": "НЕТ",
+      "color": "red",
+      "pos": "mc",
+      "at": 3.0,
+      "scale": 1.0
+    }
+  },
+  "6": {
+    "photo": "overlays/scene_006.jpg",
+    "sound": "whoosh",
+    "at": 2.4,
+    "shape": "rect",
+    "scale": 1.2,
+    "style": "up-left",
+    "text": {
+      "words": "ДЕМОКРАТЫ",
+      "color": "white",
+      "pos": "tc",
+      "at": 3.0,
+      "scale": 1.0
+    }
+  },
+  "10": {
+    "photo": "overlays/scene_010.jpg",
+    "sound": "ding",
+    "at": 2.6,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "left",
+    "text": {
+      "words": "УДАРЫ ПРОДОЛЖАЮТСЯ",
+      "color": "red",
+      "pos": "tc",
+      "at": 3.2,
+      "scale": 1.0
+    }
+  },
+  "15": {
+    "photo": "overlays/scene_015.jpg",
+    "sound": "pop",
+    "at": 2.8,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "text": {
+      "words": "ГАРАНТИИ НАТО",
+      "color": "yellow",
+      "pos": "tc",
+      "at": 3.0,
+      "scale": 1.0
+    }
+  },
+  "17": {
+    "photo": "overlays/scene_017.jpg",
+    "sound": "whoosh",
+    "at": 3.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "text": {
+      "words": "УЖЕ МАЛО",
+      "color": "white",
+      "pos": "mc",
+      "at": 3.2,
+      "scale": 1.0
+    }
+  },
+  "47": {
+    "photo": "overlays/scene_047.jpg",
+    "sound": "ding",
+    "at": 3.2,
+    "shape": "circle",
+    "scale": 1.2,
+    "style": "up-right",
+    "text": {
+      "words": "GRIPEN + METEOR",
+      "color": "white",
+      "pos": "tc",
+      "at": 3.2,
+      "scale": 1.0
+    }
+  },
+  "2": {
+    "text": {
+      "words": "НАСТОЙЧИВОСТЬ",
+      "color": "white",
+      "pos": "tc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "4": {
+    "text": {
+      "words": "ДО ЯНВАРЯ",
+      "color": "yellow",
+      "pos": "mc",
+      "at": 2.5,
+      "scale": 1.0
+    }
+  },
+  "8": {
+    "text": {
+      "words": "ДВА ВРЕМЕНИ",
+      "color": "white",
+      "pos": "mc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "12": {
+    "text": {
+      "words": "ДРУГИЕ УСЛОВИЯ",
+      "color": "white",
+      "pos": "mc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "16": {
+    "text": {
+      "words": "НИКТО НЕ ПОЛЕЗЕТ",
+      "color": "white",
+      "pos": "mc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "18": {
+    "text": {
+      "words": "ИНОСТРАННЫЕ БАЗЫ",
+      "color": "yellow",
+      "pos": "tc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "48": {
+    "text": {
+      "words": "СУ-34",
+      "color": "white",
+      "pos": "mc",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  }
+}
