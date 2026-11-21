@@ -1,0 +1,202 @@
+{
+  "anchor": "top",
+  "1": {
+    "photo": "overlays/scene_001.jpg",
+    "sound": "pop",
+    "at": 2.2,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "text": {
+      "words": "НЕТ",
+      "color": "yellow",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true
+  },
+  "6": {
+    "photo": "overlays/scene_006.jpg",
+    "sound": "whoosh",
+    "at": 2.4,
+    "shape": "rect",
+    "scale": 1.2,
+    "style": "up-left",
+    "text": {
+      "words": "ДЕМОКРАТЫ",
+      "color": "orange",
+      "pos": "tr",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true
+  },
+  "10": {
+    "photo": "overlays/scene_010.jpg",
+    "sound": "ding",
+    "at": 2.6,
+    "shape": "circle",
+    "scale": 1.0,
+    "style": "left",
+    "text": {
+      "words": "УДАРЫ ПРОДОЛЖАЮТСЯ",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true
+  },
+  "15": {
+    "photo": "overlays/scene_015.jpg",
+    "sound": "pop",
+    "at": 2.8,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "right",
+    "text": {
+      "words": "ГАРАНТИИ НАТО",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pop",
+      "at": 3.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true
+  },
+  "17": {
+    "photo": "overlays/scene_017.jpg",
+    "sound": "whoosh",
+    "at": 3.0,
+    "shape": "rect",
+    "scale": 1.0,
+    "style": "left",
+    "text": {
+      "words": "УЖЕ МАЛО",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "approved": true,
+    "dash_ok": true
+  },
+  "47": {
+    "photo": "overlays/scene_047.jpg",
+    "sound": "ding",
+    "at": 3.2,
+    "shape": "circle",
+    "scale": 1.2,
+    "style": "right",
+    "text": {
+      "words": "GRIPEN + METEOR",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "pshik",
+      "at": 3.2,
+      "scale": 1.0,
+      "approved": true
+    },
+    "anchor": "bottom",
+    "approved": true,
+    "dash_ok": true
+  },
+  "2": {
+    "text": {
+      "words": "НАСТОЙЧИВОСТЬ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "4": {
+    "text": {
+      "words": "ДО ЯНВАРЯ",
+      "color": "red",
+      "pos": "mc",
+      "at": 2.5,
+      "scale": 1.0
+    }
+  },
+  "8": {
+    "text": {
+      "words": "ДВА ВРЕМЕНИ",
+      "color": "green",
+      "pos": "ml",
+      "at": 2.0,
+      "scale": 1.0
+    }
+  },
+  "12": {
+    "text": {
+      "words": "ДРУГИЕ УСЛОВИЯ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "16": {
+    "text": {
+      "words": "НИКТО НЕ ПОЛЕЗЕТ",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "18": {
+    "text": {
+      "words": "ИНОСТРАННЫЕ БАЗЫ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "48": {
+    "text": {
+      "words": "СУ-34",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 2.0,
+      "scale": 1.0,
+      "approved": true
+    }
+  }
+}
