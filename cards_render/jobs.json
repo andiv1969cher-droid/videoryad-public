@@ -1,0 +1,1309 @@
+[
+ {
+  "scene": 3,
+  "view": "zal_g01",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "ХОЧЕТ ДОГОВОРИТЬСЯ?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 5,
+  "view": "zal_slova",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "ПОСЛЕ ЗИМЫ БУДЕТ НЕ ТОЛЬКО ВЕСНА",
+   "na_polu": "НО И КОНГРЕСС",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 7,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "ЯНВАРЬ ДЛЯ ТРАМПА. ВЕСНА ДЛЯ ЗЕЛЕНСКОГО",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "pary": [
+     "ТРАМП>СДЕЛКА ДО ЯНВАРЯ",
+     "ДЕМОКРАТЫ>БЕЛЫЙ ДОМ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "ЯНВАРЬ ДЛЯ ТРАМПА. ВЕСНА ДЛЯ ЗЕЛЕНСКОГО",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "pary": [
+    "ТРАМП>СДЕЛКА ДО ЯНВАРЯ",
+    "ДЕМОКРАТЫ>БЕЛЫЙ ДОМ"
+   ]
+  }
+ },
+ {
+  "scene": 9,
+  "view": "quote",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Зеленский говорит: зима будет тяжёлой. Украинская экономика живёт на внешнем финансировании",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "strike",
+  "dur": 9.2,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "ВЕСНОЙ БУДЕТ ВЫГОДНЕЕ — ОБЕЩАЛИ. А ЕСЛИ НЕ СТАНЕТ?",
+   "struck": "БУДЕТ ВЫГОДНЕЕ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 13,
+  "view": "cinematic.dossier",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "rows": [
+    "имя — Джаред Кушнер",
+    "должность — спецпредставитель президента США",
+    "тема — гарантии безопасности для Украины",
+    "суть — модель, похожая на 5-ю статью НАТО",
+    "итог — Москва отнеслась к конструкции с большим пониманием"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "cards/photo/card_013.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 14,
+  "view": "vyrezka.gazeta",
+  "dur": 9.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_014.jpg",
+   "author": "Джаред Кушнер",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 19,
+  "view": "duel",
+  "dur": 9.2,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Кушнер: модель, похожая на 5-ю статью НАТО — очень серьёзное решение",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Зеленский: нужны войска США и Европы на Украине, базы и обязательство вступить в войну",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 20,
+  "view": "zal_efir",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "Москва в ответ — всё то же слово нет",
+   "say": "Даже квазичленство Украины в НАТО для России неприемлемо",
+   "author": "Сергей Рябков",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 21,
+  "view": "split",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Рябков отдельно говорит, что даже квазичленство Украины в НАТО для России неприемлемо",
+   "photo": "cards/photo/card_021.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "zal_pol",
+  "dur": 9.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.4,
+   "sheets": [],
+   "text": "ЭТО — ПЕРЕХОД ТОЙ САМОЙ ЛИНИИ",
+   "na_polu": "НЕТ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "doc",
+  "dur": 9.2,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Зеленский требует иностранные военные базы на территории Украины. Москва называет это переходом той самой линии, вокруг которой идёт спор",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "zal_kub",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "СТАТЬЯ 17 КОНСТИТУЦИИ УКРАИНЫ",
+   "kick": "ИНОСТРАННЫЕ ВОЕННЫЕ БАЗЫ — ЗАПРЕЩЕНЫ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "СТАТЬЯ 157 КОНСТИТУЦИИ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2
+   }
+  },
+  "kwargs": {
+   "text": "СТАТЬЯ 157 КОНСТИТУЦИИ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2
+  }
+ },
+ {
+  "scene": 26,
+  "view": "pull",
+  "dur": 9.4,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "И вот здесь версия о том, что Кушнер мог просто проверить готовность Киева к компромиссу, становится особенно интересной",
+   "accent": "Кушнер",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "charts.slope",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Предложение",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Новый список условий"
+    },
+    {
+     "label": "Движение навстречу",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Планка выше"
+    }
+   ],
+   "source": "по ходу переговоров",
+   "sobytiya": true,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "КАЖДЫЙ РАЗ ПЛАНКУ ПОДНИМАЮТ СНОВА",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "role": "переговорщик"
+   }
+  },
+  "kwargs": {
+   "text": "КАЖДЫЙ РАЗ ПЛАНКУ ПОДНИМАЮТ СНОВА",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "role": "переговорщик"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "БОЛЬШЕ САМОГО СПОРНОГО ПУНКТА",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "pary": [
+     "ПРОБЛЕМА>НОВЫЙ ПЕРЕГОВОРЩИК",
+     "КИЕВ>ДОГОВОРИТЬСЯ НЕ ПОЛУЧАЕТСЯ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "БОЛЬШЕ САМОГО СПОРНОГО ПУНКТА",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "pary": [
+    "ПРОБЛЕМА>НОВЫЙ ПЕРЕГОВОРЩИК",
+    "КИЕВ>ДОГОВОРИТЬСЯ НЕ ПОЛУЧАЕТСЯ"
+   ]
+  }
+ },
+ {
+  "scene": 30,
+  "view": "paper_typed",
+  "dur": 9.4,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Меняется отношение не к условию — а к самому участнику переговоров",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 31,
+  "view": "bars",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "",
+   "caption": "",
+   "seconds": 9.2,
+   "bars": [
+    {
+     "label": "ФРАНЦИЯ",
+     "value": 0.39,
+     "color": "EABD23"
+    },
+    {
+     "label": "БРИТАНИЯ",
+     "value": 0.11,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 32,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Американских войск на учениях не было",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "role": "США"
+   }
+  },
+  "kwargs": {
+   "text": "Американских войск на учениях не было",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "role": "США"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "charts.network",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "США",
+     "label": "США",
+     "weight": 1.0
+    },
+    {
+     "id": "контроль перемирия",
+     "label": "контроль перемирия",
+     "weight": 1.0
+    },
+    {
+     "id": "Европа",
+     "label": "Европа",
+     "weight": 1.0
+    },
+    {
+     "id": "войска",
+     "label": "войска",
+     "weight": 1.0
+    },
+    {
+     "id": "Зеленский",
+     "label": "Зеленский",
+     "weight": 1.0
+    },
+    {
+     "id": "считает базы США гарантией",
+     "label": "считает базы США гарантией",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "США",
+     "to": "контроль перемирия",
+     "weight": 1.0
+    },
+    {
+     "from": "Европа",
+     "to": "войска",
+     "weight": 1.0
+    },
+    {
+     "from": "Зеленский",
+     "to": "считает базы США гарантией",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "charts.cartogram",
+  "dur": 9.4,
+  "anim": 9.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Франция",
+    "Британия"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "zal_makety",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "НОВЫЙ ПАКЕТ, САНКЦИИ",
+   "makety": [
+    "лэп=ЭНЕРГОСЕТИ"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "charts.pie",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "segments": [
+    {
+     "label": "США — контроль",
+     "value": 20.0
+    },
+    {
+     "label": "Европа — войска",
+     "value": 20.0
+    },
+    {
+     "label": "Третий — платит",
+     "value": 20.0
+    },
+    {
+     "label": "Четвёртый — оружие",
+     "value": 20.0
+    },
+    {
+     "label": "Пятый — объясняет Москве",
+     "value": 20.0
+    }
+   ],
+   "sobytiya": true,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "marker_serif",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Пятый потом должен объяснить, почему Москва должна всё это принять",
+   "accent": "Москва",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "charts.waterfall",
+  "dur": 9.4,
+  "anim": 9.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "если вам нравится такой",
+    "value": 1.0
+   },
+   "steps": [
+    {
+     "label": "Потому что дальше",
+     "value": 1.0
+    },
+    {
+     "label": "На две тысячи двадцать",
+     "value": 1.0
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "title": "Кстати, если вам нравится такой формат,",
+   "sobytiya": true,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 39,
+  "view": "zal_schetchik",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "СНАЧАЛА ПРОСИЛИ 45",
+   "value": "115 МЛРД",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "zal_shkala",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "ПОПРАВКА БЫСТРЕЕ БЮДЖЕТА",
+   "value": "115 МЛРД",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "zal_g44",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "НА 2028 ГОД",
+   "value": "90 МЛРД",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 9.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Но полной суммы всё равно нет",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.4,
+    "sobytiya": [
+     "либо согласованы",
+     "Но полной суммы всё равно",
+     "И вот здесь аппетиты",
+     "Если на две"
+    ],
+    "рол_номер": 1
+   }
+  },
+  "kwargs": {
+   "text": "Но полной суммы всё равно нет",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.4,
+   "sobytiya": [
+    "либо согласованы",
+    "Но полной суммы всё равно",
+    "И вот здесь аппетиты",
+    "Если на две"
+   ],
+   "рол_номер": 1
+  }
+ },
+ {
+  "scene": 43,
+  "view": "tape",
+  "dur": 9.2,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "2027: сначала 45 млрд, потом 115 млрд. А 2028? А 2029? А 2030?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "charts.slope",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Текущие поставки",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Многолетний план"
+    },
+    {
+     "label": "План закупок",
+     "from": 1.0,
+     "to": 1.0,
+     "to_label": "Рубеж 2030 года"
+    }
+   ],
+   "source": "по ходу переговоров",
+   "sobytiya": true,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "pull",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "План закупок рассчитан так, чтобы военные успели освоить новые системы вооружения к 2030 году",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 9.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "МЕТЕОР ДЛЯ GRIPEN ПРОТИВ СУ-34",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.4,
+    "pary": [
+     "ШВЕЦИЯ+БРИТАНИЯ>ВООРУЖЕНИЕ GRIPEN",
+     "ЗАДАЧА>СУ-34 НА ДИСТАНЦИИ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "МЕТЕОР ДЛЯ GRIPEN ПРОТИВ СУ-34",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.4,
+   "pary": [
+    "ШВЕЦИЯ+БРИТАНИЯ>ВООРУЖЕНИЕ GRIPEN",
+    "ЗАДАЧА>СУ-34 НА ДИСТАНЦИИ"
+   ]
+  }
+ },
+ {
+  "scene": 49,
+  "view": "zal",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "ТРИ СТОЛА — ТРИ РАЗНЫХ СРОКА",
+   "words": [
+    "ЯНВАРЬ",
+    "2028",
+    "2030"
+   ],
+   "sheets": [
+    "Срочное соглашение до января",
+    "Деньги на 2027 и 2028",
+    "Вооружения к 2030 году",
+    "Многонациональные силы",
+    "Контроль перемирия",
+    "План закупок"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "zal_g48",
+  "dur": 9.4,
+  "anim": 9.4,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.4,
+   "sheets": [],
+   "text": "Это доказательство",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "zal_g18",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "ЭТО ЦЕНА ГОДА КОНСТРУКЦИИ",
+   "value": "115 МЛРД",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "ВОПРОС — СКОЛЬКО РАЗ СУММУ ПЕРЕСЧИТАЮТ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "role": "комментатор"
+   }
+  },
+  "kwargs": {
+   "text": "ВОПРОС — СКОЛЬКО РАЗ СУММУ ПЕРЕСЧИТАЮТ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "role": "комментатор"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "zal_pol",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "Сначала 45. Потом 115. Ещё и ещё",
+   "na_polu": "РАСТЁТ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 54,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "globus",
+   "seconds": 9.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "УДИВИТЕЛЬНАЯ РОЛЬ ЕВРОПЫ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.4,
+    "region": "Европа"
+   }
+  },
+  "kwargs": {
+   "text": "УДИВИТЕЛЬНАЯ РОЛЬ ЕВРОПЫ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.4,
+   "region": "Европа"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "zal_kub",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.2,
+   "sheets": [],
+   "text": "ЕВРОСОЮЗ УКРАИНЕ: ОКОЛО 231,5 МЛРД ЕВРО",
+   "kick": "ФЕВРАЛЬ 2022 — ОКТЯБРЬ 2026",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 56,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "РОССИЯ: ~232 МЛРД ЕВРО ИМПОРТА ОТ ЕС",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "role": "импорт из ЕС"
+   }
+  },
+  "kwargs": {
+   "text": "РОССИЯ: ~232 МЛРД ЕВРО ИМПОРТА ОТ ЕС",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "role": "импорт из ЕС"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "duel",
+  "dur": 9.2,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "России — около 40 млрд евро платежей",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Украине — около 16 млрд евро помощи",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "doc",
+  "dur": 9.2,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Одной рукой помогали Киеву, другой — оплачивали российский импорт. В бухгалтерии это называется диверсификацией",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "ДИВЕРСИФИКАЦИЯ: ПЛАТИМ ВСЕМ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "ДИВЕРСИФИКАЦИЯ: ПЛАТИМ ВСЕМ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Денег мало — нужно многое другое",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "repliki_": [
+     "ТРЕБУЕТСЯ|Войска",
+     "ТРЕБУЕТСЯ|Базы",
+     "ТРЕБУЕТСЯ|Дальнобойные ракеты",
+     "ТРЕБУЕТСЯ|Новые самолёты",
+     "ТРЕБУЕТСЯ|Обязательства США"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Денег мало — нужно многое другое",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "repliki_": [
+    "ТРЕБУЕТСЯ|Войска",
+    "ТРЕБУЕТСЯ|Базы",
+    "ТРЕБУЕТСЯ|Дальнобойные ракеты",
+    "ТРЕБУЕТСЯ|Новые самолёты",
+    "ТРЕБУЕТСЯ|Обязательства США"
+   ]
+  }
+ },
+ {
+  "scene": 61,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Всё это нужно втиснуть в одну сделку",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "soobshcheniya": [
+     "НУЖЕН ЕВРОПЕЙСКИЙ КОНТИНГЕНТ",
+     "НУЖЕН НОВЫЙ КОНГРЕСС",
+     "СОГЛАШЕНИЕ ХОТЯТ ЗАКРЫТЬ ДО ЯНВАРЯ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Всё это нужно втиснуть в одну сделку",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "soobshcheniya": [
+    "НУЖЕН ЕВРОПЕЙСКИЙ КОНТИНГЕНТ",
+    "НУЖЕН НОВЫЙ КОНГРЕСС",
+    "СОГЛАШЕНИЕ ХОТЯТ ЗАКРЫТЬ ДО ЯНВАРЯ"
+   ]
+  }
+ },
+ {
+  "scene": 62,
+  "view": "quote",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Схема почти идеальная — каждый раз находится новая причина, почему подписать соглашение нельзя именно сейчас",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "charts.network",
+  "dur": 9.2,
+  "anim": 9.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Трамп",
+     "label": "Трамп",
+     "weight": 1.0
+    },
+    {
+     "id": "Киев (торопит)",
+     "label": "Киев (торопит)",
+     "weight": 1.0
+    },
+    {
+     "id": "Европа",
+     "label": "Европа",
+     "weight": 1.0
+    },
+    {
+     "id": "Войска и деньги",
+     "label": "Войска и деньги",
+     "weight": 1.0
+    },
+    {
+     "id": "Военные программы",
+     "label": "Военные программы",
+     "weight": 1.0
+    },
+    {
+     "id": "2030",
+     "label": "2030",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Трамп",
+     "to": "Киев (торопит)",
+     "weight": 1.0
+    },
+    {
+     "from": "Европа",
+     "to": "Войска и деньги",
+     "weight": 1.0
+    },
+    {
+     "from": "Военные программы",
+     "to": "2030",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "tape",
+  "dur": 9.2,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Сколько раз человеку нужно сказать нет, чтобы он понял, что это нет?",
+   "accent": "человеку",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 65,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "С КАЖДЫМ РАЗОМ ТРЕБОВАНИЯ РАСТУТ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "pary": [
+     "КАЖДЫЙ ОТКАЗ>НОВОЕ УСЛОВИЕ",
+     "ОЖИДАНИЕ>РАСТУЩАЯ ЦЕНА"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "С КАЖДЫМ РАЗОМ ТРЕБОВАНИЯ РАСТУТ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "pary": [
+    "КАЖДЫЙ ОТКАЗ>НОВОЕ УСЛОВИЕ",
+    "ОЖИДАНИЕ>РАСТУЩАЯ ЦЕНА"
+   ]
+  }
+ },
+ {
+  "scene": 66,
+  "view": "pull",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Платит за ожидание не тот, кто придумывает следующий пункт переговоров",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "marker_serif",
+  "dur": 9.2,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Главный вопрос теперь другой: не когда подпишут очередную бумагу",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 68,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 9.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "СТОЛ УЖЕ ДАВНО ЗАКОНЧИЛСЯ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.2,
+    "tezisy": [
+     "НОВЫЕ УСЛОВИЯ",
+     "МИЛЛИАРДЫ",
+     "ГОДЫ"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "СТОЛ УЖЕ ДАВНО ЗАКОНЧИЛСЯ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.2,
+   "tezisy": [
+    "НОВЫЕ УСЛОВИЯ",
+    "МИЛЛИАРДЫ",
+    "ГОДЫ"
+   ]
+  }
+ }
+]
