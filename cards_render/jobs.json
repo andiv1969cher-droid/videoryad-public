@@ -1,0 +1,279 @@
+[
+ {
+  "scene": 10,
+  "view": "quote",
+  "dur": 9.5,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Берлин не спешит облегчить финансовое бремя собственных граждан",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 18,
+  "view": "bars",
+  "dur": 11.1,
+  "anim": 11.1,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Что делать с помощью Украине",
+   "caption": "",
+   "seconds": 11.1,
+   "bars": [
+    {
+     "label": "ПРЕКРАТИТЬ",
+     "value": 0.25,
+     "color": "EABD23"
+    },
+    {
+     "label": "СОКРАТИТЬ",
+     "value": 0.24,
+     "color": "B92526"
+    },
+    {
+     "label": "ОСТАВИТЬ",
+     "value": 0.3,
+     "color": "84848A"
+    },
+    {
+     "label": "УВЕЛИЧИТЬ",
+     "value": 0.09,
+     "color": "E8E8E8"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 19,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 13.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 13.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Итог опроса",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 13.2,
+    "soobshcheniya": [
+     "49% — сократить или прекратить помощь",
+     "39% — сохранить или увеличить",
+     "11% не определились"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Итог опроса",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 13.2,
+   "soobshcheniya": [
+    "49% — сократить или прекратить помощь",
+    "39% — сохранить или увеличить",
+    "11% не определились"
+   ]
+  }
+ },
+ {
+  "scene": 27,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.1,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 12.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Без даты денег бюджет не наполняет",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.1,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Без даты денег бюджет не наполняет",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.1,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 33,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 13.2,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 13.2,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Условия ВНЖ",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 13.2,
+    "tezisy": [
+     "язык",
+     "работа",
+     "жизнь без соцпомощи"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Условия ВНЖ",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 13.2,
+   "tezisy": [
+    "язык",
+    "работа",
+    "жизнь без соцпомощи"
+   ]
+  }
+ },
+ {
+  "scene": 52,
+  "view": "charts.cartogram",
+  "dur": 11.6,
+  "anim": 11.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Эстония",
+    "Латвия",
+    "Россия"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "zal_schetchik",
+  "dur": 12.1,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 12.1,
+   "sheets": [],
+   "text": "Россия, если верить обвинениям",
+   "value": "98%",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "strike",
+  "dur": 11.3,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "кто связан с Москвой",
+   "struck": "кто связан с Москвой",
+   "fix": "кто следующим попадёт под подозрение",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 68,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 12.1,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 12.1,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Минфину нужна не поддержка словом",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 12.1,
+    "role": "дата поступления средств"
+   }
+  },
+  "kwargs": {
+   "text": "Минфину нужна не поддержка словом",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 12.1,
+   "role": "дата поступления средств"
+  }
+ },
+ {
+  "scene": 71,
+  "view": "zal_makety",
+  "dur": 10.9,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.9,
+   "sheets": [],
+   "text": "Бюджет сокращается, оборона растёт",
+   "accent": "Бюджет",
+   "makety": [
+    "лэп=РЕГИОНЫ",
+    "банк=КАЗНА"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 76,
+  "view": "zal",
+  "dur": 13.25,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Следующий спор будет не о громкости обещаний",
+   "words": [
+    "СЧЁТ",
+    "ПОДПИСЬ"
+   ],
+   "sheets": [
+    "кому платить",
+    "кто решает"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 13.25,
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
