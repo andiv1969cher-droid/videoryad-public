@@ -1,0 +1,344 @@
+{
+  "anchor": "top",
+  "1": {
+    "text": {
+      "words": "НЕ РАСХОДЫ, А ИНВЕСТИЦИИ",
+      "color": "yellow",
+      "pos": "tr",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 1.0,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_001.jpg",
+    "at": 2.5,
+    "style": "right",
+    "anchor": "bottom",
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "2": {
+    "text": {
+      "words": "ЧИСЛО КОМПАНИЙ УТРОИЛОСЬ",
+      "color": "white",
+      "pos": "tl",
+      "font": "default",
+      "sound": "pshik",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "3": {
+    "text": {
+      "words": "НИКТО НЕ УШЁЛ",
+      "color": "red",
+      "pos": "mc",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "5": {
+    "text": {
+      "words": "«ПОТОМ» ЗВУЧИТ ХУЖЕ «СЕЙЧАС»",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "pop",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "6": {
+    "text": {
+      "words": "ГЛАВНЫЙ СПОНСОР",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_006.jpg",
+    "at": 2.5,
+    "style": "left",
+    "anchor": "middle",
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "7": {
+    "text": {
+      "words": "ВОЙНА ПРОДОЛЖАЕТСЯ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "12": {
+    "text": {
+      "words": "КТО ПЛАТИТ, КТО ПОЛУЧИТ",
+      "color": "orange",
+      "pos": "tc",
+      "font": "default",
+      "sound": "pshik",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "13": {
+    "text": {
+      "words": "РАВНЫЕ ДОЛИ?",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_013.jpg",
+    "at": 2.5,
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "14": {
+    "text": {
+      "words": "НЕМЦЫ ТОЖЕ ХОТЯТ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "15": {
+    "text": {
+      "words": "58% ЗА ДОСРОЧНЫЕ ВЫБОРЫ",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "pop",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_015.jpg",
+    "at": 2.5,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0,
+    "approved": true,
+    "dash_ok": true
+  },
+  "21": {
+    "text": {
+      "words": "БЕЗ УСТУПОК МОСКВЫ",
+      "color": "white",
+      "pos": "tc",
+      "font": "default",
+      "sound": "mashinka",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "23": {
+    "text": {
+      "words": "СПОР О ДЕНЬГАХ",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_023.jpg",
+    "at": 2.5,
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "24": {
+    "text": {
+      "words": "ПОЧЕМУ КИЕВУ БЫСТРЕЕ?",
+      "color": "orange",
+      "pos": "mc",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "25": {
+    "text": {
+      "words": "ПУСТЬ ПЛАТЯТ БОЛЬШЕ",
+      "color": "green",
+      "pos": "tr",
+      "font": "default",
+      "sound": "pop",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_025.jpg",
+    "at": 2.5,
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "28": {
+    "text": {
+      "words": "ЁЛОЧНЫЕ БАЗАРЫ ОТМЕНЕНЫ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "zatvor",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "29": {
+    "text": {
+      "words": "НЕ ГЛАВНАЯ СТРОКА БЮДЖЕТА",
+      "color": "yellow",
+      "pos": "mr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    },
+    "photo": "overlays/scene_029.jpg",
+    "at": 2.5,
+    "approved": true,
+    "dash_ok": true,
+    "sound": "ding",
+    "shape": "rect",
+    "scale": 1.0
+  },
+  "38": {
+    "text": {
+      "words": "УКРАИНЦЫ — БОЛЬШИНСТВО",
+      "pos": "tc",
+      "at": 0.8,
+      "color": "white"
+    }
+  },
+  "43": {
+    "text": {
+      "words": "ЗАКРЫТЬ ГРАНИЦЫ?",
+      "pos": "tl",
+      "at": 0.8,
+      "color": "red"
+    },
+    "photo": "overlays/scene_043.jpg",
+    "at": 2.5
+  },
+  "45": {
+    "text": {
+      "words": "ПРЕДЛОЖЕНИЕ В 2027",
+      "pos": "mc",
+      "at": 0.8,
+      "color": "orange"
+    }
+  },
+  "47": {
+    "text": {
+      "words": "«ЗИМА» БЕЗ ДОКАЗАТЕЛЬСТВ",
+      "pos": "tr",
+      "at": 0.8,
+      "color": "green"
+    },
+    "photo": "overlays/scene_047.jpg",
+    "at": 2.5
+  },
+  "53": {
+    "text": {
+      "words": "ОБЩАЯ СМЕЛОСТЬ",
+      "pos": "ml",
+      "at": 0.8,
+      "color": "yellow"
+    }
+  },
+  "54": {
+    "text": {
+      "words": "НЕ БУДЕТ ВОЕВАТЬ",
+      "pos": "mr",
+      "at": 0.8,
+      "color": "yellow"
+    },
+    "photo": "overlays/scene_054.jpg",
+    "at": 2.5
+  },
+  "55": {
+    "text": {
+      "words": "ЧЕТВЁРТАЯ КАМПАНИЯ",
+      "pos": "tc",
+      "at": 0.8,
+      "color": "white"
+    }
+  },
+  "64": {
+    "text": {
+      "words": "ВИНИТ УДАРЫ РОССИИ",
+      "pos": "tl",
+      "at": 0.8,
+      "color": "red"
+    },
+    "photo": "overlays/scene_064.jpg",
+    "at": 2.5
+  },
+  "4": {
+    "text": {
+      "words": "ЭКСПОРТ И РОСТ",
+      "color": "orange",
+      "pos": "tr",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  },
+  "9": {
+    "text": {
+      "words": "ЭТО ЕЩЁ И БИЗНЕС",
+      "color": "red",
+      "pos": "tl",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.8,
+      "scale": 1.0,
+      "approved": true
+    }
+  }
+}
