@@ -1,0 +1,100 @@
+{
+  "2": {
+    "text": {
+      "words": "НОВЫЙ ТОН",
+      "color": "red",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Зеленский резко меняет риторику",
+      "approved": true
+    }
+  },
+  "16": {
+    "text": {
+      "words": "ОТВЕТНЫЙ УДАР",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "что бомбит Москва",
+      "approved": true
+    }
+  },
+  "24": {
+    "text": {
+      "words": "ДРУГОЙ ФРОНТ",
+      "color": "orange",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Бенгази и Северная Африка",
+      "approved": true
+    }
+  },
+  "36": {
+    "text": {
+      "words": "ЗАВОД ЗА ГРАНИЦЕЙ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Британия строит для Украины",
+      "approved": true
+    }
+  },
+  "43": {
+    "text": {
+      "words": "ЦЕНА КАБЕЛЯ",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "война за оптоволокно",
+      "approved": true
+    }
+  },
+  "65": {
+    "text": {
+      "words": "СТРАТЕГИЧЕСКОЕ ОРУЖИЕ",
+      "color": "white",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "ракета Сармат на дежурстве",
+      "approved": true
+    }
+  },
+  "86": {
+    "text": {
+      "words": "ВАШИНГТОН СЧИТАЕТ ГОЛОСА",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.3,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "расклад в Конгрессе",
+      "approved": true
+    }
+  }
+}
