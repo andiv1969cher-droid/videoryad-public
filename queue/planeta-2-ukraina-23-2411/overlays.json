@@ -1,7 +1,0 @@
-{
-  "1": {"text": {"words": "СОРОК ПЯТЬ МИЛЛИАРДОВ", "sub": "новый запрос Киева", "style": "mask_plate", "pos": "ml", "at": 0.5, "sound": "whoosh"}},
-  "13": {"text": {"words": "ИСТОРИЯ ВОПРОСА", "sub": "как было раньше", "style": "mask_plate", "pos": "ml", "at": 0.3, "sound": "whoosh"}},
-  "21": {"text": {"words": "КУДА УХОДЯТ ДЕНЬГИ", "sub": "внутри страны", "style": "mask_plate", "pos": "ml", "at": 0.3, "sound": "whoosh"}},
-  "39": {"text": {"words": "ЦЕНА ВОПРОСА", "sub": "кто чем платит", "style": "mask_plate", "pos": "ml", "at": 0.3, "sound": "whoosh"}},
-  "58": {"text": {"words": "НОВЫЙ РЕЗЕРВ", "sub": "кого готовят дальше", "style": "mask_plate", "pos": "ml", "at": 0.3, "sound": "whoosh"}}
-}
