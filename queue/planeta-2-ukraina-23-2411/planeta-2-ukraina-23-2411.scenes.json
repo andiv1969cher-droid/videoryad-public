@@ -1,0 +1,580 @@
+{
+ "channel": "ПЛАНЕТА",
+ "scenes": [
+  {
+   "id": 1,
+   "start_sec": 0.0,
+   "duration_sec": 10.0,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Еврокомиссия Брюссель здание флаг 2026"
+  },
+  {
+   "id": 2,
+   "start_sec": 10.0,
+   "duration_sec": 9.987,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "штаб-квартира Еврокомиссии Берлемон Брюссель",
+   "fx": "flash"
+  },
+  {
+   "id": 3,
+   "start_sec": 19.99,
+   "duration_sec": 10.746,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Украина Евросоюз переговоры флаги 2026"
+  },
+  {
+   "id": 4,
+   "start_sec": 30.73,
+   "duration_sec": 9.227,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "штаб-квартира НАТО Брюссель здание флаги 2026",
+   "fx": "depth"
+  },
+  {
+   "id": 5,
+   "start_sec": 39.96,
+   "duration_sec": 9.52,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "саммит Евросоюз Украина флаги зал заседание 2026",
+   "fx": "inset"
+  },
+  {
+   "id": 6,
+   "start_sec": 49.48,
+   "duration_sec": 9.36,
+   "text": "",
+   "source": "direct_url",
+   "source_query": "https://cdn4.telesco.pe/file/c33bede1b4.mp4?token=b3OEfZoBalNdvUSKCTzkuikSZC2Pl6mqggrb-hxuG6spwZ-319C1LO2-WVLFyGoCEHzZFjUIVK0CZ4vvdHGNd8WtmkHPVSQHOLUcBaifA5BgiyQ7V880Z5gJ8nW2GblxQPet081Laahqkub6cCpz8jqgLJJHwjAIxesfo4rpabPvwyNUN-an9OpQ1F6arlR1mqgeZX5YlPvG7WakUaAUH8In37wjGVJ9SFfMbHLcZJesmC1aiz_CiTQNRGxNxo_N-AJ88aezXkRdfrMCuHwLoZpw__7ZA8MSSzNmEdRWXZZX_EJolVCAC7IHGHArvaY0-YRMBAUvSGwLn-MyRVIz8pHkNEhYvLaApy55k49Yn7-iPrezBpLzECA-EDBlTmk80jEmqscTRiy766fU7sIpMgDqVydNgfqpmQ-LH8vM7NkHjYL-TBsnIbswaHra8g9tcAmeQfdxVL_YtiUh4aXBFcshhFTBR4_-wm2efX2KHp1aA_EM0V7riBmoUdXHzMuDFGdSB8pV5lgoXWmjSmQlHQdIg_wpFgR1B7Pzg0ILtld3yZ_l3BpQcafdWDbT1Mi9e0abop4ExnMauUL74SjQaPcQb1Z6zu0C23d7_k99R5OpG7RIkRfZBmvkEaXosPk8F0iQTyrw_UiQTr7otOeDQtgApsavDLM6sAtA7XCUlOQ",
+   "fx": "mosaic"
+  },
+  {
+   "id": 7,
+   "start_sec": 58.84,
+   "duration_sec": 9.796,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Европарламент Страсбург фасад здание флаги без людей",
+   "fx": "panels"
+  },
+  {
+   "id": 8,
+   "start_sec": 68.64,
+   "duration_sec": 10.638,
+   "text": "",
+   "source": "card:quote",
+   "source_query": "карточка «quote» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 9,
+   "start_sec": 79.27,
+   "duration_sec": 9.776,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "зал заседаний Европарламента Страсбург внутри",
+   "fx": "tear"
+  },
+  {
+   "id": 10,
+   "start_sec": 89.05,
+   "duration_sec": 11.744,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Министерство финансов Украины здание Киев"
+  },
+  {
+   "id": 11,
+   "start_sec": 100.79,
+   "duration_sec": 10.76,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Зеленский выступление заявление помощь Украине 2026"
+  },
+  {
+   "id": 12,
+   "start_sec": 111.55,
+   "duration_sec": 10.87,
+   "text": "",
+   "source": "card:film_frame",
+   "source_query": "карточка «film_frame» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 13,
+   "start_sec": 122.42,
+   "duration_sec": 10.77,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Виктор Янукович Евросоюз переговоры архив"
+  },
+  {
+   "id": 14,
+   "start_sec": 133.19,
+   "duration_sec": 9.853,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "бундесвер армия Германии техника учения 2026",
+   "fx": "wipe"
+  },
+  {
+   "id": 15,
+   "start_sec": 143.05,
+   "duration_sec": 11.953,
+   "text": "",
+   "source": "card:zal_g18",
+   "source_query": "карточка «zal_g18» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 16,
+   "start_sec": 155.0,
+   "duration_sec": 10.983,
+   "text": "",
+   "source": "card:map",
+   "source_query": "карточка «map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 17,
+   "start_sec": 165.98,
+   "duration_sec": 9.648,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "армия США военные учения техника 2026"
+  },
+  {
+   "id": 18,
+   "start_sec": 175.63,
+   "duration_sec": 9.689,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Верховная рада Украины здание фасад Киев"
+  },
+  {
+   "id": 19,
+   "start_sec": 185.32,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "энергообъект Киев подстанция 2026"
+  },
+  {
+   "id": 20,
+   "start_sec": 194.92,
+   "duration_sec": 9.6,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "НАБУ Украина здание антикоррупционное бюро"
+  },
+  {
+   "id": 21,
+   "start_sec": 204.52,
+   "duration_sec": 11.264,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "последствия удара энергообъекты Киевской области 2026"
+  },
+  {
+   "id": 22,
+   "start_sec": 215.78,
+   "duration_sec": 10.298,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "депутат Сергей Нагорняк Верховная рада Украины"
+  },
+  {
+   "id": 23,
+   "start_sec": 226.08,
+   "duration_sec": 9.482,
+   "text": "",
+   "source": "card:strike",
+   "source_query": "карточка «strike» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 24,
+   "start_sec": 235.56,
+   "duration_sec": 9.478,
+   "text": "",
+   "source": "card:zal",
+   "source_query": "карточка «zal» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 25,
+   "start_sec": 245.04,
+   "duration_sec": 9.948,
+   "text": "",
+   "source": "card:waterfall",
+   "source_query": "карточка «waterfall» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 26,
+   "start_sec": 254.99,
+   "duration_sec": 10.545,
+   "text": "",
+   "source": "card:tape",
+   "source_query": "карточка «tape» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 27,
+   "start_sec": 265.54,
+   "duration_sec": 10.254,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "армия США пуск ракеты учения 2026"
+  },
+  {
+   "id": 28,
+   "start_sec": 275.79,
+   "duration_sec": 9.504,
+   "text": "",
+   "source": "card:network",
+   "source_query": "карточка «network» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 29,
+   "start_sec": 285.29,
+   "duration_sec": 9.749,
+   "text": "",
+   "source": "card:mehanizm",
+   "source_query": "карточка «mehanizm» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 30,
+   "start_sec": 295.04,
+   "duration_sec": 9.793,
+   "text": "",
+   "source": "card:doc",
+   "source_query": "карточка «doc» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 31,
+   "start_sec": 304.84,
+   "duration_sec": 11.413,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "здание Еврокомиссии Берлемон Брюссель флаги"
+  },
+  {
+   "id": 32,
+   "start_sec": 316.25,
+   "duration_sec": 10.987,
+   "text": "",
+   "source": "card:duel",
+   "source_query": "карточка «duel» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 33,
+   "start_sec": 327.24,
+   "duration_sec": 10.099,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Европейский совет Брюссель зал заседание делегаты 2026"
+  },
+  {
+   "id": 34,
+   "start_sec": 337.33,
+   "duration_sec": 10.701,
+   "text": "",
+   "source": "card:vyrezka",
+   "source_query": "карточка «vyrezka» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 35,
+   "start_sec": 348.04,
+   "duration_sec": 11.12,
+   "text": "",
+   "source": "card:vyrezka_kontur",
+   "source_query": "карточка «vyrezka_kontur» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 36,
+   "start_sec": 359.16,
+   "duration_sec": 10.64,
+   "text": "",
+   "source": "card:pull",
+   "source_query": "карточка «pull» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 37,
+   "start_sec": 369.8,
+   "duration_sec": 11.643,
+   "text": "",
+   "source": "card:kreslo",
+   "source_query": "карточка «kreslo» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 38,
+   "start_sec": 381.44,
+   "duration_sec": 11.627,
+   "text": "",
+   "source": "card:zal_g44",
+   "source_query": "карточка «zal_g44» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 39,
+   "start_sec": 393.07,
+   "duration_sec": 9.808,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Давид Арахамия Слуга народа фото",
+   "visual_prompt": "Давид Арахамия Слуга народа фото"
+  },
+  {
+   "id": 40,
+   "start_sec": 402.87,
+   "duration_sec": 9.525,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Прага Чехия улица город здания 2026"
+  },
+  {
+   "id": 41,
+   "start_sec": 412.4,
+   "duration_sec": 9.28,
+   "text": "",
+   "source": "card:prohod",
+   "source_query": "карточка «prohod» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 42,
+   "start_sec": 421.68,
+   "duration_sec": 10.954,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Валерий Залужный посол Великобритании 2026",
+   "visual_prompt": "Валерий Залужный посол Великобритании 2026"
+  },
+  {
+   "id": 43,
+   "start_sec": 432.63,
+   "duration_sec": 10.566,
+   "text": "",
+   "source": "card:marker_serif",
+   "source_query": "карточка «marker_serif» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 44,
+   "start_sec": 443.2,
+   "duration_sec": 10.515,
+   "text": "",
+   "source": "card:radar",
+   "source_query": "карточка «radar» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 45,
+   "start_sec": 453.71,
+   "duration_sec": 10.08,
+   "text": "",
+   "source": "card:zal_g48",
+   "source_query": "карточка «zal_g48» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 46,
+   "start_sec": 463.79,
+   "duration_sec": 12.16,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "церемония награждения зал сцена статуэтка 2026"
+  },
+  {
+   "id": 47,
+   "start_sec": 475.95,
+   "duration_sec": 9.24,
+   "text": "",
+   "source": "card:split",
+   "source_query": "карточка «split» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 48,
+   "start_sec": 485.19,
+   "duration_sec": 9.431,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Еврокомиссия саммит флаги Украина 2026",
+   "card": {
+    "kind": "poster",
+    "код": "A6",
+    "kick": "ПО ОФИЦИАЛЬНОЙ ВЕРСИИ",
+    "title": "ИТОГ ГОДА",
+    "watermark": "ПЛАНЕТА",
+    "anim": 9.43
+   }
+  },
+  {
+   "id": 49,
+   "start_sec": 494.62,
+   "duration_sec": 12.209,
+   "text": "",
+   "source": "card:zal_pol",
+   "source_query": "карточка «zal_pol» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 50,
+   "start_sec": 506.83,
+   "duration_sec": 9.406,
+   "text": "",
+   "source": "card:relsy",
+   "source_query": "карточка «relsy» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 51,
+   "start_sec": 516.24,
+   "duration_sec": 10.601,
+   "text": "",
+   "source": "card:zal_schetchik",
+   "source_query": "карточка «zal_schetchik» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 52,
+   "start_sec": 526.84,
+   "duration_sec": 10.599,
+   "text": "",
+   "source": "card:slider",
+   "source_query": "карточка «slider» — кадр рисуется в облаке, фетч за сценой не идёт",
+   "card": {
+    "kind": "slider",
+    "код": "A5",
+    "watermark": "ПЛАНЕТА",
+    "anim": 10.6
+   }
+  },
+  {
+   "id": 53,
+   "start_sec": 537.44,
+   "duration_sec": 9.966,
+   "text": "",
+   "source": "card:paper_hand",
+   "source_query": "карточка «paper_hand» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 54,
+   "start_sec": 547.41,
+   "duration_sec": 10.194,
+   "text": "",
+   "source": "card:bubbles",
+   "source_query": "карточка «bubbles» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 55,
+   "start_sec": 557.6,
+   "duration_sec": 10.144,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Владимир Зеленский заявление финансы 2026"
+  },
+  {
+   "id": 56,
+   "start_sec": 567.74,
+   "duration_sec": 9.525,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Роберт Фицо премьер Словакии заявление 2026"
+  },
+  {
+   "id": 57,
+   "start_sec": 577.27,
+   "duration_sec": 10.784,
+   "text": "",
+   "source": "card:pechat",
+   "source_query": "карточка «pechat» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 58,
+   "start_sec": 588.05,
+   "duration_sec": 9.867,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "магазин Украина пустые полки дефицит 2026"
+  },
+  {
+   "id": 59,
+   "start_sec": 597.92,
+   "duration_sec": 12.317,
+   "text": "",
+   "source": "card:zal_kub",
+   "source_query": "карточка «zal_kub» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 60,
+   "start_sec": 610.24,
+   "duration_sec": 10.426,
+   "text": "",
+   "source": "card:zal_g01",
+   "source_query": "карточка «zal_g01» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 61,
+   "start_sec": 620.66,
+   "duration_sec": 10.503,
+   "text": "",
+   "source": "card:tribuna",
+   "source_query": "карточка «tribuna» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 62,
+   "start_sec": 631.17,
+   "duration_sec": 9.2,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Киев правительство Украины здание 2026"
+  },
+  {
+   "id": 63,
+   "start_sec": 640.37,
+   "duration_sec": 9.611,
+   "text": "",
+   "source": "card:globus_map",
+   "source_query": "карточка «globus_map» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 64,
+   "start_sec": 649.98,
+   "duration_sec": 9.829,
+   "text": "",
+   "source": "card:lenta",
+   "source_query": "карточка «lenta» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 65,
+   "start_sec": 659.81,
+   "duration_sec": 12.48,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "повреждённая электростанция Киев удар 2026"
+  },
+  {
+   "id": 66,
+   "start_sec": 672.29,
+   "duration_sec": 9.881,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "учебное заведение здание Украина"
+  },
+  {
+   "id": 67,
+   "start_sec": 682.17,
+   "duration_sec": 9.667,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "саммит Евросоюза Брюссель 2026 флаги зал"
+  },
+  {
+   "id": 68,
+   "start_sec": 691.83,
+   "duration_sec": 11.236,
+   "text": "",
+   "source": "card:paper_typed",
+   "source_query": "карточка «paper_typed» — кадр рисуется в облаке, фетч не нужен"
+  },
+  {
+   "id": 69,
+   "start_sec": 703.07,
+   "duration_sec": 12.431,
+   "text": "",
+   "source": "press_photo",
+   "source_query": "Украина Евросоюз флаги саммит помощь 2026"
+  }
+ ]
+}
