@@ -1,0 +1,791 @@
+[
+ {
+  "scene": 8,
+  "view": "quote",
+  "dur": 10.64,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Спор здесь уже не о сочувствии Киеву и не о громких лозунгах",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 12,
+  "view": "film.film_single",
+  "dur": 10.87,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_012.jpg",
+   "title": "ИСТОРИЯ ВОПРОСА",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 15,
+  "view": "zal_g18",
+  "dur": 11.95,
+  "anim": 11.95,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.95,
+   "sheets": [],
+   "text": "СУММА РАСТЁТ КАЖДЫЙ ГОД",
+   "value": "45",
+   "value_sub": "МИЛЛИАРДОВ ЕВРО",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "charts.cartogram",
+  "dur": 10.98,
+  "anim": 10.98,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "РОССИЯ",
+    "УКРАИНА"
+   ],
+   "accent": [
+    "РОССИЯ"
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "strike",
+  "dur": 9.48,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Электричество пропадает после попаданий, а бюджетные миллионы, видимо, решили уйти заранее",
+   "struck": "Электричество пропадает после попаданий, а",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "zal",
+  "dur": 9.48,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Картина получается безупречной в своей наглости",
+   "words": [
+    "ЭНЕРГИЯ"
+   ],
+   "sheets": [
+    "восемьсот миллионов гривен",
+    "семьсот миллионов украдено",
+    "авансы через подставные компании",
+    "наличные выгодополучателям",
+    "удары разрушают инфраструктуру",
+    "деньги ушли раньше ударов"
+   ],
+   "channel": "ПЛАНЕТА",
+   "dur": 9.48,
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "charts.waterfall",
+  "dur": 9.95,
+  "anim": 9.95,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "start": {
+    "label": "Выделенные средства",
+    "value": 100.0
+   },
+   "steps": [
+    {
+     "label": "Наличность у нужных людей",
+     "value": 70.0
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "tape",
+  "dur": 10.54,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Там висит ограничение: не больше двух бутылок масла на человека",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "charts.network",
+  "dur": 9.5,
+  "anim": 9.5,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "Европейские",
+     "label": "Европейские",
+     "weight": 1.0
+    },
+    {
+     "id": "Украины",
+     "label": "Украины",
+     "weight": 2.0
+    },
+    {
+     "id": "Зеленский",
+     "label": "Зеленский",
+     "weight": 2.0
+    },
+    {
+     "id": "Соединённые",
+     "label": "Соединённые",
+     "weight": 2.0
+    },
+    {
+     "id": "Штаты",
+     "label": "Штаты",
+     "weight": 2.0
+    },
+    {
+     "id": "Получается",
+     "label": "Получается",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "Европейские",
+     "to": "Украины",
+     "weight": 1.0
+    },
+    {
+     "from": "Украины",
+     "to": "Зеленский",
+     "weight": 1.0
+    },
+    {
+     "from": "Зеленский",
+     "to": "Соединённые",
+     "weight": 1.0
+    },
+    {
+     "from": "Соединённые",
+     "to": "Штаты",
+     "weight": 1.0
+    },
+    {
+     "from": "Штаты",
+     "to": "Получается",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 29,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.75,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 9.75,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "КТО КОМУ РАЗРЕШАЕТ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.75,
+    "pary": [
+     "Европа платит=Вашингтон решает"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "КТО КОМУ РАЗРЕШАЕТ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.75,
+   "pary": [
+    "Европа платит=Вашингтон решает"
+   ]
+  }
+ },
+ {
+  "scene": 30,
+  "view": "doc",
+  "dur": 9.79,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Программу PURL называют главным каналом поступления противобаллистических ракет",
+   "kick": "ВЗНОСЫ ПРЕДЛАГАЕТСЯ ПРОДОЛЖАТЬ",
+   "source": "PURL",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "duel",
+  "dur": 10.99,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Использовать ракеты должна Украина",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "И после этого особенно забавно слушать рассуждения о равноправии всех участников",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "vyrezka.gazeta",
+  "dur": 10.7,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_034.jpg",
+   "author": "ДОНАЛЬД ТРАМП",
+   "role": "президент США",
+   "kick": "БОРТ № 1",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "vyrezka.figura",
+  "dur": 11.12,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_035.jpg",
+   "author": "ВЛАДИМИР ПУТИН",
+   "role": "разговор по телефону",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "pull",
+  "dur": 10.64,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Вместо привычного вопроса о размере следующего пакета он предлагает сосредоточиться на переговорах о мире",
+   "kick": "СМЕНА ПОВЕСТКИ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 37,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 11.64,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 11.64,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Продолжать всё это вообще обязательно?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 11.64,
+    "role": "ЧЕЛОВЕК С ДОСТУПОМ К АМЕРИКАНСКОМУ ОРУЖЕЙНОМУ ШКАФУ"
+   }
+  },
+  "kwargs": {
+   "text": "Продолжать всё это вообще обязательно?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 11.64,
+   "role": "ЧЕЛОВЕК С ДОСТУПОМ К АМЕРИКАНСКОМУ ОРУЖЕЙНОМУ ШКАФУ"
+  }
+ },
+ {
+  "scene": 38,
+  "view": "zal_g44",
+  "dur": 11.63,
+  "anim": 11.63,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 11.63,
+   "sheets": [],
+   "text": "СОРОК ПЯТЬ МИЛЛИАРДОВ",
+   "value": "45",
+   "value_sub": "ПОКАЗАТЕЛЬ ГОТОВНОСТИ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.28,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 9.28,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "ЧТО ГОВОРЯТ НАСЕЛЕНИЮ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.28,
+    "tezisy": [
+     "Страну надо удержать",
+     "Людям предлагают оставаться",
+     "Экономить и служить",
+     "Ждать улучшений"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "ЧТО ГОВОРЯТ НАСЕЛЕНИЮ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.28,
+   "tezisy": [
+    "Страну надо удержать",
+    "Людям предлагают оставаться",
+    "Экономить и служить",
+    "Ждать улучшений"
+   ]
+  }
+ },
+ {
+  "scene": 43,
+  "view": "marker_serif",
+  "dur": 10.57,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Оно случайно задаёт вопрос, который организаторы, возможно, задавать не собирались",
+   "kick": "ЦЕНА ВОЙНЫ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 44,
+  "view": "charts.radar",
+  "dur": 10.52,
+  "anim": 10.52,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "axes": [
+    "Энергетика",
+    "Потери",
+    "Мобилизация",
+    "Награды"
+   ],
+   "series": [
+    {
+     "label": "",
+     "values": [
+      8.0,
+      7.0,
+      6.0,
+      3.0
+     ]
+    }
+   ],
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "zal_g48",
+  "dur": 10.08,
+  "anim": 10.08,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.08,
+   "sheets": [],
+   "text": "ДРУГАЯ СТОРОНА МЕДАЛИ",
+   "kick": "ВЗГЛЯД СНАРУЖИ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 47,
+  "view": "split",
+  "dur": 9.24,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Любопытно звучат слова Зеленского о том, что Россия проиграла Украине этот год на поле боя",
+   "author": "Владимир Зеленский",
+   "photo": "cards/photo/card_047.jpg",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "zal_pol",
+  "dur": 12.21,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.21,
+   "sheets": [],
+   "text": "НОВОЕ ПОКОЛЕНИЕ ГОТОВЯТ К СЛУЖБЕ",
+   "na_polu": "ШКОЛЬНИЦ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.41,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 9.41,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "КАК ЭТО РАЗВИВАЛОСЬ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.41,
+    "sobytiya": [
+     "Пополнения не хватает",
+     "Готовят школьные классы",
+     "Противника записали в проигравшие"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "КАК ЭТО РАЗВИВАЛОСЬ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.41,
+   "sobytiya": [
+    "Пополнения не хватает",
+    "Готовят школьные классы",
+    "Противника записали в проигравшие"
+   ]
+  }
+ },
+ {
+  "scene": 51,
+  "view": "zal_schetchik",
+  "dur": 10.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.6,
+   "sheets": [],
+   "text": "ПОТЕРИ РАСТУТ КАЖДЫЙ МЕСЯЦ",
+   "value": "35",
+   "value_sub": "ЕЖЕМЕСЯЧНО",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 52,
+  "view": "slider",
+  "dur": 10.6,
+  "anim": 10.6,
+  "tail_zoom": 0.0,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 50.0,
+   "marker_display": "50",
+   "seconds": 10.6,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 53,
+  "view": "paper_hand",
+  "dur": 9.97,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Государство начинает присматриваться к тем, кто пока сидит за партой",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 54,
+  "view": "charts.cartogram",
+  "dur": 10.19,
+  "anim": 10.19,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "data": [
+    "ЕВРОКОМИССИЯ",
+    "УКРАИНА"
+   ],
+   "mode": "bubble",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 57,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.78,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 10.78,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "СЕМЬСОТ МИЛЛИОНОВ ИСЧЕЗЛИ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 10.78,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "СЕМЬСОТ МИЛЛИОНОВ ИСЧЕЗЛИ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 10.78,
+   "stamp": "утверждено"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "zal_kub",
+  "dur": 12.32,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 12.32,
+   "sheets": [],
+   "text": "ГРАНИЦА ДЕТСТВА СДВИГАЕТСЯ",
+   "kick": "ВЗРОСЛАЯ ЖИЗНЬ",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "zal_g01",
+  "dur": 10.43,
+  "anim": 10.43,
+  "tail_zoom": 0.045,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "channel": "ПЛАНЕТА",
+   "dur": 10.43,
+   "sheets": [],
+   "text": "ВСЁ ВМЕСТЕ — ОДИН ВОПРОС",
+   "watermark": "ПЛАНЕТА"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.5,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 10.5,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Какую Украину строили все эти годы?",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 10.5,
+    "role": "БОГАТАЯ, СИЛЬНАЯ И САМОСТОЯТЕЛЬНАЯ СТРАНА"
+   }
+  },
+  "kwargs": {
+   "text": "Какую Украину строили все эти годы?",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 10.5,
+   "role": "БОГАТАЯ, СИЛЬНАЯ И САМОСТОЯТЕЛЬНАЯ СТРАНА"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.61,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "globus",
+   "seconds": 9.61,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "УКРАИНА ПРОТИВ РОССИИ",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.61,
+    "region": "РОССИЯ"
+   }
+  },
+  "kwargs": {
+   "text": "УКРАИНА ПРОТИВ РОССИИ",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.61,
+   "region": "РОССИЯ"
+  }
+ },
+ {
+  "scene": 64,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.83,
+  "channel": "ПЛАНЕТА",
+  "watermark": "ПЛАНЕТА",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 9.83,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "СООБЩАЮТ АГЕНТСТВА",
+    "channel": "ПЛАНЕТА",
+    "watermark": "ПЛАНЕТА",
+    "dur": 9.83,
+    "soobshcheniya": [
+     "Сумму назовут необходимой",
+     "Расходы объявят неизбежными",
+     "Вопрос отложат до победы"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "СООБЩАЮТ АГЕНТСТВА",
+   "channel": "ПЛАНЕТА",
+   "watermark": "ПЛАНЕТА",
+   "dur": 9.83,
+   "soobshcheniya": [
+    "Сумму назовут необходимой",
+    "Расходы объявят неизбежными",
+    "Вопрос отложат до победы"
+   ]
+  }
+ },
+ {
+  "scene": 68,
+  "view": "paper_typed",
+  "dur": 11.24,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "text": "Нормальная помощь увеличивает собственные силы того, кому её оказывают",
+   "kick": "ПОДДЕРЖИВАЛИ, ПОМОГАЛИ И ЖЕЛАЛИ ЛУЧШЕГО",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
