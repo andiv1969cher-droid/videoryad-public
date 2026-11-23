@@ -1,0 +1,6 @@
+{
+  "13": {"text": {"words": "ИСТОРИЯ ВОПРОСА", "sub": "как было раньше", "style": "mask_plate", "pos": "ml", "at": 0.3}},
+  "24": {"text": {"words": "КУДА УХОДЯТ ДЕНЬГИ", "sub": "внутри страны", "style": "mask_plate", "pos": "ml", "at": 0.3}},
+  "41": {"text": {"words": "ЦЕНА ВОПРОСА", "sub": "кто чем платит", "style": "mask_plate", "pos": "ml", "at": 0.3}},
+  "59": {"text": {"words": "НОВЫЙ РЕЗЕРВ", "sub": "кого готовят дальше", "style": "mask_plate", "pos": "ml", "at": 0.3}}
+}
