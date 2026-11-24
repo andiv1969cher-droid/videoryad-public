@@ -1,0 +1,58 @@
+{
+  "1": {
+    "text": {
+      "words": "БЕЗ ГАРАНТИЙ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Европа — Москва",
+      "approved": true
+    }
+  },
+  "8": {
+    "text": {
+      "words": "ГОТОВНОСТЬ К ВОЙНЕ",
+      "color": "green",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Рютте в Берлине",
+      "approved": true
+    }
+  },
+  "16": {
+    "text": {
+      "words": "ЗАДНИМ ЧИСЛОМ",
+      "color": "yellow",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Претензии Мерца",
+      "approved": true
+    }
+  },
+  "55": {
+    "text": {
+      "words": "ПОВОД К ЭСКАЛАЦИИ",
+      "color": "white",
+      "pos": "ml",
+      "font": "default",
+      "sound": "whoosh",
+      "at": 0.5,
+      "scale": 1.0,
+      "style": "mask_plate",
+      "sub": "Исторические параллели",
+      "approved": true
+    }
+  }
+}
