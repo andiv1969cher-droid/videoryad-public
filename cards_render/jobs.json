@@ -1,0 +1,43 @@
+[
+ {
+  "scene": 8,
+  "view": "zal_g18",
+  "dur": 12.2,
+  "anim": 12.2,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 12.2,
+   "sheets": [],
+   "text": "Семьдесят миллиардов",
+   "value": "70 МЛРД €",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 20,
+  "view": "duel",
+  "dur": 11.3,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "Ваши деньги неплохо работают, доход растёт.",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Возвращать их пока не планируем.",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
