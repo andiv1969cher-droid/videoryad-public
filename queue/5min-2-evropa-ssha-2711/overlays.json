@@ -1,0 +1,15 @@
+{
+  "anchor": "top",
+  "2": {"text": {"words": "ЧУЖИЕ ДЕНЬГИ"}},
+  "4": {"text": {"words": "140 МЛРД €"}},
+  "6": {"text": {"words": "45 МЛРД €"}},
+  "13": {"photo": "images/scene_039.jpg", "sound": "ding", "at": 1.0},
+  "19": {"text": {"words": "35 ЛЕТ ДОЛГА"}},
+  "28": {"text": {"words": "ГОЛОС ПОД ВОПРОСОМ"}},
+  "40": {"photo": "images/scene_001.mp4.revframe.jpg", "sound": "pop", "at": 1.0},
+  "42": {"text": {"words": "ЦИФРЫ БЕЗ ЛИЦА"}},
+  "51": {"text": {"words": "ПЕНСИЯ ПОД УДАРОМ"}},
+  "59": {"photo": "images/scene_058.mp4.revframe.jpg", "sound": "whoosh", "at": 1.0},
+  "61": {"text": {"words": "ДОЛЛАР ВЕЗДЕ"}},
+  "70": {"text": {"words": "КТО ЗА ВСЁ ПЛАТИТ"}}
+}
