@@ -1,0 +1,19 @@
+[
+ {
+  "scene": 14,
+  "view": "split",
+  "dur": 12.1,
+  "anim": 2.0,
+  "tail_zoom": 0.06,
+  "watermark": "ПЛАНЕТА",
+  "channel": "ПЛАНЕТА",
+  "kwargs": {
+   "photo": "cards/photo/card_014.jpg",
+   "text": "Украина не готова. Это будет",
+   "author": "Виталий Ким",
+   "role": "министр по делам ветеранов",
+   "accent": "Украина не готова. Это будет",
+   "watermark": "ПЛАНЕТА"
+  }
+ }
+]
