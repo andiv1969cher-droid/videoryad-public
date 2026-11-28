@@ -1,0 +1,475 @@
+[
+ {
+  "scene": 3,
+  "view": "sceny.prolog",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 5.76,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prolog",
+   "seconds": 5.76,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Послушайте европейцев",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 5.76,
+    "kick": "Брюссель 2026"
+   }
+  },
+  "kwargs": {
+   "text": "Послушайте европейцев",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 5.76,
+   "kick": "Брюссель 2026"
+  }
+ },
+ {
+  "scene": 8,
+  "view": "cinematic.dossier",
+  "dur": 8.16,
+  "anim": 8.16,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "rows": [
+    "имя — Антониу Кошта",
+    "должность — председатель Европейского совета",
+    "тема — тупик по бюджету ЕС",
+    "пытался закрытые консультации малыми группами",
+    "итог — альтернативы не нашлось"
+   ],
+   "title": "ДОСЬЕ",
+   "photo": "cards/photo/card_008.jpg",
+   "stamp": "ПЕРВОИСТОЧНИК",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 9,
+  "view": "vyrezka.gazeta",
+  "dur": 6.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_009.jpg",
+   "author": "Бабиш",
+   "role": "премьер Чехии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 12,
+  "view": "poster.poster",
+  "dur": 9.44,
+  "anim": 9.44,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "title": "ВЕНГРИЯ ПРОТИВ 100 МЛРД",
+   "hero_photo": "cards/photo/card_012.jpg",
+   "bottom": "Нельзя просить больше, чем сам готов дать",
+   "facts": [
+    {
+     "label": "Сумма помощи",
+     "value": "100 млрд €"
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 17,
+  "view": "zastavka",
+  "dur": 8.72,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.72,
+   "accent": "ПЯТЬ МИНУТ",
+   "kick": "Германия и бюджет Европы",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 22,
+  "view": "charts.cartogram",
+  "dur": 9.6,
+  "anim": 9.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "data": [
+    "Словакия",
+    "Чехия",
+    "Болгария"
+   ],
+   "accent": [
+    "Словакия"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 24,
+  "view": "sortirovka",
+  "dur": 8.4,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.4,
+   "left": "СОГЛАСЕН",
+   "right": "ПРОТИВ",
+   "items": [
+    "Единая линия Мерца",
+    "Собственное мнение страны"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 26,
+  "view": "charts.pie",
+  "dur": 9.71,
+  "anim": 9.71,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "segments": [
+    {
+     "label": "Возврат Германии",
+     "value": 8.0
+    },
+    {
+     "label": "Остаётся в ЕС",
+     "value": 92.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 27,
+  "view": "charts.waterfall",
+  "dur": 6.56,
+  "anim": 6.56,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "start": {
+    "label": "Взнос Германии",
+    "value": 100.0
+   },
+   "steps": [
+    {
+     "label": "Возврат",
+     "value": -92.0
+    }
+   ],
+   "end": {
+    "label": "ИТОГ"
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 30,
+  "view": "sceny.mehanizm",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 8.96,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "mehanizm",
+   "seconds": 8.96,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Мерц требует общей линии",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 8.96,
+    "pary": [
+     "Мерц>27 стран ЕС"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Мерц требует общей линии",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 8.96,
+   "pary": [
+    "Мерц>27 стран ЕС"
+   ]
+  }
+ },
+ {
+  "scene": 31,
+  "view": "sceny.lenta",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.76,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "lenta",
+   "seconds": 9.76,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Опрос Фонда Кёрбера",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.76,
+    "soobshcheniya": [
+     "The Guardian: поддержка падает",
+     "53% против продолжения помощи"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Опрос Фонда Кёрбера",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.76,
+   "soobshcheniya": [
+    "The Guardian: поддержка падает",
+    "53% против продолжения помощи"
+   ]
+  }
+ },
+ {
+  "scene": 33,
+  "view": "bars",
+  "dur": 6.32,
+  "anim": 6.32,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_bars.py",
+  "cfg": {
+   "title": "Отношение к Украине на востоке",
+   "caption": "",
+   "seconds": 6.32,
+   "bars": [
+    {
+     "label": "ЗА ПОМОЩЬ",
+     "value": 0.31,
+     "color": "EABD23"
+    },
+    {
+     "label": "ПРОТИВ",
+     "value": 0.69,
+     "color": "B92526"
+    }
+   ]
+  }
+ },
+ {
+  "scene": 37,
+  "view": "charts.network",
+  "dur": 6.08,
+  "anim": 6.08,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "nodes": [
+    {
+     "id": "АдГ",
+     "label": "АдГ",
+     "weight": 1.0
+    },
+    {
+     "id": "BSW",
+     "label": "BSW",
+     "weight": 1.0
+    }
+   ],
+   "links": [
+    {
+     "from": "АдГ",
+     "to": "BSW",
+     "weight": 1.0
+    }
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 41,
+  "view": "vyrezka.figura",
+  "dur": 8.72,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_041.jpg",
+   "author": "Вайдель",
+   "role": "лидер АдГ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 43,
+  "view": "paper_typed",
+  "dur": 9.87,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Позволили бы США странам Варшавского договора размещать ракеты НАТО?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 46,
+  "view": "cinematic.depth_of_field",
+  "dur": 9.52,
+  "anim": 9.52,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_046.jpg",
+   "title": "Трамп о российских опасениях",
+   "watermark": "5 МИНУТ"
+  },
+  "mode": "frame"
+ },
+ {
+  "scene": 48,
+  "view": "tape",
+  "dur": 6.88,
+  "anim": 2.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Германия своей риторикой дала Москве основания считать её стороной конфликта",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 49,
+  "view": "dok_wall",
+  "dur": 9.12,
+  "anim": 9.12,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_049.jpg",
+   "karty": [
+    "ДОНБАСС|обстрелы до вторжения",
+    "НАТО|двойные стандарты США",
+    "СТАМБУЛ|меморандум был выгоднее",
+    "РИТОРИКА|дала Москве повод",
+    "ВОПРОС|почему не ездят в Москву"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 65,
+  "view": "film.film_single",
+  "dur": 9.68,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "photo": "cards/photo/card_065.jpg",
+   "title": "Путин и война",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 73,
+  "view": "sceny.globus_map",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 8.64,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "globus",
+   "seconds": 8.64,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Нужна дорога до Австрии",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 8.64,
+    "region": "Чехия"
+   }
+  },
+  "kwargs": {
+   "text": "Нужна дорога до Австрии",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 8.64,
+   "region": "Чехия"
+  }
+ },
+ {
+  "scene": 83,
+  "view": "photo",
+  "dur": 7.92,
+  "anim": 7.92,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "watermark": "5 МИНУТ",
+   "photo": "cards/photo/card_083.jpg",
+   "title": "Выборы в США",
+   "lines": [
+    "Республиканцы проиграли",
+    "Европейцы увереннее"
+   ]
+  }
+ },
+ {
+  "scene": 84,
+  "view": "devices.device_scene",
+  "dur": 8.88,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "content_path": "cards/photo/card_084.jpg",
+   "items": [
+    "Цифровой налог=спор ЕС-США",
+    "Оборонные закупки=преимущества своим"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ }
+]
