@@ -1,0 +1,867 @@
+[
+ {
+  "scene": 3,
+  "view": "zastavka",
+  "dur": 5.76,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 5.76,
+   "accent": "ПЯТЬ МИНУТ",
+   "kick": "Шикарно придумали",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 11,
+  "view": "zal_makety",
+  "dur": 7.52,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.52,
+   "sheets": [],
+   "text": "Программы и Украина — без роста",
+   "makety": [
+    "банк=СВОЙ ВЗНОС"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 16,
+  "view": "split",
+  "dur": 9.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Если кто то не хочет соглашаться, надо сделать так, чтобы его согласие было не очень то и нужно",
+   "photo": "cards/photo/card_016.jpg",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 23,
+  "view": "duel",
+  "dur": 8.32,
+  "anim": 3.2,
+  "tail_zoom": 0.035,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "top": {
+    "who": "",
+    "text": "если все двадцать семь стран не поддержат финансирование Киева",
+    "accent": null,
+    "source": ""
+   },
+   "bottom": {
+    "who": "",
+    "text": "Роберт Фицо назвал это классическим шантажом",
+    "accent": null,
+    "source": ""
+   },
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 25,
+  "view": "marker_serif",
+  "dur": 8.48,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Правила устанавливаем мы, а если кому-то они не нравятся — это его проблема",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 28,
+  "view": "zal_shkala",
+  "dur": 10.88,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.88,
+   "sheets": [],
+   "text": "Германия и бюджет ЕС",
+   "value": "25%",
+   "value_sub": "получает обратно только 8%",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 32,
+  "view": "charts.slope",
+  "dur": 9.52,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "items": [
+    {
+     "label": "Поддержка военной помощи Украине",
+     "from": 59.0,
+     "to": 46.0
+    },
+    {
+     "label": "Противники помощи",
+     "from": 41.0,
+     "to": 54.0
+    }
+   ],
+   "left_label": "Год назад",
+   "right_label": "Сейчас",
+   "source": "данные опроса",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 34,
+  "view": "polosy",
+  "dur": 8.56,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.56,
+   "items": [
+    "За военную помощь=11%",
+    "За нормализацию с Россией=75%"
+   ],
+   "kick": "На востоке Германии",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 35,
+  "view": "pull",
+  "dur": 9.57,
+  "anim": 2.6,
+  "tail_zoom": 0.05,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Так кто у нас здесь квалифицированное большинство?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 36,
+  "view": "krupnoe_chislo",
+  "dur": 9.92,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.92,
+   "value": "88%",
+   "accent": "НЕМЦЕВ",
+   "kick": "Сколько от АдГ требует Мерц",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 40,
+  "view": "otbivka",
+  "dur": 7.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.6,
+   "accent": "ПОДПИШИСЬ",
+   "kick": "Дальше — о деньгах и политике",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 42,
+  "view": "zal_efir",
+  "dur": 9.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.28,
+   "sheets": [
+    "ЭФИР АДГ",
+    "ДО ВТОРЖЕНИЯ"
+   ],
+   "text": "Что было до войны",
+   "say": "Украина обстреливала Донбасс ещё до вторжения",
+   "author": "Алиса Вайдель",
+   "role": "лидер АдГ",
+   "source": "эфир, ноябрь 2026",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 45,
+  "view": "karta_brifing",
+  "dur": 8.16,
+  "anim": 8.16,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Коридор безопасности между Россией и НАТО",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 47,
+  "view": "doc",
+  "dur": 9.12,
+  "anim": 3.4,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Стамбульский меморандум был выгоднее Украине — Вайдель",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 50,
+  "view": "karta_koltso",
+  "dur": 8.96,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.96,
+   "lon_c": 37.62,
+   "lat_c": 55.75,
+   "span": 14.0,
+   "accent": "МОСКВА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 51,
+  "view": "zal_g18",
+  "dur": 10.32,
+  "anim": 10.32,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.32,
+   "sheets": [],
+   "text": "Возвращение украинцев домой",
+   "value": "1,1 млн",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 53,
+  "view": "zal_g48",
+  "dur": 6.0,
+  "anim": 6.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 6.0,
+   "sheets": [],
+   "text": "Приход Вайдель всё перевернёт?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 55,
+  "view": "sceny.relsy",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.44,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "relsy",
+   "seconds": 9.44,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Курс переживает выборы",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.44,
+    "sobytiya": [
+     "Выборы",
+     "Новые обещания",
+     "Что останется?"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Курс переживает выборы",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.44,
+   "sobytiya": [
+    "Выборы",
+    "Новые обещания",
+    "Что останется?"
+   ]
+  }
+ },
+ {
+  "scene": 57,
+  "view": "stroki_faktov",
+  "dur": 10.56,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.56,
+   "items": [
+    "ЕС вложил в Украину=сотни миллиардов",
+    "Доля Австрии=3,6 млрд евро"
+   ],
+   "kick": "Логика Кикля",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 58,
+  "view": "zal_g44",
+  "dur": 8.64,
+  "anim": 8.64,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.64,
+   "sheets": [],
+   "text": "Доля Австрии в помощи Украине",
+   "value": "3,6 млрд €",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 59,
+  "view": "quote",
+  "dur": 7.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Украина нам кое чем обязана — вот вам новое прочтение европейской помощи",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 60,
+  "view": "zal_g01",
+  "dur": 10.24,
+  "anim": 10.24,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.24,
+   "sheets": [],
+   "text": "Украина ближе Руанды",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 61,
+  "view": "slider",
+  "dur": 8.67,
+  "anim": 8.67,
+  "tail_zoom": 0.0,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {},
+  "mode": "cli",
+  "script": "build_chart_slider.py",
+  "cfg": {
+   "title": "",
+   "min": 0.0,
+   "max": 100.0,
+   "low": 0.0,
+   "high": 100.0,
+   "marker_value": 50.0,
+   "marker_display": "50",
+   "seconds": 8.67,
+   "range_label": "РАЗБРОС ОЦЕНОК",
+   "caption": "",
+   "source": ""
+  }
+ },
+ {
+  "scene": 62,
+  "view": "zal_slova",
+  "dur": 7.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.28,
+   "sheets": [],
+   "text": "Мигрантов некуда девать?",
+   "na_polu": "НУЖНА",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 63,
+  "view": "sceny.repliki",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 8.4,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "repliki",
+   "seconds": 8.4,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Разговор о миллиардах",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 8.4,
+    "repliki_": [
+     "Оппозиция|Вспомнили про миллиарды?",
+     "Кикль|Украина нам обязана",
+     "Журналист|Что если украинцы не захотят оставаться?"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Разговор о миллиардах",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 8.4,
+   "repliki_": [
+    "Оппозиция|Вспомнили про миллиарды?",
+    "Кикль|Украина нам обязана",
+    "Журналист|Что если украинцы не захотят оставаться?"
+   ]
+  }
+ },
+ {
+  "scene": 64,
+  "view": "sceny.tribuna",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 10.0,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "tribuna",
+   "seconds": 10.0,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Они могут в любой момент уехать, но уже не к нам",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 10.0,
+    "role": "генсек Клаус Зельтенхайм заявил"
+   }
+  },
+  "kwargs": {
+   "text": "Они могут в любой момент уехать, но уже не к нам",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 10.0,
+   "role": "генсек Клаус Зельтенхайм заявил"
+  }
+ },
+ {
+  "scene": 66,
+  "view": "strike",
+  "dur": 5.44,
+  "anim": 3.0,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Кикль выставляет счёт виновнику конфликта",
+   "struck": "виновнику",
+   "fix": "жертве",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 67,
+  "view": "dok_word",
+  "dur": 8.32,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Основание для торга",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 69,
+  "view": "schetchik_let",
+  "dur": 10.44,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.44,
+   "value": "7",
+   "accent": "ЛЕТ",
+   "kick": "Бюджет ЕС на 2028–2034",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 70,
+  "view": "zal_schetchik",
+  "dur": 9.28,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.28,
+   "sheets": [],
+   "text": "Малые группы без результата",
+   "value": "4",
+   "value_sub": "СТРАН ПРОТИВ",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 72,
+  "view": "kalendar",
+  "dur": 8.48,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 8.48,
+   "accent": "ДЕКАБРЬ 2026",
+   "kick": "Решение по бюджету отложено",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 74,
+  "view": "sceny.kreslo",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.44,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "kreslo",
+   "seconds": 7.44,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Макрон защищает фермеров Франции",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.44,
+    "role": "президент Франции"
+   }
+  },
+  "kwargs": {
+   "text": "Макрон защищает фермеров Франции",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.44,
+   "role": "президент Франции"
+  }
+ },
+ {
+  "scene": 75,
+  "view": "sceny.prohod",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 7.44,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "prohod",
+   "seconds": 7.44,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Вопрос от оппозиции прост",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 7.44,
+    "tezisy": [
+     "Сколько ваше правительство обещало Киеву?",
+     "Сколько денег избиратель готов отдать?",
+     "Где компромиссы после декабря?"
+    ]
+   }
+  },
+  "kwargs": {
+   "text": "Вопрос от оппозиции прост",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 7.44,
+   "tezisy": [
+    "Сколько ваше правительство обещало Киеву?",
+    "Сколько денег избиратель готов отдать?",
+    "Где компромиссы после декабря?"
+   ]
+  }
+ },
+ {
+  "scene": 76,
+  "view": "paper_hand",
+  "dur": 10.88,
+  "anim": 2.8,
+  "tail_zoom": 0.04,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "А теперь покажите, что оно выбило для вас",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 77,
+  "view": "zal_pol",
+  "dur": 7.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.04,
+   "sheets": [],
+   "text": "Избиратель считает деньги",
+   "na_polu": "СКОЛЬКО?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 78,
+  "view": "zal_ekran",
+  "dur": 10.53,
+  "anim": 10.53,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 10.53,
+   "sheets": [
+    "ЭФИР НОВОСТЕЙ",
+    "ПОЛИТИКО О РАЗРЫВЕ"
+   ],
+   "text": "Трамп обвиняет Зеленского",
+   "say": "Растущий разрыв между Вашингтоном и Европой по Украине",
+   "author": "Политико",
+   "role": "издание",
+   "source": "Политико, ноябрь 2026",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 79,
+  "view": "zal",
+  "dur": 7.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Трамп против Зеленского",
+   "words": [
+    "ВОЙНА",
+    "ДЕНЬГИ"
+   ],
+   "sheets": [
+    "Бюджет Украине",
+    "Миллиарды помощи",
+    "Трамп недоволен",
+    "Зеленский отчёт",
+    "Европа платит",
+    "Войне не видно конца"
+   ],
+   "channel": "5 МИНУТ",
+   "dur": 7.04,
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 81,
+  "view": "shtamp_lestnica",
+  "dur": 9.52,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.52,
+   "kick": "Чего боялась Европа",
+   "accent": "УЖЕ СБЫЛОСЬ",
+   "items": [
+    "Нет значительной поддержки США",
+    "Невыгодное торговое соглашение"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 82,
+  "view": "pismo",
+  "dur": 7.36,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.36,
+   "text": "Так что же нам терять?",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 87,
+  "view": "cheklist",
+  "dur": 9.76,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 9.76,
+   "items": [
+    "Германия — платят все",
+    "Чехия — больницы и дороги",
+    "Франция — фермеры",
+    "Австрия — компенсация"
+   ],
+   "kick": "Чего хотят страны",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 88,
+  "view": "kartoteka",
+  "dur": 6.56,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 6.56,
+   "accent": "АВСТРИЯ",
+   "kick": "Хочет компенсацию",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 89,
+  "view": "dok_title",
+  "dur": 11.04,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "text": "Немецкий избиратель спрашивает: зачем платить?",
+   "accent": "избиратель",
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 90,
+  "view": "pereskaz",
+  "dur": 7.6,
+  "anim": 2.6,
+  "tail_zoom": 0.045,
+  "watermark": "5 МИНУТ",
+  "channel": "5 МИНУТ",
+  "kwargs": {
+   "channel": "5 МИНУТ",
+   "dur": 7.6,
+   "items": [
+    "Сколько стран за Украину, сколько против",
+    "Кто получает право решать за несогласных",
+    "Сколько будет стоить это право"
+   ],
+   "watermark": "5 МИНУТ"
+  }
+ },
+ {
+  "scene": 92,
+  "view": "sceny.pechat",
+  "mode": "cli",
+  "script": "sceny_cli.py",
+  "dur": 9.15,
+  "channel": "5 МИНУТ",
+  "watermark": "5 МИНУТ",
+  "cfg": {
+   "view": "pechat",
+   "seconds": 9.15,
+   "fps": 30,
+   "t0": 0.0,
+   "kwargs": {
+    "text": "Какой список ей предъявят потом?",
+    "channel": "5 МИНУТ",
+    "watermark": "5 МИНУТ",
+    "dur": 9.15,
+    "stamp": "утверждено"
+   }
+  },
+  "kwargs": {
+   "text": "Какой список ей предъявят потом?",
+   "channel": "5 МИНУТ",
+   "watermark": "5 МИНУТ",
+   "dur": 9.15,
+   "stamp": "утверждено"
+  }
+ }
+]
